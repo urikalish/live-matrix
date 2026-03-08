@@ -6,7 +6,7 @@ import channels from './channels.json' with { type: 'json' };
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-async function getLiveStreamVideoIds(channelName) {
+async function getLiveVideoIds(channelName) {
   const url = `https://www.youtube.com/@${channelName}/streams`;
 
   const res = await fetch(url, {
@@ -65,8 +65,11 @@ async function getLiveStreamVideoIds(channelName) {
 
 const allVideoIds = [];
 for (let channelName of channels) {
-  const channelIds = await getLiveStreamVideoIds(channelName);
-  allVideoIds.push(...channelIds);
+  const channelVideoIds = await getLiveVideoIds(channelName);
+  allVideoIds.push({
+    channelName,
+    videoIds: channelVideoIds
+  });
 }
 
 const outDir = resolve(__dirname, '../src/public');
