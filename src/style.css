@@ -7,12 +7,20 @@
 }
 
 :root {
-    --color-bg: #111;
-    --color-text: #ddd;
+  --color-bg: #111;
+  --color-text: #ddd;
 }
 
 body {
-  font-family: Play, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family:
+    Play,
+    system-ui,
+    -apple-system,
+    'Segoe UI',
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -31,4 +39,3 @@ h1 {
   font-size: 3rem;
   letter-spacing: 0.1em;
 }
-

@@ -6,17 +6,20 @@
   "author": "kalish <ukalish@opentext.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview",
+    "format": "prettier --write \"src/**/*.{ts,css,html}\"",
     "lint": "eslint . --ext .ts",
-    "format": "prettier --write \"src/**/*.{ts,css,html}\""
+    "build": "tsc && vite build",
+    "full": "yarn format && yarn lint && yarn build",
+    "dev": "vite",
+    "preview": "vite preview"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
+    "cheerio": "^1.2.0",
     "eslint": "^10.0.3",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.5",
+    "globals": "^17.4.0",
     "prettier": "^3.8.1",
     "typescript": "^5.9.3",
     "typescript-eslint": "^8.56.1",

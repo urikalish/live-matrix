@@ -1,5 +1,7 @@
-const app = document.getElementById("app");
+import videoIds from './video-ids.json';
+
+const app = document.getElementById('app');
 
 if (app) {
-  console.log("LiveMatrix is running.");
+  console.log(videoIds);
 }
