@@ -1,7 +1,9 @@
-import videoIds from './video-ids.json';
+// const app = document.getElementById('app');
 
-const app = document.getElementById('app');
-
-if (app) {
+async function init() {
+  const res = await fetch('/video-ids.json');
+  const videoIds = await res.json();
   console.log(videoIds);
 }
+
+init().then(null);
