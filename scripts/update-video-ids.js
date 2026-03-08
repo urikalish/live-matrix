@@ -2,6 +2,7 @@ import * as cheerio from 'cheerio';
 import { writeFileSync, mkdirSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import channels from './channels.json' with { type: 'json' };
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -30,7 +31,7 @@ async function getLiveStreamVideoIds(channelName) {
     const content = $(el).html();
     if (content && content.includes('var ytInitialData =')) {
       // Extract the JSON between "var ytInitialData = " and the closing semicolon
-      const match = content.match(/var ytInitialData\s*=\s*(\{.*?\});/s);
+      const match = content.match(/var ytInitialData\s*=\s*(\{.*?);/s);
       if (match) {
         ytInitialData = JSON.parse(match[1]);
       }
@@ -62,9 +63,13 @@ async function getLiveStreamVideoIds(channelName) {
     .filter(Boolean);
 }
 
-const ids = await getLiveStreamVideoIds('earthcam');
+const allVideoIds = [];
+for (let channelName of channels) {
+  const channelIds = await getLiveStreamVideoIds(channelName);
+  allVideoIds.push(...channelIds);
+}
 
 const outDir = resolve(__dirname, '../src/public');
 mkdirSync(outDir, { recursive: true });
-writeFileSync(resolve(outDir, 'video-ids.json'), JSON.stringify(ids, null, 2));
-console.log(`Saved ${ids.length} video IDs to src/public/video-ids.json`);
+writeFileSync(resolve(outDir, 'video-ids.json'), JSON.stringify(allVideoIds, null, 2));
+console.log(`Saved ${allVideoIds.length} video IDs to src/public/video-ids.json`);
