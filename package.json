@@ -6,7 +6,7 @@
   "author": "kalish <ukalish@opentext.com>",
   "license": "MIT",
   "scripts": {
-    "update-video-ids": "node update-video-ids/update-video-ids.js",
+    "update": "node update-video-ids/update-video-ids.js",
     "format": "prettier --write \"src/**/*.{ts,css,html}\"",
     "lint": "eslint . --ext .ts",
     "build": "tsc && vite build",
