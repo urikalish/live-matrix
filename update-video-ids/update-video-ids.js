@@ -84,8 +84,11 @@ async function getLiveVideoIds(channelId) {
     const items = streamsTab.tabRenderer?.content?.richGridRenderer?.contents ?? [];
     const videoIds = items
       .filter((item) => {
-        const overlays = item.richItemRenderer?.content?.videoRenderer?.thumbnailOverlays ?? [];
-        return overlays.some((o) => o.thumbnailOverlayTimeStatusRenderer?.style === 'LIVE');
+        const videoRenderer = item.richItemRenderer?.content?.videoRenderer;
+        const overlays = videoRenderer?.thumbnailOverlays ?? [];
+        const isLive = overlays.some((o) => o.thumbnailOverlayTimeStatusRenderer?.style === 'LIVE');
+        const isEmbeddable = videoRenderer?.playabilityStatus?.playableInEmbed !== false;
+        return isLive && isEmbeddable;
       })
       .map((item) => item.richItemRenderer?.content?.videoRenderer?.videoId)
       .filter(Boolean);
