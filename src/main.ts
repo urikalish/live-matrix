@@ -78,7 +78,7 @@ class Main {
     }
     window.addEventListener('resize', this.handleWindowResize.bind(this));
     this.handleWindowResize();
-    this.setGridLayout(4, 3);
+    this.setGridLayout(5, 4);
   }
 }
 
