@@ -4,6 +4,7 @@ import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import channelIds1 from './wct-channel-ids.json' with { type: 'json' };
 import channelIds2 from './wct-channel-ids-from-video-ids.json' with { type: 'json' };
+import channelIds3 from './yt-channel-ids.json' with { type: 'json' };
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -19,7 +20,8 @@ async function getLiveVideoIds(channelId) {
       },
     });
     if (!res.ok) {
-      throw new Error(`Failed to fetch: ${res.status}`);
+      console.error(`Failed to fetch channel ${channelId}: HTTP ${res.status}`);
+      return [];
     }
     const html = await res.text();
     const $ = cheerio.load(html);
@@ -68,14 +70,16 @@ async function getLiveVideoIds(channelId) {
       }
     });
     if (!ytInitialData) {
-      throw new Error('Could not find ytInitialData in page');
+      console.error(`Could not find ytInitialData for channel ${channelId}`);
+      return [];
     }
     const tabs = ytInitialData?.contents?.twoColumnBrowseResultsRenderer?.tabs ?? [];
     const streamsTab = tabs.find((tab) =>
       tab.tabRenderer?.endpoint?.commandMetadata?.webCommandMetadata?.url?.includes('/streams'),
     );
     if (!streamsTab) {
-      throw new Error('Could not find streams tab');
+      console.error(`Could not find streams tab for channel ${channelId}`);
+      return [];
     }
     const items = streamsTab.tabRenderer?.content?.richGridRenderer?.contents ?? [];
     const videoIds = items
@@ -96,7 +100,7 @@ async function getLiveVideoIds(channelId) {
 
 async function getAllVideoIds() {
   const allVideoIds = [];
-  const allChannelIds = [...new Set([...channelIds1, ...channelIds2])].sort();
+  const allChannelIds = [...new Set([...channelIds1, ...channelIds2, ...channelIds3])].sort();
   console.log(`Processing ${allChannelIds.length} channel IDs...`);
   for (let i = 0; i < allChannelIds.length; i++) {
     const channelId = allChannelIds[i];
