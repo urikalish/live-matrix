@@ -8,12 +8,7 @@ class Main {
 
   async loadVideoIdsData() {
     const res = await fetch('/video-ids.json');
-    const allChannelVideoIds = await res.json();
-    allChannelVideoIds.forEach((c: { channelName: string; videoIds: string[] }) => {
-      c.videoIds.forEach((v: string) => {
-        this.videoIds.push(v);
-      });
-    });
+    this.videoIds = await res.json();
     let currentIndex = this.videoIds.length;
     let randomIndex;
     while (currentIndex > 0) {
@@ -31,7 +26,7 @@ class Main {
   }
 
   setVideo(cellElm: HTMLDivElement, videoId: string) {
-    const src = `https://www.youtube.com/embed/${videoId}?autohide=2&autoplay=1&controls=0&modestbranding=1&mute=1&showinfo=0&vq=hd1080`;
+    const src = `https://www.youtube.com/embed/${videoId}?autohide=1&autoplay=1&controls=0&disablekb=1&iv_load_policy=3&modestbranding=1&mute=1&playsinline=1&rel=0&showinfo=0&vq=hd1080`;
     const frElm = document.createElement('iframe');
     frElm.setAttribute('src', src);
     frElm.setAttribute('width', '' + this.cellWidth);
