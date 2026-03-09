@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-const videoIds = JSON.parse(readFileSync(resolve(__dirname, 'yt-video-ids.json'), 'utf-8'));
+const videoIds = JSON.parse(readFileSync(resolve(__dirname, 'wct-video-ids.json'), 'utf-8'));
 
 const BATCH_SIZE = 10;
 const DELAY_MS = 500;
@@ -67,7 +67,7 @@ for (let i = 0; i < videoIds.length; i += BATCH_SIZE) {
 const result = Array.from(channelIds).sort();
 
 writeFileSync(
-  resolve(__dirname, 'yt-channel-ids-from-video-ids.json'),
+  resolve(__dirname, 'wct-channel-ids-from-video-ids.json'),
   JSON.stringify(result, null, 2),
 );
 console.log(`\nDone. Saved ${result.length} unique channel IDs to yt-channel-ids.json`);

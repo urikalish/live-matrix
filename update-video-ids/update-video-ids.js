@@ -2,8 +2,8 @@ import * as cheerio from 'cheerio';
 import { writeFileSync, mkdirSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import ytChannelIds from './yt-channel-ids.json' with { type: 'json' };
-import ytChannelIdsFromVideoIds from './yt-channel-ids-from-video-ids.json' with { type: 'json' };
+import channelIds1 from './wct-channel-ids.json' with { type: 'json' };
+import channelIds2 from './wct-channel-ids-from-video-ids.json' with { type: 'json' };
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -96,7 +96,7 @@ async function getLiveVideoIds(channelId) {
 
 async function getAllVideoIds() {
   const allVideoIds = [];
-  const allChannelIds = [...new Set([...ytChannelIds, ...ytChannelIdsFromVideoIds])].sort();
+  const allChannelIds = [...new Set([...channelIds1, ...channelIds2])].sort();
   console.log(`Processing ${allChannelIds.length} channel IDs...`);
   for (let i = 0; i < allChannelIds.length; i++) {
     const channelId = allChannelIds[i];
