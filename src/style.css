@@ -20,8 +20,8 @@ body {
     sans-serif;
   min-height: 100vh;
   overflow: hidden;
-  background-color: #111;
-  color: #ddd;
+  background-color: #000;
+  color: #fff;
 }
 #app {
   height: 100%;
