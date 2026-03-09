@@ -7,10 +7,7 @@
 }
 
 :root {
-  --color-bg: #111;
-  --color-text: #ddd;
 }
-
 body {
   font-family:
     Play,
@@ -22,20 +19,44 @@ body {
     Arial,
     sans-serif;
   min-height: 100vh;
+  overflow: hidden;
+  background-color: #111;
+  color: #ddd;
+}
+#app {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.masthead {
+  height: 40px;
+  padding: 0 4px;
+  flex: 0 0 auto;
   display: flex;
   align-items: center;
-  justify-content: center;
-  /*noinspection CssUnresolvedCustomProperty*/
-  background-color: var(--color-bg);
-  /*noinspection CssUnresolvedCustomProperty*/
-  color: var(--color-text);
+  justify-content: space-between;
+  background-color: #333;
+}
+.masthead--left-side {
+}
+.masthead--right-side {
+}
+.masthead--layout-btn {
+  width: 48px;
+  height: 32px;
+  background-color: #ccc;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
-#app {
-  text-align: center;
+.matrix-container {
+  flex: 1 1 auto;
+  display: grid;
+  place-content: start;
+  overflow: hidden;
 }
 
-h1 {
-  font-size: 3rem;
-  letter-spacing: 0.1em;
+.matrix-cell {
+  aspect-ratio: 16 / 9;
 }

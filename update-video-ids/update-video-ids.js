@@ -68,7 +68,7 @@ for (let channelName of channels) {
   const channelVideoIds = await getLiveVideoIds(channelName);
   allVideoIds.push({
     channelName,
-    videoIds: channelVideoIds
+    videoIds: channelVideoIds,
   });
 }
 

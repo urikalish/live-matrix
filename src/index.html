@@ -14,7 +14,18 @@
   </head>
   <body>
     <div id="app">
-      <h1>LiveMatrix</h1>
+      <div class="masthead">
+        <div class="masthead--left-side"></div>
+        <div class="masthead--right-side">
+          <button data-cols="1" data-rows="1" class="masthead--layout-btn">1x1</button>
+          <button data-cols="2" data-rows="1" class="masthead--layout-btn">2x1</button>
+          <button data-cols="3" data-rows="2" class="masthead--layout-btn">3x2</button>
+          <button data-cols="4" data-rows="3" class="masthead--layout-btn">4x3</button>
+          <button data-cols="5" data-rows="4" class="masthead--layout-btn">5x4</button>
+          <button data-cols="6" data-rows="5" class="masthead--layout-btn">6x5</button>
+        </div>
+      </div>
+      <div id="matrix-container" class="matrix-container"></div>
     </div>
     <script type="module" src="./main.ts"></script>
   </body>
