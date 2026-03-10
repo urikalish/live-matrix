@@ -1,12 +1,10 @@
+import * as settings from './settings';
 import * as videos from './videos';
 import * as masthead from './masthead';
 
-let cols = 1;
-let rows = 1;
-
 function getCellWidth() {
   const matrixContainerElm = document.getElementById('matrix-container') as HTMLDivElement;
-  return matrixContainerElm.clientWidth / cols;
+  return matrixContainerElm.clientWidth / settings.getCols();
 }
 
 function getCellHeight() {
@@ -28,17 +26,15 @@ function setVideo(cellElm: HTMLDivElement, videoId: string) {
   cellElm.appendChild(frElm);
 }
 
-function handleGridLayout(c: number, r: number) {
-  cols = c;
-  rows = r;
+function handleGridLayout() {
   const matrixContainerElm = document.getElementById('matrix-container') as HTMLDivElement;
   matrixContainerElm.innerHTML = '';
-  matrixContainerElm.style.gridTemplateColumns = `repeat(${cols}, auto)`;
+  matrixContainerElm.style.gridTemplateColumns = `repeat(${settings.getCols()}, auto)`;
   const matrixCellElm = document.createElement('div');
   matrixCellElm.classList.add('matrix-cell');
   matrixCellElm.style.width = `${getCellWidth()}px`;
   matrixCellElm.style.height = `${getCellHeight()}px`;
-  for (let i: number = 0; i < cols * rows; i++) {
+  for (let i: number = 0; i < settings.getCols() * settings.getRows(); i++) {
     const elm = matrixCellElm.cloneNode(true) as HTMLDivElement;
     elm.setAttribute('id', `cell-${i}`);
     setVideo(elm, videos.getRandomVideoId());
@@ -47,11 +43,11 @@ function handleGridLayout(c: number, r: number) {
 }
 
 function handleWindowResize() {
-  handleGridLayout(cols, rows);
+  handleGridLayout();
 }
 
 export async function init() {
   masthead.handlers.onChangeGridLayout = handleGridLayout;
   window.addEventListener('resize', handleWindowResize);
-  handleGridLayout(5, 4);
+  handleGridLayout();
 }

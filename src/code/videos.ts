@@ -13,22 +13,22 @@ export type Video = {
   channel: Channel;
 };
 
-let allVideoIds: string[] = [];
+let _allVideoIds: string[] = [];
 
 async function loadVideoIdsData() {
   try {
     const res = await fetch('/video-ids.json');
-    allVideoIds = await res.json();
+    _allVideoIds = await res.json();
   } catch (error) {
     console.error('Failed to load video IDs data:', error);
     return;
   }
-  helper.shuffleArray(allVideoIds);
+  helper.shuffleArray(_allVideoIds);
 }
 
 export function getRandomVideoId() {
-  const videoIndex = Math.trunc(Math.random() * allVideoIds.length);
-  return allVideoIds[videoIndex];
+  const videoIndex = Math.trunc(Math.random() * _allVideoIds.length);
+  return _allVideoIds[videoIndex];
 }
 
 export function getYouTubeVideoSrc(videoId: string) {
