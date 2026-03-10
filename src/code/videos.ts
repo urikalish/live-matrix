@@ -1,5 +1,18 @@
 let allVideoIds: string[] = [];
 
+function shuffleArray(array: any[]) {
+  let currentIndex = array.length;
+  let randomIndex;
+  while (currentIndex > 0) {
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+    [array[currentIndex], array[randomIndex]] = [
+      array[randomIndex],
+      array[currentIndex],
+    ];
+  }
+}
+
 async function loadVideoIdsData() {
   try {
     const res = await fetch('/video-ids.json');
@@ -8,16 +21,7 @@ async function loadVideoIdsData() {
     console.error('Failed to load video IDs data:', error);
     return;
   }
-  let currentIndex = allVideoIds.length;
-  let randomIndex;
-  while (currentIndex > 0) {
-    randomIndex = Math.floor(Math.random() * currentIndex);
-    currentIndex--;
-    [allVideoIds[currentIndex], allVideoIds[randomIndex]] = [
-      allVideoIds[randomIndex],
-      allVideoIds[currentIndex],
-    ];
-  }
+  shuffleArray(allVideoIds);
 }
 
 export function getRandomVideoId() {
