@@ -15,4 +15,4 @@ class Main {
 }
 
 const main = new Main();
-main.init().then(null);
+main.init().catch(console.error)

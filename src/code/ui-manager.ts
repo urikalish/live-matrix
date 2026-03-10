@@ -4,8 +4,8 @@ import { MastheadManager, ChangeGridLayoutHandler } from './masthead-manager';
 export class UIManager {
   videosManager: VideosManager = null!;
   mastheadManager: MastheadManager = null!;
-  cols = 0;
-  rows = 0;
+  cols = 1;
+  rows = 1;
 
   getCellWidth() {
     const matrixContainerElm = document.getElementById('matrix-container') as HTMLDivElement;
@@ -26,13 +26,12 @@ export class UIManager {
     frElm.setAttribute('src', src);
     frElm.setAttribute('width', '' + this.getCellWidth());
     frElm.setAttribute('height', '' + this.getCellHeight());
-    frElm.setAttribute('videoId', videoId);
     frElm.setAttribute('frameborder', '0');
     frElm.setAttribute(
       'allow',
       'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture',
     );
-    frElm.setAttribute('allowfullscreen', 'true');
+    frElm.dataset.videoId = videoId;
     cellElm.appendChild(frElm);
   }
 

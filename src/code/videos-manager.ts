@@ -1,7 +1,5 @@
 export class VideosManager {
-  videoIds = [];
-
-  constructor() {}
+  videoIds: string[] = [];
 
   async loadVideoIdsData() {
     const res = await fetch('/video-ids.json');
