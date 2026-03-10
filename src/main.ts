@@ -1,13 +1,16 @@
 import { VideosManager } from './code/videos-manager';
+import { MastheadManager } from './code/masthead-manager';
 import { UIManager } from './code/ui-manager';
 
 class Main {
   videosManager: VideosManager = new VideosManager();
-  uiManager: UIManager= new UIManager(this.videosManager);
+  mastheadManager: MastheadManager = new MastheadManager();
+  uiManager: UIManager = new UIManager();
 
   async init() {
     await this.videosManager.init();
-    await this.uiManager.init();
+    await this.mastheadManager.init();
+    await this.uiManager.init(this.videosManager, this.mastheadManager);
   }
 }
 

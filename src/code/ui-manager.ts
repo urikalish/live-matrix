@@ -1,27 +1,31 @@
 import { VideosManager } from './videos-manager';
+import { MastheadManager, ChangeGridLayoutHandler } from './masthead-manager';
 
 export class UIManager {
-  videosManager: VideosManager;
+  videosManager: VideosManager = null!;
+  mastheadManager: MastheadManager = null!;
   cols = 0;
   rows = 0;
-  cellWidth = 0;
-  cellHeight = 0;
-  matrixContainerElm: HTMLDivElement = null!;
 
-  constructor(videosManager: VideosManager) {
-    this.videosManager = videosManager;
+  getCellWidth() {
+    const matrixContainerElm = document.getElementById('matrix-container') as HTMLDivElement;
+    return matrixContainerElm.clientWidth / this.cols;
+  }
+
+  getCellHeight() {
+    return (this.getCellWidth() * 9) / 16;
   }
 
   handleWindowResize() {
-    this.setGridLayout(this.cols, this.rows);
+    this.handleGridLayout(this.cols, this.rows);
   }
 
   setVideo(cellElm: HTMLDivElement, videoId: string) {
     const src = this.videosManager.getYouTubeVideoSrc(videoId);
     const frElm = document.createElement('iframe');
     frElm.setAttribute('src', src);
-    frElm.setAttribute('width', '' + this.cellWidth);
-    frElm.setAttribute('height', '' + this.cellHeight);
+    frElm.setAttribute('width', '' + this.getCellWidth());
+    frElm.setAttribute('height', '' + this.getCellHeight());
     frElm.setAttribute('videoId', videoId);
     frElm.setAttribute('frameborder', '0');
     frElm.setAttribute(
@@ -32,43 +36,32 @@ export class UIManager {
     cellElm.appendChild(frElm);
   }
 
-  setGridLayout(cols: number, rows: number) {
+  handleGridLayout(cols: number, rows: number) {
     this.cols = Number(cols);
     this.rows = Number(rows);
-    this.cellWidth = this.matrixContainerElm.clientWidth / this.cols;
-    this.cellHeight = (this.cellWidth * 9) / 16;
-    this.matrixContainerElm.innerHTML = '';
-    this.matrixContainerElm.style.gridTemplateColumns = `repeat(${cols}, auto)`;
+    const matrixContainerElm = document.getElementById('matrix-container') as HTMLDivElement;
+    matrixContainerElm.innerHTML = '';
+    matrixContainerElm.style.gridTemplateColumns = `repeat(${cols}, auto)`;
     const matrixCellElm = document.createElement('div');
     matrixCellElm.classList.add('matrix-cell');
-    matrixCellElm.style.width = `${this.cellWidth}px`;
-    matrixCellElm.style.height = `${this.cellHeight}px`;
+    matrixCellElm.style.width = `${this.getCellWidth()}px`;
+    matrixCellElm.style.height = `${this.getCellHeight()}px`;
     for (let i: number = 0; i < this.cols * this.rows; i++) {
       const elm = matrixCellElm.cloneNode(true) as HTMLDivElement;
       elm.setAttribute('id', `cell-${i}`);
       const videoIndex = Math.trunc(Math.random() * this.videosManager.videoIds.length);
       this.setVideo(elm, this.videosManager.videoIds[videoIndex]);
-      this.matrixContainerElm.appendChild(elm);
+      matrixContainerElm.appendChild(elm);
     }
   }
 
-  handleGridLayout(event: MouseEvent) {
-    const cols = (event.target as HTMLButtonElement).dataset.cols;
-    const rows = (event.target as HTMLButtonElement).dataset.rows;
-    this.setGridLayout(Number(cols), Number(rows));
-  }
-
-  async init() {
-    this.matrixContainerElm = document.getElementById('matrix-container') as HTMLDivElement;
-    for (let i: number = 1; i <= 5; i++) {
-      const mastheadLayoutBtnElms = document.querySelectorAll('.masthead--layout-btn');
-      mastheadLayoutBtnElms.forEach((btnElm) => {
-        (btnElm as HTMLButtonElement).addEventListener('click', this.handleGridLayout.bind(this));
-      });
-    }
+  async init(videosManager: VideosManager, mastheadManager: MastheadManager) {
+    this.videosManager = videosManager;
+    this.mastheadManager = mastheadManager;
+    this.mastheadManager.onChangeGridLayout = this.handleGridLayout.bind(
+      this,
+    ) as ChangeGridLayoutHandler;
     window.addEventListener('resize', this.handleWindowResize.bind(this));
-    this.handleWindowResize();
-    this.setGridLayout(5, 4);
+    this.handleGridLayout(5, 4);
   }
-
 }
