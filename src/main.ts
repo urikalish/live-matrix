@@ -1,18 +1,11 @@
-import { VideosManager } from './code/videos-manager';
-import { MastheadManager } from './code/masthead-manager';
-import { UIManager } from './code/ui-manager';
+import * as videos from './code/videos';
+import * as ui from './code/ui';
+import * as masthead from './code/masthead';
 
-class Main {
-  videosManager: VideosManager = new VideosManager();
-  mastheadManager: MastheadManager = new MastheadManager();
-  uiManager: UIManager = new UIManager();
-
-  async init() {
-    await this.videosManager.init();
-    await this.mastheadManager.init();
-    await this.uiManager.init(this.videosManager, this.mastheadManager);
-  }
+async function init() {
+  await videos.init();
+  await masthead.init();
+  await ui.init();
 }
 
-const main = new Main();
-main.init().catch(console.error)
+init().catch(console.error);
