@@ -1,5 +1,18 @@
 import * as helper from './helper';
 
+export type Channel = {
+  id: string;
+  handle: string;
+  name: string;
+  videos: Video[];
+};
+
+export type Video = {
+  id: string;
+  title: string;
+  channel: Channel;
+};
+
 let allVideoIds: string[] = [];
 
 async function loadVideoIdsData() {
