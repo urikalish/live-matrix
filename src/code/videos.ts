@@ -13,22 +13,39 @@ export type Video = {
   channel: Channel;
 };
 
-let _allVideoIds: string[] = [];
+let _allChannels: Channel[] = [];
+let _allVideos: Video[] = [];
 
 async function loadVideoIdsData() {
   try {
     const res = await fetch('/video-ids.json');
-    _allVideoIds = await res.json();
+    const data = await res.json();
+    const channel: Channel = {
+      id: 'UCXXXXXXXXXXXXXXXXXXXXXX',
+      handle: 'myChannel',
+      name: 'My Channel',
+      videos: []
+    }
+    _allChannels.push(channel);
+    data.forEach((videoId: string) => {
+      const video: Video = {
+        id: videoId,
+        title: 'My Video',
+        channel
+      }
+      channel.videos.push(video);
+      _allVideos.push(video);
+    });
   } catch (error) {
-    console.error('Failed to load video IDs data:', error);
+    console.error('Failed to load videos data:', error);
     return;
   }
-  helper.shuffleArray(_allVideoIds);
+  helper.shuffleArray(_allVideos);
 }
 
 export function getRandomVideoId() {
-  const videoIndex = Math.trunc(Math.random() * _allVideoIds.length);
-  return _allVideoIds[videoIndex];
+  const videoIndex = Math.trunc(Math.random() * _allVideos.length);
+  return _allVideos[videoIndex].id;
 }
 
 export function getYouTubeVideoSrc(videoId: string) {
