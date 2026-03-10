@@ -18,6 +18,6 @@ export function setRows(value: number): void {
 }
 
 export async function init() {
-  setCols(5);
-  setRows(4);
+  setCols(6);
+  setRows(5);
 }
