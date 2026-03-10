@@ -1,17 +1,6 @@
-let allVideoIds: string[] = [];
+import * as helper from './helper';
 
-function shuffleArray(array: any[]) {
-  let currentIndex = array.length;
-  let randomIndex;
-  while (currentIndex > 0) {
-    randomIndex = Math.floor(Math.random() * currentIndex);
-    currentIndex--;
-    [array[currentIndex], array[randomIndex]] = [
-      array[randomIndex],
-      array[currentIndex],
-    ];
-  }
-}
+let allVideoIds: string[] = [];
 
 async function loadVideoIdsData() {
   try {
@@ -21,7 +10,7 @@ async function loadVideoIdsData() {
     console.error('Failed to load video IDs data:', error);
     return;
   }
-  shuffleArray(allVideoIds);
+  helper.shuffleArray(allVideoIds);
 }
 
 export function getRandomVideoId() {
