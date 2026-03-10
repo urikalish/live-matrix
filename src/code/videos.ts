@@ -1,5 +1,3 @@
-import * as helper from './helper';
-
 export type Channel = {
   id: string;
   handle: string;
@@ -14,8 +12,21 @@ export type Video = {
   channel: Channel;
 };
 
-let _allChannels: Channel[] = [];
-let _allVideos: Video[] = [];
+const _allChannels: Channel[] = [];
+const _allVideos: Video[] = [];
+
+function shuffleAllVideos() {
+  let currentIndex = _allVideos.length;
+  let randomIndex;
+  while (currentIndex > 0) {
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+    [_allVideos[currentIndex], _allVideos[randomIndex]] = [
+      _allVideos[randomIndex],
+      _allVideos[currentIndex],
+    ];
+  }
+}
 
 async function loadVideoIdsData() {
   try {
@@ -25,24 +36,28 @@ async function loadVideoIdsData() {
       id: 'UCXXXXXXXXXXXXXXXXXXXXXX',
       handle: 'myChannel',
       name: 'My Channel',
-      videos: []
-    }
+      videos: [],
+    };
     _allChannels.push(channel);
     data.forEach((videoId: string) => {
       const video: Video = {
         id: videoId,
         title: 'My Video',
         pinned: false,
-        channel
-      }
+        channel,
+      };
       channel.videos.push(video);
       _allVideos.push(video);
     });
+    shuffleAllVideos();
   } catch (error) {
     console.error('Failed to load videos data:', error);
     return;
   }
-  helper.shuffleArray(_allVideos);
+}
+
+export function getVideoIdByIndex(videoIndex: number) {
+  return _allVideos[videoIndex].id;
 }
 
 export function getRandomVideoId() {

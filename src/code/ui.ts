@@ -36,8 +36,8 @@ function handleGridLayout() {
   matrixCellElm.style.height = `${getCellHeight()}px`;
   for (let i: number = 0; i < settings.getCols() * settings.getRows(); i++) {
     const elm = matrixCellElm.cloneNode(true) as HTMLDivElement;
-    elm.setAttribute('id', `cell-${i}`);
-    setVideo(elm, videos.getRandomVideoId());
+    elm.setAttribute('index', i.toString());
+    setVideo(elm, videos.getVideoIdByIndex(i));
     matrixContainerElm.appendChild(elm);
   }
 }
