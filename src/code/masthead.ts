@@ -20,7 +20,7 @@ function handleActionButtonClick(event: MouseEvent) {
 
 export async function init() {
   const actionButtonElements = document.querySelectorAll('button[data-action]');
-  actionButtonElements.forEach(btnElm => {
+  actionButtonElements.forEach((btnElm) => {
     (btnElm as HTMLButtonElement).addEventListener('click', handleActionButtonClick);
   });
 }
