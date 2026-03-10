@@ -42,7 +42,7 @@ body {
 }
 .masthead--right-side {
 }
-.masthead--btn {
+.masthead button {
   padding: 4px 8px;
   background-color: #ccc;
   border-radius: 4px;
