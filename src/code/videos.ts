@@ -10,6 +10,7 @@ export type Channel = {
 export type Video = {
   id: string;
   title: string;
+  pinned: boolean;
   channel: Channel;
 };
 
@@ -31,6 +32,7 @@ async function loadVideoIdsData() {
       const video: Video = {
         id: videoId,
         title: 'My Video',
+        pinned: false,
         channel
       }
       channel.videos.push(video);
