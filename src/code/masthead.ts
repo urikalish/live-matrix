@@ -2,6 +2,7 @@ import * as settings from './settings';
 
 export const handlers = {
   onChangeGridLayout: null as ((cols: number, rows: number) => void) | null,
+  onRefresh: null as (() => void) | null,
 };
 
 function handleActionButtonClick(event: MouseEvent) {
@@ -14,7 +15,7 @@ function handleActionButtonClick(event: MouseEvent) {
     handlers.onChangeGridLayout!(Number(cols), Number(rows));
   }
   if (action === 'refresh') {
-    alert('refresh');
+    handlers.onRefresh!();
   }
 }
 

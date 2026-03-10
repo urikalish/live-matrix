@@ -46,8 +46,14 @@ function handleWindowResize() {
   handleGridLayout();
 }
 
+function handleRefresh() {
+  videos.refreshVideos();
+  handleGridLayout();
+}
+
 export async function init() {
   masthead.handlers.onChangeGridLayout = handleGridLayout;
+  masthead.handlers.onRefresh = handleRefresh;
   window.addEventListener('resize', handleWindowResize);
   handleGridLayout();
 }

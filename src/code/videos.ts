@@ -1,3 +1,5 @@
+import * as settings from './settings';
+
 export type Channel = {
   id: string;
   handle: string;
@@ -67,6 +69,10 @@ export function getRandomVideoId() {
 
 export function getYouTubeVideoSrc(videoId: string) {
   return `https://www.youtube.com/embed/${videoId}?autohide=1&autoplay=1&controls=0&disablekb=1&iv_load_policy=3&modestbranding=1&mute=1&playsinline=1&rel=0&showinfo=0&vq=hd1080`;
+}
+
+export function refreshVideos() {
+  alert(`refreshing ${settings.getCols() * settings.getRows()} videos`);
 }
 
 export async function init() {
