@@ -42,9 +42,8 @@ body {
 }
 .masthead--right-side {
 }
-.masthead--layout-btn {
-  width: 48px;
-  height: 32px;
+.masthead--btn {
+  padding: 4px 8px;
   background-color: #ccc;
   border-radius: 4px;
   cursor: pointer;

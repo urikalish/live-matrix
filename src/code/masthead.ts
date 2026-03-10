@@ -4,15 +4,23 @@ export const handlers = {
   onChangeGridLayout: null as ((cols: number, rows: number) => void) | null,
 };
 
-export const init = async () => {
-  const mastheadLayoutBtnElms = document.querySelectorAll('.masthead--layout-btn');
-  mastheadLayoutBtnElms.forEach((btnElm) => {
-    (btnElm as HTMLButtonElement).addEventListener('click', (event) => {
-      const cols = (event.target as HTMLButtonElement).dataset.cols;
-      const rows = (event.target as HTMLButtonElement).dataset.rows;
-      settings.setCols(Number(cols));
-      settings.setRows(Number(rows));
-      handlers.onChangeGridLayout!(Number(cols), Number(rows));
-    });
+function handleActionButtonClick(event: MouseEvent) {
+  const action = (event.currentTarget as HTMLButtonElement).dataset.action;
+  if (action === 'layout') {
+    const cols = (event.target as HTMLButtonElement).dataset.cols;
+    const rows = (event.target as HTMLButtonElement).dataset.rows;
+    settings.setCols(Number(cols));
+    settings.setRows(Number(rows));
+    handlers.onChangeGridLayout!(Number(cols), Number(rows));
+  }
+  if (action === 'refresh') {
+    alert('refresh');
+  }
+}
+
+export async function init() {
+  const actionButtonElements = document.querySelectorAll('button[data-action]');
+  actionButtonElements.forEach(btnElm => {
+    (btnElm as HTMLButtonElement).addEventListener('click', handleActionButtonClick);
   });
-};
+}
