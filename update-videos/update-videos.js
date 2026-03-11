@@ -131,7 +131,7 @@ function extractChannelInfo(html) {
 
 /* ------------------------------------------------------------------------------------------------------------------ */
 
-function extractLiveVideosInfo(html) {
+async function extractLiveVideosInfo(html) {
   console.log(`Extracting live videos info...`);
   const videosInfo = [];
   try {
@@ -192,8 +192,52 @@ function extractLiveVideosInfo(html) {
       console.error(`Could not find streams tab`);
       return [];
     }
-    const items = streamsTab.tabRenderer?.content?.richGridRenderer?.contents ?? [];
-    const videos = items
+
+    let allItems = streamsTab.tabRenderer?.content?.richGridRenderer?.contents ?? [];
+
+    // Follow continuation tokens to fetch all pages
+    let continuationToken = allItems
+      .map(
+        (item) => item.continuationItemRenderer?.continuationEndpoint?.continuationCommand?.token,
+      )
+      .find(Boolean);
+
+    while (continuationToken) {
+      const contUrl = `https://www.youtube.com/youtubei/v1/browse?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8`;
+      const res = await fetch(contUrl, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'User-Agent':
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+          'Accept-Language': 'en-US,en;q=0.9',
+        },
+        body: JSON.stringify({
+          context: {
+            client: {
+              clientName: 'WEB',
+              clientVersion: '2.20240101.00.00',
+              hl: 'en',
+              gl: 'US',
+            },
+          },
+          continuation: continuationToken,
+        }),
+      });
+      if (!res.ok) break;
+      const data = await res.json();
+      const newItems =
+        data?.onResponseReceivedActions?.[0]?.appendContinuationItemsAction?.continuationItems ??
+        [];
+      allItems = [...allItems, ...newItems];
+      continuationToken = newItems
+        .map(
+          (item) => item.continuationItemRenderer?.continuationEndpoint?.continuationCommand?.token,
+        )
+        .find(Boolean);
+    }
+
+    const videos = allItems
       .filter((item) => {
         const videoRenderer = item.richItemRenderer?.content?.videoRenderer;
         const overlays = videoRenderer?.thumbnailOverlays ?? [];
@@ -253,7 +297,7 @@ async function go() {
       try {
         const html = await fetchPage(url);
         const channelData = extractChannelInfo(html);
-        channelData.videos = extractLiveVideosInfo(html);
+        channelData.videos = await extractLiveVideosInfo(html);
         console.log(channelData);
         dataObj.push(channelData);
       } catch (error) {
