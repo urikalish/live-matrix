@@ -193,7 +193,7 @@ function extractLiveVideosInfo(html) {
       return [];
     }
     const items = streamsTab.tabRenderer?.content?.richGridRenderer?.contents ?? [];
-    const videoIds = items
+    const videos = items
       .filter((item) => {
         const videoRenderer = item.richItemRenderer?.content?.videoRenderer;
         const overlays = videoRenderer?.thumbnailOverlays ?? [];
@@ -201,14 +201,19 @@ function extractLiveVideosInfo(html) {
         const isEmbeddable = videoRenderer?.playabilityStatus?.playableInEmbed !== false;
         return isLive && isEmbeddable;
       })
-      .map((item) => item.richItemRenderer?.content?.videoRenderer?.videoId)
+      .map((item) => {
+        const videoRenderer = item.richItemRenderer?.content?.videoRenderer;
+        const videoId = videoRenderer?.videoId;
+        const title =
+          videoRenderer?.title?.runs?.map((r) => r.text).join('') ??
+          videoRenderer?.title?.simpleText ??
+          '';
+        return videoId ? { id: videoId, title } : null;
+      })
       .filter(Boolean);
-    console.log(`Found ${videoIds.length} video ids`);
-    videoIds.forEach((videoId) => {
-      videosInfo.push({
-        id: videoId,
-        title: '',
-      });
+    console.log(`Found ${videos.length} live video(s)`);
+    videos.forEach((video) => {
+      videosInfo.push(video);
     });
   } catch (error) {
     console.error(error);
@@ -236,12 +241,9 @@ function writeDataObjectToFile(dataObject, dirPath, fileName) {
 async function go() {
   try {
     const allChannelIds = [...new Set([...channelIds])].sort();
-    console.log(`Processing ${allChannelIds.length} channel IDs...`);
+    console.log(`Processing ${allChannelIds.length} channels...`);
     const dataObj = [];
-
-    //for (let i = 0; i < allChannelIds.length; i++) {
-
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < allChannelIds.length; i++) {
       const channelId = allChannelIds[i];
       console.log(`Processing channel ${channelId}...`);
       const url = `https://www.youtube.com/channel/${channelId}/streams`;
