@@ -245,7 +245,10 @@ async function go() {
     const dataObj = [];
     for (let i = 0; i < allChannelIds.length; i++) {
       const channelId = allChannelIds[i];
-      console.log(`Processing channel ${channelId}...`);
+      const percent = (((i + 1) / allChannelIds.length) * 100).toFixed(1);
+      console.log(
+        `[${i + 1}/${allChannelIds.length} - ${percent}%] Processing channel ${channelId}...`,
+      );
       const url = `https://www.youtube.com/channel/${channelId}/streams`;
       try {
         const html = await fetchPage(url);
