@@ -6,20 +6,25 @@ export const handlers = {
 };
 
 function handleActionButtonClick(event: MouseEvent) {
-  const action = (event.currentTarget as HTMLButtonElement).dataset.action;
+  const button = event.currentTarget;
+  if (!(button instanceof HTMLButtonElement)) return;
+
+  const action = button.dataset.action;
   if (action === 'layout') {
-    settings.setCols(Number((event.target as HTMLButtonElement).dataset.cols));
-    settings.setRows(Number((event.target as HTMLButtonElement).dataset.rows));
-    handlers.onChangeGridLayout!();
+    settings.setCols(Number(button.dataset.cols));
+    settings.setRows(Number(button.dataset.rows));
+    handlers.onChangeGridLayout?.();
   } else if (action === 'shuffle') {
-    handlers.onShuffle!();
+    handlers.onShuffle?.();
   }
 }
 
 function buildActionButtons() {
   const actionButtonsContainerElm = document.getElementById(
     'layout-actions-container',
-  ) as HTMLDivElement;
+  );
+  if (!(actionButtonsContainerElm instanceof HTMLDivElement)) return;
+
   const layoutButtonTemplateElm = document.createElement('button');
   layoutButtonTemplateElm.dataset.action = 'layout';
   layoutButtonTemplateElm.classList.add('masthead-btn');
@@ -37,6 +42,8 @@ export async function init() {
   buildActionButtons();
   const actionButtonElements = document.querySelectorAll('button[data-action]');
   actionButtonElements.forEach((btnElm) => {
-    (btnElm as HTMLButtonElement).addEventListener('click', handleActionButtonClick);
+    if (btnElm instanceof HTMLButtonElement) {
+      btnElm.addEventListener('click', handleActionButtonClick);
+    }
   });
 }
