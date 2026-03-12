@@ -30,26 +30,28 @@ function shuffleAllVideos() {
   }
 }
 
-async function loadVideoIdsData() {
+async function loadChannelsAndVideos() {
   try {
-    const res = await fetch('/video-ids.json');
-    const data = await res.json();
-    const channel: Channel = {
-      id: 'UCXXXXXXXXXXXXXXXXXXXXXX',
-      handle: 'myChannel',
-      name: 'My Channel',
-      videos: [],
-    };
-    _allChannels.push(channel);
-    data.forEach((videoId: string) => {
-      const video: Video = {
-        id: videoId,
-        title: 'My Video',
-        pinned: false,
-        channel,
+    const res = await fetch('/videos.json');
+    const data: { id: string; handle: string; name: string; videos: { id: string; title: string }[] }[] = await res.json();
+    data.forEach((channelData) => {
+      const channel: Channel = {
+        id: channelData.id,
+        handle: channelData.handle,
+        name: channelData.name,
+        videos: [],
       };
-      channel.videos.push(video);
-      _allVideos.push(video);
+      _allChannels.push(channel);
+      channelData.videos.forEach((videoData) => {
+        const video: Video = {
+          id: videoData.id,
+          title: videoData.title,
+          pinned: false,
+          channel,
+        };
+        channel.videos.push(video);
+        _allVideos.push(video);
+      });
     });
     shuffleAllVideos();
   } catch (error) {
@@ -76,5 +78,5 @@ export function refreshVideos() {
 }
 
 export async function init() {
-  await loadVideoIdsData();
+  await loadChannelsAndVideos();
 }
