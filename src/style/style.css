@@ -1,61 +1,68 @@
 *,
 *::before,
 *::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 :root {
 }
 body {
-  font-family:
-    Play,
-    system-ui,
-    -apple-system,
-    'Segoe UI',
-    Roboto,
-    Helvetica,
-    Arial,
-    sans-serif;
-  min-height: 100vh;
-  overflow: hidden;
-  background-color: #000;
-  color: #fff;
+    font-family:
+        Play,
+        system-ui,
+        -apple-system,
+        'Segoe UI',
+        Roboto,
+        Helvetica,
+        Arial,
+        sans-serif;
+    min-height: 100vh;
+    overflow: hidden;
+    background-color: #000;
+    color: #fff;
 }
 #app {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 .masthead {
-  height: 40px;
-  padding: 0 4px;
-  flex: 0 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background-color: #333;
+    height: 40px;
+    padding: 0 4px;
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #333;
 }
 .masthead--left-side {
+    display: flex;
 }
 .masthead--right-side {
+    display: flex;
+}
+.layout-actions-container {
+    display: flex;
 }
 .masthead button {
-  padding: 4px 8px;
-  background-color: #ccc;
-  border-radius: 4px;
-  cursor: pointer;
+    margin: 0 2px;
+    padding: 4px 8px;
+    background-color: #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    user-select: none;
 }
 
 .matrix-container {
-  flex: 1 1 auto;
-  display: grid;
-  place-content: start;
-  overflow: hidden;
+    flex: 1 1 auto;
+    display: grid;
+    place-content: start;
+    overflow: hidden;
 }
 
 .matrix-cell {
-  aspect-ratio: 16 / 9;
+    aspect-ratio: 16 / 9;
 }
