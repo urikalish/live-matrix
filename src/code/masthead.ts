@@ -19,9 +19,21 @@ function handleActionButtonClick(event: MouseEvent) {
   }
 }
 
+function buildActionButtons() {
+  const actionButtonsContainerElm = document.getElementById('layout-actions-container') as HTMLDivElement;
+  const layoutButtonTemplateElm = document.createElement('button');
+  layoutButtonTemplateElm.dataset.action = 'layout';
+  for (let c = 1; c <= settings.getMaxCols(); c++) {
+    const r = c === 1 ? 1 : c - 1;
+    const layoutButtonElm = layoutButtonTemplateElm.cloneNode(true) as HTMLButtonElement;
+    layoutButtonElm.dataset.cols = c.toString();
+    layoutButtonElm.dataset.rows = r.toString();
+    layoutButtonElm.textContent = `${c}x${r}`;
+    (layoutButtonElm as HTMLButtonElement).addEventListener('click', handleActionButtonClick);
+    actionButtonsContainerElm.appendChild(layoutButtonElm);
+  }
+}
+
 export async function init() {
-  const actionButtonElements = document.querySelectorAll('button[data-action]');
-  actionButtonElements.forEach((btnElm) => {
-    (btnElm as HTMLButtonElement).addEventListener('click', handleActionButtonClick);
-  });
+  buildActionButtons();
 }

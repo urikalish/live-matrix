@@ -33,15 +33,15 @@ function handleGridLayout() {
   const matrixContainerElm = document.getElementById('matrix-container') as HTMLDivElement;
   matrixContainerElm.innerHTML = '';
   matrixContainerElm.style.gridTemplateColumns = `repeat(${settings.getCols()}, auto)`;
-  const matrixCellElm = document.createElement('div');
-  matrixCellElm.classList.add('matrix-cell');
-  matrixCellElm.style.width = `${getCellWidth()}px`;
-  matrixCellElm.style.height = `${getCellHeight()}px`;
+  const matrixCellTemplateElm = document.createElement('div');
+  matrixCellTemplateElm.classList.add('matrix-cell');
+  matrixCellTemplateElm.style.width = `${getCellWidth()}px`;
+  matrixCellTemplateElm.style.height = `${getCellHeight()}px`;
   for (let i: number = 0; i < settings.getCols() * settings.getRows(); i++) {
-    const elm = matrixCellElm.cloneNode(true) as HTMLDivElement;
-    elm.setAttribute('index', i.toString());
-    setVideo(elm, videos.getVideoIdByIndex(i));
-    matrixContainerElm.appendChild(elm);
+    const matrixCellElm = matrixCellTemplateElm.cloneNode(true) as HTMLDivElement;
+    matrixCellElm.setAttribute('index', i.toString());
+    setVideo(matrixCellElm, videos.getVideoIdByIndex(i));
+    matrixContainerElm.appendChild(matrixCellElm);
   }
 }
 
