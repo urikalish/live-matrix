@@ -66,11 +66,17 @@ body {
 .matrix-cell {
     position: relative;
     aspect-ratio: 16 / 9;
+}
 
-    &.pinned > iframe {
-        outline: 1px solid #fff;
-        outline-offset: -1px;
-    }
+.matrix-cell.pinned::after {
+    content: '📌';
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    font-size: 20px;
+    z-index: 2;
+    pointer-events: none;
+    filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.9));
 }
 
 .cell-overlay {

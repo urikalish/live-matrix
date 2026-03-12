@@ -63,11 +63,24 @@ function createOverlay(): HTMLDivElement {
     }
   });
 
-  const refreshBtn = document.createElement('button');
-  refreshBtn.classList.add('cell-overlay-btn');
-  refreshBtn.textContent = '🔄';
-  refreshBtn.title = 'Replace video';
-  refreshBtn.addEventListener('click', (e) => {
+  const navBtn = document.createElement('button');
+  navBtn.classList.add('cell-overlay-btn');
+  navBtn.textContent = '📺';
+  navBtn.title = 'Open on YouTube';
+  navBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    const cellElm = (e.currentTarget as HTMLElement).closest('.matrix-cell') as HTMLDivElement;
+    const videoId = cellElm.dataset.videoId;
+    if (videoId) {
+      window.open(`https://www.youtube.com/watch?v=${videoId}`, '_blank');
+    }
+  });
+
+  const skipBtn = document.createElement('button');
+  skipBtn.classList.add('cell-overlay-btn');
+  skipBtn.textContent = '⏭';
+  skipBtn.title = 'Skip video';
+  skipBtn.addEventListener('click', (e) => {
     e.stopPropagation();
     const cellElm = (e.currentTarget as HTMLElement).closest('.matrix-cell') as HTMLDivElement;
     const videoId = cellElm.dataset.videoId;
@@ -82,22 +95,9 @@ function createOverlay(): HTMLDivElement {
     replaceVideo(cellElm);
   });
 
-  const navBtn = document.createElement('button');
-  navBtn.classList.add('cell-overlay-btn');
-  navBtn.textContent = '🔗';
-  navBtn.title = 'Open on YouTube';
-  navBtn.addEventListener('click', (e) => {
-    e.stopPropagation();
-    const cellElm = (e.currentTarget as HTMLElement).closest('.matrix-cell') as HTMLDivElement;
-    const videoId = cellElm.dataset.videoId;
-    if (videoId) {
-      window.open(`https://www.youtube.com/watch?v=${videoId}`, '_blank');
-    }
-  });
-
   overlay.appendChild(pinBtn);
-  overlay.appendChild(refreshBtn);
   overlay.appendChild(navBtn);
+  overlay.appendChild(skipBtn);
   return overlay;
 }
 
@@ -123,14 +123,14 @@ function handleWindowResize() {
   handleGridLayout();
 }
 
-function handleRefresh() {
-  videos.refreshVideos();
+function handleShuffle() {
+  videos.shuffleVideos();
   handleGridLayout();
 }
 
 export async function init() {
   masthead.handlers.onChangeGridLayout = handleGridLayout;
-  masthead.handlers.onRefresh = handleRefresh;
+  masthead.handlers.onShuffle = handleShuffle;
   window.addEventListener('resize', handleWindowResize);
   handleGridLayout();
 }

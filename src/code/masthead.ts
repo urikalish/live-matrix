@@ -2,7 +2,7 @@ import * as settings from './settings';
 
 export const handlers = {
   onChangeGridLayout: null as (() => void) | null,
-  onRefresh: null as (() => void) | null,
+  onShuffle: null as (() => void) | null,
 };
 
 function handleActionButtonClick(event: MouseEvent) {
@@ -11,13 +11,15 @@ function handleActionButtonClick(event: MouseEvent) {
     settings.setCols(Number((event.target as HTMLButtonElement).dataset.cols));
     settings.setRows(Number((event.target as HTMLButtonElement).dataset.rows));
     handlers.onChangeGridLayout!();
-  } else if (action === 'refresh') {
-    handlers.onRefresh!();
+  } else if (action === 'shuffle') {
+    handlers.onShuffle!();
   }
 }
 
 function buildActionButtons() {
-  const actionButtonsContainerElm = document.getElementById('layout-actions-container') as HTMLDivElement;
+  const actionButtonsContainerElm = document.getElementById(
+    'layout-actions-container',
+  ) as HTMLDivElement;
   const layoutButtonTemplateElm = document.createElement('button');
   layoutButtonTemplateElm.dataset.action = 'layout';
   for (let c = 1; c <= settings.getMaxCols(); c++) {

@@ -83,7 +83,7 @@ export function getRandomVideo(): Video | null {
   return _allVideos[videoIndex];
 }
 
-export function refreshVideos() {
+export function shuffleVideos() {
   shuffleAllVideos();
 }
 
