@@ -1,5 +1,3 @@
-import * as settings from './settings';
-
 export type Channel = {
   id: string;
   handle: string;
@@ -18,16 +16,15 @@ const _allChannels: Channel[] = [];
 const _allVideos: Video[] = [];
 
 function shuffleAllVideos() {
-  let currentIndex = _allVideos.length;
-  let randomIndex;
+  const pinned = _allVideos.filter((v) => v.pinned);
+  const unpinned = _allVideos.filter((v) => !v.pinned);
+  let currentIndex = unpinned.length;
   while (currentIndex > 0) {
-    randomIndex = Math.floor(Math.random() * currentIndex);
+    const randomIndex = Math.floor(Math.random() * currentIndex);
     currentIndex--;
-    [_allVideos[currentIndex], _allVideos[randomIndex]] = [
-      _allVideos[randomIndex],
-      _allVideos[currentIndex],
-    ];
+    [unpinned[currentIndex], unpinned[randomIndex]] = [unpinned[randomIndex], unpinned[currentIndex]];
   }
+  _allVideos.splice(0, _allVideos.length, ...pinned, ...unpinned);
 }
 
 async function loadChannelsAndVideos() {
@@ -79,7 +76,7 @@ export function getYouTubeVideoSrc(videoId: string) {
 }
 
 export function refreshVideos() {
-  alert(`refreshing ${settings.getCols() * settings.getRows()} videos`);
+  shuffleAllVideos();
 }
 
 export async function init() {
