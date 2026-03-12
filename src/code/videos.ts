@@ -26,6 +26,39 @@ type RawChannel = {
 
 const _allChannels: Channel[] = [];
 const _allVideos: Video[] = [];
+const _STORAGE_PINNED_VIDEO_IDS_KEY = 'live-matrix.pinned-video-ids';
+
+function getStorage(): Storage | null {
+  try {
+    return window.localStorage;
+  } catch {
+    return null;
+  }
+}
+
+function getPinnedVideoIdsFromStorage(): Set<string> {
+  const storage = getStorage();
+  if (!storage) return new Set<string>();
+
+  const rawValue = storage.getItem(_STORAGE_PINNED_VIDEO_IDS_KEY);
+  if (!rawValue) return new Set<string>();
+
+  try {
+    const parsed: unknown = JSON.parse(rawValue);
+    if (!Array.isArray(parsed)) return new Set<string>();
+    const ids = parsed.filter((value): value is string => typeof value === 'string');
+    return new Set<string>(ids);
+  } catch {
+    return new Set<string>();
+  }
+}
+
+function savePinnedVideoIdsToStorage(): void {
+  const storage = getStorage();
+  if (!storage) return;
+  const pinnedIds = _allVideos.filter((video) => video.pinned).map((video) => video.id);
+  storage.setItem(_STORAGE_PINNED_VIDEO_IDS_KEY, JSON.stringify(pinnedIds));
+}
 
 function isRawVideo(value: unknown): value is RawVideo {
   if (!value || typeof value !== 'object') return false;
@@ -76,6 +109,7 @@ async function loadChannelsAndVideos() {
     _allVideos.length = 0;
 
     const data: RawChannel[] = payload;
+    const pinnedVideoIds = getPinnedVideoIdsFromStorage();
     data.forEach((channelData) => {
       const channel: Channel = {
         id: channelData.id,
@@ -88,7 +122,7 @@ async function loadChannelsAndVideos() {
         const video: Video = {
           id: videoData.id,
           title: videoData.title,
-          pinned: false,
+          pinned: pinnedVideoIds.has(videoData.id),
           channel,
         };
         channel.videos.push(video);
@@ -138,6 +172,14 @@ export function getRandomVideo(excludeVideoId?: string): Video | null {
 
 export function shuffleVideos() {
   shuffleAllVideos();
+}
+
+export function setVideoPinned(videoId: string, pinned: boolean): boolean {
+  const video = getVideoById(videoId);
+  if (!video) return false;
+  video.pinned = pinned;
+  savePinnedVideoIdsToStorage();
+  return true;
 }
 
 export async function init() {

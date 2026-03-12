@@ -74,10 +74,11 @@ function createOverlay(): HTMLDivElement {
     if (!videoId) return;
 
     const video = videos.getVideoById(videoId);
-    if (video) {
-      video.pinned = !video.pinned;
-      cellElm.classList.toggle('pinned', video.pinned);
-    }
+    if (!video) return;
+
+    const nextPinnedState = !video.pinned;
+    videos.setVideoPinned(videoId, nextPinnedState);
+    cellElm.classList.toggle('pinned', nextPinnedState);
   });
 
   const navBtn = document.createElement('button');
@@ -110,10 +111,7 @@ function createOverlay(): HTMLDivElement {
     if (!videoId) return;
 
     // Unpin current video
-    const video = videos.getVideoById(videoId);
-    if (video) {
-      video.pinned = false;
-    }
+    videos.setVideoPinned(videoId, false);
     cellElm.classList.remove('pinned');
     replaceVideo(cellElm);
   });
