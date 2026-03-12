@@ -33,7 +33,12 @@ function shuffleAllVideos() {
 async function loadChannelsAndVideos() {
   try {
     const res = await fetch('/videos.json');
-    const data: { id: string; handle: string; name: string; videos: { id: string; title: string }[] }[] = await res.json();
+    const data: {
+      id: string;
+      handle: string;
+      name: string;
+      videos: { id: string; title: string }[];
+    }[] = await res.json();
     data.forEach((channelData) => {
       const channel: Channel = {
         id: channelData.id,
@@ -61,7 +66,7 @@ async function loadChannelsAndVideos() {
 }
 
 export function getVideoIdByIndex(videoIndex: number) {
-  return _allVideos[videoIndex].id;
+  return videoIndex < _allVideos.length ? _allVideos[videoIndex].id : '';
 }
 
 export function getRandomVideoId() {
