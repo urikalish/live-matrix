@@ -3,8 +3,14 @@ import * as videos from './videos';
 import type { Video } from './videos';
 import * as masthead from './masthead';
 
+function getMatrixContainer(): HTMLDivElement | null {
+  const matrixContainerElm = document.getElementById('matrix-container');
+  return matrixContainerElm instanceof HTMLDivElement ? matrixContainerElm : null;
+}
+
 function getCellWidth() {
-  const matrixContainerElm = document.getElementById('matrix-container') as HTMLDivElement;
+  const matrixContainerElm = getMatrixContainer();
+  if (!matrixContainerElm) return 0;
   return matrixContainerElm.clientWidth / settings.getCols();
 }
 
@@ -24,10 +30,11 @@ function setVideo(cellElm: HTMLDivElement, video: Video | null) {
   cellElm.classList.toggle('pinned', video.pinned);
   const src = videos.getYouTubeVideoSrc(video.id);
   const frElm = document.createElement('iframe');
-  frElm.setAttribute('src', src);
-  frElm.setAttribute('width', '' + getCellWidth());
-  frElm.setAttribute('height', '' + getCellHeight());
+  frElm.src = src;
+  frElm.width = `${getCellWidth()}`;
+  frElm.height = `${getCellHeight()}`;
   frElm.setAttribute('frameborder', '0');
+  frElm.title = video.title;
   frElm.setAttribute(
     'allow',
     'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture',
@@ -36,11 +43,19 @@ function setVideo(cellElm: HTMLDivElement, video: Video | null) {
 }
 
 function replaceVideo(cellElm: HTMLDivElement) {
-  const newVideo = videos.getRandomVideo();
+  const currentVideoId = cellElm.dataset.videoId;
+  const newVideo = videos.getRandomVideo(currentVideoId);
   if (!newVideo) return;
   const iframe = cellElm.querySelector('iframe');
   if (iframe) iframe.remove();
   setVideo(cellElm, newVideo);
+}
+
+function getCellFromEvent(event: Event): HTMLDivElement | null {
+  const target = event.currentTarget;
+  if (!(target instanceof HTMLElement)) return null;
+  const cellElm = target.closest('.matrix-cell');
+  return cellElm instanceof HTMLDivElement ? cellElm : null;
 }
 
 function createOverlay(): HTMLDivElement {
@@ -53,11 +68,13 @@ function createOverlay(): HTMLDivElement {
   pinBtn.title = 'Pin / Unpin';
   pinBtn.addEventListener('click', (e) => {
     e.stopPropagation();
-    const cellElm = (e.currentTarget as HTMLElement).closest('.matrix-cell') as HTMLDivElement;
+    const cellElm = getCellFromEvent(e);
+    if (!cellElm) return;
     const videoId = cellElm.dataset.videoId;
     if (!videoId) return;
-    const video = videos.getVideoByIndex(Number(cellElm.getAttribute('index')));
-    if (video && video.id === videoId) {
+
+    const video = videos.getVideoById(videoId);
+    if (video) {
       video.pinned = !video.pinned;
       cellElm.classList.toggle('pinned', video.pinned);
     }
@@ -69,10 +86,11 @@ function createOverlay(): HTMLDivElement {
   navBtn.title = 'Open on YouTube';
   navBtn.addEventListener('click', (e) => {
     e.stopPropagation();
-    const cellElm = (e.currentTarget as HTMLElement).closest('.matrix-cell') as HTMLDivElement;
+    const cellElm = getCellFromEvent(e);
+    if (!cellElm) return;
     const videoId = cellElm.dataset.videoId;
     if (videoId) {
-      window.open(`https://www.youtube.com/embed/${videoId}?autoplay=1`, '_blank');
+      window.open(`https://www.youtube.com/embed/${encodeURIComponent(videoId)}?autoplay=1`, '_blank', 'noopener');
     }
   });
 
@@ -82,13 +100,14 @@ function createOverlay(): HTMLDivElement {
   skipBtn.title = 'Skip video';
   skipBtn.addEventListener('click', (e) => {
     e.stopPropagation();
-    const cellElm = (e.currentTarget as HTMLElement).closest('.matrix-cell') as HTMLDivElement;
+    const cellElm = getCellFromEvent(e);
+    if (!cellElm) return;
     const videoId = cellElm.dataset.videoId;
     if (!videoId) return;
+
     // Unpin current video
-    const idx = Number(cellElm.getAttribute('index'));
-    const video = videos.getVideoByIndex(idx);
-    if (video && video.id === videoId) {
+    const video = videos.getVideoById(videoId);
+    if (video) {
       video.pinned = false;
     }
     cellElm.classList.remove('pinned');
@@ -102,16 +121,18 @@ function createOverlay(): HTMLDivElement {
 }
 
 function renderGrid() {
-  const matrixContainerElm = document.getElementById('matrix-container') as HTMLDivElement;
+  const matrixContainerElm = getMatrixContainer();
+  if (!matrixContainerElm) return;
+
   matrixContainerElm.innerHTML = '';
   matrixContainerElm.style.gridTemplateColumns = `repeat(${settings.getCols()}, auto)`;
   const matrixCellTemplateElm = document.createElement('div');
   matrixCellTemplateElm.classList.add('matrix-cell');
   matrixCellTemplateElm.style.width = `${getCellWidth()}px`;
   matrixCellTemplateElm.style.height = `${getCellHeight()}px`;
+
   for (let i: number = 0; i < settings.getCols() * settings.getRows(); i++) {
     const matrixCellElm = matrixCellTemplateElm.cloneNode(true) as HTMLDivElement;
-    matrixCellElm.setAttribute('index', i.toString());
     const video = videos.getVideoByIndex(i);
     setVideo(matrixCellElm, video);
     matrixCellElm.appendChild(createOverlay());
