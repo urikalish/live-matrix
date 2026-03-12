@@ -72,7 +72,7 @@ function createOverlay(): HTMLDivElement {
     const cellElm = (e.currentTarget as HTMLElement).closest('.matrix-cell') as HTMLDivElement;
     const videoId = cellElm.dataset.videoId;
     if (videoId) {
-      window.open(`https://www.youtube.com/watch?v=${videoId}`, '_blank');
+      window.open(`https://www.youtube.com/embed/${videoId}?autoplay=1`, '_blank');
     }
   });
 
