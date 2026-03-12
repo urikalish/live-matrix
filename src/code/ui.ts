@@ -35,6 +35,72 @@ function setVideo(cellElm: HTMLDivElement, video: Video | null) {
   cellElm.appendChild(frElm);
 }
 
+function replaceVideo(cellElm: HTMLDivElement) {
+  const newVideo = videos.getRandomVideo();
+  if (!newVideo) return;
+  const iframe = cellElm.querySelector('iframe');
+  if (iframe) iframe.remove();
+  setVideo(cellElm, newVideo);
+}
+
+function createOverlay(): HTMLDivElement {
+  const overlay = document.createElement('div');
+  overlay.classList.add('cell-overlay');
+
+  const pinBtn = document.createElement('button');
+  pinBtn.classList.add('cell-overlay-btn');
+  pinBtn.textContent = '📌';
+  pinBtn.title = 'Pin / Unpin';
+  pinBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    const cellElm = (e.currentTarget as HTMLElement).closest('.matrix-cell') as HTMLDivElement;
+    const videoId = cellElm.dataset.videoId;
+    if (!videoId) return;
+    const video = videos.getVideoByIndex(Number(cellElm.getAttribute('index')));
+    if (video && video.id === videoId) {
+      video.pinned = !video.pinned;
+      cellElm.classList.toggle('pinned', video.pinned);
+    }
+  });
+
+  const refreshBtn = document.createElement('button');
+  refreshBtn.classList.add('cell-overlay-btn');
+  refreshBtn.textContent = '🔄';
+  refreshBtn.title = 'Replace video';
+  refreshBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    const cellElm = (e.currentTarget as HTMLElement).closest('.matrix-cell') as HTMLDivElement;
+    const videoId = cellElm.dataset.videoId;
+    if (!videoId) return;
+    // Unpin current video
+    const idx = Number(cellElm.getAttribute('index'));
+    const video = videos.getVideoByIndex(idx);
+    if (video && video.id === videoId) {
+      video.pinned = false;
+    }
+    cellElm.classList.remove('pinned');
+    replaceVideo(cellElm);
+  });
+
+  const navBtn = document.createElement('button');
+  navBtn.classList.add('cell-overlay-btn');
+  navBtn.textContent = '🔗';
+  navBtn.title = 'Open on YouTube';
+  navBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    const cellElm = (e.currentTarget as HTMLElement).closest('.matrix-cell') as HTMLDivElement;
+    const videoId = cellElm.dataset.videoId;
+    if (videoId) {
+      window.open(`https://www.youtube.com/watch?v=${videoId}`, '_blank');
+    }
+  });
+
+  overlay.appendChild(pinBtn);
+  overlay.appendChild(refreshBtn);
+  overlay.appendChild(navBtn);
+  return overlay;
+}
+
 function handleGridLayout() {
   const matrixContainerElm = document.getElementById('matrix-container') as HTMLDivElement;
   matrixContainerElm.innerHTML = '';
@@ -48,6 +114,7 @@ function handleGridLayout() {
     matrixCellElm.setAttribute('index', i.toString());
     const video = videos.getVideoByIndex(i);
     setVideo(matrixCellElm, video);
+    matrixCellElm.appendChild(createOverlay());
     matrixContainerElm.appendChild(matrixCellElm);
   }
 }

@@ -64,10 +64,49 @@ body {
 }
 
 .matrix-cell {
+    position: relative;
     aspect-ratio: 16 / 9;
 
     &.pinned > iframe {
         outline: 1px solid #fff;
         outline-offset: -1px;
     }
+}
+
+.cell-overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    background-color: rgba(0, 0, 0, 0.55);
+    opacity: 0;
+    transition: opacity 0.2s ease;
+    z-index: 1;
+    pointer-events: none;
+}
+
+.matrix-cell:hover .cell-overlay {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.cell-overlay-btn {
+    width: 36px;
+    height: 36px;
+    border: none;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.15);
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.15s ease;
+}
+
+.cell-overlay-btn:hover {
+    background-color: rgba(255, 255, 255, 0.35);
 }
