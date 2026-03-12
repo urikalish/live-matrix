@@ -28,7 +28,7 @@ function buildActionButtons() {
     const layoutButtonElm = layoutButtonTemplateElm.cloneNode(true) as HTMLButtonElement;
     layoutButtonElm.dataset.cols = c.toString();
     layoutButtonElm.dataset.rows = r.toString();
-    layoutButtonElm.textContent = `⊞ ${c}x${r}`;
+    layoutButtonElm.textContent = `${c}x${r}`;
     actionButtonsContainerElm.appendChild(layoutButtonElm);
   }
 }

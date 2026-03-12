@@ -57,8 +57,9 @@ body {
     gap: 6px;
 }
 .layout-actions-container {
+    margin-inline-start: 12px;
     display: flex;
-    gap: 6px;
+    gap: 4px;
 }
 .masthead-btn {
     padding: 6px 14px;
