@@ -20,9 +20,7 @@ function handleActionButtonClick(event: MouseEvent) {
 }
 
 function buildActionButtons() {
-  const actionButtonsContainerElm = document.getElementById(
-    'layout-actions-container',
-  );
+  const actionButtonsContainerElm = document.getElementById('layout-actions-container');
   if (!(actionButtonsContainerElm instanceof HTMLDivElement)) return;
 
   const layoutButtonTemplateElm = document.createElement('button');

@@ -90,7 +90,11 @@ function createOverlay(): HTMLDivElement {
     if (!cellElm) return;
     const videoId = cellElm.dataset.videoId;
     if (videoId) {
-      window.open(`https://www.youtube.com/embed/${encodeURIComponent(videoId)}?autoplay=1`, '_blank', 'noopener');
+      window.open(
+        `https://www.youtube.com/embed/${encodeURIComponent(videoId)}?autoplay=1`,
+        '_blank',
+        'noopener',
+      );
     }
   });
 
