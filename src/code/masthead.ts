@@ -29,11 +29,14 @@ function buildActionButtons() {
     layoutButtonElm.dataset.cols = c.toString();
     layoutButtonElm.dataset.rows = r.toString();
     layoutButtonElm.textContent = `${c}x${r}`;
-    (layoutButtonElm as HTMLButtonElement).addEventListener('click', handleActionButtonClick);
     actionButtonsContainerElm.appendChild(layoutButtonElm);
   }
 }
 
 export async function init() {
   buildActionButtons();
+  const actionButtonElements = document.querySelectorAll('button[data-action]');
+  actionButtonElements.forEach((btnElm) => {
+    (btnElm as HTMLButtonElement).addEventListener('click', handleActionButtonClick);
+  });
 }
