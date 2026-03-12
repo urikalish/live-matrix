@@ -48,7 +48,7 @@ function createOverlay(): HTMLDivElement {
   overlay.classList.add('cell-overlay');
 
   const pinBtn = document.createElement('button');
-  pinBtn.classList.add('cell-overlay-btn');
+  pinBtn.classList.add('cell-overlay-btn', 'cell-overlay-btn--pin');
   pinBtn.textContent = '📌';
   pinBtn.title = 'Pin / Unpin';
   pinBtn.addEventListener('click', (e) => {
@@ -64,7 +64,7 @@ function createOverlay(): HTMLDivElement {
   });
 
   const navBtn = document.createElement('button');
-  navBtn.classList.add('cell-overlay-btn');
+  navBtn.classList.add('cell-overlay-btn', 'cell-overlay-btn--navigate');
   navBtn.textContent = '📺';
   navBtn.title = 'Open on YouTube';
   navBtn.addEventListener('click', (e) => {
@@ -77,7 +77,7 @@ function createOverlay(): HTMLDivElement {
   });
 
   const skipBtn = document.createElement('button');
-  skipBtn.classList.add('cell-overlay-btn');
+  skipBtn.classList.add('cell-overlay-btn', 'cell-overlay-btn--skip');
   skipBtn.textContent = '⏭';
   skipBtn.title = 'Skip video';
   skipBtn.addEventListener('click', (e) => {
