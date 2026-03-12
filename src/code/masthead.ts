@@ -22,12 +22,13 @@ function buildActionButtons() {
   ) as HTMLDivElement;
   const layoutButtonTemplateElm = document.createElement('button');
   layoutButtonTemplateElm.dataset.action = 'layout';
+  layoutButtonTemplateElm.classList.add('masthead-btn');
   for (let c = 1; c <= settings.getMaxCols(); c++) {
     const r = c === 1 ? 1 : c - 1;
     const layoutButtonElm = layoutButtonTemplateElm.cloneNode(true) as HTMLButtonElement;
     layoutButtonElm.dataset.cols = c.toString();
     layoutButtonElm.dataset.rows = r.toString();
-    layoutButtonElm.textContent = `${c}x${r}`;
+    layoutButtonElm.textContent = `⊞ ${c}x${r}`;
     actionButtonsContainerElm.appendChild(layoutButtonElm);
   }
 }

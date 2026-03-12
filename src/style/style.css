@@ -30,30 +30,59 @@ body {
 }
 
 .masthead {
-    height: 40px;
-    padding: 0 4px;
+    height: 60px;
+    padding: 0 12px;
     flex: 0 0 auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #333;
+    background: linear-gradient(180deg, #3a3a3a 0%, #1e1e1e 100%);
+    border-bottom: 1px solid #4a4a4a;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 .masthead--left-side {
     display: flex;
+    align-items: center;
+}
+.masthead-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #f0f0f0;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
 }
 .masthead--right-side {
     display: flex;
+    align-items: center;
+    gap: 6px;
 }
 .layout-actions-container {
     display: flex;
+    gap: 6px;
 }
-.masthead button {
-    margin: 0 2px;
-    padding: 4px 8px;
-    background-color: #ccc;
-    border-radius: 4px;
+.masthead-btn {
+    padding: 6px 14px;
+    font-family: inherit;
+    font-size: 0.85rem;
+    font-weight: 400;
+    color: #e0e0e0;
+    background: linear-gradient(180deg, #555 0%, #3a3a3a 100%);
+    border: 1px solid #5a5a5a;
+    border-radius: 6px;
     cursor: pointer;
     user-select: none;
+    transition: background 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease, transform 0.1s ease;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+.masthead-btn:hover {
+    background: linear-gradient(180deg, #666 0%, #4a4a4a 100%);
+    border-color: #777;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+    color: #fff;
+}
+.masthead-btn:active {
+    transform: scale(0.96);
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
 }
 
 .matrix-container {
