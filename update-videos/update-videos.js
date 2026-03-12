@@ -283,28 +283,81 @@ function writeDataObjectToFile(dataObject, dirPath, fileName) {
 
 /* ------------------------------------------------------------------------------------------------------------------ */
 
+function getConcurrency() {
+  const parsed = Number.parseInt(process.env.CONCURRENCY ?? '10', 10);
+  if (!Number.isFinite(parsed) || parsed < 1) {
+    return 10;
+  }
+  return Math.min(parsed, 50);
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+async function processChannel(channelId, index, total) {
+  const percent = (((index + 1) / total) * 100).toFixed(1);
+  console.log(`[${index + 1}/${total} - ${percent}%] Processing channel ${channelId}...`);
+  const url = `https://www.youtube.com/channel/${channelId}/streams`;
+  try {
+    const html = await fetchPage(url);
+    const channelData = extractChannelInfo(html);
+    channelData.videos = await extractLiveVideosInfo(html);
+    console.log(channelData);
+    return { ok: true, index, channelData };
+  } catch (error) {
+    console.error(`Error processing channel ${channelId}`, error);
+    return {
+      ok: false,
+      index,
+      channelId,
+      error: error instanceof Error ? error.message : String(error),
+    };
+  }
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+
 async function go() {
   try {
     const allChannelIds = [...new Set([...channelIds])].sort();
-    console.log(`Processing ${allChannelIds.length} channels...`);
-    const dataObj = [];
-    for (let i = 0; i < allChannelIds.length; i++) {
-      const channelId = allChannelIds[i];
-      const percent = (((i + 1) / allChannelIds.length) * 100).toFixed(1);
-      console.log(
-        `[${i + 1}/${allChannelIds.length} - ${percent}%] Processing channel ${channelId}...`,
-      );
-      const url = `https://www.youtube.com/channel/${channelId}/streams`;
-      try {
-        const html = await fetchPage(url);
-        const channelData = extractChannelInfo(html);
-        channelData.videos = await extractLiveVideosInfo(html);
-        console.log(channelData);
-        dataObj.push(channelData);
-      } catch (error) {
-        console.error(`Error processing channel ${channelId}`, error);
+    const concurrency = Math.min(getConcurrency(), allChannelIds.length || 1);
+    console.log(`Processing ${allChannelIds.length} channels with concurrency ${concurrency}...`);
+
+    const results = new Array(allChannelIds.length);
+    let queueIndex = 0;
+
+    async function worker() {
+      while (true) {
+        const currentIndex = queueIndex;
+        queueIndex++;
+        if (currentIndex >= allChannelIds.length) {
+          return;
+        }
+        results[currentIndex] = await processChannel(
+          allChannelIds[currentIndex],
+          currentIndex,
+          allChannelIds.length,
+        );
       }
     }
+
+    await Promise.all(Array.from({ length: concurrency }, () => worker()));
+
+    const dataObj = results
+      .filter((result) => result?.ok)
+      .sort((a, b) => a.index - b.index)
+      .map((result) => result.channelData);
+
+    const failures = results.filter((result) => result && !result.ok);
+    if (failures.length > 0) {
+      console.error(`Failed channels: ${failures.length}`);
+      failures.slice(0, 10).forEach((failure) => {
+        console.error(`- ${failure.channelId}: ${failure.error}`);
+      });
+      if (failures.length > 10) {
+        console.error(`...and ${failures.length - 10} more`);
+      }
+    }
+
     writeDataObjectToFile(dataObj, '../src/public', 'videos.json');
     console.log(`DONE.`);
   } catch (error) {
