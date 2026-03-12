@@ -12,6 +12,9 @@ function getCellHeight() {
 }
 
 function setVideo(cellElm: HTMLDivElement, videoId: string) {
+  if (videoId === '') {
+    return;
+  }
   const src = videos.getYouTubeVideoSrc(videoId);
   const frElm = document.createElement('iframe');
   frElm.setAttribute('src', src);
