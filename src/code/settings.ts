@@ -1,7 +1,7 @@
 const _MAX_COLS = 6;
 const _MAX_ROWS = 5;
-const _INITIAL_COLS = 6;
-const _INITIAL_ROWS = 5;
+const _INITIAL_COLS = 4;
+const _INITIAL_ROWS = 3;
 
 let _cols = 1;
 let _rows = 1;
