@@ -101,7 +101,7 @@ function createOverlay(): HTMLDivElement {
   return overlay;
 }
 
-function handleGridLayout() {
+function renderGrid() {
   const matrixContainerElm = document.getElementById('matrix-container') as HTMLDivElement;
   matrixContainerElm.innerHTML = '';
   matrixContainerElm.style.gridTemplateColumns = `repeat(${settings.getCols()}, auto)`;
@@ -120,17 +120,23 @@ function handleGridLayout() {
 }
 
 function handleWindowResize() {
-  handleGridLayout();
+  renderGrid();
 }
 
 function handleShuffle() {
   videos.shuffleVideos();
-  handleGridLayout();
+  renderGrid();
+}
+
+function handleLayoutChange() {
+  videos.shuffleVideos();
+  renderGrid();
 }
 
 export async function init() {
-  masthead.handlers.onChangeGridLayout = handleGridLayout;
   masthead.handlers.onShuffle = handleShuffle;
+  masthead.handlers.onChangeGridLayout = handleLayoutChange;
   window.addEventListener('resize', handleWindowResize);
-  handleGridLayout();
+  videos.shuffleVideos();
+  renderGrid();
 }
