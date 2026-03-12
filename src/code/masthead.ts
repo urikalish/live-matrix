@@ -8,13 +8,10 @@ export const handlers = {
 function handleActionButtonClick(event: MouseEvent) {
   const action = (event.currentTarget as HTMLButtonElement).dataset.action;
   if (action === 'layout') {
-    const cols = (event.target as HTMLButtonElement).dataset.cols;
-    const rows = (event.target as HTMLButtonElement).dataset.rows;
-    settings.setCols(Number(cols));
-    settings.setRows(Number(rows));
+    settings.setCols(Number((event.target as HTMLButtonElement).dataset.cols));
+    settings.setRows(Number((event.target as HTMLButtonElement).dataset.rows));
     handlers.onChangeGridLayout!();
-  }
-  if (action === 'refresh') {
+  } else if (action === 'refresh') {
     handlers.onRefresh!();
   }
 }
