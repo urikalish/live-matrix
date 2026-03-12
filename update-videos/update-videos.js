@@ -248,10 +248,11 @@ async function extractLiveVideosInfo(html) {
       .map((item) => {
         const videoRenderer = item.richItemRenderer?.content?.videoRenderer;
         const videoId = videoRenderer?.videoId;
-        const title =
+        const title = (
           videoRenderer?.title?.runs?.map((r) => r.text).join('') ??
           videoRenderer?.title?.simpleText ??
-          '';
+          ''
+        ).replaceAll('\u00A0', ' ');
         return videoId ? { id: videoId, title } : null;
       })
       .filter(Boolean);
