@@ -1,5 +1,6 @@
 import * as settings from './settings';
 import * as videos from './videos';
+import type { Video } from './videos';
 import * as masthead from './masthead';
 
 function getCellWidth() {
@@ -11,11 +12,17 @@ function getCellHeight() {
   return (getCellWidth() * 9) / 16;
 }
 
-function setVideo(cellElm: HTMLDivElement, videoId: string) {
-  if (videoId === '') {
+function setVideo(cellElm: HTMLDivElement, video: Video | null) {
+  if (video === null) {
     return;
   }
-  const src = videos.getYouTubeVideoSrc(videoId);
+  cellElm.dataset.videoId = video.id;
+  cellElm.dataset.videoTitle = video.title;
+  cellElm.dataset.channelId = video.channel.id;
+  cellElm.dataset.channelHandle = video.channel.handle;
+  cellElm.dataset.channelName = video.channel.name;
+  cellElm.classList.toggle('pinned', video.pinned);
+  const src = videos.getYouTubeVideoSrc(video.id);
   const frElm = document.createElement('iframe');
   frElm.setAttribute('src', src);
   frElm.setAttribute('width', '' + getCellWidth());
@@ -25,7 +32,6 @@ function setVideo(cellElm: HTMLDivElement, videoId: string) {
     'allow',
     'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture',
   );
-  frElm.dataset.videoId = videoId;
   cellElm.appendChild(frElm);
 }
 
@@ -40,7 +46,8 @@ function handleGridLayout() {
   for (let i: number = 0; i < settings.getCols() * settings.getRows(); i++) {
     const matrixCellElm = matrixCellTemplateElm.cloneNode(true) as HTMLDivElement;
     matrixCellElm.setAttribute('index', i.toString());
-    setVideo(matrixCellElm, videos.getVideoIdByIndex(i));
+    const video = videos.getVideoByIndex(i);
+    setVideo(matrixCellElm, video);
     matrixContainerElm.appendChild(matrixCellElm);
   }
 }

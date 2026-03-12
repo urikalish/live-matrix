@@ -62,6 +62,10 @@ async function loadChannelsAndVideos() {
   }
 }
 
+export function getVideoByIndex(videoIndex: number) {
+  return videoIndex < _allVideos.length ? _allVideos[videoIndex] : null;
+}
+
 export function getVideoIdByIndex(videoIndex: number) {
   return videoIndex < _allVideos.length ? _allVideos[videoIndex].id : '';
 }

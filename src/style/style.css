@@ -65,4 +65,9 @@ body {
 
 .matrix-cell {
     aspect-ratio: 16 / 9;
+
+    &.pinned > iframe {
+        outline: 1px solid #fff;
+        outline-offset: -1px;
+    }
 }
