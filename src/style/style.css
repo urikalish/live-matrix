@@ -132,16 +132,14 @@ body {
     justify-content: center;
     gap: 12px;
     padding: 8px;
-    background-color: rgba(0, 0, 0, 0.5);
-    opacity: 0;
-    transition: opacity 0.2s ease;
+    background-color: transparent;
+    transition: background-color 0.2s ease;
     z-index: 1;
-    pointer-events: none;
+    pointer-events: auto;
 }
 
 .matrix-cell:hover .cell-overlay {
-    opacity: 1;
-    pointer-events: auto;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .cell-overlay-btn {
@@ -156,7 +154,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: background-color 0.15s ease;
+    opacity: 0;
+    pointer-events: none;
+    transition:
+        background-color 0.15s ease,
+        opacity 0.15s ease;
 }
 
 .cell-overlay-btn:hover {
@@ -178,6 +180,17 @@ body {
     bottom: 8px;
     pointer-events: none;
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.85);
+    opacity: 0;
+    transition: opacity 0.15s ease;
+}
+
+.matrix-cell:hover .cell-overlay-btn,
+.matrix-cell:hover .cell-overlay-details {
+    opacity: 1;
+}
+
+.matrix-cell:hover .cell-overlay-btn {
+    pointer-events: auto;
 }
 
 .cell-overlay-channel {
