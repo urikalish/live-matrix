@@ -3,7 +3,7 @@ import { config as loadEnv } from 'dotenv';
 import { writeFileSync, mkdirSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import channelIds from './yt-channel-ids.json' with { type: 'json' };
+import channelIds from './channel-ids.json' with { type: 'json' };
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ENV_PATH = resolve(__dirname, '../.env');
 const envLoadResult = loadEnv({ path: ENV_PATH });
