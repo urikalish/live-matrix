@@ -60,6 +60,34 @@ function savePinnedVideoIdsToStorage(): void {
   storage.setItem(_STORAGE_PINNED_VIDEO_IDS_KEY, JSON.stringify(pinnedIds));
 }
 
+function savePinnedVideoIdsToStorageByIds(ids: Set<string>): void {
+  const storage = getStorage();
+  if (!storage) return;
+  storage.setItem(_STORAGE_PINNED_VIDEO_IDS_KEY, JSON.stringify(Array.from(ids)));
+}
+
+function reconcilePinnedVideoIds(data: RawChannel[], pinnedVideoIds: Set<string>): Set<string> {
+  const validVideoIds = new Set<string>();
+  data.forEach((channel) => {
+    channel.videos.forEach((video) => {
+      validVideoIds.add(video.id);
+    });
+  });
+
+  const reconciledPinnedVideoIds = new Set<string>();
+  pinnedVideoIds.forEach((videoId) => {
+    if (validVideoIds.has(videoId)) {
+      reconciledPinnedVideoIds.add(videoId);
+    }
+  });
+
+  if (reconciledPinnedVideoIds.size !== pinnedVideoIds.size) {
+    savePinnedVideoIdsToStorageByIds(reconciledPinnedVideoIds);
+  }
+
+  return reconciledPinnedVideoIds;
+}
+
 function isRawVideo(value: unknown): value is RawVideo {
   if (!value || typeof value !== 'object') return false;
   const maybeVideo = value as Partial<RawVideo>;
@@ -85,7 +113,7 @@ function shuffleAllVideos() {
   while (currentIndex > 0) {
     const randomIndex = Math.floor(Math.random() * currentIndex);
     currentIndex--;
-    [unpinned[currentIndex], unpinned[randomIndex] ] = [
+    [unpinned[currentIndex], unpinned[randomIndex]] = [
       unpinned[randomIndex],
       unpinned[currentIndex],
     ];
@@ -109,7 +137,7 @@ async function loadChannelsAndVideos() {
     _allVideos.length = 0;
 
     const data: RawChannel[] = payload;
-    const pinnedVideoIds = getPinnedVideoIdsFromStorage();
+    const pinnedVideoIds = reconcilePinnedVideoIds(data, getPinnedVideoIdsFromStorage());
     data.forEach((channelData) => {
       const channel: Channel = {
         id: channelData.id,

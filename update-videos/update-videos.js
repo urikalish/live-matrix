@@ -170,6 +170,24 @@ function extractChannelInfo(html) {
 async function extractLiveVideosInfo(html) {
   console.log(`Extracting live videos info...`);
   const videosInfo = [];
+
+  function isEmbeddableVideo(videoRenderer) {
+    const playabilityStatus = videoRenderer?.playabilityStatus;
+    if (playabilityStatus?.playableInEmbed === false) {
+      return false;
+    }
+
+    // Keep this as a fallback for payloads that omit playableInEmbed but expose an unplayable reason.
+    if (playabilityStatus?.status === 'UNPLAYABLE') {
+      const reason = `${playabilityStatus?.reason ?? ''}`;
+      if (/playback on other websites has been disabled/i.test(reason)) {
+        return false;
+      }
+    }
+
+    return true;
+  }
+
   try {
     const $ = cheerio.load(html);
     let ytInitialData = null;
@@ -277,7 +295,7 @@ async function extractLiveVideosInfo(html) {
         const videoRenderer = item.richItemRenderer?.content?.videoRenderer;
         const overlays = videoRenderer?.thumbnailOverlays ?? [];
         const isLive = overlays.some((o) => o.thumbnailOverlayTimeStatusRenderer?.style === 'LIVE');
-        const isEmbeddable = videoRenderer?.playabilityStatus?.playableInEmbed !== false;
+        const isEmbeddable = isEmbeddableVideo(videoRenderer);
         return isLive && isEmbeddable;
       })
       .map((item) => {
@@ -287,7 +305,9 @@ async function extractLiveVideosInfo(html) {
           videoRenderer?.title?.runs?.map((r) => r.text).join('') ??
           videoRenderer?.title?.simpleText ??
           ''
-        ).replaceAll('\u00A0', ' ');
+        )
+          .replaceAll('\u00A0', ' ')
+          .replaceAll('\u200B', '');
         return videoId ? { id: videoId, title } : null;
       })
       .filter(Boolean);
