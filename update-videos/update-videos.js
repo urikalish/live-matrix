@@ -342,6 +342,7 @@ async function processChannel(channelId, index, total) {
 /* ------------------------------------------------------------------------------------------------------------------ */
 
 async function go() {
+  const startedAt = Date.now();
   try {
     const allChannelIds = [...new Set([...channelIds])].sort();
     const CONCURRENCY = 10;
@@ -384,7 +385,13 @@ async function go() {
     }
 
     writeDataObjectToFile(dataObj, '../src/public', 'videos.json');
-    console.log(`DONE.`);
+
+    const totalVideos = dataObj.reduce((sum, channel) => sum + (channel.videos?.length ?? 0), 0);
+    const elapsedMs = Date.now() - startedAt;
+    const elapsedSeconds = (elapsedMs / 1000).toFixed(1);
+    console.log(
+      `DONE. Took ${elapsedSeconds}s | channels: ${allChannelIds.length} | videos: ${totalVideos}`,
+    );
   } catch (error) {
     console.error(error);
   }
