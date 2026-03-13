@@ -132,7 +132,7 @@ body {
     justify-content: center;
     gap: 12px;
     padding: 8px;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.75);
     opacity: 0;
     transition: opacity 0.2s ease;
     z-index: 1;
@@ -191,4 +191,3 @@ body {
     font-size: 0.78rem;
     color: #fff;
 }
-

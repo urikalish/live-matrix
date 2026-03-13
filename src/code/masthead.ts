@@ -12,8 +12,7 @@ function syncLayoutButtonsDisabledState() {
 
   layoutButtons.forEach((btnElm) => {
     if (!(btnElm instanceof HTMLButtonElement)) return;
-    const isCurrentLayout = btnElm.dataset.cols === activeCols && btnElm.dataset.rows === activeRows;
-    btnElm.disabled = isCurrentLayout;
+    btnElm.disabled = btnElm.dataset.cols === activeCols && btnElm.dataset.rows === activeRows;
   });
 }
 
