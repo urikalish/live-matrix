@@ -1,9 +1,45 @@
 import * as cheerio from 'cheerio';
+import { config as loadEnv } from 'dotenv';
 import { writeFileSync, mkdirSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import channelIds from './yt-channel-ids.json' with { type: 'json' };
 const __dirname = dirname(fileURLToPath(import.meta.url));
+const ENV_PATH = resolve(__dirname, '../.env');
+const envLoadResult = loadEnv({ path: ENV_PATH });
+
+if (envLoadResult.error) {
+  throw new Error(
+    `[config] Failed to load .env file at ${ENV_PATH}: ${envLoadResult.error.message}`,
+  );
+}
+
+const parsedEnv = envLoadResult.parsed ?? {};
+const ENV = {
+  YOUTUBEI_BROWSE_KEY: 'UPDATE_VIDEOS_YOUTUBEI_BROWSE_KEY',
+};
+
+function getYoutubeiBrowseKey() {
+  const configuredKey = parsedEnv[ENV.YOUTUBEI_BROWSE_KEY];
+  if (configuredKey === undefined) {
+    throw new Error(`[config] Missing ${ENV.YOUTUBEI_BROWSE_KEY} in .env (${ENV_PATH}).`);
+  }
+
+  const trimmedKey = configuredKey.trim();
+  if (!trimmedKey) {
+    throw new Error(`[config] ${ENV.YOUTUBEI_BROWSE_KEY} is empty in .env (${ENV_PATH}).`);
+  }
+
+  if (!/^AIza[\w-]{20,}$/.test(trimmedKey)) {
+    throw new Error(
+      `[config] ${ENV.YOUTUBEI_BROWSE_KEY} does not look like a valid YouTube key (expected to start with "AIza").`,
+    );
+  }
+
+  return trimmedKey;
+}
+
+const YOUTUBEI_BROWSE_KEY = getYoutubeiBrowseKey();
 
 /* ------------------------------------------------------------------------------------------------------------------ */
 
@@ -201,9 +237,8 @@ async function extractLiveVideosInfo(html) {
         (item) => item.continuationItemRenderer?.continuationEndpoint?.continuationCommand?.token,
       )
       .find(Boolean);
-
     while (continuationToken) {
-      const contUrl = `https://www.youtube.com/youtubei/v1/browse?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8`;
+      const contUrl = `https://www.youtube.com/youtubei/v1/browse?key=${YOUTUBEI_BROWSE_KEY}`;
       const res = await fetch(contUrl, {
         method: 'POST',
         headers: {
@@ -283,16 +318,6 @@ function writeDataObjectToFile(dataObject, dirPath, fileName) {
 
 /* ------------------------------------------------------------------------------------------------------------------ */
 
-function getConcurrency() {
-  const parsed = Number.parseInt(process.env.CONCURRENCY ?? '10', 10);
-  if (!Number.isFinite(parsed) || parsed < 1) {
-    return 10;
-  }
-  return Math.min(parsed, 50);
-}
-
-/* ------------------------------------------------------------------------------------------------------------------ */
-
 async function processChannel(channelId, index, total) {
   const percent = (((index + 1) / total) * 100).toFixed(1);
   console.log(`[${index + 1}/${total} - ${percent}%] Processing channel ${channelId}...`);
@@ -319,8 +344,8 @@ async function processChannel(channelId, index, total) {
 async function go() {
   try {
     const allChannelIds = [...new Set([...channelIds])].sort();
-    const concurrency = Math.min(getConcurrency(), allChannelIds.length || 1);
-    console.log(`Processing ${allChannelIds.length} channels with concurrency ${concurrency}...`);
+    const CONCURRENCY = 10;
+    console.log(`Processing ${allChannelIds.length} channels with concurrency ${CONCURRENCY}...`);
 
     const results = new Array(allChannelIds.length);
     let queueIndex = 0;
@@ -340,7 +365,7 @@ async function go() {
       }
     }
 
-    await Promise.all(Array.from({ length: concurrency }, () => worker()));
+    await Promise.all(Array.from({ length: CONCURRENCY }, () => worker()));
 
     const dataObj = results
       .filter((result) => result?.ok)
