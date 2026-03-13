@@ -40,6 +40,7 @@ function getYoutubeiBrowseKey() {
 }
 
 const YOUTUBEI_BROWSE_KEY = getYoutubeiBrowseKey();
+const _EMBED_OEMBED_CACHE = new Map();
 
 /* ------------------------------------------------------------------------------------------------------------------ */
 
@@ -56,6 +57,43 @@ async function fetchPage(url) {
     throw new Error(`HTTP ${res.status} ${res.statusText}`);
   }
   return res.text();
+}
+
+async function isVideoEmbeddableByOEmbed(videoId) {
+  if (!videoId) return false;
+
+  if (_EMBED_OEMBED_CACHE.has(videoId)) {
+    return _EMBED_OEMBED_CACHE.get(videoId);
+  }
+
+  const checkPromise = (async () => {
+    try {
+      const watchUrl = `https://www.youtube.com/watch?v=${encodeURIComponent(videoId)}`;
+      const oembedUrl = `https://www.youtube.com/oembed?url=${encodeURIComponent(watchUrl)}&format=json`;
+      const res = await fetch(oembedUrl, {
+        headers: {
+          'User-Agent':
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+          'Accept-Language': 'en-US,en;q=0.9',
+        },
+        redirect: 'follow',
+      });
+
+      if (res.ok) return true;
+      if (res.status === 401 || res.status === 403 || res.status === 404) return false;
+
+      console.warn(
+        `[embed-check] Unexpected oEmbed status ${res.status} for ${videoId}; keeping video.`,
+      );
+      return true;
+    } catch (error) {
+      console.warn(`[embed-check] oEmbed check failed for ${videoId}; keeping video.`, error);
+      return true;
+    }
+  })();
+
+  _EMBED_OEMBED_CACHE.set(videoId, checkPromise);
+  return checkPromise;
 }
 
 /* ------------------------------------------------------------------------------------------------------------------ */
@@ -290,17 +328,23 @@ async function extractLiveVideosInfo(html) {
         .find(Boolean);
     }
 
-    const videos = allItems
-      .filter((item) => {
-        const videoRenderer = item.richItemRenderer?.content?.videoRenderer;
+    const liveCandidates = allItems
+      .map((item) => item.richItemRenderer?.content?.videoRenderer)
+      .filter((videoRenderer) => {
         const overlays = videoRenderer?.thumbnailOverlays ?? [];
-        const isLive = overlays.some((o) => o.thumbnailOverlayTimeStatusRenderer?.style === 'LIVE');
-        const isEmbeddable = isEmbeddableVideo(videoRenderer);
-        return isLive && isEmbeddable;
-      })
-      .map((item) => {
-        const videoRenderer = item.richItemRenderer?.content?.videoRenderer;
+        return overlays.some((o) => o.thumbnailOverlayTimeStatusRenderer?.style === 'LIVE');
+      });
+
+    const checkedVideos = await Promise.all(
+      liveCandidates.map(async (videoRenderer) => {
         const videoId = videoRenderer?.videoId;
+        if (!videoId) return null;
+        if (!isEmbeddableVideo(videoRenderer)) return null;
+
+        // Renderer signals are sometimes stale/inaccurate for active streams; validate all candidates.
+        const isEmbeddable = await isVideoEmbeddableByOEmbed(videoId);
+        if (!isEmbeddable) return null;
+
         const title = (
           videoRenderer?.title?.runs?.map((r) => r.text).join('') ??
           videoRenderer?.title?.simpleText ??
@@ -308,9 +352,11 @@ async function extractLiveVideosInfo(html) {
         )
           .replaceAll('\u00A0', ' ')
           .replaceAll('\u200B', '');
-        return videoId ? { id: videoId, title } : null;
-      })
-      .filter(Boolean);
+        return { id: videoId, title };
+      }),
+    );
+
+    const videos = checkedVideos.filter(Boolean);
     console.log(`Found ${videos.length} live video(s)`);
     videos.forEach((video) => {
       videosInfo.push(video);
