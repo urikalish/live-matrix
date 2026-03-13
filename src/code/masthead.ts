@@ -5,6 +5,18 @@ export const handlers = {
   onShuffle: null as (() => void) | null,
 };
 
+function syncLayoutButtonsDisabledState() {
+  const activeCols = settings.getCols().toString();
+  const activeRows = settings.getRows().toString();
+  const layoutButtons = document.querySelectorAll('button[data-action="layout"]');
+
+  layoutButtons.forEach((btnElm) => {
+    if (!(btnElm instanceof HTMLButtonElement)) return;
+    const isCurrentLayout = btnElm.dataset.cols === activeCols && btnElm.dataset.rows === activeRows;
+    btnElm.disabled = isCurrentLayout;
+  });
+}
+
 function handleActionButtonClick(event: MouseEvent) {
   const button = event.currentTarget;
   if (!(button instanceof HTMLButtonElement)) return;
@@ -13,6 +25,7 @@ function handleActionButtonClick(event: MouseEvent) {
   if (action === 'layout') {
     settings.setCols(Number(button.dataset.cols));
     settings.setRows(Number(button.dataset.rows));
+    syncLayoutButtonsDisabledState();
     handlers.onChangeGridLayout?.();
   } else if (action === 'shuffle') {
     handlers.onShuffle?.();
@@ -38,6 +51,7 @@ function buildActionButtons() {
 
 export async function init() {
   buildActionButtons();
+  syncLayoutButtonsDisabledState();
   const actionButtonElements = document.querySelectorAll('button[data-action]');
   actionButtonElements.forEach((btnElm) => {
     if (btnElm instanceof HTMLButtonElement) {

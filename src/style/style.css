@@ -90,6 +90,17 @@ body {
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
 }
 
+.masthead-btn:disabled,
+.masthead-btn:disabled:hover,
+.masthead-btn:disabled:active {
+    cursor: default;
+    color: #a8a8a8;
+    background: linear-gradient(180deg, #2f2f2f 0%, #252525 100%);
+    border-color: #3a3a3a;
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.04);
+    transform: none;
+}
+
 .matrix-container {
     flex: 1 1 auto;
     display: grid;
