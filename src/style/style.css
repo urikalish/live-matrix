@@ -163,7 +163,7 @@ body {
 }
 
 .matrix-cell:hover .cell-overlay {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .cell-overlay-btn {
