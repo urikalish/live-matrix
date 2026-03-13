@@ -120,6 +120,7 @@ body {
     align-items: center;
     justify-content: center;
     gap: 12px;
+    padding: 8px;
     background-color: rgba(0, 0, 0, 0.6);
     opacity: 0;
     transition: opacity 0.2s ease;
@@ -159,3 +160,30 @@ body {
 .cell-overlay-btn--skip {
     padding-bottom: 4px;
 }
+
+.cell-overlay-details {
+    position: absolute;
+    inset-inline: 8px;
+    bottom: 8px;
+    pointer-events: none;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.85);
+}
+
+.cell-overlay-channel {
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: #ffd54d;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.cell-overlay-title {
+    margin-top: 2px;
+    font-size: 0.78rem;
+    color: #fff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+

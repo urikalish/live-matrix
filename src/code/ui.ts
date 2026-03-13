@@ -40,6 +40,7 @@ function setVideo(cellElm: HTMLDivElement, video: Video | null) {
     'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture',
   );
   cellElm.appendChild(frElm);
+  updateOverlayDetails(cellElm);
 }
 
 function replaceVideo(cellElm: HTMLDivElement) {
@@ -56,6 +57,24 @@ function getCellFromEvent(event: Event): HTMLDivElement | null {
   if (!(target instanceof HTMLElement)) return null;
   const cellElm = target.closest('.matrix-cell');
   return cellElm instanceof HTMLDivElement ? cellElm : null;
+}
+
+function updateOverlayDetails(cellElm: HTMLDivElement) {
+  const overlay = cellElm.querySelector('.cell-overlay');
+  if (!(overlay instanceof HTMLDivElement)) return;
+
+  const channelNameElm = overlay.querySelector('.cell-overlay-channel');
+  const videoTitleElm = overlay.querySelector('.cell-overlay-title');
+  if (!(channelNameElm instanceof HTMLDivElement) || !(videoTitleElm instanceof HTMLDivElement)) {
+    return;
+  }
+
+  const channelName = cellElm.dataset.channelName ?? '';
+  const videoTitle = cellElm.dataset.videoTitle ?? '';
+  channelNameElm.textContent = channelName;
+  videoTitleElm.textContent = videoTitle;
+  channelNameElm.title = channelName;
+  videoTitleElm.title = videoTitle;
 }
 
 function createOverlay(): HTMLDivElement {
@@ -119,6 +138,19 @@ function createOverlay(): HTMLDivElement {
   overlay.appendChild(pinBtn);
   overlay.appendChild(navBtn);
   overlay.appendChild(skipBtn);
+
+  const detailsElm = document.createElement('div');
+  detailsElm.classList.add('cell-overlay-details');
+
+  const channelNameElm = document.createElement('div');
+  channelNameElm.classList.add('cell-overlay-channel');
+
+  const videoTitleElm = document.createElement('div');
+  videoTitleElm.classList.add('cell-overlay-title');
+
+  detailsElm.appendChild(channelNameElm);
+  detailsElm.appendChild(videoTitleElm);
+  overlay.appendChild(detailsElm);
   return overlay;
 }
 
@@ -138,6 +170,7 @@ function renderGrid() {
     const video = videos.getVideoByIndex(i);
     setVideo(matrixCellElm, video);
     matrixCellElm.appendChild(createOverlay());
+    updateOverlayDetails(matrixCellElm);
     matrixContainerElm.appendChild(matrixCellElm);
   }
 }
