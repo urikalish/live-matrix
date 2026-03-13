@@ -3788,7 +3788,12 @@
     "id": "UC9SBZ5xzzCRj5HOTcP4z1iA",
     "handle": "@HotelHecht",
     "name": "Christian Hüttenmoser",
-    "videos": []
+    "videos": [
+      {
+        "id": "jtLh8BdmHUU",
+        "title": "Hotel East West Basel"
+      }
+    ]
   },
   {
     "id": "UC9UE5PYgoWAgDvIvTkD6dAg",
@@ -4348,7 +4353,16 @@
     "id": "UCB-zCeE3hpdWcnVaZePAwFQ",
     "handle": "@RigaZOO",
     "name": "RigaZOO",
-    "videos": []
+    "videos": [
+      {
+        "id": "n3sM1NnaC6U",
+        "title": "Rīga ZOO sliņķi"
+      },
+      {
+        "id": "-T1fw0_tKkM",
+        "title": "Rīgas Zoodārza lauvas"
+      }
+    ]
   },
   {
     "id": "UCB1PUu8IJKnIsMSKMOgT8tw",
@@ -4376,12 +4390,7 @@
     "id": "UCBRQZw3k-rB1nd1_V6FjJeA",
     "handle": "@WillClancy",
     "name": "WillClancyWildlife",
-    "videos": [
-      {
-        "id": "t1G7k6uOTEs",
-        "title": "🦅Sights and sounds of wildlife Dunoon.🐿️"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCBSkHglhgTDIPA-m_NVEN6w",
@@ -5326,12 +5335,7 @@
     "id": "UCEBeDPgugykNr0t3LvMAGXg",
     "handle": "@LocoMediaGroep",
     "name": "Loco Media Groep",
-    "videos": [
-      {
-        "id": "JkKEupWWhdM",
-        "title": "LocoMediaGroep.nl | Webcam Haven Elburg"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCED0EjiTpphqDS4GnLimLyQ",
@@ -8226,12 +8230,7 @@
     "id": "UCOcM6TPl_6U1Za8K6UDhJXQ",
     "handle": "@LiveNZCams",
     "name": "LiveNZCams",
-    "videos": [
-      {
-        "id": "GyCi9AR_D9c",
-        "title": "Caroline Bay Timaru NZ Live Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCOjscjEL-lGZVP-2uooEuCA",
@@ -8611,7 +8610,12 @@
     "id": "UCPvs-mrFpJ5MYV6FeAtvc-w",
     "handle": "@wearetaiste",
     "name": "Taiste",
-    "videos": []
+    "videos": [
+      {
+        "id": "KLQLeZ9vjt4",
+        "title": "Torilive – näe Turun kauppatori livenä"
+      }
+    ]
   },
   {
     "id": "UCQ67X9KtVFMo2h1a1AMGZZQ",
@@ -8751,12 +8755,7 @@
     "id": "UCQpBNfc0tMfCAMz15fFV9bw",
     "handle": "@HolidayIsland",
     "name": "Holiday Island",
-    "videos": [
-      {
-        "id": "thJw8Rm06X4",
-        "title": "Relaxing views of the 1000 Islands Bridge Alexandria Bay, NY"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCQsD9rKnDZ7Fik7D22bI0gw",
@@ -8880,10 +8879,6 @@
       {
         "id": "jgY12Gr1chY",
         "title": "Inside a Tawny Owl Nest - 24/7 LIVE 🔴 by Morten Hilmer"
-      },
-      {
-        "id": "RnCAl0mQgqA",
-        "title": "Birds in the Forest - 24/7 LIVE 🔴 by Morten Hilmer"
       },
       {
         "id": "F0GOOP82094",
@@ -9205,20 +9200,7 @@
     "id": "UCRiY_FP2PZHeWWuIsMKyxGA",
     "handle": "@lesarcs",
     "name": "Les Arcs",
-    "videos": [
-      {
-        "id": "SXXHa5SoAHo",
-        "title": "Les Arcs - Livecam Vagère"
-      },
-      {
-        "id": "B0vZX9GnpxI",
-        "title": "Les Arcs - Livecam Arc 2000"
-      },
-      {
-        "id": "BuB981VNriE",
-        "title": "Les Arcs - Livecam Varet"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCRjMuOBDCfSsCNIe2p0_tdg",
@@ -9362,40 +9344,7 @@
     "id": "UCSB3xOs0FgIW0uqKTqoXqhg",
     "handle": "@canmorealbertavideos",
     "name": "CanmoreAlberta.com",
-    "videos": [
-      {
-        "id": "LosHr1bonAA",
-        "title": "Views of Three Sisters from A Bear & Bison Inn"
-      },
-      {
-        "id": "Tx02Ve_s7m0",
-        "title": "The Shops of Canmore-Courtyard"
-      },
-      {
-        "id": "RdRmXqnBZ-c",
-        "title": "Ha Ling Peak from the Drake Pub and Inn"
-      },
-      {
-        "id": "B-m2VpO0p1w",
-        "title": "Live Webcam Canmore Nordic Centre"
-      },
-      {
-        "id": "-Fe7o0j58_s",
-        "title": "Railway Avenue Livecam, Canmore, Alberta"
-      },
-      {
-        "id": "qIOP6NJLlc8",
-        "title": "The Shops of Canmore-Bow Valley"
-      },
-      {
-        "id": "_0wPODlF9wU",
-        "title": "Main Street Livecam, Canmore, Alberta"
-      },
-      {
-        "id": "kC6_JqEt3GA",
-        "title": "MAIN ST. #2"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCSFrrg7k1zpt5JvQ96KjRqg",
@@ -9488,7 +9437,20 @@
     "id": "UCT-PZ211r3_9mFdF0zC1HHg",
     "handle": "@kachimai",
     "name": "十勝毎日新聞",
-    "videos": []
+    "videos": [
+      {
+        "id": "LdMY_R_ATho",
+        "title": "十勝川白鳥大橋ライブカメラ（十勝川温泉第一ホテル屋上より） Live Camera in The Hakutyo Bridge of Tokachi River, Hokkaido in Japan"
+      },
+      {
+        "id": "G2pXkb7DdPE",
+        "title": "十勝大橋ライブカメラ Live Camera in Tokachi Big Bridge over the Tokachi river, Hokkaido in Japan"
+      },
+      {
+        "id": "eKNqWXgCE1g",
+        "title": "JR帯広駅ライブカメラ Live Camera in The JR Obihiro Station, Hokkaido in Japan"
+      }
+    ]
   },
   {
     "id": "UCT4jEYvUdpdN9oUALaypGfQ",
@@ -9633,12 +9595,7 @@
     "id": "UCTkfwW5CMZjlx2R4_iCAZ_w",
     "handle": "@PabloFoxfeeder",
     "name": "Pablo Foxfeeder",
-    "videos": [
-      {
-        "id": "Aj8yopm-97c",
-        "title": "Foxheaven Dublin Ireland Livestream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCTkxSTO0A1d5_6_Nc4sVYtg",
@@ -9861,12 +9818,7 @@
     "id": "UCVARamJgetNC2PQkw7kDD0Q",
     "handle": "@johnvlissingenwebcam2437",
     "name": "John Vlissingenwebcam",
-    "videos": [
-      {
-        "id": "iEUHAvtt2fA",
-        "title": "Livestream Vlissingenwebcam 1"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCVK-LGmxFkjQEe6eV1NvQ2w",
@@ -10827,10 +10779,6 @@
         "title": "🔴Assisi Live Webcam Città"
       },
       {
-        "id": "482CzL5nYa0",
-        "title": "🔴Norcia Live Webcam"
-      },
-      {
         "id": "4cqPDoX6uws",
         "title": "🔴Assisi Live Webcam Piazza San Rufino"
       },
@@ -11196,64 +11144,7 @@
     "id": "UCagckRRHeGkG7iwPl91hUpg",
     "handle": "@LiveNorway",
     "name": "Live Norway",
-    "videos": [
-      {
-        "id": "jYThYA_ceN0",
-        "title": "Selje, Risnakken"
-      },
-      {
-        "id": "HnjVqNgAw-M",
-        "title": "Vestkapp Live"
-      },
-      {
-        "id": "jPwf4_MVpuE",
-        "title": "Port og Nordfjordeid"
-      },
-      {
-        "id": "_h_ICRmlXgg",
-        "title": "Måløy Live"
-      },
-      {
-        "id": "FwkM8B3ZiPQ",
-        "title": "Kråkenes Fyr"
-      },
-      {
-        "id": "TRcvF87YVK0",
-        "title": "Vindøldalen Live"
-      },
-      {
-        "id": "NKaFizWO6w0",
-        "title": "Hjørundfjorden Live"
-      },
-      {
-        "id": "0V59F4M3o88",
-        "title": "Port of Nordfjordeid"
-      },
-      {
-        "id": "DAZtQKreSl4",
-        "title": "Eide live"
-      },
-      {
-        "id": "RA6Jm7sv_F4",
-        "title": "Stavanger Tjuvholmen - Live"
-      },
-      {
-        "id": "0fTmFyQCxqc",
-        "title": "Nordfjordhjort Live"
-      },
-      {
-        "id": "tz5u7zWL8Xo",
-        "title": "Smøla Havfiskesenter"
-      },
-      {
-        "id": "5VoO4DGb3K4",
-        "title": "Hammerfest Havn Live"
-      },
-      {
-        "id": "XcftFX_Cwy4",
-        "title": "Bud og Hustadvika Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCauWF0JViESO8tBM1Pn7dyA",
@@ -13065,7 +12956,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "i_jsuGPxDuU",
+        "id": "8fTYfztbnhg",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -13507,10 +13398,6 @@
       {
         "id": "E8LsKcVpL5A",
         "title": "Hopkins Street @ Guadalupe Street"
-      },
-      {
-        "id": "qQBQSK7nDd4",
-        "title": "Wonder World Drive @ Hunter Road"
       }
     ]
   },
@@ -13606,12 +13493,7 @@
     "id": "UCjmqhsGQ9J1QK4r5mUrZb4A",
     "handle": "@鉄道沿線の生活",
     "name": "Life along the railroad line",
-    "videos": [
-      {
-        "id": "kTTC9YXG2vM",
-        "title": "名古屋駅 ライブカメラ 愛知 鉄道 新幹線 天気 夜景 【4K配信】 Japan Nagoya Live Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCjpE7UdNq6oK5mOBKGjpjgA",
@@ -14260,7 +14142,12 @@
     "id": "UClcicFOBsxXQxaQnT1RshJg",
     "handle": "@axis-air",
     "name": "Axis Air",
-    "videos": []
+    "videos": [
+      {
+        "id": "MfqAgiqY4-0",
+        "title": "Live Weather Camera at Oxnard Airport (KOXR) | Axis Air FBO | Ventura County, CA"
+      }
+    ]
   },
   {
     "id": "UCliCEXR9eSmY9PDb2lXov7Q",
@@ -14517,14 +14404,6 @@
     "handle": "@TheRealSamuiWebcam",
     "name": "The Real Samui Webcam",
     "videos": [
-      {
-        "id": "bbBGNNPu0rg",
-        "title": "🔴 LIVE The Shack Fisherman's Village Bophut | Koh Samui Street Webcam | Thailand 24/7 | 2160p 4K"
-      },
-      {
-        "id": "kkVrj2cr9Ko",
-        "title": "🔴 LIVE Crystal Bay Yacht Club Lamai | Koh Samui Beach Webcam | Thailand 24/7 | 2160p 4K"
-      },
       {
         "id": "OBJ5Q0lWbqk",
         "title": "🔴 Tropical Murphy's Irish Pub | Live Webcam Stream | Chaweng | Koh Samui | Thailand | 2160p UHD 4K"
@@ -14829,7 +14708,12 @@
     "id": "UCncqAXYYeVTwM2KwynoGJmg",
     "handle": "@DurangoMe",
     "name": "Durango Dot Me",
-    "videos": []
+    "videos": [
+      {
+        "id": "PnuW0CYMq3o",
+        "title": "Live Siesta Motel Cactus Cam"
+      }
+    ]
   },
   {
     "id": "UCne6b1whLLhDRJ-IXWNWZbQ",
@@ -15952,10 +15836,6 @@
         "title": "🔴 Foios en Directo 4K Panoramic 180º 24/7 | Webcam Valencia España en Vivo"
       },
       {
-        "id": "dVAtjVi7bUQ",
-        "title": "🍊 WEBCAM EN #DIRECTO #LIVE 24h DESDE #VALENCIA | by #WOLKAM"
-      },
-      {
         "id": "N2IjgStpnNE",
         "title": "🔴 EN DIRECTO UBIÑAS- BABIA - http://www.babia2miles.com"
       },
@@ -17064,7 +16944,12 @@
     "id": "UCtZdd8-WlpOVxDaWbbeTmZQ",
     "handle": "@BatsiLiveStreaming",
     "name": "Batsi Live Streaming",
-    "videos": []
+    "videos": [
+      {
+        "id": "yL-zfzX6qd8",
+        "title": "Port of Batsi Live Stream"
+      }
+    ]
   },
   {
     "id": "UCtllXAWa3EcfcsL5tvpqGSw",
@@ -17887,12 +17772,7 @@
     "id": "UCwh4LBW-FLuLVjD92NL-Cpw",
     "handle": "@newglasgowns",
     "name": "Town of New Glasgow, Nova Scotia Canada",
-    "videos": [
-      {
-        "id": "nsa_uhhiogA",
-        "title": "New Glasgow, Nova Scotia, Canada - East River Weathercam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCwyuvrVtIg0xjH2qPufk3RQ",
