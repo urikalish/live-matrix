@@ -368,6 +368,8 @@ async function go() {
 
     await Promise.all(Array.from({ length: CONCURRENCY }, () => worker()));
 
+    console.error(`Organizing results...`);
+
     const dataObj = results
       .filter((result) => result?.ok)
       .sort((a, b) => a.index - b.index)
