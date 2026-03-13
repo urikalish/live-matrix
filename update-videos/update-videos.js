@@ -1,6 +1,6 @@
 import * as cheerio from 'cheerio';
 import { config as loadEnv } from 'dotenv';
-import { writeFileSync, mkdirSync } from 'fs';
+import { writeFileSync, mkdirSync, readFileSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import channelIds from './channel-ids.json' with { type: 'json' };
@@ -382,6 +382,26 @@ function writeDataObjectToFile(dataObject, dirPath, fileName) {
   }
 }
 
+function readDataObjectFromFile(dirPath, fileName) {
+  const fullFilePath = `${dirPath}/${fileName}`;
+  try {
+    const outDir = resolve(__dirname, dirPath);
+    const raw = readFileSync(resolve(outDir, fileName), 'utf8');
+    const parsed = JSON.parse(raw);
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    // Missing/invalid file is expected on first run; start with empty history.
+    console.log(`No existing ${fullFilePath}; starting fresh.`);
+    return [];
+  }
+}
+
+function getChannelTrackingKey(channel) {
+  if (channel?.id) return `id:${channel.id}`;
+  if (channel?.handle) return `handle:${channel.handle}`;
+  return `name:${channel?.name ?? ''}`;
+}
+
 /* ------------------------------------------------------------------------------------------------------------------ */
 
 async function processChannel(channelId, index, total) {
@@ -453,6 +473,30 @@ async function go() {
     }
 
     writeDataObjectToFile(dataObj, '../src/public', 'videos.json');
+
+    // Rebuild from current run so channels with videos are automatically removed.
+    // Keep the first date a channel was observed with zero live videos.
+    const previousNoVideos = readDataObjectFromFile('.', 'channels-no-videos.json');
+    const firstSeenDateByKey = new Map(
+      previousNoVideos
+        .filter((channel) => channel && typeof channel.date === 'string' && channel.date)
+        .map((channel) => [getChannelTrackingKey(channel), channel.date]),
+    );
+
+    const today = new Date().toISOString().slice(0, 10);
+    const channelsNoVideos = dataObj
+      .filter((channel) => (channel.videos?.length ?? 0) === 0)
+      .map((channel) => {
+        const id = channel.id ?? '';
+        const handle = channel.handle ?? '';
+        const name = channel.name ?? '';
+        const key = getChannelTrackingKey({ id, handle, name });
+        const firstSeenDate = firstSeenDateByKey.get(key) ?? today;
+        return { id, handle, name, date: firstSeenDate };
+      })
+      .sort((a, b) => a.id.localeCompare(b.id));
+
+    writeDataObjectToFile(channelsNoVideos, '.', 'channels-no-videos.json');
 
     const totalVideos = dataObj.reduce((sum, channel) => sum + (channel.videos?.length ?? 0), 0);
     const elapsedMs = Date.now() - startedAt;

@@ -5,10 +5,6 @@
     "name": "Ken Little",
     "videos": [
       {
-        "id": "WM2c68qsDnM",
-        "title": "LIVE 4K Alabama Bird Cam (Over 60 Species Identified)!"
-      },
-      {
         "id": "8WpU18Upma4",
         "title": "LIVE 4K Garden and Critter Cam in Alabama (over 60+ Species at Feeder Station)"
       }
@@ -646,12 +642,7 @@
     "id": "UC15QFO-cdISk-4Sn5CPd78g",
     "handle": "@niagarafallslive1566",
     "name": "Niagara Falls Live",
-    "videos": [
-      {
-        "id": "cf4YkyGk6Tk",
-        "title": "Niagara Falls Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC18wIshJBimh3cAVbsxnkqg",
@@ -2727,34 +2718,6 @@
       {
         "id": "77akujLn4k8",
         "title": "EarthCam Live - Western Wall  (Jerusalem, Israel)"
-      },
-      {
-        "id": "y96JqPFif64",
-        "title": "EarthCam Live: Snowman Cam - Animals and Wildlife (Gaylord, Michigan)"
-      },
-      {
-        "id": "iKmzggEUU0I",
-        "title": "EarthCam Live:  Seaside Heights, NJ - North View"
-      },
-      {
-        "id": "Ksrleaxxxhw",
-        "title": "EarthCam Live: New Orleans Street View"
-      },
-      {
-        "id": "3nyPER2kzqk",
-        "title": "EarthCam Live: Dublin, Ireland"
-      },
-      {
-        "id": "M3EYAY2MftI",
-        "title": "EarthCam Live:  Abbey Road Crossing (London, England)"
-      },
-      {
-        "id": "_5zWp0bMgcI",
-        "title": "EarthCam Live:  Aquarium Cam (Baltimore, Maryland)"
-      },
-      {
-        "id": "rnXIjl_Rzy4",
-        "title": "EarthCam Live:  Times Square in 4K"
       }
     ]
   },
@@ -2929,10 +2892,6 @@
     "handle": "@LeSanctuaireNotreDamedeLourdes",
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
-      {
-        "id": "NN2yOQp3ndk",
-        "title": "Rosario di Lourdes - 13/03/2026"
-      },
       {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
@@ -3822,12 +3781,7 @@
     "id": "UC9Vpdl7WbXchXZRt5tXPjkg",
     "handle": "@BuffaloStadiumLive",
     "name": "Buffalo Stadium Live",
-    "videos": [
-      {
-        "id": "23honLDP9IA",
-        "title": "Buffalo Bills New Stadium Construction Live-Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC9X6gGKDv2yhMoofoeS7-Gg",
@@ -5019,8 +4973,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "FEDEigpyI1w",
-        "title": "【 Archive】 2026-03-14『00:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "4Sl8tE5Yvs4",
+        "title": "【 Archive】 2026-03-14『03:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -5335,7 +5289,12 @@
     "id": "UCEBeDPgugykNr0t3LvMAGXg",
     "handle": "@LocoMediaGroep",
     "name": "Loco Media Groep",
-    "videos": []
+    "videos": [
+      {
+        "id": "JkKEupWWhdM",
+        "title": "LocoMediaGroep.nl | Webcam Haven Elburg"
+      }
+    ]
   },
   {
     "id": "UCED0EjiTpphqDS4GnLimLyQ",
@@ -6489,12 +6448,7 @@
     "id": "UCJ0y2sG32CqI5P-YMt_FCXg",
     "handle": "@haugergolfcam476",
     "name": "HaugerGolfCam",
-    "videos": [
-      {
-        "id": "wIoKWDNPVlQ",
-        "title": "Live Camera Axis M1125"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCJ74aiHB5JP3JJQyb8HdNdA",
@@ -7490,12 +7444,7 @@
     "id": "UCLRkl6duS5DBTVNKcbXJ2iA",
     "handle": "@BarryYachtClub",
     "name": "Barry Yacht Club",
-    "videos": [
-      {
-        "id": "uBEtMScNAIc",
-        "title": "Barry Yacht Club Live Webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCLTYXg2LkraaBZyd431pF7g",
@@ -8733,12 +8682,7 @@
     "id": "UCQc7Ol2itgbnMXPjZmPdRRQ",
     "handle": "@AaronPreslin",
     "name": "Aaron Preslin",
-    "videos": [
-      {
-        "id": "OEHt98ZDU3M",
-        "title": "Cincinnati Skyline, Ohio River, Brent Spence Bridge - Livestream from Covington, Kentucky"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCQmlVF-VRx75AflM-9gJytg",
@@ -8755,7 +8699,12 @@
     "id": "UCQpBNfc0tMfCAMz15fFV9bw",
     "handle": "@HolidayIsland",
     "name": "Holiday Island",
-    "videos": []
+    "videos": [
+      {
+        "id": "thJw8Rm06X4",
+        "title": "Relaxing views of the 1000 Islands Bridge Alexandria Bay, NY"
+      }
+    ]
   },
   {
     "id": "UCQsD9rKnDZ7Fik7D22bI0gw",
@@ -9200,7 +9149,20 @@
     "id": "UCRiY_FP2PZHeWWuIsMKyxGA",
     "handle": "@lesarcs",
     "name": "Les Arcs",
-    "videos": []
+    "videos": [
+      {
+        "id": "SXXHa5SoAHo",
+        "title": "Les Arcs - Livecam Vagère"
+      },
+      {
+        "id": "B0vZX9GnpxI",
+        "title": "Les Arcs - Livecam Arc 2000"
+      },
+      {
+        "id": "BuB981VNriE",
+        "title": "Les Arcs - Livecam Varet"
+      }
+    ]
   },
   {
     "id": "UCRjMuOBDCfSsCNIe2p0_tdg",
@@ -9344,7 +9306,40 @@
     "id": "UCSB3xOs0FgIW0uqKTqoXqhg",
     "handle": "@canmorealbertavideos",
     "name": "CanmoreAlberta.com",
-    "videos": []
+    "videos": [
+      {
+        "id": "LosHr1bonAA",
+        "title": "Views of Three Sisters from A Bear & Bison Inn"
+      },
+      {
+        "id": "Tx02Ve_s7m0",
+        "title": "The Shops of Canmore-Courtyard"
+      },
+      {
+        "id": "RdRmXqnBZ-c",
+        "title": "Ha Ling Peak from the Drake Pub and Inn"
+      },
+      {
+        "id": "B-m2VpO0p1w",
+        "title": "Live Webcam Canmore Nordic Centre"
+      },
+      {
+        "id": "-Fe7o0j58_s",
+        "title": "Railway Avenue Livecam, Canmore, Alberta"
+      },
+      {
+        "id": "qIOP6NJLlc8",
+        "title": "The Shops of Canmore-Bow Valley"
+      },
+      {
+        "id": "_0wPODlF9wU",
+        "title": "Main Street Livecam, Canmore, Alberta"
+      },
+      {
+        "id": "kC6_JqEt3GA",
+        "title": "MAIN ST. #2"
+      }
+    ]
   },
   {
     "id": "UCSFrrg7k1zpt5JvQ96KjRqg",
@@ -9818,7 +9813,12 @@
     "id": "UCVARamJgetNC2PQkw7kDD0Q",
     "handle": "@johnvlissingenwebcam2437",
     "name": "John Vlissingenwebcam",
-    "videos": []
+    "videos": [
+      {
+        "id": "iEUHAvtt2fA",
+        "title": "Livestream Vlissingenwebcam 1"
+      }
+    ]
   },
   {
     "id": "UCVK-LGmxFkjQEe6eV1NvQ2w",
@@ -10647,23 +10647,13 @@
     "id": "UCZdjU2sWPeLjmh75zOxekUg",
     "handle": "@portqc",
     "name": "Port Quebec",
-    "videos": [
-      {
-        "id": "I-7mv4-BJ7M",
-        "title": "Port de Québec"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCZqr-kHlRzGyCgh7BHksSAw",
     "handle": "@canneswebcamboulevarddumid3987",
     "name": "Cannes webcam : Boulevard du midi",
-    "videos": [
-      {
-        "id": "z6BNMoj9Pyo",
-        "title": "🔴 LIVE WEBCAM CANNES - Boulevard du Midi"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCZvXaNYIcapCEcaJe_2cP7A",
@@ -10874,7 +10864,12 @@
     "id": "UC__vsLbIjiHwYy2-zODXipA",
     "handle": "@Saquaremar",
     "name": "Saquaremar",
-    "videos": []
+    "videos": [
+      {
+        "id": "IYXEq80oafY",
+        "title": "Saquarema ao vivo / Direto da praia"
+      }
+    ]
   },
   {
     "id": "UC_cmEauzsnJ4trDXLiIug1Q",
@@ -10988,12 +10983,7 @@
     "id": "UCaEdUtLbgjtDdfZfDYCllXQ",
     "handle": "@PraiaItanhaem",
     "name": "Itanhaém Praia",
-    "videos": [
-      {
-        "id": "-Hkfnm0kD4Y",
-        "title": "Praia dos sonhos - Itanhaém SP.       PRAIA AO VIVO"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCaHr0a1x8zmQ1dxanCeuesA",
@@ -11144,7 +11134,64 @@
     "id": "UCagckRRHeGkG7iwPl91hUpg",
     "handle": "@LiveNorway",
     "name": "Live Norway",
-    "videos": []
+    "videos": [
+      {
+        "id": "jYThYA_ceN0",
+        "title": "Selje, Risnakken"
+      },
+      {
+        "id": "HnjVqNgAw-M",
+        "title": "Vestkapp Live"
+      },
+      {
+        "id": "jPwf4_MVpuE",
+        "title": "Port og Nordfjordeid"
+      },
+      {
+        "id": "_h_ICRmlXgg",
+        "title": "Måløy Live"
+      },
+      {
+        "id": "FwkM8B3ZiPQ",
+        "title": "Kråkenes Fyr"
+      },
+      {
+        "id": "TRcvF87YVK0",
+        "title": "Vindøldalen Live"
+      },
+      {
+        "id": "NKaFizWO6w0",
+        "title": "Hjørundfjorden Live"
+      },
+      {
+        "id": "0V59F4M3o88",
+        "title": "Port of Nordfjordeid"
+      },
+      {
+        "id": "DAZtQKreSl4",
+        "title": "Eide live"
+      },
+      {
+        "id": "RA6Jm7sv_F4",
+        "title": "Stavanger Tjuvholmen - Live"
+      },
+      {
+        "id": "0fTmFyQCxqc",
+        "title": "Nordfjordhjort Live"
+      },
+      {
+        "id": "tz5u7zWL8Xo",
+        "title": "Smøla Havfiskesenter"
+      },
+      {
+        "id": "5VoO4DGb3K4",
+        "title": "Hammerfest Havn Live"
+      },
+      {
+        "id": "XcftFX_Cwy4",
+        "title": "Bud og Hustadvika Live"
+      }
+    ]
   },
   {
     "id": "UCauWF0JViESO8tBM1Pn7dyA",
@@ -14013,7 +14060,12 @@
     "id": "UCkM6bT22N_Rgl5Y6Sv2JPUg",
     "handle": "@belemaovivo",
     "name": "Belém-PA ao vivo em 4K",
-    "videos": []
+    "videos": [
+      {
+        "id": "GftXujSsjJY",
+        "title": "Live in Belém 24h"
+      }
+    ]
   },
   {
     "id": "UCkOCNLYCrkvyL6l04mzycjw",
@@ -14056,28 +14108,7 @@
     "id": "UCkZ-Wllch8bWLe-6dSNRsfQ",
     "handle": "@ixyzih",
     "name": "Ixtapa y Zihuatanejo",
-    "videos": [
-      {
-        "id": "e756N1tufY8",
-        "title": "🔴  Zihuatanejo - En vivo Playa La Ropa"
-      },
-      {
-        "id": "zmT7fuaKSws",
-        "title": "🔴  Zihuatanejo - En vivo Playa Principal"
-      },
-      {
-        "id": "lknG7R3fDas",
-        "title": "🔴  Zihuatanejo  -  En vivo Estación Meteorológica ☀️🌴"
-      },
-      {
-        "id": "WXi5sp4hZ0k",
-        "title": "🔴   Zihuatanejo - En vivo Muelle Principal"
-      },
-      {
-        "id": "btSfGGIn_Eo",
-        "title": "🔴  Zihuatanejo - En vivo Playa La Madera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCkiqDO1CTcCyxlsGXnC8WvA",
@@ -17772,7 +17803,12 @@
     "id": "UCwh4LBW-FLuLVjD92NL-Cpw",
     "handle": "@newglasgowns",
     "name": "Town of New Glasgow, Nova Scotia Canada",
-    "videos": []
+    "videos": [
+      {
+        "id": "nsa_uhhiogA",
+        "title": "New Glasgow, Nova Scotia, Canada - East River Weathercam"
+      }
+    ]
   },
   {
     "id": "UCwyuvrVtIg0xjH2qPufk3RQ",
@@ -18253,8 +18289,8 @@
     "name": "HANS NATURE CHANNEL",
     "videos": [
       {
-        "id": "WVXQ0b9c9wU",
-        "title": "🦉 Tawny Owl Day Live | 3 Eggs Under Her Wings 🥚🥚🥚 When Will the First Chick Hatch?"
+        "id": "D85J9iULa7Q",
+        "title": "🦉 Tawny Owl Night Live | Male’s Hunting Missions 🦉🐭 Can He Keep Up With 3 Eggs Through the Night? 🌙"
       },
       {
         "id": "jcQKuTRFFJ4",
