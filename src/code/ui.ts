@@ -179,9 +179,33 @@ function handleWindowResize() {
   renderGrid();
 }
 
+function shuffleUnpinnedCellsOnly() {
+  const matrixContainerElm = getMatrixContainer();
+  if (!matrixContainerElm) {
+    renderGrid();
+    return;
+  }
+
+  const unpinnedVideos = videos.getUnpinnedVideos();
+  let unpinnedVideoIndex = 0;
+  const matrixCellElements = matrixContainerElm.querySelectorAll('.matrix-cell');
+
+  matrixCellElements.forEach((cellElm) => {
+    if (!(cellElm instanceof HTMLDivElement)) return;
+    if (cellElm.classList.contains('pinned')) return;
+
+    const nextVideo = unpinnedVideos[unpinnedVideoIndex++];
+    if (!nextVideo) return;
+
+    const iframe = cellElm.querySelector('iframe');
+    if (iframe) iframe.remove();
+    setVideo(cellElm, nextVideo);
+  });
+}
+
 function handleShuffle() {
   videos.shuffleVideos();
-  renderGrid();
+  shuffleUnpinnedCellsOnly();
 }
 
 function handleLayoutChange() {

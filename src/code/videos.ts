@@ -174,6 +174,10 @@ export function shuffleVideos() {
   shuffleAllVideos();
 }
 
+export function getUnpinnedVideos(): Video[] {
+  return _allVideos.filter((video) => !video.pinned);
+}
+
 export function setVideoPinned(videoId: string, pinned: boolean): boolean {
   const video = getVideoById(videoId);
   if (!video) return false;
