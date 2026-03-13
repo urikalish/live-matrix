@@ -85,7 +85,7 @@ function shuffleAllVideos() {
   while (currentIndex > 0) {
     const randomIndex = Math.floor(Math.random() * currentIndex);
     currentIndex--;
-    [unpinned[currentIndex], unpinned[randomIndex]] = [
+    [unpinned[currentIndex], unpinned[randomIndex] ] = [
       unpinned[randomIndex],
       unpinned[currentIndex],
     ];
@@ -153,6 +153,10 @@ export function getVideoIdByIndex(videoIndex: number) {
 
 export function getYouTubeVideoSrc(videoId: string) {
   return `https://www.youtube.com/embed/${encodeURIComponent(videoId)}?autohide=1&autoplay=1&controls=0&disablekb=1&iv_load_policy=3&modestbranding=1&mute=1&playsinline=1&rel=0&showinfo=0&vq=hd1080`;
+}
+
+export function getYouTubeThumbnailSrc(videoId: string) {
+  return `https://i.ytimg.com/vi/${encodeURIComponent(videoId)}/hqdefault.jpg`;
 }
 
 export function getRandomVideo(excludeVideoId?: string): Video | null {

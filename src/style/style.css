@@ -111,6 +111,30 @@ body {
 .matrix-cell {
     position: relative;
     aspect-ratio: 16 / 9;
+    overflow: hidden;
+}
+
+.matrix-cell-thumbnail,
+.matrix-cell-iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.matrix-cell-thumbnail {
+    z-index: 0;
+    object-fit: cover;
+}
+
+.matrix-cell-iframe {
+    z-index: 0;
+    opacity: 1;
+    transition: opacity 0.2s ease;
+}
+
+.matrix-cell.video-loading .matrix-cell-iframe {
+    opacity: 0;
 }
 
 .matrix-cell.pinned::after {

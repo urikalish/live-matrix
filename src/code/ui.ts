@@ -18,6 +18,16 @@ function getCellHeight() {
   return (getCellWidth() * 9) / 16;
 }
 
+function clearVideoElements(cellElm: HTMLDivElement) {
+  const iframe = cellElm.querySelector('iframe');
+  if (iframe) iframe.remove();
+
+  const thumbnailElm = cellElm.querySelector('.matrix-cell-thumbnail');
+  if (thumbnailElm) thumbnailElm.remove();
+
+  cellElm.classList.remove('video-loading');
+}
+
 function setVideo(cellElm: HTMLDivElement, video: Video | null) {
   if (video === null) {
     return;
@@ -28,8 +38,19 @@ function setVideo(cellElm: HTMLDivElement, video: Video | null) {
   cellElm.dataset.channelHandle = video.channel.handle;
   cellElm.dataset.channelName = video.channel.name;
   cellElm.classList.toggle('pinned', video.pinned);
+
+  const thumbnailElm = document.createElement('img');
+  thumbnailElm.classList.add('matrix-cell-thumbnail');
+  thumbnailElm.src = videos.getYouTubeThumbnailSrc(video.id);
+  thumbnailElm.alt = video.title;
+  thumbnailElm.width = getCellWidth();
+  thumbnailElm.height = getCellHeight();
+  cellElm.classList.add('video-loading');
+  cellElm.appendChild(thumbnailElm);
+
   const src = videos.getYouTubeVideoSrc(video.id);
   const frElm = document.createElement('iframe');
+  frElm.classList.add('matrix-cell-iframe');
   frElm.src = src;
   frElm.width = `${getCellWidth()}`;
   frElm.height = `${getCellHeight()}`;
@@ -39,6 +60,11 @@ function setVideo(cellElm: HTMLDivElement, video: Video | null) {
     'allow',
     'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture',
   );
+  frElm.addEventListener('load', () => {
+    const currentThumbnailElm = cellElm.querySelector('.matrix-cell-thumbnail');
+    if (currentThumbnailElm) currentThumbnailElm.remove();
+    cellElm.classList.remove('video-loading');
+  });
   cellElm.appendChild(frElm);
   updateOverlayDetails(cellElm);
 }
@@ -47,8 +73,7 @@ function replaceVideo(cellElm: HTMLDivElement) {
   const currentVideoId = cellElm.dataset.videoId;
   const newVideo = videos.getRandomVideo(currentVideoId);
   if (!newVideo) return;
-  const iframe = cellElm.querySelector('iframe');
-  if (iframe) iframe.remove();
+  clearVideoElements(cellElm);
   setVideo(cellElm, newVideo);
 }
 
@@ -197,8 +222,7 @@ function shuffleUnpinnedCellsOnly() {
     const nextVideo = unpinnedVideos[unpinnedVideoIndex++];
     if (!nextVideo) return;
 
-    const iframe = cellElm.querySelector('iframe');
-    if (iframe) iframe.remove();
+    clearVideoElements(cellElm);
     setVideo(cellElm, nextVideo);
   });
 }
@@ -220,3 +244,4 @@ export async function init() {
   videos.shuffleVideos();
   renderGrid();
 }
+
