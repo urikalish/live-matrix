@@ -173,17 +173,11 @@ body {
     font-size: 0.72rem;
     font-weight: 700;
     color: #ffd54d;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
 }
 
 .cell-overlay-title {
     margin-top: 2px;
     font-size: 0.78rem;
     color: #fff;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
 }
 
