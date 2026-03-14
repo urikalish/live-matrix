@@ -7,7 +7,7 @@
 }
 
 :root {
-    --font--default: Play,
+    --font-default: Play,
             system-ui,
             -apple-system,
             'Segoe UI',
@@ -21,7 +21,7 @@
     color: #fff;
 }
 body {
-    font-family: var(--font--default);
+    font-family: var(--font-default), sans-serif;
     min-height: 100vh;
     overflow: hidden;
     background-color: #000;
@@ -133,7 +133,7 @@ body {
 .masthead-search-result-meta,
 .masthead-search-empty {
     margin-top: 2px;
-    font-family: var(--font--default);
+    font-family: var(--font-default), sans-serif;
     font-size: 0.72rem;
 }
 
