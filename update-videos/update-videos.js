@@ -494,7 +494,13 @@ async function go() {
         const firstSeenDate = firstSeenDateByKey.get(key) ?? today;
         return { id, handle, name, date: firstSeenDate };
       })
-      .sort((a, b) => a.id.localeCompare(b.id));
+      .sort(
+        (a, b) =>
+          a.date.localeCompare(b.date) ||
+          a.id.localeCompare(b.id) ||
+          a.handle.localeCompare(b.handle) ||
+          a.name.localeCompare(b.name),
+      );
 
     writeDataObjectToFile(channelsNoVideos, '.', 'channels-no-videos.json');
 

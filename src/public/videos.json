@@ -124,12 +124,7 @@
     "id": "UC-G-G7Z2pfUz9e5BBApHp9w",
     "handle": "@buckhillmn",
     "name": "Buck Hill",
-    "videos": [
-      {
-        "id": "2WzUGFz03v8",
-        "title": "Buck Hill Plaza"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-HQ-oPvL148RmDxpV4jzlQ",
@@ -1642,6 +1637,10 @@
     "handle": "@valfiorentinalive",
     "name": "Val Fiorentina Dolomites Italy",
     "videos": [
+      {
+        "id": "79Ob2mKLEh0",
+        "title": "Webcam Monte Fertazza Dolomiti - Ristoro Belvedere - Selva di Cadore - Italy"
+      },
       {
         "id": "0006zDOzcPM",
         "title": "LiveCam Val Fiorentina - Ski Civetta - Selva di Cadore - Dolomiti Italy"
@@ -5173,12 +5172,7 @@
     "id": "UCDL2IVxAgPI7wybiUlQKrWg",
     "handle": "@romafivesuites",
     "name": "Roma Five Suites",
-    "videos": [
-      {
-        "id": "muYPmhF8sH8",
-        "title": "Roma Five Suites - Piazza Venezia - Live Webcam from Rome"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDOREphwc9P-ul7YEHiBWqw",
@@ -5195,7 +5189,16 @@
     "id": "UCDPUOq2ADKZwRleMUImX-Ww",
     "handle": "@WeatherEvents",
     "name": "WeatherEvents",
-    "videos": []
+    "videos": [
+      {
+        "id": "9eKzgA3Af7k",
+        "title": "Aberdour Live Streaming WeatherCam - FifeWeather.co.uk"
+      },
+      {
+        "id": "T09aQp1CqBI",
+        "title": "Lochgelly Live Streaming WeatherCam - FifeWeather.co.uk"
+      }
+    ]
   },
   {
     "id": "UCDQ9-OMttGoiRHzLrg-xKRA",
@@ -6428,12 +6431,7 @@
     "id": "UCISmkFSH-melI4eancXEF8A",
     "handle": "@campingjanse",
     "name": "Camping Janse Zoutelande",
-    "videos": [
-      {
-        "id": "9yYWoKgoscM",
-        "title": "Camping Janse Zoutelande - Live webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCIY3JMAcniBR8ngBw6OYvTA",
@@ -7117,12 +7115,7 @@
     "id": "UCK_2jzTMkgBMalwh49VFh1Q",
     "handle": "@mcmedia-control1976",
     "name": "MC media-control",
-    "videos": [
-      {
-        "id": "JBKs0WYlbHQ",
-        "title": "Webcam Baden-Baden"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCKcvqfa1-sVpyyxT6lzn7Fg",
@@ -7486,12 +7479,7 @@
     "id": "UCLTYXg2LkraaBZyd431pF7g",
     "handle": "@bonnyhillsbeachhouse",
     "name": "Bonny Hills Beach House",
-    "videos": [
-      {
-        "id": "sEDAkQXVt54",
-        "title": "Bonny Hills Beach House BEACHCAM Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCL_Pe20HICTxJsTB5O5g8Yg",
@@ -9785,10 +9773,6 @@
     "name": "Vacation Myrtle Beach",
     "videos": [
       {
-        "id": "lrnnYQTOb-g",
-        "title": "Myrtle Beach Sunrise 03/14/2026"
-      },
-      {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
       },
@@ -9978,7 +9962,12 @@
     "id": "UCW1DIPA5POQZ1Jh1x_vl_uQ",
     "handle": "@wickinnbc",
     "name": "Wickaninnish Inn",
-    "videos": []
+    "videos": [
+      {
+        "id": "QObYtC5NUPM",
+        "title": "Wickaninnish Inn Live Stream [With Audio]"
+      }
+    ]
   },
   {
     "id": "UCW3Vc0gEOccJrQC-a25nGdg",
@@ -10469,32 +10458,7 @@
     "id": "UCYP2o52KVpbcd8Y23moa2KA",
     "handle": "@CarolinaWebcamStreaming",
     "name": "Carolina Webcam Streaming",
-    "videos": [
-      {
-        "id": "qXDbRKyhDdY",
-        "title": "Sunset Beach Webcam by sunsetbeachsales.com"
-      },
-      {
-        "id": "8e3gfzRQNqA",
-        "title": "Sunset Beach Waterway & Bridge Webcam by sunsetbeachsales.com"
-      },
-      {
-        "id": "DscmQzgXAYw",
-        "title": "Sunset Beach Pier Webcam by sunsetbeachsales.com"
-      },
-      {
-        "id": "9kBHbE8Y7uc",
-        "title": "Jinks Creek Ocean Isle Beach Webcam"
-      },
-      {
-        "id": "sBtvpwKH2BE",
-        "title": "Holden Beach Webcam by holdenbeachvacations.com"
-      },
-      {
-        "id": "nVUI6lDy0Bc",
-        "title": "Ocean Isle Marina & Yacht Club Webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCYUbNjkuE4lsr2v1Id2O1oA",
@@ -11642,12 +11606,7 @@
     "id": "UCd0Aa89g9hbSQC-APdXWNNg",
     "handle": "@ismannen",
     "name": "ole petter løbak (ice_baby)",
-    "videos": [
-      {
-        "id": "K74VUl0QJAQ",
-        "title": "Soi Buakhao, Pattaya Live, Thailand"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCd2vrRsPAJNJzQ-Vo-KfItA",
@@ -11940,12 +11899,7 @@
     "id": "UCeNktV2RfYebcfLWKe1FgYg",
     "handle": "@moneglialivelevante6125",
     "name": "Moneglia Live Levante",
-    "videos": [
-      {
-        "id": "Mw2R0FV7FP8",
-        "title": "Live streaming di Moneglia Live Levante"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCeYgipfMsfisw0XxXVzbyOA",
@@ -11966,12 +11920,7 @@
     "id": "UCef_Yfk6baScsTCcDxzXE5Q",
     "handle": "@Reef-SA",
     "name": "REEF SOUTH AFRICA",
-    "videos": [
-      {
-        "id": "TnI3zvg4yB4",
-        "title": "Muizenberg Beach Live Webcam | REEF South Africa  @Reef-SA"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCefcZWd7iNbBwydSPCOlOTw",
@@ -14359,76 +14308,7 @@
     "id": "UCmGJrhK3VM4BSOGF6g5pmZw",
     "handle": "@Weercamera",
     "name": "Weathercam",
-    "videos": [
-      {
-        "id": "7KXim_pTDD4",
-        "title": "🔴 Webcam @ Zeedijk Nieuwpoort - Hotel Sandeshoved"
-      },
-      {
-        "id": "GUyebtSui5A",
-        "title": "🔴 Webcam @ Knokke-Heist Belgium - Lakeside Paradise"
-      },
-      {
-        "id": "NebcksVE-Tk",
-        "title": "🔴Live Webcam @ Virginie Lovelinggebouw Ghent - Inside Nest"
-      },
-      {
-        "id": "agmAdlmdEpc",
-        "title": "🔴Live Webcam @ Virginie Lovelinggebouw Ghent - Outside Nest"
-      },
-      {
-        "id": "ELUtEnMBS6k",
-        "title": "🔴 Live Webcam @ Het Zwin - Knokke-Heist"
-      },
-      {
-        "id": "a6v5zNvcIzQ",
-        "title": "🔴 Webcam @ Middelkerke Zeedijk - Hotel Excelsior"
-      },
-      {
-        "id": "fPc6v5QFTcE",
-        "title": "🔴 Live Webcam @ Zeedijk - Knokke-Heist"
-      },
-      {
-        "id": "AZeifyx8GaA",
-        "title": "🔴 Live Webcam @ Hotel Helios C-Hotels - Blankenberge Belgium"
-      },
-      {
-        "id": "HQpfmh27VMs",
-        "title": "🔴 Live Webcam @ Beach Zeebrugge - Surfclub Icarus"
-      },
-      {
-        "id": "aZGlZaZK1m4",
-        "title": "🔴 Live Webcam @ Hotel Les Mouettes - Wenduine Belgium"
-      },
-      {
-        "id": "wEeJfBE8ecM",
-        "title": "🔴 Live Webcam @ Brasserie Leopold I - De Panne Belgium"
-      },
-      {
-        "id": "I09L5RCJkjo",
-        "title": "🔴 Live Webcam @ Hotel Andromeda C-Hotels - Oostende Belgium"
-      },
-      {
-        "id": "__akfUoCbxw",
-        "title": "🔴 Live Webcam @ River Woods Beach Club - Knokke"
-      },
-      {
-        "id": "YExjEi4p118",
-        "title": "🔴 Live Webcam @ Domein Aan De Plas - Brugge, Belgium"
-      },
-      {
-        "id": "ThVtj7egCKY",
-        "title": "🔴 Live Webcam @ Anemos Heist - Belgium"
-      },
-      {
-        "id": "mU08nJaIlIg",
-        "title": "🔴 Live Webcam @ Nieuwpoort Belgian Coast - Brasserie Casino"
-      },
-      {
-        "id": "Sx-oMVmNoPA",
-        "title": "🔴 Live Webcam @ Surfers Paradise Knokke Belgium"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCmM8fJ5uDl8pqu8nnd8Ixlg",
@@ -16718,16 +16598,7 @@
     "id": "UCsFgbVuhRrPV5FqyN7kOD8g",
     "handle": "@FOBBVCAM",
     "name": "FOBBV CAM",
-    "videos": [
-      {
-        "id": "41eq4VzCYc4",
-        "title": "Big Bear Bald Eagle Wide View - Cam 2"
-      },
-      {
-        "id": "B4-L2nfGcuE",
-        "title": "Big Bear Bald Eagle Live Nest - Cam 1"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCsGBhUD-AhuP4t1xoJ0F-vw",
@@ -17015,12 +16886,7 @@
     "id": "UCtUDoNuFU5NPWJlMfPHKoZw",
     "handle": "@CommanderCamera-qv3xl",
     "name": "Gateway Subaru Camera at The Commander Hotel",
-    "videos": [
-      {
-        "id": "zCEiot7sEWY",
-        "title": "Gateway Subaru Camera at The Commander Hotel"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtUyw9nTFtCCg-RPA4c8cDg",
@@ -18826,7 +18692,12 @@
     "id": "UCzu3l_vz2bu2xn4bOo3eF_g",
     "handle": "@ScarboroughBeach",
     "name": "Scarborough Beach",
-    "videos": []
+    "videos": [
+      {
+        "id": "1X6oqGKHSZs",
+        "title": "Scarborough Beach SURF CAM"
+      }
+    ]
   },
   {
     "id": "UCzuzf3agOOdlGqciT4aCcJQ",
