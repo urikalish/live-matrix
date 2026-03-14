@@ -8,7 +8,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ENV_PATH = resolve(__dirname, '../.env');
 const envLoadResult = loadEnv({ path: ENV_PATH });
 
-if (envLoadResult.error) {
+// In CI (e.g., GitHub Actions), secrets are provided via process.env and .env may not exist.
+if (envLoadResult.error && envLoadResult.error.code !== 'ENOENT') {
   throw new Error(
     `[config] Failed to load .env file at ${ENV_PATH}: ${envLoadResult.error.message}`,
   );
@@ -20,14 +21,18 @@ const ENV = {
 };
 
 function getYoutubeiBrowseKey() {
-  const configuredKey = parsedEnv[ENV.YOUTUBEI_BROWSE_KEY];
+  const configuredKey = process.env[ENV.YOUTUBEI_BROWSE_KEY] ?? parsedEnv[ENV.YOUTUBEI_BROWSE_KEY];
   if (configuredKey === undefined) {
-    throw new Error(`[config] Missing ${ENV.YOUTUBEI_BROWSE_KEY} in .env (${ENV_PATH}).`);
+    throw new Error(
+      `[config] Missing ${ENV.YOUTUBEI_BROWSE_KEY}. Set it in environment variables (CI) or .env (${ENV_PATH}).`,
+    );
   }
 
   const trimmedKey = configuredKey.trim();
   if (!trimmedKey) {
-    throw new Error(`[config] ${ENV.YOUTUBEI_BROWSE_KEY} is empty in .env (${ENV_PATH}).`);
+    throw new Error(
+      `[config] ${ENV.YOUTUBEI_BROWSE_KEY} is empty. Set it in environment variables (CI) or .env (${ENV_PATH}).`,
+    );
   }
 
   if (!/^AIza[\w-]{20,}$/.test(trimmedKey)) {
