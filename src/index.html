@@ -19,7 +19,19 @@
           <span class="masthead-title">⚡ LiveMatrix</span>
         </div>
         <div class="masthead--right-side">
-          <button id="shuffle-button" class="masthead-btn" data-action="shuffle">Shuffle</button>
+          <div id="masthead-search" class="masthead-search">
+            <input
+              id="masthead-search-input"
+              class="masthead-search-input"
+              type="search"
+              placeholder="Search videos or channels"
+              autocomplete="off"
+              spellcheck="false"
+              aria-label="Search videos"
+            />
+            <div id="masthead-search-results" class="masthead-search-results" role="listbox"></div>
+          </div>
+          <button id="shuffle-button" class="masthead-btn masthead-btn--shuffle" data-action="shuffle">Shuffle</button>
           <div id="layout-actions-container" class="layout-actions-container"></div>
         </div>
       </div>

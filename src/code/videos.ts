@@ -175,6 +175,29 @@ export function getVideoById(videoId: string): Video | null {
   return _allVideos.find((video) => video.id === videoId) ?? null;
 }
 
+export function searchVideos(query: string, maxResults = 20): Video[] {
+  const normalizedQuery = query.trim().toLowerCase();
+  if (!normalizedQuery || maxResults <= 0) return [];
+
+  const matches: Video[] = [];
+  for (const video of _allVideos) {
+    const searchFields = [
+      video.channel.id,
+      video.channel.handle,
+      video.channel.name,
+      video.id,
+      video.title,
+    ];
+    const isMatch = searchFields.some((field) => field.toLowerCase().includes(normalizedQuery));
+    if (!isMatch) continue;
+
+    matches.push(video);
+    if (matches.length >= maxResults) break;
+  }
+
+  return matches;
+}
+
 export function getVideoIdByIndex(videoIndex: number) {
   return videoIndex < _allVideos.length ? _allVideos[videoIndex].id : '';
 }

@@ -237,9 +237,29 @@ function handleLayoutChange() {
   renderGrid();
 }
 
+function handleSelectSearchVideo(videoId: string) {
+  const video = videos.getVideoById(videoId);
+  if (!video) return;
+
+  const matrixContainerElm = getMatrixContainer();
+  if (!matrixContainerElm) return;
+
+  const matrixCellElements = Array.from(matrixContainerElm.querySelectorAll('.matrix-cell'));
+  const targetCellElm = matrixCellElements.find(
+    (cellElm) => cellElm instanceof HTMLDivElement && !cellElm.classList.contains('pinned'),
+  );
+  const fallbackCellElm = matrixCellElements[0];
+  const selectedCellElm = targetCellElm ?? fallbackCellElm;
+  if (!(selectedCellElm instanceof HTMLDivElement)) return;
+
+  clearVideoElements(selectedCellElm);
+  setVideo(selectedCellElm, video);
+}
+
 export async function init() {
   masthead.handlers.onShuffle = handleShuffle;
   masthead.handlers.onChangeGridLayout = handleLayoutChange;
+  masthead.handlers.onSelectSearchVideo = handleSelectSearchVideo;
   window.addEventListener('resize', handleWindowResize);
   videos.shuffleVideos();
   renderGrid();
