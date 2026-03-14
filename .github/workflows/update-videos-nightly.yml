@@ -1,4 +1,4 @@
-name: Nightly Update Videos
+name: Hourly Update Videos
 
 on:
   schedule:
