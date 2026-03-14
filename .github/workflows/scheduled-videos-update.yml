@@ -31,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
-      - name: Run nightly videos update
+      - name: Run scheduled videos update
         env:
           UPDATE_VIDEOS_YOUTUBEI_BROWSE_KEY: ${{ secrets.UPDATE_VIDEOS_YOUTUBEI_BROWSE_KEY }}
         run: yarn update
@@ -47,5 +47,5 @@ jobs:
           fi
 
           git add src/public/videos.json update-videos/channels-no-videos.json
-          git commit -m "chore: nightly video data update"
+          git commit -m "chore: scheduled videos update"
           git push
