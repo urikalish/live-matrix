@@ -351,7 +351,10 @@ async function extractLiveVideosInfo(html) {
           ''
         )
           .replaceAll('\u00A0', ' ')
-          .replaceAll('\u200B', '');
+          .replaceAll('\u200B', '')
+          .replaceAll(`🔴`, '')
+          .trim();
+
         return { id: videoId, title };
       }),
     );
