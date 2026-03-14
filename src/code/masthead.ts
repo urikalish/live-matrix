@@ -78,7 +78,7 @@ function renderSearchResults(resultsElm: HTMLDivElement, matches: Video[]) {
     return;
   }
 
-  matches.forEach((video) => {
+  matches.forEach(video => {
     resultsElm.appendChild(createSearchResultButton(video));
   });
   resultsElm.classList.add('is-visible');
@@ -119,7 +119,7 @@ function attachSearchHandlers() {
     runSearch(input, results);
   });
 
-  input.addEventListener('keydown', (event) => {
+  input.addEventListener('keydown', event => {
     if (event.key === 'Escape') {
       clearSearchResults(results);
       input.blur();
@@ -134,7 +134,7 @@ function attachSearchHandlers() {
     }
   });
 
-  results.addEventListener('click', (event) => {
+  results.addEventListener('click', event => {
     const target = event.target;
     if (!(target instanceof HTMLElement)) return;
 
@@ -149,7 +149,7 @@ function attachSearchHandlers() {
     input.value = '';
   });
 
-  document.addEventListener('click', (event) => {
+  document.addEventListener('click', event => {
     const target = event.target;
     if (!(target instanceof Node)) return;
     if (container.contains(target)) return;
@@ -162,7 +162,7 @@ function syncLayoutButtonsDisabledState() {
   const activeRows = settings.getRows().toString();
   const layoutButtons = document.querySelectorAll('button[data-action="layout"]');
 
-  layoutButtons.forEach((btnElm) => {
+  layoutButtons.forEach(btnElm => {
     if (!(btnElm instanceof HTMLButtonElement)) return;
     btnElm.disabled = btnElm.dataset.cols === activeCols && btnElm.dataset.rows === activeRows;
   });
@@ -205,7 +205,7 @@ export async function init() {
   syncLayoutButtonsDisabledState();
   attachSearchHandlers();
   const actionButtonElements = document.querySelectorAll('button[data-action]');
-  actionButtonElements.forEach((btnElm) => {
+  actionButtonElements.forEach(btnElm => {
     if (btnElm instanceof HTMLButtonElement) {
       btnElm.addEventListener('click', handleActionButtonClick);
     }

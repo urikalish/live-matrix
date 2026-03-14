@@ -56,7 +56,7 @@ function getPinnedVideoIdsFromStorage(): Set<string> {
 function savePinnedVideoIdsToStorage(): void {
   const storage = getStorage();
   if (!storage) return;
-  const pinnedIds = _allVideos.filter((video) => video.pinned).map((video) => video.id);
+  const pinnedIds = _allVideos.filter(video => video.pinned).map(video => video.id);
   storage.setItem(_STORAGE_PINNED_VIDEO_IDS_KEY, JSON.stringify(pinnedIds));
 }
 
@@ -68,14 +68,14 @@ function savePinnedVideoIdsToStorageByIds(ids: Set<string>): void {
 
 function reconcilePinnedVideoIds(data: RawChannel[], pinnedVideoIds: Set<string>): Set<string> {
   const validVideoIds = new Set<string>();
-  data.forEach((channel) => {
-    channel.videos.forEach((video) => {
+  data.forEach(channel => {
+    channel.videos.forEach(video => {
       validVideoIds.add(video.id);
     });
   });
 
   const reconciledPinnedVideoIds = new Set<string>();
-  pinnedVideoIds.forEach((videoId) => {
+  pinnedVideoIds.forEach(videoId => {
     if (validVideoIds.has(videoId)) {
       reconciledPinnedVideoIds.add(videoId);
     }
@@ -102,13 +102,13 @@ function isRawChannel(value: unknown): value is RawChannel {
     typeof maybeChannel.handle === 'string' &&
     typeof maybeChannel.name === 'string' &&
     Array.isArray(maybeChannel.videos) &&
-    maybeChannel.videos.every((video) => isRawVideo(video))
+    maybeChannel.videos.every(video => isRawVideo(video))
   );
 }
 
 function shuffleAllVideos() {
-  const pinned = _allVideos.filter((v) => v.pinned);
-  const unpinned = _allVideos.filter((v) => !v.pinned);
+  const pinned = _allVideos.filter(v => v.pinned);
+  const unpinned = _allVideos.filter(v => !v.pinned);
   let currentIndex = unpinned.length;
   while (currentIndex > 0) {
     const randomIndex = Math.floor(Math.random() * currentIndex);
@@ -129,7 +129,7 @@ async function loadChannelsAndVideos() {
     }
 
     const payload: unknown = await res.json();
-    if (!Array.isArray(payload) || !payload.every((channel) => isRawChannel(channel))) {
+    if (!Array.isArray(payload) || !payload.every(channel => isRawChannel(channel))) {
       throw new Error('videos.json has an invalid format.');
     }
 
@@ -138,7 +138,7 @@ async function loadChannelsAndVideos() {
 
     const data: RawChannel[] = payload;
     const pinnedVideoIds = reconcilePinnedVideoIds(data, getPinnedVideoIdsFromStorage());
-    data.forEach((channelData) => {
+    data.forEach(channelData => {
       const channel: Channel = {
         id: channelData.id,
         handle: channelData.handle,
@@ -146,7 +146,7 @@ async function loadChannelsAndVideos() {
         videos: [],
       };
       _allChannels.push(channel);
-      channelData.videos.forEach((videoData) => {
+      channelData.videos.forEach(videoData => {
         const video: Video = {
           id: videoData.id,
           title: videoData.title,
@@ -172,7 +172,7 @@ export function getVideoByIndex(videoIndex: number) {
 }
 
 export function getVideoById(videoId: string): Video | null {
-  return _allVideos.find((video) => video.id === videoId) ?? null;
+  return _allVideos.find(video => video.id === videoId) ?? null;
 }
 
 export function searchVideos(query: string, maxResults = 20): Video[] {
@@ -188,7 +188,7 @@ export function searchVideos(query: string, maxResults = 20): Video[] {
       video.id,
       video.title,
     ];
-    const isMatch = searchFields.some((field) => field.toLowerCase().includes(normalizedQuery));
+    const isMatch = searchFields.some(field => field.toLowerCase().includes(normalizedQuery));
     if (!isMatch) continue;
 
     matches.push(video);
@@ -214,7 +214,7 @@ export function getRandomVideo(excludeVideoId?: string): Video | null {
   if (_allVideos.length === 0) return null;
 
   if (excludeVideoId && _allVideos.length > 1) {
-    const candidates = _allVideos.filter((video) => video.id !== excludeVideoId);
+    const candidates = _allVideos.filter(video => video.id !== excludeVideoId);
     if (candidates.length > 0) {
       const candidateIndex = Math.trunc(Math.random() * candidates.length);
       return candidates[candidateIndex];
@@ -230,7 +230,7 @@ export function shuffleVideos() {
 }
 
 export function getUnpinnedVideos(): Video[] {
-  return _allVideos.filter((video) => !video.pinned);
+  return _allVideos.filter(video => !video.pinned);
 }
 
 export function setVideoPinned(videoId: string, pinned: boolean): boolean {

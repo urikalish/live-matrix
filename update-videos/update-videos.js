@@ -277,7 +277,7 @@ async function extractLiveVideosInfo(html) {
       return [];
     }
     const tabs = ytInitialData?.contents?.twoColumnBrowseResultsRenderer?.tabs ?? [];
-    const streamsTab = tabs.find((tab) =>
+    const streamsTab = tabs.find(tab =>
       tab.tabRenderer?.endpoint?.commandMetadata?.webCommandMetadata?.url?.includes('/streams'),
     );
     if (!streamsTab) {
@@ -289,9 +289,7 @@ async function extractLiveVideosInfo(html) {
 
     // Follow continuation tokens to fetch all pages
     let continuationToken = allItems
-      .map(
-        (item) => item.continuationItemRenderer?.continuationEndpoint?.continuationCommand?.token,
-      )
+      .map(item => item.continuationItemRenderer?.continuationEndpoint?.continuationCommand?.token)
       .find(Boolean);
     while (continuationToken) {
       const contUrl = `https://www.youtube.com/youtubei/v1/browse?key=${YOUTUBEI_BROWSE_KEY}`;
@@ -323,20 +321,20 @@ async function extractLiveVideosInfo(html) {
       allItems = [...allItems, ...newItems];
       continuationToken = newItems
         .map(
-          (item) => item.continuationItemRenderer?.continuationEndpoint?.continuationCommand?.token,
+          item => item.continuationItemRenderer?.continuationEndpoint?.continuationCommand?.token,
         )
         .find(Boolean);
     }
 
     const liveCandidates = allItems
-      .map((item) => item.richItemRenderer?.content?.videoRenderer)
-      .filter((videoRenderer) => {
+      .map(item => item.richItemRenderer?.content?.videoRenderer)
+      .filter(videoRenderer => {
         const overlays = videoRenderer?.thumbnailOverlays ?? [];
-        return overlays.some((o) => o.thumbnailOverlayTimeStatusRenderer?.style === 'LIVE');
+        return overlays.some(o => o.thumbnailOverlayTimeStatusRenderer?.style === 'LIVE');
       });
 
     const checkedVideos = await Promise.all(
-      liveCandidates.map(async (videoRenderer) => {
+      liveCandidates.map(async videoRenderer => {
         const videoId = videoRenderer?.videoId;
         if (!videoId) return null;
         if (!isEmbeddableVideo(videoRenderer)) return null;
@@ -345,14 +343,13 @@ async function extractLiveVideosInfo(html) {
         const isEmbeddable = await isVideoEmbeddableByOEmbed(videoId);
         if (!isEmbeddable) return null;
 
-        const title = (
-          videoRenderer?.title?.runs?.map((r) => r.text).join('') ??
+        const rawTitle =
+          videoRenderer?.title?.runs?.map(r => r.text).join('') ??
           videoRenderer?.title?.simpleText ??
-          ''
-        )
-          .replaceAll('\u00A0', ' ')
-          .replaceAll('\u200B', '')
-          .replaceAll(`🔴`, '')
+          '';
+        const title = rawTitle
+          .replace(/\u00A0/gu, ' ')
+          .replace(/\u200B/gu, '')
           .trim();
 
         return { id: videoId, title };
@@ -361,7 +358,7 @@ async function extractLiveVideosInfo(html) {
 
     const videos = checkedVideos.filter(Boolean);
     console.log(`Found ${videos.length} live video(s)`);
-    videos.forEach((video) => {
+    videos.forEach(video => {
       videosInfo.push(video);
     });
   } catch (error) {
@@ -460,14 +457,14 @@ async function go() {
     console.error(`Organizing results...`);
 
     const dataObj = results
-      .filter((result) => result?.ok)
+      .filter(result => result?.ok)
       .sort((a, b) => a.index - b.index)
-      .map((result) => result.channelData);
+      .map(result => result.channelData);
 
-    const failures = results.filter((result) => result && !result.ok);
+    const failures = results.filter(result => result && !result.ok);
     if (failures.length > 0) {
       console.error(`Failed channels: ${failures.length}`);
-      failures.slice(0, 10).forEach((failure) => {
+      failures.slice(0, 10).forEach(failure => {
         console.error(`- ${failure.channelId}: ${failure.error}`);
       });
       if (failures.length > 10) {
@@ -482,14 +479,14 @@ async function go() {
     const previousNoVideos = readDataObjectFromFile('.', 'channels-no-videos.json');
     const firstSeenDateByKey = new Map(
       previousNoVideos
-        .filter((channel) => channel && typeof channel.date === 'string' && channel.date)
-        .map((channel) => [getChannelTrackingKey(channel), channel.date]),
+        .filter(channel => channel && typeof channel.date === 'string' && channel.date)
+        .map(channel => [getChannelTrackingKey(channel), channel.date]),
     );
 
     const today = new Date().toISOString().slice(0, 10);
     const channelsNoVideos = dataObj
-      .filter((channel) => (channel.videos?.length ?? 0) === 0)
-      .map((channel) => {
+      .filter(channel => (channel.videos?.length ?? 0) === 0)
+      .map(channel => {
         const id = channel.id ?? '';
         const handle = channel.handle ?? '';
         const name = channel.name ?? '';

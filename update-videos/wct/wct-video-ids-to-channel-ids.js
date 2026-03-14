@@ -10,7 +10,7 @@ const BATCH_SIZE = 10;
 const DELAY_MS = 500;
 
 function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 async function getChannelId(videoId) {
@@ -46,7 +46,7 @@ for (let i = 0; i < videoIds.length; i += BATCH_SIZE) {
   const batch = videoIds.slice(i, i + BATCH_SIZE);
 
   await Promise.all(
-    batch.map(async (videoId) => {
+    batch.map(async videoId => {
       try {
         const channelId = await getChannelId(videoId);
         channelIds.add(channelId);

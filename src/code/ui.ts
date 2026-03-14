@@ -110,7 +110,7 @@ function createOverlay(): HTMLDivElement {
   pinBtn.classList.add('cell-overlay-btn', 'cell-overlay-btn--pin');
   pinBtn.textContent = '📌';
   pinBtn.title = 'Pin / Unpin';
-  pinBtn.addEventListener('click', (e) => {
+  pinBtn.addEventListener('click', e => {
     e.stopPropagation();
     const cellElm = getCellFromEvent(e);
     if (!cellElm) return;
@@ -129,7 +129,7 @@ function createOverlay(): HTMLDivElement {
   navBtn.classList.add('cell-overlay-btn', 'cell-overlay-btn--navigate');
   navBtn.textContent = '📺';
   navBtn.title = 'Open on YouTube';
-  navBtn.addEventListener('click', (e) => {
+  navBtn.addEventListener('click', e => {
     e.stopPropagation();
     const cellElm = getCellFromEvent(e);
     if (!cellElm) return;
@@ -147,7 +147,7 @@ function createOverlay(): HTMLDivElement {
   skipBtn.classList.add('cell-overlay-btn', 'cell-overlay-btn--skip');
   skipBtn.textContent = '⏭';
   skipBtn.title = 'Skip video';
-  skipBtn.addEventListener('click', (e) => {
+  skipBtn.addEventListener('click', e => {
     e.stopPropagation();
     const cellElm = getCellFromEvent(e);
     if (!cellElm) return;
@@ -215,7 +215,7 @@ function shuffleUnpinnedCellsOnly() {
   let unpinnedVideoIndex = 0;
   const matrixCellElements = matrixContainerElm.querySelectorAll('.matrix-cell');
 
-  matrixCellElements.forEach((cellElm) => {
+  matrixCellElements.forEach(cellElm => {
     if (!(cellElm instanceof HTMLDivElement)) return;
     if (cellElm.classList.contains('pinned')) return;
 
@@ -246,7 +246,7 @@ function handleSelectSearchVideo(videoId: string) {
 
   const matrixCellElements = Array.from(matrixContainerElm.querySelectorAll('.matrix-cell'));
   const targetCellElm = matrixCellElements.find(
-    (cellElm) => cellElm instanceof HTMLDivElement && !cellElm.classList.contains('pinned'),
+    cellElm => cellElm instanceof HTMLDivElement && !cellElm.classList.contains('pinned'),
   );
   const fallbackCellElm = matrixCellElements[0];
   const selectedCellElm = targetCellElm ?? fallbackCellElm;
