@@ -1,0 +1,48 @@
+name: Nightly Update Videos
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-videos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'yarn'
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Run nightly videos update
+        env:
+          UPDATE_VIDEOS_YOUTUBEI_BROWSE_KEY: ${{ secrets.UPDATE_VIDEOS_YOUTUBEI_BROWSE_KEY }}
+        run: yarn update
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git add src/public/videos.json update-videos/channels-no-videos.json
+          git commit -m "chore: nightly video data update"
+          git push
