@@ -7,17 +7,21 @@
 }
 
 :root {
+    --font--default: Play,
+            system-ui,
+            -apple-system,
+            'Segoe UI',
+            Roboto,
+            Helvetica,
+            Arial,
+            sans-serif;
+    min-height: 100vh;
+    overflow: hidden;
+    background-color: #000;
+    color: #fff;
 }
 body {
-    font-family:
-        Play,
-        system-ui,
-        -apple-system,
-        'Segoe UI',
-        Roboto,
-        Helvetica,
-        Arial,
-        sans-serif;
+    font-family: var(--font--default);
     min-height: 100vh;
     overflow: hidden;
     background-color: #000;
@@ -50,6 +54,8 @@ body {
     letter-spacing: 1px;
     color: #f0f0f0;
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+    white-space: nowrap;
+    user-select: none;
 }
 .masthead--right-side {
     display: flex;
@@ -59,7 +65,7 @@ body {
 
 .masthead-search {
     position: relative;
-    width: min(300px, 15vw);
+    width: min(600px, 30vw);
 }
 
 .masthead-search-input {
@@ -84,7 +90,7 @@ body {
     inset-inline: 0;
     top: calc(100% + 4px);
     display: none;
-    max-height: 320px;
+    max-height: 440px;
     overflow-y: auto;
     padding: 4px;
     background-color: #111;
@@ -116,8 +122,9 @@ body {
 }
 
 .masthead-search-result-title {
-    font-size: 0.82rem;
+    font-size: 0.72rem;
     font-weight: 700;
+    color: #ffd54d;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -126,12 +133,17 @@ body {
 .masthead-search-result-meta,
 .masthead-search-empty {
     margin-top: 2px;
+    font-family: var(--font--default);
     font-size: 0.72rem;
-    color: #bbbbbb;
+}
+
+.masthead-search-result-meta {
+    color: #fff;
 }
 
 .masthead-search-empty {
     padding: 8px;
+    color: #bbbbbb;
 }
 
 .layout-actions-container {
@@ -212,6 +224,7 @@ body {
     z-index: 0;
     opacity: 1;
     transition: opacity 0.2s ease;
+    user-select: none;
 }
 
 .matrix-cell.video-loading .matrix-cell-iframe {
@@ -261,6 +274,7 @@ body {
     justify-content: center;
     opacity: 0;
     pointer-events: none;
+    user-select: none;
     transition:
         background-color 0.15s ease,
         opacity 0.15s ease;
