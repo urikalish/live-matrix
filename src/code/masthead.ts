@@ -3,7 +3,7 @@ import * as videos from './videos';
 import type { Video } from './videos';
 
 const SEARCH_DEBOUNCE_MS = 250;
-const SEARCH_MAX_RESULTS = 10;
+const SEARCH_MAX_RESULTS = 100;
 
 let searchDebounceTimer: number | null = null;
 
