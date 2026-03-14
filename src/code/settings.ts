@@ -1,5 +1,5 @@
-const _MAX_COLS = 6;
-const _MAX_ROWS = 5;
+const _MAX_COLS = 7;
+const _MAX_ROWS = 6;
 const _INITIAL_COLS = 5;
 const _INITIAL_ROWS = 4;
 
