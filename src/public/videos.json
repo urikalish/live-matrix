@@ -2090,6 +2090,22 @@
       {
         "id": "_1_8X4psoPs",
         "title": "PixCams.com Migration Optical Camera"
+      },
+      {
+        "id": "WLSkgf-dvOI",
+        "title": "PixCams.com Migration Thermal Camera"
+      },
+      {
+        "id": "jUS-CaVPNYU",
+        "title": "U. S. Steel Red-Tailed Hawk Nest Camera"
+      },
+      {
+        "id": "uxzRXhKshow",
+        "title": "USS Bald Eagle Cam 3"
+      },
+      {
+        "id": "2CP8QA_xKx4",
+        "title": "U. S. Steel Bald Eagle Camera Live view cam 1 - Great view of the nest with Chat"
       }
     ]
   },
@@ -2557,12 +2573,7 @@
     "id": "UC6kdM4uR54C72vtsR_mCKHg",
     "handle": "@herligedale2996",
     "name": "Herlige Dale",
-    "videos": [
-      {
-        "id": "we4TMqpUEdQ",
-        "title": "Dale"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC6q_hfBThkGdmQ5Vb4kWjWA",
@@ -3696,7 +3707,12 @@
     "id": "UC8t7FI3O7_NV9ucGWKz2D4Q",
     "handle": "@finescape9925",
     "name": "FineScape",
-    "videos": []
+    "videos": [
+      {
+        "id": "n3B8fp-Henc",
+        "title": "Tokyo Odaiba Live Camera 東京 お台場 ライブカメラ 配信"
+      }
+    ]
   },
   {
     "id": "UC99NqD52qM484Bsu40UuBgQ",
@@ -5011,6 +5027,61 @@
     ]
   },
   {
+    "id": "UCCm-nbbUP0Tx3JzEzeEVFTA",
+    "handle": "@surveillancemapfoundation",
+    "name": "SurveillanceMap Foundation",
+    "videos": [
+      {
+        "id": "UHlDzWrBEPI",
+        "title": "Carte de Surveillance EN DIRECT · La Ville de l'Amour · Paris en France"
+      },
+      {
+        "id": "TdGXlEOxuOw",
+        "title": "SurveillanceMap LIVE · Empire State Building Observation Deck · Manhattan, NYC"
+      },
+      {
+        "id": "otu_D2_TiLM",
+        "title": "SurveillanceMap LIVE · Vágur South West View · Faroe Islands, Arctic"
+      },
+      {
+        "id": "JcHYcrO4PRE",
+        "title": "SurveillanceMap LIVE · Matterhorn · Zermatt, Schweiz"
+      },
+      {
+        "id": "Ql7graq0I9M",
+        "title": "SurveillanceMap LIVE · Sky Tower and Auckland Harbour · New Zealand"
+      },
+      {
+        "id": "KuzVYn1Ucbg",
+        "title": "SurveillanceMap LIVE ·  Above the Sky · Lower Manhattan, New York, New York"
+      },
+      {
+        "id": "EHaOI3U5M_s",
+        "title": "SurveillanceMap LIVE · Vágur South East View · Faroe Islands, Arctic"
+      },
+      {
+        "id": "eAm6iAB1pQQ",
+        "title": "SurveillanceMap LIVE · Djúpivogur Harbour · Iceland, Arctic"
+      },
+      {
+        "id": "6Xxb5uikewE",
+        "title": "SurveillanceMap LIVE · Sydney Harbour · Australia"
+      },
+      {
+        "id": "SfuCqR7RLHA",
+        "title": "SurveillanceMap LIVE · Smeaton's Tower · Plymouth, England"
+      },
+      {
+        "id": "t_bAWRtkvlQ",
+        "title": "Mappa di Sorveglianza LIVE · Capri, Italia · Permesso? Avanti!"
+      },
+      {
+        "id": "mkX71WMAmNI",
+        "title": "SurveillanceMap LIVE · Times Square · NYC"
+      }
+    ]
+  },
+  {
     "id": "UCCp1rWY4KFh0t3fKILlPiUQ",
     "handle": "@ToyoComtecLiveChannel",
     "name": "ToyoComtecLiveChannel",
@@ -5025,7 +5096,16 @@
     "id": "UCD-Hv0aJkZz0isAwOtFErVg",
     "handle": "@SingReef",
     "name": "SingReef",
-    "videos": []
+    "videos": [
+      {
+        "id": "9cfkyMzanbc",
+        "title": "【LIVE CAMERA】Downtown Singapore　シンガポール　ライブカメラ"
+      },
+      {
+        "id": "Z6aG6s7xhoY",
+        "title": "【LIVE CAMERA】Downtown Singapore Coastal View"
+      }
+    ]
   },
   {
     "id": "UCD12HC-FqOwAEzEi0cKxYZQ",
@@ -6385,12 +6465,7 @@
     "id": "UCIQVWkOilfxoQSFcban_d-A",
     "handle": "@mauilivecam7143",
     "name": "Maui Live Cam",
-    "videos": [
-      {
-        "id": "VMz165U1f-Q",
-        "title": "🐳  LIVE 24/7  🌊  4K MAUI LIVE CAM  * WHALE WATCH CAM *  www.WhalerCondo.net"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCISmkFSH-melI4eancXEF8A",
@@ -9631,7 +9706,7 @@
     "name": "Serra do Rio do Rastro ao Vivo",
     "videos": [
       {
-        "id": "Vqa1NLSG2ck",
+        "id": "IvYDVyUpP6c",
         "title": "Serra do Rio do Rastro em Lauro Müller ao vivo!"
       }
     ]
@@ -9699,7 +9774,12 @@
     "id": "UCUZZJpUgv-Pg6nlO_Zxbl6g",
     "handle": "@nexsulconectividade",
     "name": "Nexsul Conectividade",
-    "videos": []
+    "videos": [
+      {
+        "id": "xQ6rIZoQ5No",
+        "title": "BR 386 - ESTRELA - LAJEADO ( Suprivale Intelbras - Nexsul )"
+      }
+    ]
   },
   {
     "id": "UCU_cCugjd0QvDSaQXX3ftKQ",
@@ -9783,12 +9863,7 @@
     "id": "UCUtI5pIKfGoRlKRxVeUwI5A",
     "handle": "@PortGavrio",
     "name": "Port Gavrio",
-    "videos": [
-      {
-        "id": "DrE7KjlEw1o",
-        "title": "Port Gavrio Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCV6HJBZD_hZcIX9JVJ3dCXQ",
@@ -12084,12 +12159,7 @@
     "id": "UCfQciJ8PpgWDOocrMPxLkTw",
     "handle": "@ThreeRiversCommunityofMaine",
     "name": "Three Rivers Community of Maine",
-    "videos": [
-      {
-        "id": "GKyOThshLT4",
-        "title": "Trafton Falls,  Milo Me"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCfS5_X4LiZJV5vq6z7itypA",
@@ -12885,6 +12955,37 @@
     ]
   },
   {
+    "id": "UChP_bnv9cDFZWfVKw3iBwRQ",
+    "handle": "@MountainHighResort",
+    "name": "Mountain High",
+    "videos": [
+      {
+        "id": "dyjqN3NezH0",
+        "title": "Upper Chisolm Live Webcam"
+      },
+      {
+        "id": "71jD_DaYVm4",
+        "title": "Playground Live Webcam"
+      },
+      {
+        "id": "hjhP1ckHuGA",
+        "title": "Bullwheel Live Webcam"
+      },
+      {
+        "id": "S3hpb7nnoFI",
+        "title": "East Summit Live Webcam"
+      },
+      {
+        "id": "YcQT1a6K1Mo",
+        "title": "West Base Live Webcam"
+      },
+      {
+        "id": "KDYnfJzQrQA",
+        "title": "Borderline Live Webcam"
+      }
+    ]
+  },
+  {
     "id": "UChRn7rTISPmDpgXdnMFBCzw",
     "handle": "@koninklijkeyachtclubnieuwp7311",
     "name": "Koninklijke Yacht Club Nieuwpoort",
@@ -13537,10 +13638,6 @@
     "name": "City of Aransas Pass",
     "videos": [
       {
-        "id": "l04YmKsyTmg",
-        "title": "Town Hall Meeting 03/14/2026"
-      },
-      {
         "id": "Mn3vY8bordE",
         "title": "Aransas Pass Harbor Park"
       }
@@ -14042,12 +14139,7 @@
     "id": "UCkM6bT22N_Rgl5Y6Sv2JPUg",
     "handle": "@belemaovivo",
     "name": "Belém-PA ao vivo em 4K",
-    "videos": [
-      {
-        "id": "GftXujSsjJY",
-        "title": "Live in Belém 24h"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCkOCNLYCrkvyL6l04mzycjw",
@@ -14173,12 +14265,7 @@
     "id": "UClSdxxEoPbpZHrujhfQcdow",
     "handle": "@castrostreetcam2549",
     "name": "Castro Street Cam 2",
-    "videos": [
-      {
-        "id": "YKBRAFiYHeQ",
-        "title": "Castro Street Cam 2 Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UClcicFOBsxXQxaQnT1RshJg",
@@ -16272,24 +16359,7 @@
     "id": "UCqH_TI67yWOokRzZi5g1fMg",
     "handle": "@FOX56News",
     "name": "FOX 56 News",
-    "videos": [
-      {
-        "id": "vFvDmvW5nvQ",
-        "title": "Richmond, KY Live Weather Cam | FOX 56 News"
-      },
-      {
-        "id": "8Ou1fZF6zEk",
-        "title": "Paris, KY Live Weather Cam | Dan Cummins Auto Group | FOX 56 News"
-      },
-      {
-        "id": "4hZnB6URXTY",
-        "title": "Lexington, KY Live Weather Cam | Chevy Chase | FOX 56 News"
-      },
-      {
-        "id": "gze7WcJtbS4",
-        "title": "Somerset, KY Live Weather Cam | Lake Cumberland Regional Hospital | FOX 56 News"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCqM2TLKtIJlAPiWk46zyjNw",
@@ -16328,7 +16398,12 @@
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
     "handle": "@HawickTV",
     "name": "Hawick TV",
-    "videos": []
+    "videos": [
+      {
+        "id": "GO3N4QQL5Ww",
+        "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
+      }
+    ]
   },
   {
     "id": "UCqaZDUY_3goAaCsMLqVyJPw",
@@ -16945,12 +17020,7 @@
     "id": "UCtUDoNuFU5NPWJlMfPHKoZw",
     "handle": "@CommanderCamera-qv3xl",
     "name": "Gateway Subaru Camera at The Commander Hotel",
-    "videos": [
-      {
-        "id": "zCEiot7sEWY",
-        "title": "Gateway Subaru Camera at The Commander Hotel"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtUyw9nTFtCCg-RPA4c8cDg",
@@ -17653,6 +17723,21 @@
       {
         "id": "gVRuXGw8p8A",
         "title": "Cape Marina - Live Fish Wall"
+      }
+    ]
+  },
+  {
+    "id": "UCv7_krlrre3GQi79d4guxHQ",
+    "handle": "@ytv_news",
+    "name": "YOMIURI TELECASTING CORPORATION NEWS CHANNEL",
+    "videos": [
+      {
+        "id": "1V-rE4Z1ZZQ",
+        "title": "【ライブカメラ】神戸空港（UKB）　飛行機の離着陸とお天気（読売テレビ）/ Live Camera Kobe Airport"
+      },
+      {
+        "id": "kCE6T3p8AZ4",
+        "title": "🔴【ライブカメラ】閉幕後の万博会場　大屋根リング／EXPO2025 The Grand Ring Live Camera"
       }
     ]
   },

@@ -3,7 +3,6 @@ import { config as loadEnv } from 'dotenv';
 import { writeFileSync, mkdirSync, readFileSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import channelIds from './channel-ids.json' with { type: 'json' };
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ENV_PATH = resolve(__dirname, '../.env');
 const envLoadResult = loadEnv({ path: ENV_PATH });
@@ -435,7 +434,15 @@ async function processChannel(channelId, index, total) {
 async function go() {
   const startedAt = Date.now();
   try {
-    const allChannelIds = [...new Set([...channelIds])].sort();
+    const channelIdsFromFile = readDataObjectFromFile('.', 'channel-ids.json');
+    const normalizedChannelIds = channelIdsFromFile
+      .filter(id => typeof id === 'string')
+      .map(id => id.trim())
+      .filter(Boolean);
+
+    const allChannelIds = [...new Set(normalizedChannelIds)].sort();
+    writeDataObjectToFile(allChannelIds, '.', 'channel-ids.json');
+
     const CONCURRENCY = 10;
     console.log(`Processing ${allChannelIds.length} channels with concurrency ${CONCURRENCY}...`);
 
