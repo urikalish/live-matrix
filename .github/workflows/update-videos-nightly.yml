@@ -2,8 +2,8 @@ name: Nightly Update Videos
 
 on:
   schedule:
-    # Runs every day at 00:00 UTC
-    - cron: '0 0 * * *'
+    # Runs every hour at the top of the hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:

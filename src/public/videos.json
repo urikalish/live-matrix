@@ -2090,22 +2090,6 @@
       {
         "id": "_1_8X4psoPs",
         "title": "PixCams.com Migration Optical Camera"
-      },
-      {
-        "id": "WLSkgf-dvOI",
-        "title": "PixCams.com Migration Thermal Camera"
-      },
-      {
-        "id": "jUS-CaVPNYU",
-        "title": "U. S. Steel Red-Tailed Hawk Nest Camera"
-      },
-      {
-        "id": "uxzRXhKshow",
-        "title": "USS Bald Eagle Cam 3"
-      },
-      {
-        "id": "2CP8QA_xKx4",
-        "title": "U. S. Steel Bald Eagle Camera Live view cam 1 - Great view of the nest with Chat"
       }
     ]
   },
@@ -3427,10 +3411,6 @@
         "title": "Boston Weather Cam, Massachusetts - Live Cam - Charles River"
       },
       {
-        "id": "N-yoApqbq64",
-        "title": "Tugboats and Shipping on the Piscataqua River, Portsmouth, New Hampshire LIVE"
-      },
-      {
         "id": "1KRkdgPn8kY",
         "title": "Railcam - Gardner, Massachusetts US"
       },
@@ -3716,12 +3696,7 @@
     "id": "UC8t7FI3O7_NV9ucGWKz2D4Q",
     "handle": "@finescape9925",
     "name": "FineScape",
-    "videos": [
-      {
-        "id": "n3B8fp-Henc",
-        "title": "Tokyo Odaiba Live Camera 東京 お台場 ライブカメラ 配信"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC99NqD52qM484Bsu40UuBgQ",
@@ -4420,10 +4395,6 @@
     "name": "Weather Sicily",
     "videos": [
       {
-        "id": "vOWFjhPvKuc",
-        "title": "🔴 Partinico live webcam - Panoramica Madonna del Ponte"
-      },
-      {
         "id": "Lk8YtiFzpX0",
         "title": "🔴 Cefalù live webcam - Panoramica Duomo"
       },
@@ -5054,16 +5025,7 @@
     "id": "UCD-Hv0aJkZz0isAwOtFErVg",
     "handle": "@SingReef",
     "name": "SingReef",
-    "videos": [
-      {
-        "id": "9cfkyMzanbc",
-        "title": "【LIVE CAMERA】Downtown Singapore　シンガポール　ライブカメラ"
-      },
-      {
-        "id": "Z6aG6s7xhoY",
-        "title": "【LIVE CAMERA】Downtown Singapore Coastal View"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCD12HC-FqOwAEzEi0cKxYZQ",
@@ -6000,7 +5962,32 @@
     "id": "UCGb_c0j3vHX1cJNYhhiAKYA",
     "handle": "@GoldysFarmSanctuar-vv3vi",
     "name": "Goldy&#39;s Farm Live (www.GoldysFarm.com)",
-    "videos": []
+    "videos": [
+      {
+        "id": "NsP9yq1LgMs",
+        "title": "Goldy's Farm Arena Cam"
+      },
+      {
+        "id": "AvMl0oAzq7E",
+        "title": "Goldy's Farm Chaos Hill Cam"
+      },
+      {
+        "id": "3hY3uS2hXCQ",
+        "title": "Goldy's Farm Yard Cam"
+      },
+      {
+        "id": "DVuT8UHmyBQ",
+        "title": "Goldy's Farm Tea Tent/Duck Cam"
+      },
+      {
+        "id": "tgDdMGVAEk0",
+        "title": "Goldy's Farm Barn Cam"
+      },
+      {
+        "id": "7ze5eMoVFlI",
+        "title": "Goldy's Farm Courtyard Cam"
+      }
+    ]
   },
   {
     "id": "UCGfre1YJATN850wNq-jzgEw",
@@ -6442,7 +6429,12 @@
     "id": "UCIoaDlW1ch-QLR_HsaQMJQQ",
     "handle": "@leavenworthcountykansas9566",
     "name": "Leavenworth County Kansas",
-    "videos": []
+    "videos": [
+      {
+        "id": "wdl24JBMMis",
+        "title": "Leavenworth County Kansas Live View"
+      }
+    ]
   },
   {
     "id": "UCIsPPwu9VefxZZ9tPYcQMmQ",
@@ -7458,7 +7450,12 @@
     "id": "UCLRkl6duS5DBTVNKcbXJ2iA",
     "handle": "@BarryYachtClub",
     "name": "Barry Yacht Club",
-    "videos": []
+    "videos": [
+      {
+        "id": "uBEtMScNAIc",
+        "title": "Barry Yacht Club Live Webcam"
+      }
+    ]
   },
   {
     "id": "UCLTYXg2LkraaBZyd431pF7g",
@@ -7475,7 +7472,12 @@
     "id": "UCL_Pe20HICTxJsTB5O5g8Yg",
     "handle": "@StuartWebCam",
     "name": "Stuart WebCam",
-    "videos": []
+    "videos": [
+      {
+        "id": "rQvTNXZhykc",
+        "title": "A Live 24/7 Broadcast View of Haney Circle, located in the heart of Downtown Stuart, Florida"
+      }
+    ]
   },
   {
     "id": "UCLav_kTu9PmAEChvGyrPbhQ",
@@ -7959,7 +7961,16 @@
     "id": "UCNfSLmqoe1-kVs0aIsw13fg",
     "handle": "@realclubnauticodesalinas1958",
     "name": "REAL CLUB NAUTICO DE SALINAS",
-    "videos": []
+    "videos": [
+      {
+        "id": "A5tyJOvWpsA",
+        "title": "Webcam Nautico Salinas Oeste"
+      },
+      {
+        "id": "doNsXrJHErU",
+        "title": "Webcam Nautico Salinas Este"
+      }
+    ]
   },
   {
     "id": "UCNi03mB7Nme5qbCQVt8XMHQ",
@@ -8048,7 +8059,24 @@
     "id": "UCNtk27lhMLvrwXc2n-rRgUg",
     "handle": "@SPRTrafficCameras",
     "name": "City of Springboro Live Traffic",
-    "videos": []
+    "videos": [
+      {
+        "id": "eAdWk0Vg64A",
+        "title": "Live Traffic @ 741 & Lytle South"
+      },
+      {
+        "id": "KJ3wXzEL2GM",
+        "title": "Live Traffic @ PAC Wright Station"
+      },
+      {
+        "id": "2juLrCH5w9U",
+        "title": "Live Traffic @ 741 & 73"
+      },
+      {
+        "id": "CFmyyk0SIQI",
+        "title": "Live Traffic @ Drugmart & 73"
+      }
+    ]
   },
   {
     "id": "UCNvu82ypHUZ9zyWpRUQtxLw",
@@ -9671,12 +9699,7 @@
     "id": "UCUZZJpUgv-Pg6nlO_Zxbl6g",
     "handle": "@nexsulconectividade",
     "name": "Nexsul Conectividade",
-    "videos": [
-      {
-        "id": "xQ6rIZoQ5No",
-        "title": "BR 386 - ESTRELA - LAJEADO ( Suprivale Intelbras - Nexsul )"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCU_cCugjd0QvDSaQXX3ftKQ",
@@ -10003,7 +10026,20 @@
     "id": "UCWOITAxCnS0V8h7lNJkHpdQ",
     "handle": "@mt_buller",
     "name": "Mt Buller",
-    "videos": []
+    "videos": [
+      {
+        "id": "YTswOT7V-M4",
+        "title": "Shakey Knees Live"
+      },
+      {
+        "id": "WMx2m-O6eug",
+        "title": "Skyline Terrain Park Live"
+      },
+      {
+        "id": "0OtVlfDj2w8",
+        "title": "Bourke Street Live"
+      }
+    ]
   },
   {
     "id": "UCWP9NBXiY0SGVy7WQiOs3vg",
@@ -10537,48 +10573,7 @@
     "id": "UCZGfc2AjPX3DQ8I8lhPIDcg",
     "handle": "@LakhtaCenter360",
     "name": "Lakhta Center 360",
-    "videos": [
-      {
-        "id": "l5Le5DaVZCs",
-        "title": "Lakhta 360 Online"
-      },
-      {
-        "id": "iseQN5bYcb8",
-        "title": "Lakhta 360 Online"
-      },
-      {
-        "id": "p29L97_oFjc",
-        "title": "Lakhta 360 Online"
-      },
-      {
-        "id": "2kr_4OuHVDE",
-        "title": "Lakhta 360 Online"
-      },
-      {
-        "id": "hU5fgWYRgok",
-        "title": "Lakhta 360 Online"
-      },
-      {
-        "id": "NkDrNjv1Z7k",
-        "title": "Lakhta 360 Online"
-      },
-      {
-        "id": "69VRD2HGheM",
-        "title": "Lakhta 360 Online"
-      },
-      {
-        "id": "698SpdFKTLk",
-        "title": "Lakhta 360 Online"
-      },
-      {
-        "id": "eprZhXzSLJI",
-        "title": "Lakhta 360 Online"
-      },
-      {
-        "id": "Cj7Yv0PitsM",
-        "title": "Lakhta 360 Online"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCZZWtFnPc7_ohFnBeYTbT3w",
@@ -10921,7 +10916,12 @@
     "id": "UC_pPFW2jn1pUT1O5D1m3brg",
     "handle": "@kansascityzoo",
     "name": "Kansas City Zoo &amp; Aquarium",
-    "videos": []
+    "videos": [
+      {
+        "id": "BSUnBPvX9K4",
+        "title": "KC Zoo Polar Bear Cam"
+      }
+    ]
   },
   {
     "id": "UC_uoRuoMCFudYHHg9SlWbQw",
@@ -13176,7 +13176,12 @@
     "id": "UCifCCRBxgrlRscFtQ6xWlaQ",
     "handle": "@BanyanTreeSamui",
     "name": "Banyan Tree Samui",
-    "videos": []
+    "videos": [
+      {
+        "id": "wP6hpWgPJ98",
+        "title": "Banyan Tree Samui Live Stream"
+      }
+    ]
   },
   {
     "id": "UCiijK6RLOIB3FqrLs-uBphg",
@@ -14220,7 +14225,12 @@
     "id": "UClqd_NklmF4AnW4MYiCeSEg",
     "handle": "@HotelUnionGeiranger",
     "name": "Hotel Union Geiranger",
-    "videos": []
+    "videos": [
+      {
+        "id": "wAdTV6Uc5eA",
+        "title": "Geiranger Live"
+      }
+    ]
   },
   {
     "id": "UClxEfXEOUlQ9kIcuKW3sw2Q",
@@ -14424,7 +14434,12 @@
     "id": "UCmYXN0dWONiJXXleAGV3qnA",
     "handle": "@saguenayca",
     "name": "saguenayca",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZGk4fkhBTvU",
+        "title": "Diffusion en direct de Saguenay"
+      }
+    ]
   },
   {
     "id": "UCmYyJaUxYiF5IbLx-0jFXHQ",
@@ -15756,7 +15771,32 @@
     "id": "UCprCdxrg_u9E9hhc-MZDk5A",
     "handle": "@sanantonioimagen",
     "name": "sanantonioimagen",
-    "videos": []
+    "videos": [
+      {
+        "id": "3X5hCOf__ps",
+        "title": "EL QUISCO EN VIVO"
+      },
+      {
+        "id": "JVoeKYK69UI",
+        "title": "Avenida Barros Luco"
+      },
+      {
+        "id": "W_nfRz-iL14",
+        "title": "Llolleo, sector desembocadura Rio Maipo"
+      },
+      {
+        "id": "XfxpV4hl1aU",
+        "title": "SAN ANTONIO EN VIVO 2"
+      },
+      {
+        "id": "79PtdSvv1Xc",
+        "title": "San Antonio en Vivo"
+      },
+      {
+        "id": "0pjFuk15b94",
+        "title": "Avenida Chile Llolleo"
+      }
+    ]
   },
   {
     "id": "UCpyvIHANW0AIb1BvBLGjorw",
@@ -16288,12 +16328,7 @@
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
     "handle": "@HawickTV",
     "name": "Hawick TV",
-    "videos": [
-      {
-        "id": "PnL3sIQHgmU",
-        "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCqaZDUY_3goAaCsMLqVyJPw",
@@ -17324,7 +17359,40 @@
     "id": "UCuiHrLHm5n38Rzl_2y8mYOw",
     "handle": "@StreambirdPro",
     "name": "Streambird Pro",
-    "videos": []
+    "videos": [
+      {
+        "id": "qzbIOLZIwwM",
+        "title": "Quad cam - Baron Blue - White Tailed Eagles Nest Live"
+      },
+      {
+        "id": "IOeqKMF2FKE",
+        "title": "Eagle Cam #2 - Baron Blue - White Tailed Eagles Nest Live"
+      },
+      {
+        "id": "FWCLo1ykPT4",
+        "title": "Eagle Cam #3 - Baron Blue - White Tailed Eagles Nest Live"
+      },
+      {
+        "id": "ZRsOb3nXT7w",
+        "title": "Eagle Cam #4 - Baron Blue - White Tailed Eagles Nest Live"
+      },
+      {
+        "id": "PqVGqiN8p2g",
+        "title": "Eagle Cam #5 - Baron Blue - White Tailed Eagles Nest Live"
+      },
+      {
+        "id": "OEHJwXVAAoY",
+        "title": "LIVE: Kristiansund sentrum"
+      },
+      {
+        "id": "ssYnZk2EJck",
+        "title": "Eagle Cam #1 - Baron Blue - White Tailed Eagles Nest Live"
+      },
+      {
+        "id": "JJuaHGhd8g8",
+        "title": "Livecam Kristiansund N"
+      }
+    ]
   },
   {
     "id": "UCujqw4iys19UVg2JYVfVsYA",
@@ -17860,7 +17928,12 @@
     "id": "UCx8ILP7mQxM0nBv9bwTmTRQ",
     "handle": "@paradisevibes7610",
     "name": "PARADISE VIBES",
-    "videos": []
+    "videos": [
+      {
+        "id": "6rJtyYXOn4s",
+        "title": "🌴 LIVE Ocean View 🌅 | Paradise Vibes from Grand Horizon Resort | Gran Canaria, Puerto Rico"
+      }
+    ]
   },
   {
     "id": "UCxChxl1rvyMMMRTr9gC_N2w",
@@ -17911,7 +17984,12 @@
     "id": "UCxXKtAvUNQw5rv9lIU0V4UQ",
     "handle": "@ViracoposaoVivo",
     "name": "Viracopos ao Vivo",
-    "videos": []
+    "videos": [
+      {
+        "id": "5vzyH3AArCw",
+        "title": "AO VIVO - AEROPORTO INTERNACIONAL DE VIRACOPOS EM CAMPINAS - SÃO PAULO"
+      }
+    ]
   },
   {
     "id": "UCxaKME3e34j3aTESZZ3h7Sg",
