@@ -434,13 +434,16 @@ async function processChannel(channelId, index, total) {
 async function go() {
   const startedAt = Date.now();
   try {
-    const channelIdsFromFile = readDataObjectFromFile('.', 'channel-ids.json');
-    const normalizedChannelIds = channelIdsFromFile
-      .filter(id => typeof id === 'string')
-      .map(id => id.trim())
-      .filter(Boolean);
+    const channelIdsFromFile = [
+      ...new Set(
+        readDataObjectFromFile('.', 'channel-ids.json')
+          .filter(id => typeof id === 'string')
+          .map(id => id.trim())
+          .filter(Boolean),
+      ),
+    ];
 
-    const allChannelIds = [...new Set(normalizedChannelIds)].sort();
+    const allChannelIds = [...channelIdsFromFile].sort();
     writeDataObjectToFile(allChannelIds, '.', 'channel-ids.json');
 
     const CONCURRENCY = 10;
