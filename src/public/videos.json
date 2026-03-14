@@ -102,12 +102,7 @@
     "id": "UC-ADcKoyBn-44UJwmatMSQQ",
     "handle": "@ProducciónLyR",
     "name": "Producción LyR",
-    "videos": [
-      {
-        "id": "7kp3pY40tKY",
-        "title": "Faro Monumental  desde Hotel Plaza La Serena"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-CrxJnHPaM4tm2haTibUZA",
@@ -409,12 +404,7 @@
     "id": "UC0R-K3crhMX9jzswbmfIORw",
     "handle": "@AVIAÇÃOTV",
     "name": "AVIATION TV",
-    "videos": [
-      {
-        "id": "1mRoIlQeaZE",
-        "title": "🔴 LIVE 24/7 Lisbon Airport 14.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC0aRRZkVrO_0nqfuXYaL_Cg",
@@ -1359,10 +1349,6 @@
       {
         "id": "J3Ryjw2eawE",
         "title": "ITAJAÍ SC AO VIVO | BR-101 – SENTIDO NORTE – BORRACHARIA 101 | CONEXÃODCTV"
-      },
-      {
-        "id": "gAIOCC62uFk",
-        "title": "CORREIA PINTO SC AO VIVO | PANORÂMICA DA CIDADE – BAR DO MAICO | CONEXÃODCTV"
       },
       {
         "id": "gyjIXFbOO1g",
@@ -2573,7 +2559,12 @@
     "id": "UC6kdM4uR54C72vtsR_mCKHg",
     "handle": "@herligedale2996",
     "name": "Herlige Dale",
-    "videos": []
+    "videos": [
+      {
+        "id": "we4TMqpUEdQ",
+        "title": "Dale"
+      }
+    ]
   },
   {
     "id": "UC6q_hfBThkGdmQ5Vb4kWjWA",
@@ -3916,110 +3907,6 @@
     "handle": "@ENCOElectronicSystems",
     "name": "ENCO Electronic Systems",
     "videos": [
-      {
-        "id": "M50dc-tp2dE",
-        "title": "Henderson Beach Inn Destin, FL"
-      },
-      {
-        "id": "0SQH6DvLINI",
-        "title": "Destin Bridge Webcam Destin, FL"
-      },
-      {
-        "id": "udoKwdosSFg",
-        "title": "Beachside 2 Sandestin, FL"
-      },
-      {
-        "id": "3wbh2r-pMWg",
-        "title": "31 on 30a Beachcam"
-      },
-      {
-        "id": "wKEmJzDUtZA",
-        "title": "Mirabella Beach LIVE: Watch Sea Turtle Nesting & Gulf Coast Sunrises"
-      },
-      {
-        "id": "7TO88cy631c",
-        "title": "Blue Mountain Beach Santa Rosa, FL"
-      },
-      {
-        "id": "Bftpk4baOGk",
-        "title": "Destin Gulfgate Destin, FL"
-      },
-      {
-        "id": "LS56f612RtQ",
-        "title": "Dunes Of Seagrove Santa Rosa Beach, FL"
-      },
-      {
-        "id": "mj7r-U0kYPI",
-        "title": "Palazzo Beach Cam Panama City Beach, FL"
-      },
-      {
-        "id": "6IVaMGmvXaM",
-        "title": "Southwinds 1&2 Beachcam Sandestin, FL"
-      },
-      {
-        "id": "a1FGfIrel44",
-        "title": "Inlet Reef Beachcam Destin, FL"
-      },
-      {
-        "id": "xJ4YUea4gbQ",
-        "title": "Vista Del Mar Perdido Key, FL"
-      },
-      {
-        "id": "rYuiw8fKLXU",
-        "title": "The Grove Seascape, FL"
-      },
-      {
-        "id": "GFsRPlw81W8",
-        "title": "Shores of Panama Panama City Beach, FL"
-      },
-      {
-        "id": "j5lXM8YP-p8",
-        "title": "Emerald Beach Resort North Pool Panama City Beach, FL"
-      },
-      {
-        "id": "g4fuUj6X7GY",
-        "title": "The Enclave Orange Beach, AL"
-      },
-      {
-        "id": "iOK4amNYwRY",
-        "title": "Sterling Sands Beachcam Destin, FL"
-      },
-      {
-        "id": "hzKVRtyl2lU",
-        "title": "Emerald Beach Resort Panama City Beach, FL"
-      },
-      {
-        "id": "K1PkxWM6QB4",
-        "title": "Beachhouse Webcam Miramar Beach, FL"
-      },
-      {
-        "id": "Y82E6_IVEdY",
-        "title": "Sterling Reef Panama City Beach, FL"
-      },
-      {
-        "id": "ZoPnPXNdKAw",
-        "title": "The Empress Miramar Beach, Florida"
-      },
-      {
-        "id": "w9mI-Kbea3w",
-        "title": "Silver Shells Beachcam Destin, FL"
-      },
-      {
-        "id": "Qoouv_9QG5Q",
-        "title": "Perdido Key, FL"
-      },
-      {
-        "id": "j2AYwnv0M7k",
-        "title": "Maravilla Live Webcam Miramar Beach, FL"
-      },
-      {
-        "id": "sS4GzzSOY8Q",
-        "title": "Pelican Beach Resort Destin, FL"
-      },
-      {
-        "id": "r4mXdVQuP6E",
-        "title": "Seascape Events Plaza"
-      },
       {
         "id": "2EfuPXRXLLk",
         "title": "Seascape Town Center, Events Plaza at Mezcal"
@@ -6465,7 +6352,12 @@
     "id": "UCIQVWkOilfxoQSFcban_d-A",
     "handle": "@mauilivecam7143",
     "name": "Maui Live Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "VMz165U1f-Q",
+        "title": "🐳  LIVE 24/7  🌊  4K MAUI LIVE CAM  * WHALE WATCH CAM *  www.WhalerCondo.net"
+      }
+    ]
   },
   {
     "id": "UCISmkFSH-melI4eancXEF8A",
@@ -8833,12 +8725,7 @@
     "id": "UCR77bEpXLTBxztLOEKN3Wbg",
     "handle": "@useIP",
     "name": "use-IP Ltd",
-    "videos": [
-      {
-        "id": "AQMaw6OAeHY",
-        "title": "Live Camera Axis M1135"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCRDYkSXQNIq1DMITnrmOWiQ",
@@ -9863,7 +9750,12 @@
     "id": "UCUtI5pIKfGoRlKRxVeUwI5A",
     "handle": "@PortGavrio",
     "name": "Port Gavrio",
-    "videos": []
+    "videos": [
+      {
+        "id": "DrE7KjlEw1o",
+        "title": "Port Gavrio Live Stream"
+      }
+    ]
   },
   {
     "id": "UCV6HJBZD_hZcIX9JVJ3dCXQ",
@@ -12159,7 +12051,12 @@
     "id": "UCfQciJ8PpgWDOocrMPxLkTw",
     "handle": "@ThreeRiversCommunityofMaine",
     "name": "Three Rivers Community of Maine",
-    "videos": []
+    "videos": [
+      {
+        "id": "GKyOThshLT4",
+        "title": "Trafton Falls,  Milo Me"
+      }
+    ]
   },
   {
     "id": "UCfS5_X4LiZJV5vq6z7itypA",
@@ -14139,7 +14036,12 @@
     "id": "UCkM6bT22N_Rgl5Y6Sv2JPUg",
     "handle": "@belemaovivo",
     "name": "Belém-PA ao vivo em 4K",
-    "videos": []
+    "videos": [
+      {
+        "id": "GftXujSsjJY",
+        "title": "Live in Belém 24h"
+      }
+    ]
   },
   {
     "id": "UCkOCNLYCrkvyL6l04mzycjw",
@@ -14265,7 +14167,12 @@
     "id": "UClSdxxEoPbpZHrujhfQcdow",
     "handle": "@castrostreetcam2549",
     "name": "Castro Street Cam 2",
-    "videos": []
+    "videos": [
+      {
+        "id": "YKBRAFiYHeQ",
+        "title": "Castro Street Cam 2 Live Stream"
+      }
+    ]
   },
   {
     "id": "UClcicFOBsxXQxaQnT1RshJg",
@@ -14967,24 +14874,7 @@
     "id": "UCo-qXsM5O9OUI3mNlfIr0PA",
     "handle": "@SnapcatsOrg",
     "name": "SNAP Cats",
-    "videos": [
-      {
-        "id": "yH9sTyAlag4",
-        "title": "SNAP Cats FeLV+ Habitat"
-      },
-      {
-        "id": "50SZuQ842DY",
-        "title": "SNAP Cats Kitten Room"
-      },
-      {
-        "id": "-8erISYAy1I",
-        "title": "SNAP Cats Kitten Catio"
-      },
-      {
-        "id": "ZeQ4xOmsZI8",
-        "title": "SNAP Cats Senior Catio"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCo9Ppp8AjdfXqocqcNI_krA",
@@ -16359,7 +16249,24 @@
     "id": "UCqH_TI67yWOokRzZi5g1fMg",
     "handle": "@FOX56News",
     "name": "FOX 56 News",
-    "videos": []
+    "videos": [
+      {
+        "id": "vFvDmvW5nvQ",
+        "title": "Richmond, KY Live Weather Cam | FOX 56 News"
+      },
+      {
+        "id": "8Ou1fZF6zEk",
+        "title": "Paris, KY Live Weather Cam | Dan Cummins Auto Group | FOX 56 News"
+      },
+      {
+        "id": "4hZnB6URXTY",
+        "title": "Lexington, KY Live Weather Cam | Chevy Chase | FOX 56 News"
+      },
+      {
+        "id": "gze7WcJtbS4",
+        "title": "Somerset, KY Live Weather Cam | Lake Cumberland Regional Hospital | FOX 56 News"
+      }
+    ]
   },
   {
     "id": "UCqM2TLKtIJlAPiWk46zyjNw",
@@ -17020,7 +16927,12 @@
     "id": "UCtUDoNuFU5NPWJlMfPHKoZw",
     "handle": "@CommanderCamera-qv3xl",
     "name": "Gateway Subaru Camera at The Commander Hotel",
-    "videos": []
+    "videos": [
+      {
+        "id": "zCEiot7sEWY",
+        "title": "Gateway Subaru Camera at The Commander Hotel"
+      }
+    ]
   },
   {
     "id": "UCtUyw9nTFtCCg-RPA4c8cDg",
