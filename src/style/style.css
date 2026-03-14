@@ -92,7 +92,7 @@ body {
     inset-inline: 0;
     top: calc(100% + 4px);
     display: none;
-    max-height: 440px;
+    max-height: 480px;
     overflow-y: auto;
     padding: 4px;
     background-color: #111;
@@ -111,8 +111,9 @@ body {
     border: none;
     border-radius: 4px;
     padding: 8px;
-    color: #f2f2f2;
+    color: #fff;
     text-align: left;
+    font-family: inherit;
     cursor: pointer;
     background-color: transparent;
 }
@@ -123,28 +124,22 @@ body {
     outline: none;
 }
 
-.masthead-search-result-title {
+.masthead-search-result-channel-name {
     font-size: 0.72rem;
     font-weight: 700;
     color: #ffd54d;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
 }
 
-.masthead-search-result-meta,
-.masthead-search-empty {
+.masthead-search-result-video-title {
     margin-top: 2px;
-    font-family: inherit;
-    font-size: 0.72rem;
-}
-
-.masthead-search-result-meta {
+    font-size: 0.78rem;
     color: #fff;
 }
 
 .masthead-search-empty {
+    margin-top: 2px;
     padding: 8px;
+    font-size: 0.78rem;
     color: #bbbbbb;
 }
 

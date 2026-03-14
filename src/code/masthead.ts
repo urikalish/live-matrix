@@ -54,12 +54,12 @@ function createSearchResultButton(video: Video): HTMLButtonElement {
   resultElm.dataset.videoId = video.id;
 
   const titleElm = document.createElement('div');
-  titleElm.classList.add('masthead-search-result-title');
-  titleElm.textContent = video.title;
+  titleElm.classList.add('masthead-search-result-channel-name');
+  titleElm.textContent = video.channel.name;
 
   const metaElm = document.createElement('div');
-  metaElm.classList.add('masthead-search-result-meta');
-  metaElm.textContent = `${video.channel.name} (${video.channel.handle}) | ${video.id}`;
+  metaElm.classList.add('masthead-search-result-video-title');
+  metaElm.textContent = video.title;
 
   resultElm.appendChild(titleElm);
   resultElm.appendChild(metaElm);

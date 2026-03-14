@@ -1,7 +1,7 @@
 const _MAX_COLS = 6;
 const _MAX_ROWS = 5;
-const _INITIAL_COLS = 4;
-const _INITIAL_ROWS = 3;
+const _INITIAL_COLS = 5;
+const _INITIAL_ROWS = 4;
 
 const _STORAGE_COLS_KEY = 'live-matrix.cols';
 const _STORAGE_ROWS_KEY = 'live-matrix.rows';
