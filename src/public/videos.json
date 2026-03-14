@@ -314,7 +314,12 @@
     "id": "UC-omrowFhBZ_gzNLhX8Hq4w",
     "handle": "@paulbunyanandbabetheblueox3329",
     "name": "Paul Bunyan and Babe the Blue Ox",
-    "videos": []
+    "videos": [
+      {
+        "id": "Fwx-2yF2bic",
+        "title": "Paul Bunyan and Babe the Blue Ox Live Stream"
+      }
+    ]
   },
   {
     "id": "UC029bcZGqxOsRkvWrZLhgKQ",
@@ -865,16 +870,7 @@
     "id": "UC1dvZq_0NLxBTrYp4bWKeCQ",
     "handle": "@elkslodge616camlive8",
     "name": "ElksLodge616cam live",
-    "videos": [
-      {
-        "id": "y6ew34X8P7Q",
-        "title": "Shaka Webcam"
-      },
-      {
-        "id": "7do5yOYetV0",
-        "title": "Elk's Lodge Surf cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC1kDVgEX2DsE295Bkum_K9Q",
@@ -2910,12 +2906,7 @@
     "id": "UC83RKJs4eKHVE9v0YUyqzgg",
     "handle": "@KittenAcademy",
     "name": "Kitten Academy",
-    "videos": [
-      {
-        "id": "T4XZmMPQ9Kw",
-        "title": "Kitten Academy Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC882xzhvQ53Cva8vym_RCRA",
@@ -3680,12 +3671,7 @@
     "id": "UC8sXqdHFnwpVoOuOZmx1-kw",
     "handle": "@TICJezersko",
     "name": "TIC Jezersko",
-    "videos": [
-      {
-        "id": "z-zfvszDEvo",
-        "title": "Panoramska kamera Jezersko"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC8t7FI3O7_NV9ucGWKz2D4Q",
@@ -4165,7 +4151,24 @@
     "id": "UCAoSufogSQbl5N5AtUIid4Q",
     "handle": "@CityofEllsworthMaine",
     "name": "City of Ellsworth, Maine",
-    "videos": []
+    "videos": [
+      {
+        "id": "Tm5YO9g8_nQ",
+        "title": "City of Ellsworth, Maine - City Hall Cupola Cam"
+      },
+      {
+        "id": "Ql11MDGN1Po",
+        "title": "City of Ellsworth, Maine - Harbor Park Live Cam"
+      },
+      {
+        "id": "ufw3aQzmDBw",
+        "title": "City of Ellsworth, Maine - Branch Lake Weather Cam"
+      },
+      {
+        "id": "ELSnCF_XOPI",
+        "title": "City of Ellsworth, Maine - North Ellsworth Tower Cam"
+      }
+    ]
   },
   {
     "id": "UCAphsmhYyvZDI7s67XM5l0A",
@@ -5351,12 +5354,7 @@
     "id": "UCED0EjiTpphqDS4GnLimLyQ",
     "handle": "@cmceagle",
     "name": "Colorado Mountain College",
-    "videos": [
-      {
-        "id": "B0YjuKbVZ5w",
-        "title": "Grand Avenue Bridge in Glenwood Springs Live Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCEZ7PO6RObVv2kTT1D6zibQ",
@@ -9536,12 +9534,7 @@
     "id": "UCT7oADZixDIEzbUtWFNA-QA",
     "handle": "@webcamvetruse2915",
     "name": "Webcam Větruše",
-    "videos": [
-      {
-        "id": "ixRcofeAMSI",
-        "title": "Webcam Větruše – živé vysílání"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCTGhjtFloAPlbLy4_yrkoWg",
@@ -10098,7 +10091,12 @@
     "id": "UCWpWod9oX8XRAUfu8evYfUg",
     "handle": "@SinghsabhaseattleWA",
     "name": "Gurdwara Singh Sabha Seattle",
-    "videos": []
+    "videos": [
+      {
+        "id": "DfnPeVwS-wE",
+        "title": "LIVE • Gurdwara Singh Sabha • Renton, WA"
+      }
+    ]
   },
   {
     "id": "UCWsRYU3f0gtQVcnWIds1Lxg",
@@ -10300,12 +10298,7 @@
     "id": "UCXj6ROnZkzqgq6eYeoflO6A",
     "handle": "@ultravisionconsult1433",
     "name": "ULTRAVISION CONSULT",
-    "videos": [
-      {
-        "id": "rs2be3mqryo",
-        "title": "www.ultravisionconsult.com"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXtGlMSjKYfGoPggHcAZYbQ",
@@ -10926,12 +10919,7 @@
     "id": "UC_pPFW2jn1pUT1O5D1m3brg",
     "handle": "@kansascityzoo",
     "name": "Kansas City Zoo &amp; Aquarium",
-    "videos": [
-      {
-        "id": "BSUnBPvX9K4",
-        "title": "KC Zoo Polar Bear Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC_uoRuoMCFudYHHg9SlWbQw",
@@ -11769,12 +11757,7 @@
     "id": "UCdfw60990QmqjbMWDvfddLg",
     "handle": "@Nordkapp_Havfiske",
     "name": "NorthCape  Seafishing",
-    "videos": [
-      {
-        "id": "iXLaEkB3J0I",
-        "title": "Nordkapp Havfiske Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCdmPhiIJ-s7MJG2WtM7nbUw",
@@ -13441,72 +13424,7 @@
     "id": "UCjasbMOPUeXxvKeqzTmq6SA",
     "handle": "@sanmarcostrafficcameras5045",
     "name": "San Marcos, TX Traffic Cameras",
-    "videos": [
-      {
-        "id": "qRYILPnsOns",
-        "title": "Hopkins@Charles Austin"
-      },
-      {
-        "id": "tDFokEet4Ys",
-        "title": "Hopkins@LBJ"
-      },
-      {
-        "id": "0hhjsyXRHGA",
-        "title": "Post @ Uhland"
-      },
-      {
-        "id": "Qj6osxu6XVI",
-        "title": "Hopkins Street @ Moore Street"
-      },
-      {
-        "id": "MUQJubAnBmI",
-        "title": "SH123@Broadway"
-      },
-      {
-        "id": "v6USKejtl_k",
-        "title": "Thorpe @ Robbie"
-      },
-      {
-        "id": "bYd6ChdCblg",
-        "title": "Aquarena Springs @Thorpe"
-      },
-      {
-        "id": "fiUqVsMR8z4",
-        "title": "Aquarena Spring @ Charles Austin"
-      },
-      {
-        "id": "MYNXvJGw0NE",
-        "title": "Aquarena Springs Drive @ Post Road"
-      },
-      {
-        "id": "xdWLJzOlMUI",
-        "title": "Hopkins_Thorpe"
-      },
-      {
-        "id": "wMsY4Sj9ljg",
-        "title": "Sessom @ Comanche"
-      },
-      {
-        "id": "N26hFIoFUx0",
-        "title": "Centerpoint Road @ Outlet Mall"
-      },
-      {
-        "id": "xaWNXMnrNcw",
-        "title": "IH 35 @ Centerpoint Road"
-      },
-      {
-        "id": "4Uwmss-8J5I",
-        "title": "IH 35 @ Wonder World Drive"
-      },
-      {
-        "id": "S_o0_F9BiuY",
-        "title": "Aquarena Springs Drive @ Sessom Drive"
-      },
-      {
-        "id": "E8LsKcVpL5A",
-        "title": "Hopkins Street @ Guadalupe Street"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCjc3XanPPTV1Ar1ec6ElXTg",
@@ -16955,7 +16873,12 @@
     "id": "UCsyyRhCqrvBInUQYTNxL6lw",
     "handle": "@poroslivegr4994",
     "name": "POROSLIVE GR",
-    "videos": []
+    "videos": [
+      {
+        "id": "52JUkT18HQU",
+        "title": "Poros island Live Cam"
+      }
+    ]
   },
   {
     "id": "UCt01tczohsGmH6X6csUS6iQ",
