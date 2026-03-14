@@ -113,7 +113,12 @@
     "id": "UC-CrxJnHPaM4tm2haTibUZA",
     "handle": "@SoggyDollar",
     "name": "Soggy Dollar",
-    "videos": []
+    "videos": [
+      {
+        "id": "V_I168MM-ik",
+        "title": "Soggy Dollar Bar LIVE Webcam on White Bay, Jost Van Dyke, BVI"
+      }
+    ]
   },
   {
     "id": "UC-G-G7Z2pfUz9e5BBApHp9w",
@@ -393,12 +398,7 @@
     "id": "UC0MrPkKoR10dziKUa6JUwIg",
     "handle": "@ДаниелПанов-п7ж",
     "name": "Даниел Панов",
-    "videos": [
-      {
-        "id": "U4L-omkVIBQ",
-        "title": "На живо от Велико Търново"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC0R-K3crhMX9jzswbmfIORw",
@@ -663,12 +663,7 @@
     "id": "UC19vhjk8B1TfPQylbrCQnQg",
     "handle": "@MintoCommunitiesUSA",
     "name": "Minto Communities USA",
-    "videos": [
-      {
-        "id": "30jt7szB2Jg",
-        "title": "The Isles of Collier Preserve Live Community Video"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC1HDQ1Q5nVHYF8e7dL4E-pw",
@@ -1733,12 +1728,6 @@
     ]
   },
   {
-    "id": "UC4UimES_xLEu_7VPyMrIeKA",
-    "handle": "@thevillagesflorida",
-    "name": "The Villages Florida",
-    "videos": []
-  },
-  {
     "id": "UC4Wd3aS1XKA39dCveZExSkg",
     "handle": "@oneandmoreaviation",
     "name": "One and More Aviation ",
@@ -2747,12 +2736,6 @@
         "title": "Lekeitioko Udala"
       }
     ]
-  },
-  {
-    "id": "UC7IxfHMqwb9_e6r5qa29A4A",
-    "handle": "@wissant_webcam",
-    "name": "Wissant webcam",
-    "videos": []
   },
   {
     "id": "UC7KUFEpqlSDLWewaBjr6a8w",
@@ -6524,12 +6507,6 @@
     ]
   },
   {
-    "id": "UCItDgpcba9YXEFfLEV-pYtw",
-    "handle": "@gprime4553",
-    "name": "G Prime",
-    "videos": []
-  },
-  {
     "id": "UCJ0y2sG32CqI5P-YMt_FCXg",
     "handle": "@haugergolfcam476",
     "name": "HaugerGolfCam",
@@ -6539,12 +6516,6 @@
         "title": "Live Camera Axis M1125"
       }
     ]
-  },
-  {
-    "id": "UCJ74aiHB5JP3JJQyb8HdNdA",
-    "handle": "@NYMR",
-    "name": "North Yorkshire Moors Railway (NYMR)",
-    "videos": []
   },
   {
     "id": "UCJ7WPwJWYvUUSH7U3-9cIyg",
@@ -7177,12 +7148,6 @@
         "title": "Lillyputt Minigolf Broadstairs Live Stream"
       }
     ]
-  },
-  {
-    "id": "UCKf4eP8Sjl-hIu9WYB_ATYw",
-    "handle": "@visir7917",
-    "name": "Vísir",
-    "videos": []
   },
   {
     "id": "UCKggdk4rcwVhzSdhEEhmaNw",
@@ -8026,12 +7991,6 @@
         "title": "SBGR LIVE 4K - Aeroporto Internacional de Guarulhos AO VIVO - GRU Airport"
       }
     ]
-  },
-  {
-    "id": "UCNbMdQzK0V0VGhAaBhsamMw",
-    "handle": "@angleseagolfclub2107",
-    "name": "Anglesea Golf Club",
-    "videos": []
   },
   {
     "id": "UCNfSLmqoe1-kVs0aIsw13fg",
@@ -9476,12 +9435,6 @@
     ]
   },
   {
-    "id": "UCSJsMYM4eikXyv0tK-ZacNw",
-    "handle": "@smnkarlsruhe",
-    "name": "Naturkundemuseum Karlsruhe",
-    "videos": []
-  },
-  {
     "id": "UCSilXhjCqvRMtVug1J51CiA",
     "handle": "@santuariocovadongaasturias192",
     "name": "Santuario Covadonga Asturias",
@@ -10083,12 +10036,6 @@
     ]
   },
   {
-    "id": "UCW3vX59TPcEney84pR74GKw",
-    "handle": "@thecatcafesandiego",
-    "name": "The Cat Cafe",
-    "videos": []
-  },
-  {
     "id": "UCW8Dk5-ahwqP1-4fk0pqHCw",
     "handle": "@serenaresort",
     "name": "Serena Waterpark &amp; Ski",
@@ -10132,18 +10079,6 @@
         "title": "Bourke Street Live"
       }
     ]
-  },
-  {
-    "id": "UCWP9NBXiY0SGVy7WQiOs3vg",
-    "handle": "@hanyou23",
-    "name": "hanyou23",
-    "videos": []
-  },
-  {
-    "id": "UCWXaB2BG1SnEuHXIpIAMBww",
-    "handle": "@ZlinCz1",
-    "name": "www.zlin.cz",
-    "videos": []
   },
   {
     "id": "UCWh93l9snW90iP2ybPHikAg",
@@ -10227,42 +10162,18 @@
     "id": "UCWy8xdFQ0O0U3kQiotfMwGA",
     "handle": "@zooszegedcameralive5811",
     "name": "Zoo Szeged Camera Live",
-    "videos": [
-      {
-        "id": "XnlS0KR75Bw",
-        "title": "Elefánt kamera (kint)"
-      },
-      {
-        "id": "Wo4Dpa-1hUI",
-        "title": "Zsiráf kamera"
-      },
-      {
-        "id": "28adHJuqdyA",
-        "title": "Teve kamera"
-      },
-      {
-        "id": "uiP4ZOK0RuY",
-        "title": "Farkas kamera"
-      },
-      {
-        "id": "TPF7nTPNlTg",
-        "title": "Elefánt kamera (bent)"
-      },
-      {
-        "id": "LOkWgvbtyk4",
-        "title": "Oroszlán kamera"
-      },
-      {
-        "id": "R75Pwwgx5q0",
-        "title": "Tigris kamera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCWzx-v_6kdTKi3oXhWOK1FA",
     "handle": "@qab4524",
     "name": "QAB琉球朝日放送",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZdvNQ3D0PY4",
+        "title": "QAB琉球朝日放送　お天気カメラ　那覇空港ほか"
+      }
+    ]
   },
   {
     "id": "UCXAiwCQ4-nhMDQkorWs1pPA",
@@ -10761,12 +10672,7 @@
     "id": "UC_9dsRFZiS87yepdO4Qc9Ng",
     "handle": "@MiamiRiverCam",
     "name": "Miami River Camera ",
-    "videos": [
-      {
-        "id": "7wHgYc_kN98",
-        "title": "Miami River Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC_B1lpgj2DH_wO8T1jJnSYA",
@@ -11174,12 +11080,6 @@
     ]
   },
   {
-    "id": "UCaSWrWpSCVT9pbKbHTdorZA",
-    "handle": "@POSEIDONATHENSHOTEL",
-    "name": "POSEIDON ATHENS HOTEL",
-    "videos": []
-  },
-  {
     "id": "UCafIgU9tzTcW7VNZkO4c5NA",
     "handle": "@realcamlive7103",
     "name": "Realcam LIVE",
@@ -11314,12 +11214,7 @@
     "id": "UCb7muRFDUn2QtNMbBVpdKRw",
     "handle": "@BatsiLive",
     "name": "Batsi Live",
-    "videos": [
-      {
-        "id": "M9mEzPeD5cQ",
-        "title": "Batsi.gr & Mpatsi.gr Live Webcam#2"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCb8Srdd1w7s4oJG21um9AGw",
@@ -11517,24 +11412,7 @@
     "id": "UCc45_PGazFuEQHoSsaQdwCQ",
     "handle": "@telewizja.proart",
     "name": "Telewizja Proart",
-    "videos": [
-      {
-        "id": "O6eLBQNTTCk",
-        "title": "Rynek - Krotoszyn"
-      },
-      {
-        "id": "Ai3N1Px4SKQ",
-        "title": "Zalew - Raszków"
-      },
-      {
-        "id": "ziWtDNMv7mU",
-        "title": "Ostrów Wielkopolski - Kościół, ul. Limanowskiego"
-      },
-      {
-        "id": "ACS8lybLukI",
-        "title": "Rynek - Ostrów Wielkopolski"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCcCXppxPeV4-xBKIwZXCQMQ",
@@ -11572,12 +11450,6 @@
         "title": "Iconic SXM Airport LIVE 24/7 – Sint Maarten Maho Beach"
       }
     ]
-  },
-  {
-    "id": "UCc_dJbq01v3zTphUZ2q73zw",
-    "handle": "@StadMechelen",
-    "name": "StadMechelen",
-    "videos": []
   },
   {
     "id": "UCcbzs8WNAZ_UOp21fJzSHfA",
@@ -11896,13 +11768,12 @@
     "id": "UCdmrMySXycO_2dIiZnQ1k-g",
     "handle": "@kjdbum7967",
     "name": "KJD BUM",
-    "videos": []
-  },
-  {
-    "id": "UCdoo7oheBvREC-WvZ604Ngg",
-    "handle": "@davidgubler7698",
-    "name": "David Gubler",
-    "videos": []
+    "videos": [
+      {
+        "id": "VKU0P9Um7uY",
+        "title": "KJD BUM ŽUSTERNA LIVE 24/7 WEBCAM"
+      }
+    ]
   },
   {
     "id": "UCdr9cCd_WQPlLCAUjNaoACg",
@@ -12573,12 +12444,7 @@
     "id": "UCgBwodddPsSwg5nfUqH4-jA",
     "handle": "@StrandcampingGroede",
     "name": "Strandcamping Groede",
-    "videos": [
-      {
-        "id": "bE546Hg7Ij0",
-        "title": "Strandcam Groede live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgDKPUQWlxzaqPm6tOFrInw",
@@ -12876,12 +12742,6 @@
     "id": "UCgc94Z6At-5cWGkI_Z2vr5g",
     "handle": "@haondasnapraia",
     "name": "Mario Nogueira",
-    "videos": []
-  },
-  {
-    "id": "UCglkHkayC5dDQpyfAFRw6kg",
-    "handle": "@portodelisboa3164",
-    "name": "Porto de Lisboa",
     "videos": []
   },
   {
@@ -15911,7 +15771,7 @@
     "name": "Carron Farm",
     "videos": [
       {
-        "id": "oeEt60ry3C4",
+        "id": "Yu287B3noJA",
         "title": "Higher Town Quay"
       }
     ]
@@ -15939,32 +15799,7 @@
     "id": "UCprCdxrg_u9E9hhc-MZDk5A",
     "handle": "@sanantonioimagen",
     "name": "sanantonioimagen",
-    "videos": [
-      {
-        "id": "3X5hCOf__ps",
-        "title": "EL QUISCO EN VIVO"
-      },
-      {
-        "id": "JVoeKYK69UI",
-        "title": "Avenida Barros Luco"
-      },
-      {
-        "id": "W_nfRz-iL14",
-        "title": "Llolleo, sector desembocadura Rio Maipo"
-      },
-      {
-        "id": "XfxpV4hl1aU",
-        "title": "SAN ANTONIO EN VIVO 2"
-      },
-      {
-        "id": "79PtdSvv1Xc",
-        "title": "San Antonio en Vivo"
-      },
-      {
-        "id": "0pjFuk15b94",
-        "title": "Avenida Chile Llolleo"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCpyvIHANW0AIb1BvBLGjorw",
@@ -16577,12 +16412,7 @@
     "id": "UCrBd0lVRjlyT-uu0fcFihUw",
     "handle": "@LiveCamTrento-Opinione",
     "name": "Live Trento H24 - Piazza Duomo",
-    "videos": [
-      {
-        "id": "Llv45nPcbbo",
-        "title": "Trento live cam - centro città (Piazza Duomo)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCrGS8VyrgCqYwaogH5bQpxQ",
@@ -16605,12 +16435,6 @@
         "title": "[4K] Live Camera - Niseko Hanazono Resort"
       }
     ]
-  },
-  {
-    "id": "UCrZ5L_G3EMp1DAdva8BnVVw",
-    "handle": "@incredibleromania7782",
-    "name": "Incredible Romania",
-    "videos": []
   },
   {
     "id": "UCrr1vVhuKmB5pUV6eCilRMQ",
@@ -16914,12 +16738,6 @@
         "title": "Tidal Bore LIVE at Fundy Discovery Site in Truro, Nova Scotia"
       }
     ]
-  },
-  {
-    "id": "UCsoo-h_wd5iCiKI_Ssi46qA",
-    "handle": "",
-    "name": "Châtel",
-    "videos": []
   },
   {
     "id": "UCssgkk6dhVpL-v6K5yPjIzw",
@@ -18036,12 +17854,6 @@
     ]
   },
   {
-    "id": "UCw_vfsiARZXbWUT1T-VGmzQ",
-    "handle": "@havenvanzandvoort4481",
-    "name": "Haven van Zandvoort",
-    "videos": []
-  },
-  {
     "id": "UCw_ySKg9iYcTmytDtT-LW2Q",
     "handle": "@NessieOnTheNet",
     "name": "NessieOnTheNet",
@@ -18215,12 +18027,6 @@
         "title": "🔴 香港的士直播 | Hong Kong Taxi Live | 14/3/2026 🔴"
       }
     ]
-  },
-  {
-    "id": "UCxSmo85dfrYLFgLzhfOMcEg",
-    "handle": "@TourismLuangPrabang",
-    "name": "Tourism Luang Prabang",
-    "videos": []
   },
   {
     "id": "UCxXKtAvUNQw5rv9lIU0V4UQ",
@@ -18514,12 +18320,6 @@
         "title": "🔴 LIVE WEBCAM CANNES - Palm Beach"
       }
     ]
-  },
-  {
-    "id": "UCy4NZ6nnMs2nUX6JKxOE8tA",
-    "handle": "@maritimeaquarium",
-    "name": "The Maritime Aquarium at Norwalk",
-    "videos": []
   },
   {
     "id": "UCy7ycbTd1HFIFtM66u4A0lA",
@@ -18982,7 +18782,12 @@
     "id": "UCznYV93b1V_PGy4yOPnR0mw",
     "handle": "@tarquinburrows2649",
     "name": "Tarquin Burrows",
-    "videos": []
+    "videos": [
+      {
+        "id": "oqcG1gMs2U8",
+        "title": "Nahoon Beach Live Streaming"
+      }
+    ]
   },
   {
     "id": "UCzofN-7yLDKoPmh37yqMpiA",
