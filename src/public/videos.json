@@ -747,6 +747,10 @@
     "name": "Char Dham Yatra Live",
     "videos": [
       {
+        "id": "bTUFqGN0mgQ",
+        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
+      },
+      {
         "id": "6ILPhaX4Wds",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
@@ -756,10 +760,6 @@
       },
       {
         "id": "qWvRex8kuag",
-        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
-      },
-      {
-        "id": "xrOzHKhgEgc",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
       {
@@ -1257,10 +1257,6 @@
         "title": "GOV. CELSO RAMOS SC AO VIVO | PRAIA DE PALMAS – VISTA ARQUIPÉLAGO | CONEXÃODCTV"
       },
       {
-        "id": "n9iA3AKoqxI",
-        "title": "GOV. CELSO RAMOS SC AO VIVO | PRAIA DE CALHEIROS – RESTAURANTE BELA VISTA | CONEXÃODCTV"
-      },
-      {
         "id": "9hRqd24IIaw",
         "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | PRAIA CENTRAL – BARRA SUL – UNIFIQUE | CONEXÃODCTV"
       },
@@ -1323,10 +1319,6 @@
       {
         "id": "FH3gMEZG24w",
         "title": "CORREIA PINTO SC AO VIVO | BR-116 – UNIFIQUE INTERNET | CONEXÃODCTV"
-      },
-      {
-        "id": "TGUCEjq1n1Y",
-        "title": "BLUMENAU SC AO VIVO | PANORÂMICA DA CIDADE – INDAIÁ EVENTOS | CONEXÃODCTV"
       },
       {
         "id": "VyYyzq6XUZQ",
@@ -2109,6 +2101,14 @@
     "name": "Ozolio Live",
     "videos": [
       {
+        "id": "G1zgkkguCyc",
+        "title": "Hurricane Watch Maui LIVE | Fairmont Kea Lani Resort Cam | Hawaii Beach View"
+      },
+      {
+        "id": "m14lJYJNwCs",
+        "title": "Maui LIVE Cam  | Hurricane Conditions at Beach Cabana – Maui Eldorado | Ka’anapali Beach"
+      },
+      {
         "id": "N4iv884aVa8",
         "title": "Powerful Storm Over Hawaii | Waikiki Beach Marriott Resort & Spa | Waikiki Webcams"
       },
@@ -2119,10 +2119,6 @@
       {
         "id": "q2Dxx5704fQ",
         "title": "Miami International Airport (MIA) Live Cam | Embassy Suites by Hilton Miami International Airport"
-      },
-      {
-        "id": "4Pe-5NU_mGo",
-        "title": "LIVE Maui Beach Cam | Napili Kai Beach Resort | Hawaii Live Cams"
       },
       {
         "id": "TZAvviB_o-4",
@@ -2710,10 +2706,6 @@
         "title": "EarthCam Live: Snowman Cam - Animals and Wildlife (Gaylord, Michigan)"
       },
       {
-        "id": "iKmzggEUU0I",
-        "title": "EarthCam Live:  Seaside Heights, NJ - North View"
-      },
-      {
         "id": "Ksrleaxxxhw",
         "title": "EarthCam Live: New Orleans Street View"
       },
@@ -2788,44 +2780,7 @@
     "id": "UC7VttfYTuBOxttd6r3imwIQ",
     "handle": "@BoyneMountainResort",
     "name": "Boyne Mountain Resort",
-    "videos": [
-      {
-        "id": "4kzVkq8YLko",
-        "title": "Hemlock: Boyne Mountain Resort"
-      },
-      {
-        "id": "RODEbIPGspQ",
-        "title": "Mountain Express"
-      },
-      {
-        "id": "XWyDmTPBN6g",
-        "title": "Victor Glacier Cam"
-      },
-      {
-        "id": "dNNJ0xXBkgA",
-        "title": "Snow Stake"
-      },
-      {
-        "id": "VyGR7BQvoUY",
-        "title": "Iglu Cam"
-      },
-      {
-        "id": "hqUTCpjQVPE",
-        "title": "Disciples Overlook"
-      },
-      {
-        "id": "3vuXRsZXFUU",
-        "title": "Clock Tower: Boyne Mountain Resort"
-      },
-      {
-        "id": "7ZJyX7imL1M",
-        "title": "Ramshead: Boyne Mountain Resort"
-      },
-      {
-        "id": "ioTfHBawdw4",
-        "title": "SkyBridge Michigan"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC7Z6yfD0LKxSftKxOLrbPeQ",
@@ -2842,12 +2797,7 @@
     "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
     "handle": "@castrostreetcam4755",
     "name": "Castro Street Cam 4",
-    "videos": [
-      {
-        "id": "gwCSsrf7Y_s",
-        "title": "Castro Street Cam 4 Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC7ekPkSzne_PsGbRJP0nkeg",
@@ -3717,7 +3667,24 @@
     "id": "UC9Ljd016Si9rv3KS-5CbpGg",
     "handle": "@VanillaISP",
     "name": "Vanilla",
-    "videos": []
+    "videos": [
+      {
+        "id": "0Igczg6-Yvs",
+        "title": "Vanilla Live Stream Table Mountain - brought to you by vanilla.co.za"
+      },
+      {
+        "id": "-Qi7IXhSScA",
+        "title": "Vanilla live stream Signal Hill"
+      },
+      {
+        "id": "8xvFxAPpEtc",
+        "title": "Vanilla live stream Signal Hill and Cape Town CBD"
+      },
+      {
+        "id": "4Zu64CmAjMo",
+        "title": "View of  Sea Point and Lions Head - brought to you by vanilla.co.za"
+      }
+    ]
   },
   {
     "id": "UC9PfqU54WV-eb4Uk14De2wA",
@@ -4502,126 +4469,6 @@
         "title": "🔴 Ragusa live webcam - Panoramica Centro"
       },
       {
-        "id": "ofZCVKTI_Tw",
-        "title": "🔴 Caltanissetta live webcam - Panoramica SSE"
-      },
-      {
-        "id": "O9zm9In9r-8",
-        "title": "🔴 San Piero Patti live webcam - Visuale panoramica"
-      },
-      {
-        "id": "P3zbnBw1k5E",
-        "title": "🔴 Piano Maglio Blandino (PA) - Panoramica Monreale"
-      },
-      {
-        "id": "ImTutPvcM40",
-        "title": "🔴 Alcamo  live webcam - Panoramica Castellammare del Golfo"
-      },
-      {
-        "id": "T2snnTwZFC8",
-        "title": "🔴 Calcarelli live webcam - Panoramica Nord"
-      },
-      {
-        "id": "RqWOFUgqhs4",
-        "title": "🔴 Zafferana Etnea - Panoramica Etna e Chiesa Madre"
-      },
-      {
-        "id": "aZH8t-yLtH8",
-        "title": "🔴 Ragusa live webcam - Panoramica N - IT9CFB"
-      },
-      {
-        "id": "4TYk8Hrdtgw",
-        "title": "🔴 Santa Cristina Gela live webcam - Panoramica E/NE"
-      },
-      {
-        "id": "Nt6aIvAIfD0",
-        "title": "🔴 Tremestieri Etneo live webcam - Panoramica Etna"
-      },
-      {
-        "id": "5bKH71Zmp08",
-        "title": "🔴 Brolo live webcam – Panoramica da Contrada Parrazzà"
-      },
-      {
-        "id": "qkMugsWsZEs",
-        "title": "🔴 Poggio Rotondo live webcam - Panoramica su Santa Domenica Vittoria"
-      },
-      {
-        "id": "kKA__8YIPFg",
-        "title": "🔴 Floresta live webcam - Panoramica est 4K"
-      },
-      {
-        "id": "xITh1kt3Fy8",
-        "title": "🔴 Mirabella Imbaccari live webcam - Panoramica NNW"
-      },
-      {
-        "id": "4dQ_TvV3b7o",
-        "title": "🔴 Noto, Testa Dell'acqua live webcam - Panoramica nord"
-      },
-      {
-        "id": "nFEanNMTGNM",
-        "title": "🔴 Cammarata live webcam - Panoramica W/SW"
-      },
-      {
-        "id": "_W2LtEH1Ejo",
-        "title": "🔴 Marineo live webcam - Panoramica ovest"
-      },
-      {
-        "id": "v3QsQPfJYbg",
-        "title": "🔴 Marineo live webcam - Panoramica sud-ovest"
-      },
-      {
-        "id": "4uJ7G9IjTpQ",
-        "title": "🔴 Troina live webcam - Panoramica sud-ovest"
-      },
-      {
-        "id": "CrZnjF8tzHI",
-        "title": "🔴 Troina live webcam - Panoramica Est"
-      },
-      {
-        "id": "X400X3Hpxbg",
-        "title": "🔴 Pizzo Mircene live webcam - Panoramica Terrasini/Aeroporto Int. Palermo Falcone e Borsellino"
-      },
-      {
-        "id": "CztYatn8Qeg",
-        "title": "🔴 Pizzo Manolfo live webcam - Panoramica su Sferracavallo, Palermo nord by Waynet Italia"
-      },
-      {
-        "id": "pC3WvH00oCI",
-        "title": "🔴 Pizzo Manolfo live webcam - Panoramica su Palermo by Waynet Italia"
-      },
-      {
-        "id": "Kva15KRwlGg",
-        "title": "🔴 Isola delle Femmine live webcam - Panoramica W/NW"
-      },
-      {
-        "id": "K5CnbiHPGLU",
-        "title": "🔴 Pedagaggi live webcam - Panoramica N/NW"
-      },
-      {
-        "id": "J-uNY6vrrPU",
-        "title": "🔴 Castelbuono live webcam  - Panoramica Nord-Ovest"
-      },
-      {
-        "id": "FTclqg9Z9Ik",
-        "title": "🔴 San Martino delle Scale live webcam - Panoramica Piazza"
-      },
-      {
-        "id": "1L21eDI9TqI",
-        "title": "🔴 Zafferana Etnea - Panoramica Etna est"
-      },
-      {
-        "id": "ERt61NyaU7Y",
-        "title": "🔴 Cappella Santa Rosalia live webcam - Cattedrale di Palermo"
-      },
-      {
-        "id": "y5fGsgv-wfw",
-        "title": "🔴 Santa Domenica Vittoria live webcam - Panoramica nord"
-      },
-      {
-        "id": "lLiS9Q-plQ4",
-        "title": "🔴 Santa Domenica Vittoria - Panoramica Etna nord"
-      },
-      {
         "id": "UofEwnxqi0w",
         "title": "🔴 Palermo live webcam - Panoramica Sferracavallo puntamento N/NW"
       },
@@ -4977,8 +4824,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "Zsozvn0uYaw",
-        "title": "【 Archive】 2026-03-15『06:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "9Q7EdrOn2Uk",
+        "title": "【 Archive】 2026-03-15『09:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -5226,8 +5073,8 @@
     "name": "Khao Lak Land Discovery",
     "videos": [
       {
-        "id": "OzDCqzJMhDE",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 15-Mar-2026 00:00"
+        "id": "2KmxXroQbdE",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 15-Mar-2026 06:15"
       }
     ]
   },
@@ -5848,64 +5695,7 @@
     "id": "UCG-Icsd_kbKnt9QraydFQPQ",
     "handle": "@BeachLifeCams",
     "name": "Beach Life Cams",
-    "videos": [
-      {
-        "id": "kKv0tI1RYlU",
-        "title": "Bowleaze Cove Beach (Weymouth, UK) Live Webcam @ Beachside Cafe"
-      },
-      {
-        "id": "eIGZRJ4NEms",
-        "title": "Chesil Beach Live Webcam @ Quiddles Cafe"
-      },
-      {
-        "id": "eOS2G-XfWno",
-        "title": "Weymouth Mainline Railcam: 24/7 Train Arrivals & Departures | Dorset, UK"
-      },
-      {
-        "id": "D-hTQbd8Qxs",
-        "title": "Swanage Beach (UK) Live Webcam @ Swanage Beach Sauna"
-      },
-      {
-        "id": "wZk4WIomGHo",
-        "title": "Overcombe Beach Live Webcam @  Cafe Oasis"
-      },
-      {
-        "id": "go9x2mVLe10",
-        "title": "Greenhill Beach (Weymouth) Live Webcam @ Jurassic Rocks Cafe"
-      },
-      {
-        "id": "KnBN3gs-ZZs",
-        "title": "Weymouth Harbour Webcam @ Jurassic Jet Ski Tours"
-      },
-      {
-        "id": "Z9u__twkjm4",
-        "title": "West Bay (Bridport) Harbour Live Webcam @ Harbour Amusements"
-      },
-      {
-        "id": "4Ccl8lc0w9E",
-        "title": "Cheddar Reservoir (UK) Live Webcam @ Cheddar Watersports / BCYC"
-      },
-      {
-        "id": "v1XiBN7VjvM",
-        "title": "OTC Watersports Portland Harbour (UK) Live Webcam"
-      },
-      {
-        "id": "DltKeOjhgAg",
-        "title": "Lyme Regis (UK) Live Webcam @ Swim Cafe, Bar & Restaurant"
-      },
-      {
-        "id": "ev1hgKJlnQA",
-        "title": "Weymouth Harbour Live Webcam @ The George Bar & Grill"
-      },
-      {
-        "id": "ZMy_EqLNEAo",
-        "title": "Weymouth Beach (UK) Live Webcam @ Cactus Tearooms"
-      },
-      {
-        "id": "2eQlFsurl-s",
-        "title": "Overcombe Beach (Weymouth, UK) Live Webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCG0GyXcLzbTCvOtX9nwof1A",
@@ -6458,7 +6248,12 @@
     "id": "UCIY3JMAcniBR8ngBw6OYvTA",
     "handle": "@Niagarafallslive",
     "name": "Old Fort Niagara",
-    "videos": []
+    "videos": [
+      {
+        "id": "J032Ui8Papc",
+        "title": "Fort Niagara Webcam"
+      }
+    ]
   },
   {
     "id": "UCIeAa1ORzuGMaaBNcuLgAvw",
@@ -7171,26 +6966,13 @@
     "id": "UCKiObhTepfujcMJaqZ9qzsQ",
     "handle": "@oldbridgeairport618",
     "name": "Old Bridge Airport",
-    "videos": [
-      {
-        "id": "EnNNIRtKyXk",
-        "title": "Old Bridge Airport Livestream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCKqAJfYEVCPLbdgOm8QqSQg",
     "handle": "@DirectoNatura",
     "name": "DIRECTO NATURA",
     "videos": [
-      {
-        "id": "66UO5SWOcG0",
-        "title": "🦆 Humedal LAGUNA de EL OSO (Cámara 1 | Ávila) 🔴 DIRECTO"
-      },
-      {
-        "id": "WTTAZdpnqW4",
-        "title": "🦆 Vida salvaje 🔴 DIRECTO (Cámara 4 | Ávila) | LAGUNA de EL OSO"
-      },
       {
         "id": "q5-Kk-_ef-Q",
         "title": "Nido alimoche 🔴 DIRECTO (Cámara 63 | PN Alto Tajo, Guadalajara)"
@@ -7583,12 +7365,7 @@
     "id": "UCLm4NMiRgEwOAwY-tapTQag",
     "handle": "@kozylemorne6102",
     "name": "Kozy Le Morne",
-    "videos": [
-      {
-        "id": "t2ORSJXjPg8",
-        "title": "🔴 Île Maurice / Mauritius - At Kozy Le Morne"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCLmvtLuqca56l68QCETk1QQ",
@@ -7892,12 +7669,7 @@
     "id": "UCNOXlPIEg4nNvCqlInpKcXw",
     "handle": "@vancouverportlive",
     "name": "Vancouver Port Live",
-    "videos": [
-      {
-        "id": "GHEmhcWjiTE",
-        "title": "Vancouver Harbour Live 24/7: Cruise ships, Skyline, & Marine Radio"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCNWKOK8eFOFDgs3sac6-76Q",
@@ -7963,7 +7735,7 @@
     "name": "Trinidad Harbor Live Webcam",
     "videos": [
       {
-        "id": "0APk3wZKMWw",
+        "id": "dkJoCyEm9Dk",
         "title": "Trinidad Harbor Webcam Live Stream"
       }
     ]
@@ -7974,7 +7746,7 @@
     "name": "SBGR LIVE",
     "videos": [
       {
-        "id": "KhMKuq4VYAc",
+        "id": "VJkXpaEZgJ4",
         "title": "SBGR LIVE 4K - Aeroporto Internacional de Guarulhos AO VIVO - GRU Airport"
       }
     ]
@@ -8630,7 +8402,12 @@
     "id": "UCQKQTgZJo3PlxA-9V1Z51XA",
     "handle": "@DailySeoul",
     "name": "Daily Seoul Live Camera - Hangang",
-    "videos": []
+    "videos": [
+      {
+        "id": "-JhoMGoAfFc",
+        "title": "[4K] Seoul Korea 24/7 Hangang Live Cam & Lofi Radio 韓国ライブカメラ (since 2020)"
+      }
+    ]
   },
   {
     "id": "UCQLT4LXXR7FZM0J6u62hwyQ",
@@ -9180,12 +8957,7 @@
     "id": "UCRapzDHUryKzcb9rJJGfxqg",
     "handle": "@whirligigwilson1724",
     "name": "Whirligig Wilson",
-    "videos": [
-      {
-        "id": "maJessq4rMU",
-        "title": "Wilson NC Whirligig Park"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCRiY_FP2PZHeWWuIsMKyxGA",
@@ -9211,10 +8983,6 @@
     "handle": "@SHOWMECaribbean",
     "name": "SHOWME Caribbean",
     "videos": [
-      {
-        "id": "GQeHU4o_dfg",
-        "title": "🌴Best Caribbean Beach Resorts LIVE | Curaçao • Sint Maarten • Aruba • Bonaire | March 14, 2026"
-      },
       {
         "id": "OQES6uOYNho",
         "title": "LIVE SXM Airport March 14 ✈️ -  Maho Beach Sint Maarten"
@@ -9655,12 +9423,7 @@
     "id": "UCTlY00NCf0nKyldwBys3mrA",
     "handle": "@SerradoRiodoRastroaoVivo",
     "name": "Serra do Rio do Rastro ao Vivo",
-    "videos": [
-      {
-        "id": "IvYDVyUpP6c",
-        "title": "Serra do Rio do Rastro em Lauro Müller ao vivo!"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCToP9T8yl8FzL-G9J3ONJ0g",
@@ -9798,10 +9561,6 @@
     "name": "Vacation Myrtle Beach",
     "videos": [
       {
-        "id": "O7DgdTzuKIs",
-        "title": "Ocean Creek Resort Myrtle Beach Sunset 03/14/2026"
-      },
-      {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
       },
@@ -9853,7 +9612,12 @@
     "id": "UCVARamJgetNC2PQkw7kDD0Q",
     "handle": "@johnvlissingenwebcam2437",
     "name": "John Vlissingenwebcam",
-    "videos": []
+    "videos": [
+      {
+        "id": "cUcRXzE5sYY",
+        "title": "Livestream Vlissingenwebcam 1"
+      }
+    ]
   },
   {
     "id": "UCVK-LGmxFkjQEe6eV1NvQ2w",
@@ -11106,7 +10870,12 @@
     "id": "UCaOzbC5fO6mLnc_3or3BMxg",
     "handle": "@pinemountainobservatory5775",
     "name": "Pine Mountain Observatory",
-    "videos": []
+    "videos": [
+      {
+        "id": "BR7Yppmd-aM",
+        "title": "PMO Live Camera"
+      }
+    ]
   },
   {
     "id": "UCafIgU9tzTcW7VNZkO4c5NA",
@@ -12369,7 +12138,116 @@
     "id": "UCgAmmVZsZ4vfDH-vtWawaOg",
     "handle": "@NorwayLive",
     "name": "Norway Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "1k7qhy727nM",
+        "title": "Hemsedal LIVE"
+      },
+      {
+        "id": "6-V8dt887Fw",
+        "title": "Skimore LIVE"
+      },
+      {
+        "id": "7VXn9NpuSZk",
+        "title": "Oslo LIVE"
+      },
+      {
+        "id": "wFJzXxHqKVU",
+        "title": "Solheisen Hemsedal LIVE"
+      },
+      {
+        "id": "QTMXSlNd5k4",
+        "title": "Oppdal Skisenter LIVE"
+      },
+      {
+        "id": "OJneSeFqaaw",
+        "title": "Narvik Havn LIVE"
+      },
+      {
+        "id": "3xohetm5I7Y",
+        "title": "Marka LIVE"
+      },
+      {
+        "id": "BADzwd9b0RU",
+        "title": "Hafjell LIVE"
+      },
+      {
+        "id": "jpCcV1-Sfnw",
+        "title": "Tromsø LIVE"
+      },
+      {
+        "id": "ogH1z3eTi2Q",
+        "title": "Myrkdalen LIVE"
+      },
+      {
+        "id": "RtFWAVPfaiU",
+        "title": "Lofoten LIVE"
+      },
+      {
+        "id": "DLjrZmVE_y4",
+        "title": "Narvik LIVE"
+      },
+      {
+        "id": "6Usok3aloeU",
+        "title": "Sogndal LIVE"
+      },
+      {
+        "id": "7y-3iUYtBuU",
+        "title": "Gausta LIVE"
+      },
+      {
+        "id": "8EKxnxlagvI",
+        "title": "Beitostølen LIVE"
+      },
+      {
+        "id": "fNMABhX_1ew",
+        "title": "Nesfjellet LIVE."
+      },
+      {
+        "id": "dzvmJr3iOFg",
+        "title": "Skeikampen Live"
+      },
+      {
+        "id": "-SDV9JvXM0k",
+        "title": "Vassfjellet LIVE"
+      },
+      {
+        "id": "777orWSP718",
+        "title": "Voss LIVE"
+      },
+      {
+        "id": "ez20WljTN3k",
+        "title": "Utsikt LIVE"
+      },
+      {
+        "id": "A7mjcED5r2k",
+        "title": "SKI-TV (ALL RESORTS NORWAY) LIVE"
+      },
+      {
+        "id": "z_5NCwXPSqM",
+        "title": "Norway LIVE"
+      },
+      {
+        "id": "cA2K5ZjxQK8",
+        "title": "Rauland LIVE"
+      },
+      {
+        "id": "EVsVXkhoTBA",
+        "title": "Kirkerudbakken LIVE"
+      },
+      {
+        "id": "6LiukKeHyBc",
+        "title": "Drammen Skimore LIVE"
+      },
+      {
+        "id": "uUirqfUMK94",
+        "title": "Oslo Skimore LIVE"
+      },
+      {
+        "id": "5lWqAuytaG4",
+        "title": "Kvitfjell LIVE"
+      }
+    ]
   },
   {
     "id": "UCgB_8lC4ZwaYxMKhfDatXyw",
@@ -13116,12 +12994,7 @@
     "id": "UCiV1SWx0DV0y9Id-Vjd4JEA",
     "handle": "@meteoestrela",
     "name": "Meteoestrela Serra da Estrela",
-    "videos": [
-      {
-        "id": "-ijqqy4aBN8",
-        "title": "Webcam Serra da Estrela em direto | MeteoEstrela.pt"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCiVxzgxfn4OhuDygv5o5-mg",
@@ -14165,7 +14038,12 @@
     "id": "UClcicFOBsxXQxaQnT1RshJg",
     "handle": "@axis-air",
     "name": "Axis Air",
-    "videos": []
+    "videos": [
+      {
+        "id": "MfqAgiqY4-0",
+        "title": "Live Weather Camera at Oxnard Airport (KOXR) | Axis Air FBO | Ventura County, CA"
+      }
+    ]
   },
   {
     "id": "UCliCEXR9eSmY9PDb2lXov7Q",
@@ -14190,10 +14068,6 @@
       {
         "id": "75m4Ry69IQA",
         "title": "Conheça melhor a cidade de Gramado"
-      },
-      {
-        "id": "lwKTr1VDGzo",
-        "title": "Gramado ao vivo"
       }
     ]
   },
@@ -14399,7 +14273,12 @@
     "id": "UCmXB98lpzelFrlryV2llXUQ",
     "handle": "@OxMartinSchool",
     "name": "Oxford Martin School",
-    "videos": []
+    "videos": [
+      {
+        "id": "-FguEt6H91s",
+        "title": "Oxford Martin School Webcam - Broad Street, Oxford"
+      }
+    ]
   },
   {
     "id": "UCmYXN0dWONiJXXleAGV3qnA",
@@ -14683,7 +14562,44 @@
     "id": "UCnM5iMGiKsZg-iOlIO2ZkdQ",
     "handle": "@MontereyBayAquarium",
     "name": "Monterey Bay Aquarium",
-    "videos": []
+    "videos": [
+      {
+        "id": "nNTVZKz219U",
+        "title": "Live Open Sea Cam - Monterey Bay Aquarium"
+      },
+      {
+        "id": "IeWhbCe2Krk",
+        "title": "Live Moon Jelly Cam - Monterey Bay Aquarium"
+      },
+      {
+        "id": "NUnJc82ptd4",
+        "title": "Live Jelly Cam - Monterey Bay Aquarium"
+      },
+      {
+        "id": "fVa6-zCBR7A",
+        "title": "Live Monterey Bay Cam - Monterey Bay Aquarium"
+      },
+      {
+        "id": "dzmJXWmA2EM",
+        "title": "Live Spider Crab Cam — Monterey Bay Aquarium | Into the Deep"
+      },
+      {
+        "id": "abbR-Ttd-cA",
+        "title": "Live Sea Otter Cam - Monterey Bay Aquarium"
+      },
+      {
+        "id": "w3LjpFhySTg",
+        "title": "Live Kelp Forest Cam - Monterey Bay Aquarium"
+      },
+      {
+        "id": "tEtg5Kg3voQ",
+        "title": "Live Shark Cam - Monterey Bay Aquarium"
+      },
+      {
+        "id": "cUoet3dmRU4",
+        "title": "Live Aviary Cam - Monterey Bay Aquarium"
+      }
+    ]
   },
   {
     "id": "UCncqAXYYeVTwM2KwynoGJmg",
@@ -14848,7 +14764,12 @@
     "id": "UCo9e_ilRlTxHTCFAcaLR2-w",
     "handle": "@livecameralivedive6416",
     "name": "【Kitchen DIVE】Live camera in Tokyo Japan",
-    "videos": []
+    "videos": [
+      {
+        "id": "AxOERE3xIbw",
+        "title": "【Live camera in Tokyo Japan】デカ盛り弁当屋キッチンDIVE 中継ライブカメラ 【渋谷・秋葉原出店計画中】JR亀戸駅 カメイドクロック近隣 24時間営業"
+      }
+    ]
   },
   {
     "id": "UCoA1QcioL4aGra1fPQ6wlGg",
@@ -14911,12 +14832,7 @@
     "id": "UCoJmJjKcSaol6dUhhzTNlcw",
     "handle": "@UA-CompSci-Webcams",
     "name": "UArizona Computer Science Webcams",
-    "videos": [
-      {
-        "id": "4eh9E8hz40c",
-        "title": "Live Tucson, AZ Webcam - UArizona Computer Science Webcams"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCoMV7FZZNv0qhlyJO-8xqIw",
@@ -14976,6 +14892,14 @@
     "handle": "@webcamsdemexico",
     "name": "webcamsdemexico",
     "videos": [
+      {
+        "id": "pDJBbH6ARxI",
+        "title": "🌋 #POPOCATÉPETL | Fuerte incandescencia ilumina la noche. El #Volcán #EnVivo"
+      },
+      {
+        "id": "kmk7gvAC5Vs",
+        "title": "⚠️ #CDMX (MAÑANA 10:00 hrs) | ¡Todo listo para romper #recordguinnes! #Zócalo #EnVivo"
+      },
       {
         "id": "JUQhrRps6BI",
         "title": "🗻 #POPOCATÉPETL | Nevado y activo. El #Volcán #EnVivo"
@@ -15063,10 +14987,6 @@
       {
         "id": "8S6U7jc55QI",
         "title": "#BellasArtes | Todo amurallado en el Palacio #envivo"
-      },
-      {
-        "id": "2kvz2K1pWpw",
-        "title": "🌋 #POPOCATÉPETL | ¡Fuerte incandescencia! El #Volcán #EnVivo"
       },
       {
         "id": "HS4GJcAG30c",
@@ -15581,12 +15501,7 @@
     "id": "UCpDwGh4oXSWjKJJl6-kyfHg",
     "handle": "@customshouse1897",
     "name": "Customs House 1897🇨🇦",
-    "videos": [
-      {
-        "id": "d4fY89oiSvE",
-        "title": "Tilley Cam -  24/7 Harbour Cam - Port aux Basques, Newfoundland - Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCpI9GLMAgiGTKyFnsmbptuQ",
@@ -16284,12 +16199,7 @@
     "id": "UCqhDq_fKTSgc8LZCa2gGMEg",
     "handle": "@GavinBHeffernan",
     "name": "Gavin Heffernan Timelapse Travel ",
-    "videos": [
-      {
-        "id": "zwEq25gboYg",
-        "title": "🌲 Yosemite Live Webcams | Half Dome, El Capitan,  High Sierra 🌄 Relaxing Nature Escape"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCr4PHdYNwDWb0EiBRogBFDQ",
@@ -17081,7 +16991,12 @@
     "id": "UCtyNVinZ7tfjgWoeApTmlkQ",
     "handle": "@flamingoland",
     "name": "Flamingo Land Resort",
-    "videos": []
+    "videos": [
+      {
+        "id": "wwXpybGNqc0",
+        "title": "Flamingo Land Resort Live Stream - Black Rhino Calf Cam"
+      }
+    ]
   },
   {
     "id": "UCtzYRypg21-R2suTVCetlbg",
@@ -17710,10 +17625,6 @@
     "name": "F.S.T. NET",
     "videos": [
       {
-        "id": "hEhfDyN_Pew",
-        "title": "大阪ライブカメラ  大阪・泉北郡忠岡町【LIVE】海上レストラン／Grill Cafe Excellent ＆ エクセロンマリン｜海・桟橋・マリーナの様子を24時間ライブ配信"
-      },
-      {
         "id": "aVAO2wSUsPo",
         "title": "大阪ライブカメラ　【LIVE】大阪・心斎橋　（長堀通り交差）新橋交差点　F.S.T.NET提供　高感度・高画質ライブカメラ"
       },
@@ -17924,7 +17835,12 @@
     "id": "UCxChxl1rvyMMMRTr9gC_N2w",
     "handle": "@massimofaureragani6534",
     "name": "Massimo Faure Ragani (Maison Soleil)",
-    "videos": []
+    "videos": [
+      {
+        "id": "4puBZUpnQuo",
+        "title": "Webcam Aosta Maison Soleil (Italy)"
+      }
+    ]
   },
   {
     "id": "UCxH53rESkUj4g4A5P6sVkPg",
@@ -17965,126 +17881,6 @@
     "handle": "@SouthWestRailCams",
     "name": "SouthWest RailCams",
     "videos": [
-      {
-        "id": "I59a9XZkngg",
-        "title": "Winslow, AZ | BNSF Seligman Sub, MP 285.3 - West (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "YeWwU0McfaA",
-        "title": "Winslow, AZ | BNSF Seligman Sub, MP 285.3 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "AQ_P1XCFS7c",
-        "title": "Tornillo, TX | UPRR Valentine Sub, MP 794.32 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "rexXtsrDNj0",
-        "title": "Indio, CA | UPRR Yuma Sub, MP 610.75 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "WGP4-3S7pTQ",
-        "title": "Flatonia, TX | UPRR Glidden Sub, MP 119.56 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "QerYTIciDxU",
-        "title": "Council Bluffs, IA | UPRR Omaha Sub, MP 350.85 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "GgmBURmqNbg",
-        "title": "Rockdale, TX | UPRR Austin Sub, MP 119.25 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "LObvUcMIqOM",
-        "title": "Fort Collins, CO | BNSF Front Range Sub, MP 68.8 (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "gQJzzwqyEsg",
-        "title": "Decatur, AR | CPKC Heavener Sub, MP 217 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "MYfMV_WR3s4",
-        "title": "Grants, NM | BNSF Gallup Sub, MP 96.2 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "7KCnwGgb7OM",
-        "title": "Benson, AZ | UPRR Lordsburg Sub, MP 1032 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "DUbV6r-CrkM",
-        "title": "Benson, AZ | UPRR Lordsburg Sub, MP 1032 - East (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "rz9SlRo_xzg",
-        "title": "Las Vegas, NM | BNSF Raton Sub, MP 770 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "drPwNidc28w",
-        "title": "Marshall, TX | UP Reisor (351.3) / Little Rock (66.7) Subs - PTZ #2 (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "xeCphUbUgGk",
-        "title": "Marshall, TX | UP Little Rock (66.7) / Reisor (351.3) Subs - PTZ #1 (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "3Bt_Uk31yyU",
-        "title": "New Braunfels, TX | UPRR Austin Sub M1, MP 227.43 - East | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "C7SdkDRTuKA",
-        "title": "Willcox, AZ | UPRR Lordsburg Sub, MP 1074 - East | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "-2pfTm7AMHk",
-        "title": "Willcox, AZ | UPRR Lordsburg Sub, MP 1074.7 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "dteUSXY5zW0",
-        "title": "Melrose, NM | BNSF Clovis Sub, MP 680.7 (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "e4YOLMOrEy8",
-        "title": "Dexter, MO | UPRR Hoxie Sub, MP 141.2 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "lAzEA-Ya9No",
-        "title": "Tacna, AZ | UPRR Gila Sub, MP 780.9 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "IovWWZWmNpY",
-        "title": "Kingman, AZ | BNSF Seligman Sub, MP 516.5 - West (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "sZtDyjaEl70",
-        "title": "New Braunfels, TX | UPRR Austin Sub, MP 227.43 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "hatt7HlQGu0",
-        "title": "Gallup, NM | BNSF Gallup Sub, MP 157.5 - West (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "ECfBCFozPlM",
-        "title": "Daggett, CA | BNSF Needles Sub, MP 737.8 (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "R168_-P5PQw",
-        "title": "Santa Fe, NM | NMRX Santa Fe Sub, MP 18.32 - Static (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "Fbc8zmqrhn8",
-        "title": "Stockton, CA | BNSF / UP Stockton Diamond - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "JUf1rHtQAEc",
-        "title": "Marysville, CA | UPRR Valley Sub, MP 140.85 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "8zRCgdkn_e8",
-        "title": "Colfax, CA | UPRR Roseville Sub, MP 141.9 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
-      {
-        "id": "o1cacf0-118",
-        "title": "La Grange, TX | UPRR Smithville Sub, MP 88.4 - PTZ (Chat) | SouthWest RailCams LIVE"
-      },
       {
         "id": "Hsh-46qLpQE",
         "title": "Barstow, CA | BNSF Needles Sub, MP 744.5 - PTZ (Chat) | SouthWest RailCams LIVE"
