@@ -46,6 +46,6 @@ jobs:
             exit 0
           fi
 
-          git add src/public/videos.json update-videos/channels-no-videos.json
+          git add update-videos/channel-ids.json update-videos/channels-no-videos.json src/public/videos.json
           git commit -m "chore: scheduled videos update"
           git push
