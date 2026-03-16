@@ -48,12 +48,6 @@
     "date": "2026-03-14"
   },
   {
-    "id": "UC3UpyHYs2n0i5Z1IPJGJfOQ",
-    "handle": "@hongdaelive",
-    "name": "홍대라이브 - Hongdae Live view",
-    "date": "2026-03-14"
-  },
-  {
     "id": "UC42NA-aQL2aSFs-9cI9KQjA",
     "handle": "@mestovalasskeklobouky5444",
     "name": "Město Valašské Klobouky",
@@ -69,12 +63,6 @@
     "id": "UCBRQZw3k-rB1nd1_V6FjJeA",
     "handle": "@WillClancy",
     "name": "WillClancyWildlife",
-    "date": "2026-03-14"
-  },
-  {
-    "id": "UCdr9cCd_WQPlLCAUjNaoACg",
-    "handle": "@LVsphere",
-    "name": "LV Strip Cam",
     "date": "2026-03-14"
   },
   {
@@ -126,33 +114,9 @@
     "date": "2026-03-14"
   },
   {
-    "id": "UC_9dsRFZiS87yepdO4Qc9Ng",
-    "handle": "@MiamiRiverCam",
-    "name": "Miami River Camera ",
-    "date": "2026-03-15"
-  },
-  {
-    "id": "UC-8U3VCeOEqdPJd2D77RqKw",
-    "handle": "@HauloverDaily",
-    "name": "Cruise Ships Live",
-    "date": "2026-03-15"
-  },
-  {
-    "id": "UC0MrPkKoR10dziKUa6JUwIg",
-    "handle": "@ДаниелПанов-п7ж",
-    "name": "Даниел Панов",
-    "date": "2026-03-15"
-  },
-  {
     "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
     "handle": "@castrostreetcam4755",
     "name": "Castro Street Cam 4",
-    "date": "2026-03-15"
-  },
-  {
-    "id": "UCeunW_050lqjYtDwGatMFvw",
-    "handle": "@waterstreetinn3792",
-    "name": "Water Street Inn",
     "date": "2026-03-15"
   },
   {
@@ -168,27 +132,9 @@
     "date": "2026-03-15"
   },
   {
-    "id": "UCPQHImqkYaf7h3PzfQI9OmA",
-    "handle": "@boesenlaw523",
-    "name": "Boesen Law",
-    "date": "2026-03-15"
-  },
-  {
     "id": "UCPSR2Sz1xSlh3vVeCUWeUDg",
     "handle": "@evanstonbeach1885",
     "name": "Evanston Beach",
-    "date": "2026-03-15"
-  },
-  {
-    "id": "UCtrwK-DOZGcQo9p1VwIkDZw",
-    "handle": "@maaxcamaovivo",
-    "name": "Maaxcam Ao Vivo",
-    "date": "2026-03-15"
-  },
-  {
-    "id": "UCxd6_Ql2p4OoSXbKZGP0bmg",
-    "handle": "@grit805",
-    "name": "GRIT",
     "date": "2026-03-15"
   },
   {
@@ -196,5 +142,119 @@
     "handle": "@LakhtaCenter360",
     "name": "Lakhta Center 360",
     "date": "2026-03-15"
+  },
+  {
+    "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
+    "handle": "@alwarith-center",
+    "name": "مركز الوارث للإنتاج الفني",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UC3c-pudL55WWFxl89wTH1NA",
+    "handle": "@PanosBoats",
+    "name": "Panos Boats",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UC6q_hfBThkGdmQ5Vb4kWjWA",
+    "handle": "@FlightFocus365",
+    "name": "Flight Focus 365",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UC8ZnDZj0IUDw1tkECARmEkA",
+    "handle": "@saintpetersburglivecamera3457",
+    "name": "Saint Petersburg Live Camera",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UC9wAEUW3AR8dnFHYso4hCsA",
+    "handle": "@OceanFrontiersDiveCayman",
+    "name": "Ocean Frontiers Diving Adventures",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UCayE6-RHoYoIcnqp36o4Rjg",
+    "handle": "@sebinkarahisarbelediyesi9536",
+    "name": "Sebinkarahisar Belediyesi",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UCCZ0dSF4mdNfJTnUq5cIISQ",
+    "handle": "@WebcamMonheim",
+    "name": "Webcam Monheim",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UCdLE2nyW8fg3hh9Pogq824g",
+    "handle": "@businesscontrol",
+    "name": "Business Control MONITORING",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UCHhmOa8h4O5V4VZPJSRuxJQ",
+    "handle": "@seetahoe",
+    "name": "SeeTahoe",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UCI4huqcitDTCjPrDSelgk5g",
+    "handle": "@sheffield-weather-cam",
+    "name": "Sheffield weather cam uk",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UCi9wnYP7UBrl7Tnfi3LLkpw",
+    "handle": "@yiannisakkos",
+    "name": "Yianni&#39;s Channel",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UCLm4NMiRgEwOAwY-tapTQag",
+    "handle": "@kozylemorne6102",
+    "name": "Kozy Le Morne",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UCLwUcA69lv5tns6ct-ipiHA",
+    "handle": "@BoathouseatNorthLanding",
+    "name": "Boathouse at North Landing ",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UCnsR6NZFdu_kOljI3SWiGJw",
+    "handle": "@Mt.ofOlivesPrayerBridge",
+    "name": "Mt. of Olives Prayer Bridge",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UCTlY00NCf0nKyldwBys3mrA",
+    "handle": "@SerradoRiodoRastroaoVivo",
+    "name": "Serra do Rio do Rastro ao Vivo",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UCUmvxPTUfflU3v_mcRNGAeg",
+    "handle": "@Sv.Uspenska-Pochaevska-Lavra",
+    "name": "† Свято-Успенская Почаевская Лавра",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UCVR1W8BAC5bUrsvi0IdqDPg",
+    "handle": "@ptdcrvenivrh",
+    "name": "PTD Crveni vrh",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UCxdkv0StDfmn1dXWStAt2tw",
+    "handle": "@flamingf.1562",
+    "name": "Flaming Fire",
+    "date": "2026-03-16"
+  },
+  {
+    "id": "UCxJauSv5BZA7N4dIqPHpy0w",
+    "handle": "@Brian-Siu",
+    "name": "Hong Kong Taxi Driver - Brian",
+    "date": "2026-03-16"
   }
 ]
