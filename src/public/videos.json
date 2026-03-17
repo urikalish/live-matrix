@@ -18,48 +18,7 @@
     "id": "UC-2KSeUU5SMCX6XLRD-AEvw",
     "handle": "@ExploreLiveNatureCams",
     "name": "Explore Live Nature Cams",
-    "videos": [
-      {
-        "id": "ObR7SBKrkXc",
-        "title": "Mesmerizing Jellyfish Cam at Aquarium of the Pacific. Play on large screen TV!"
-      },
-      {
-        "id": "Fz6sl9YJZE0",
-        "title": "Underwater Manatee Cam At Homosassa Springs | Fall in love with the beloved sea cows! | explore.org"
-      },
-      {
-        "id": "GGIE1E-kaMQ",
-        "title": "Decorah Eagles - North Nest - 4k powered by EXPLORE.org"
-      },
-      {
-        "id": "Jng6h2xYapk",
-        "title": "Texas Wildlife in an Austin Backyard powered by EXPLORE.org"
-      },
-      {
-        "id": "g_L1Ay8P244",
-        "title": "Sloth TV powered by EXPLORE.org"
-      },
-      {
-        "id": "5e4lsEe4Vew",
-        "title": "International Wolf Center North Camera powered by EXPLORE.org"
-      },
-      {
-        "id": "DRxYSIoBusQ",
-        "title": "International Wolf Center South Camera powered by EXPLORE.org"
-      },
-      {
-        "id": "DHUnz4dyb54",
-        "title": "Tropical Reef Camera powered by EXPLORE.org"
-      },
-      {
-        "id": "-m_nQT62B4Y",
-        "title": "Kitten Rescue Cat Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "RmmAzrAkKqI",
-        "title": "West End Bald Eagle Cam powered by EXPLORE.org"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-4gGSlTkiM77ZaSgk-e4_w",
@@ -1113,7 +1072,12 @@
     "id": "UC2oMNweAfeRUdh4iKV8ms2g",
     "handle": "@manitowocmarina",
     "name": "Manitowoc Marina",
-    "videos": []
+    "videos": [
+      {
+        "id": "lty-_xS_xWA",
+        "title": "Manitowoc Marina Harbor Cam"
+      }
+    ]
   },
   {
     "id": "UC2qwiv3R_Dqrp15vh7cpH9Q",
@@ -4017,7 +3981,12 @@
     "id": "UCALmdjIUxpKqyUTxg5QOSMQ",
     "handle": "@marginalwaypreservationfun2285",
     "name": "Marginal Way Preservation Fund",
-    "videos": []
+    "videos": [
+      {
+        "id": "RLIRtD89O7g",
+        "title": "Marginal Way Ogunquit Maine Live View"
+      }
+    ]
   },
   {
     "id": "UCARB8y6PuoOBjZXJKIG-LDw",
@@ -5930,7 +5899,12 @@
     "id": "UCGMCIiOelr1UlVNxFXibrgQ",
     "handle": "@mncam_com",
     "name": "MNCam",
-    "videos": []
+    "videos": [
+      {
+        "id": "FY6WlMjzG2U",
+        "title": "24/7 MSP Webcam - Minneapolis / St. Paul Airport - You Control The Cams!"
+      }
+    ]
   },
   {
     "id": "UCGOxU-8iNOeoG3a337shXoA",
@@ -6169,7 +6143,24 @@
     "id": "UCH9JbKmqTI6gwhA4ghl32FQ",
     "handle": "@AmzLive",
     "name": "AmzLive Cams",
-    "videos": []
+    "videos": [
+      {
+        "id": "uJb4u4WdLwY",
+        "title": "Encontro das Águas - Manaus, Amazonas"
+      },
+      {
+        "id": "-rPArMYXJm8",
+        "title": "Vieiralves Ao Vivo - Amzlive.com.br - LiveCam Manaus"
+      },
+      {
+        "id": "2HGGG7Dr03g",
+        "title": "Teatro Amazonas ao Vivo 24h - Manaus - Amz.Live Jazz & Lo-fi Radio"
+      },
+      {
+        "id": "ICAxjegbHnU",
+        "title": "Ponta Negra ao Vivo 24h - Manaus - AmzLive.com.br"
+      }
+    ]
   },
   {
     "id": "UCHK0N8yzh1DR1NWo7sXoxRg",
@@ -6376,12 +6367,7 @@
     "id": "UCI4huqcitDTCjPrDSelgk5g",
     "handle": "@sheffield-weather-cam",
     "name": "Sheffield weather cam uk",
-    "videos": [
-      {
-        "id": "4NHngINLbJw",
-        "title": "Sheffield Weather Cam 4K 🔴"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCIQVWkOilfxoQSFcban_d-A",
@@ -8149,12 +8135,6 @@
     ]
   },
   {
-    "id": "UCOcM6TPl_6U1Za8K6UDhJXQ",
-    "handle": "@LiveNZCams",
-    "name": "LiveNZCams",
-    "videos": []
-  },
-  {
     "id": "UCOjscjEL-lGZVP-2uooEuCA",
     "handle": "@libraryvideos",
     "name": "East Hampton Library",
@@ -8279,24 +8259,7 @@
     "id": "UCPAgksFpFLJDVyMcIYsbz3A",
     "handle": "@KoksijdeOostduinkerke",
     "name": "Koksijde-Oostduinkerke",
-    "videos": [
-      {
-        "id": "ORfGhqVNNVc",
-        "title": "Webcam Sint-Idesbald"
-      },
-      {
-        "id": "UjntYig_VrQ",
-        "title": "Webcam Duinenhuis"
-      },
-      {
-        "id": "5Uqw_G_IdjE",
-        "title": "Webcam Koksijde-Bad"
-      },
-      {
-        "id": "wqWoNyCAvss",
-        "title": "Webcam Oostduinkerke-Bad"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCPH1SsIWbdm59B0YVoqw8gQ",
@@ -9840,20 +9803,7 @@
     "id": "UCVRs8dYm9OH-_g4V84BfbQw",
     "handle": "@ABS4ch",
     "name": "ABS秋田放送",
-    "videos": [
-      {
-        "id": "2esxbRlwPJM",
-        "title": "ABS秋田放送　お天気カメラ　秋田駅前（ABS's Weather Live Cameras in Akita station square ）"
-      },
-      {
-        "id": "gSlQ0ZQxVU8",
-        "title": "ABS秋田放送　お天気カメラ　秋田港（ABS's Weather Live Camera in the Akita Port of Akita city）"
-      },
-      {
-        "id": "9g7-n8UaE1s",
-        "title": "ABS秋田放送　お天気カメラ　秋田空港 （ABS's Weather Live Camera in Akita Airport）"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCVUyX8T-vYwJYraM6957r9Q",
@@ -9870,7 +9820,24 @@
     "id": "UCVcXIDytvkhJibfTwqwwzNQ",
     "handle": "@CharlevoixCam",
     "name": "CharlevoixCam",
-    "videos": []
+    "videos": [
+      {
+        "id": "yWIHgMW2yVQ",
+        "title": "BridgeCam by CharlevoixCam"
+      },
+      {
+        "id": "D90I8AeLyp4",
+        "title": "FerryCam LIVE | CharlevoixCam"
+      },
+      {
+        "id": "lmMEuTaF18k",
+        "title": "Round Lake Cam LIVE | CharlevoixCam"
+      },
+      {
+        "id": "HeZbPbqO-6M",
+        "title": "CharlevoixCam® Live Stream Channel Cam"
+      }
+    ]
   },
   {
     "id": "UCVwWET2HAacXoiOyDUWaFNA",
@@ -10273,56 +10240,7 @@
     "id": "UCY8asVL_dFu1fYmbS6Osfjg",
     "handle": "@viewsdrone",
     "name": "Views from the sky",
-    "videos": [
-      {
-        "id": "M-fWGRgKAoI",
-        "title": "Bociany Tyrawa Wołoska"
-      },
-      {
-        "id": "9iy4BxuVrOI",
-        "title": "Bociany Kostek i Rika - Kostarowce"
-      },
-      {
-        "id": "Gh7ifAESKwE",
-        "title": "Budka legowa Bieszczady"
-      },
-      {
-        "id": "jD4k05grtr8",
-        "title": "Arena MOSiR Sanok"
-      },
-      {
-        "id": "Zmd1lbYgag0",
-        "title": "Tor lodowy Sanok live"
-      },
-      {
-        "id": "5dGh1DLt2Os",
-        "title": "Basen Aquarius Lesko"
-      },
-      {
-        "id": "4wbziuoBXrU",
-        "title": "Sanok live plac św. Michała kamera live"
-      },
-      {
-        "id": "7puDM9vl2vQ",
-        "title": "Karmnik w Bieszczadach na żywo"
-      },
-      {
-        "id": "6Lmi42tGkfs",
-        "title": "Sanok skrzyżowanie Jana Pawła II - Dmowskiego"
-      },
-      {
-        "id": "x24W60ndoN4",
-        "title": "Sanok skrzyżowanie Mickiewicza, Królowej Bony i Dmowskiego"
-      },
-      {
-        "id": "5V0co-hVvVA",
-        "title": "Sanok ul. Kościuszki"
-      },
-      {
-        "id": "mDDWtALSOw4",
-        "title": "Sanok live Rynek kamera na żywo"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCYCVwMuFBia4usSBbFj2Ycg",
@@ -13531,12 +13449,6 @@
     ]
   },
   {
-    "id": "UCjmqhsGQ9J1QK4r5mUrZb4A",
-    "handle": "@鉄道沿線の生活",
-    "name": "Life along the railroad line",
-    "videos": []
-  },
-  {
     "id": "UCjpE7UdNq6oK5mOBKGjpjgA",
     "handle": "@woodlandscam",
     "name": "Woodlands Cam",
@@ -14153,12 +14065,7 @@
     "id": "UCkiqDO1CTcCyxlsGXnC8WvA",
     "handle": "@campidlewoodlive",
     "name": "Camp Idlewood Live Cam",
-    "videos": [
-      {
-        "id": "RjVZXgl_PdE",
-        "title": "Camp Idlewood Live Webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCl5P2zJoH1gBdf38AiYALKA",
@@ -15858,6 +15765,10 @@
     "name": "Town of Jupiter",
     "videos": [
       {
+        "id": "oGoo9yOl76U",
+        "title": "Town Council Meeting- March 17"
+      },
+      {
         "id": "ElTwWE430jU",
         "title": "Cinquez Dog Park - East Cam"
       },
@@ -16712,7 +16623,40 @@
     "id": "UCsghjvIsGFKH2cAjbRt7g6w",
     "handle": "@novascotiawebcams",
     "name": "Nova Scotia Webcams",
-    "videos": []
+    "videos": [
+      {
+        "id": "pPJKse_k50s",
+        "title": "Armdale Roundabout LIVE"
+      },
+      {
+        "id": "SFoS6nBL138",
+        "title": "Peggy's Cove Lighthouse, Nova Scotia"
+      },
+      {
+        "id": "Qz-jJ4mxMtU",
+        "title": "The Hawk, Nova Scotia"
+      },
+      {
+        "id": "LDcLOaAzu7U",
+        "title": "Tangier, Nova Scotia"
+      },
+      {
+        "id": "RdQ-e-iCkVI",
+        "title": "Burntcoat Head, Nova Scotia"
+      },
+      {
+        "id": "5mYXkctDMsA",
+        "title": "Baccaro Point Lighthouse, Nova Scotia"
+      },
+      {
+        "id": "Pwt0tZlt9eE",
+        "title": "Lockeport Crescent Beach Centre, Nova Scotia"
+      },
+      {
+        "id": "dQzt2xtk7kY",
+        "title": "Tidal Bore LIVE at Fundy Discovery Site in Truro, Nova Scotia"
+      }
+    ]
   },
   {
     "id": "UCssgkk6dhVpL-v6K5yPjIzw",
@@ -18481,7 +18425,32 @@
     "id": "UCzK4mZybYjXr6kiPcSNwWJg",
     "handle": "@AquaTerraZoo",
     "name": "Haus des Meeres Aqua Terra Zoo",
-    "videos": []
+    "videos": [
+      {
+        "id": "dJGhJvWx-qg",
+        "title": "Haus des Meeres Aqua Terra Zoo: Dachkamera Nord"
+      },
+      {
+        "id": "TxPKYmdZroE",
+        "title": "Atlantiktunnel 2"
+      },
+      {
+        "id": "T_RtokRj1Ck",
+        "title": "Atlantiktunnel 1"
+      },
+      {
+        "id": "ERoAmsOyNvE",
+        "title": "Haus des Meeres Aqua Terra Zoo: Dachkamera West"
+      },
+      {
+        "id": "GtqhnnrKG8U",
+        "title": "Haus des Meeres Aqua Terra Zoo: Dachkamera Ost"
+      },
+      {
+        "id": "iWxXv5ZLHPE",
+        "title": "Haus des Meeres Aqua Terra Zoo: Dachkamera Süd"
+      }
+    ]
   },
   {
     "id": "UCzMF3muEGLXPQxzqALn7Tqw",
