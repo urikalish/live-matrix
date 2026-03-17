@@ -18,7 +18,48 @@
     "id": "UC-2KSeUU5SMCX6XLRD-AEvw",
     "handle": "@ExploreLiveNatureCams",
     "name": "Explore Live Nature Cams",
-    "videos": []
+    "videos": [
+      {
+        "id": "ObR7SBKrkXc",
+        "title": "Mesmerizing Jellyfish Cam at Aquarium of the Pacific. Play on large screen TV!"
+      },
+      {
+        "id": "Fz6sl9YJZE0",
+        "title": "Underwater Manatee Cam At Homosassa Springs | Fall in love with the beloved sea cows! | explore.org"
+      },
+      {
+        "id": "GGIE1E-kaMQ",
+        "title": "Decorah Eagles - North Nest - 4k powered by EXPLORE.org"
+      },
+      {
+        "id": "Jng6h2xYapk",
+        "title": "Texas Wildlife in an Austin Backyard powered by EXPLORE.org"
+      },
+      {
+        "id": "g_L1Ay8P244",
+        "title": "Sloth TV powered by EXPLORE.org"
+      },
+      {
+        "id": "5e4lsEe4Vew",
+        "title": "International Wolf Center North Camera powered by EXPLORE.org"
+      },
+      {
+        "id": "DRxYSIoBusQ",
+        "title": "International Wolf Center South Camera powered by EXPLORE.org"
+      },
+      {
+        "id": "DHUnz4dyb54",
+        "title": "Tropical Reef Camera powered by EXPLORE.org"
+      },
+      {
+        "id": "-m_nQT62B4Y",
+        "title": "Kitten Rescue Cat Cam powered by EXPLORE.org"
+      },
+      {
+        "id": "RmmAzrAkKqI",
+        "title": "West End Bald Eagle Cam powered by EXPLORE.org"
+      }
+    ]
   },
   {
     "id": "UC-4gGSlTkiM77ZaSgk-e4_w",
@@ -1899,6 +1940,17 @@
     ]
   },
   {
+    "id": "UC5PNUCvYkt6PxAmgvAV8x8g",
+    "handle": "@CaliPlanes",
+    "name": "Cali Planes",
+    "videos": [
+      {
+        "id": "N-frdoqy_x8",
+        "title": "KSFO LIVE | MARCH 17, 2026 | SAN FRANCISCO INT AIRPORT  LIVE STREAM WEBCAM IRL"
+      }
+    ]
+  },
+  {
     "id": "UC5UwWocd9b4F-GdEyJ4SKxA",
     "handle": "@vibewithmike",
     "name": "Vibe with Mike ⚓️",
@@ -2317,12 +2369,12 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "S9cB4A6aB68",
-        "title": "【イラン情勢最新まとめ】高市総理「精力的に検討」/ トランプ氏 日本の対応に不満 ホルムズ海峡への艦船派遣めぐり / イラン最高安全保障委員会・ラリジャニ事務局 長が死亡 など"
+        "id": "UkWOGmL--Y4",
+        "title": "【LIVE】朝のニュース（Japan News Digest Live）最新情報など｜TBS NEWS DIG（3月18日）"
       },
       {
-        "id": "VeUTTTF_Buo",
-        "title": "【LIVE】最新ニュースまとめ（Japan News Digest）（3月17日）｜TBS NEWS DIG"
+        "id": "S9cB4A6aB68",
+        "title": "【イラン情勢最新まとめ】高市総理「精力的に検討」/ トランプ氏 日本の対応に不満 ホルムズ海峡への艦船派遣めぐり / イラン最高安全保障委員会・ラリジャニ事務局 長が死亡 など"
       },
       {
         "id": "8PG-4pYVfy8",
@@ -2602,10 +2654,6 @@
         "title": "EarthCam Live:  Midway Airport (Chicago, IL)"
       },
       {
-        "id": "Cim4LMbXus0",
-        "title": "EarthCam Live:  Marco Island Marina"
-      },
-      {
         "id": "H67j7H-7QD0",
         "title": "EarthCam Live:  Coney Island (New York City)"
       },
@@ -2792,6 +2840,17 @@
       {
         "id": "ioTfHBawdw4",
         "title": "SkyBridge Michigan"
+      }
+    ]
+  },
+  {
+    "id": "UC7WAqB7dyv1t8jKunD-8krA",
+    "handle": "@L.A.FLIGHTS",
+    "name": "L.A FLIGHTS",
+    "videos": [
+      {
+        "id": "32h14ibLEHI",
+        "title": "🔴LIVE LOS ANGELES PLANE SPOTTING! St. Patricks Day Special 🍀"
       }
     ]
   },
@@ -4098,16 +4157,7 @@
     "id": "UCAY-GlV3P5twjg7B9tjx_lg",
     "handle": "@Scotventure",
     "name": "Alex  Explorer - Scotventure",
-    "videos": [
-      {
-        "id": "8miQ3QXA26Q",
-        "title": "🔴LIVE - Fort William Live Webcam - Scotland - Loch Linnhe & West End Car Park"
-      },
-      {
-        "id": "8oG0TXF-UpM",
-        "title": "🔴LIVE - Fort William Live Webcam - Scotland - Loch Linnhe & West End Car Park"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCAfi6hcs4a9Zk1zNShCuxfA",
@@ -4935,8 +4985,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "MGiiP2xxwVw",
-        "title": "【 Archive】 2026-03-18『03:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "H9-OOPyR9Rc",
+        "title": "【 Archive】 2026-03-18『06:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -6367,7 +6417,12 @@
     "id": "UCI4huqcitDTCjPrDSelgk5g",
     "handle": "@sheffield-weather-cam",
     "name": "Sheffield weather cam uk",
-    "videos": []
+    "videos": [
+      {
+        "id": "4NHngINLbJw",
+        "title": "Sheffield Weather Cam 4K 🔴"
+      }
+    ]
   },
   {
     "id": "UCIQVWkOilfxoQSFcban_d-A",
@@ -8259,7 +8314,24 @@
     "id": "UCPAgksFpFLJDVyMcIYsbz3A",
     "handle": "@KoksijdeOostduinkerke",
     "name": "Koksijde-Oostduinkerke",
-    "videos": []
+    "videos": [
+      {
+        "id": "ORfGhqVNNVc",
+        "title": "Webcam Sint-Idesbald"
+      },
+      {
+        "id": "UjntYig_VrQ",
+        "title": "Webcam Duinenhuis"
+      },
+      {
+        "id": "5Uqw_G_IdjE",
+        "title": "Webcam Koksijde-Bad"
+      },
+      {
+        "id": "wqWoNyCAvss",
+        "title": "Webcam Oostduinkerke-Bad"
+      }
+    ]
   },
   {
     "id": "UCPH1SsIWbdm59B0YVoqw8gQ",
@@ -9803,7 +9875,20 @@
     "id": "UCVRs8dYm9OH-_g4V84BfbQw",
     "handle": "@ABS4ch",
     "name": "ABS秋田放送",
-    "videos": []
+    "videos": [
+      {
+        "id": "2esxbRlwPJM",
+        "title": "ABS秋田放送　お天気カメラ　秋田駅前（ABS's Weather Live Cameras in Akita station square ）"
+      },
+      {
+        "id": "gSlQ0ZQxVU8",
+        "title": "ABS秋田放送　お天気カメラ　秋田港（ABS's Weather Live Camera in the Akita Port of Akita city）"
+      },
+      {
+        "id": "9g7-n8UaE1s",
+        "title": "ABS秋田放送　お天気カメラ　秋田空港 （ABS's Weather Live Camera in Akita Airport）"
+      }
+    ]
   },
   {
     "id": "UCVUyX8T-vYwJYraM6957r9Q",
@@ -10164,12 +10249,7 @@
     "id": "UCXj6ROnZkzqgq6eYeoflO6A",
     "handle": "@ultravisionconsult1433",
     "name": "ULTRAVISION CONSULT",
-    "videos": [
-      {
-        "id": "rs2be3mqryo",
-        "title": "www.ultravisionconsult.com"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXtGlMSjKYfGoPggHcAZYbQ",
@@ -10186,44 +10266,7 @@
     "id": "UCXtzCdsTkuBWIrOSuMNvANQ",
     "handle": "@livefromireland",
     "name": "LivefromIreland - Live Streaming Webcams",
-    "videos": [
-      {
-        "id": "mP1y1OjT2V0",
-        "title": "Live Webcam Rathmines Dublin Ireland. 6 different webcam views."
-      },
-      {
-        "id": "2FsNf3Vt4ns",
-        "title": "Live Webcam Cabra Dublin Ireland (Facing Nth West)"
-      },
-      {
-        "id": "yTEzjx_33UE",
-        "title": "Live Webcam Cabra Road Dublin Ireland  (Facing East)"
-      },
-      {
-        "id": "Im21t0JkJ1U",
-        "title": "The Paddocks Riding Centre Live Webcam Dublin Ireland."
-      },
-      {
-        "id": "h5rt6oSZOak",
-        "title": "Mountjoy Street Live Webcam Dublin Ireland"
-      },
-      {
-        "id": "g1r59JJqY60",
-        "title": "Live Webcam Collins Avenue Dublin Ireland"
-      },
-      {
-        "id": "hG9WevRhP_s",
-        "title": "The Brian Boru Pub Live Webcam Glasnevin Dublin Ireland"
-      },
-      {
-        "id": "KpZ8vteYNOw",
-        "title": "North Circular Road Live Webcam (Facing North West)"
-      },
-      {
-        "id": "Fbm5c19rg7I",
-        "title": "The Brian Boru Pub Live Webcam Glasnevin Dublin Ireland"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCY8S0Pa6lQKzvlrY87ki6sQ",
@@ -10240,7 +10283,56 @@
     "id": "UCY8asVL_dFu1fYmbS6Osfjg",
     "handle": "@viewsdrone",
     "name": "Views from the sky",
-    "videos": []
+    "videos": [
+      {
+        "id": "M-fWGRgKAoI",
+        "title": "Bociany Tyrawa Wołoska"
+      },
+      {
+        "id": "9iy4BxuVrOI",
+        "title": "Bociany Kostek i Rika - Kostarowce"
+      },
+      {
+        "id": "Gh7ifAESKwE",
+        "title": "Budka legowa Bieszczady"
+      },
+      {
+        "id": "jD4k05grtr8",
+        "title": "Arena MOSiR Sanok"
+      },
+      {
+        "id": "Zmd1lbYgag0",
+        "title": "Tor lodowy Sanok live"
+      },
+      {
+        "id": "5dGh1DLt2Os",
+        "title": "Basen Aquarius Lesko"
+      },
+      {
+        "id": "4wbziuoBXrU",
+        "title": "Sanok live plac św. Michała kamera live"
+      },
+      {
+        "id": "7puDM9vl2vQ",
+        "title": "Karmnik w Bieszczadach na żywo"
+      },
+      {
+        "id": "6Lmi42tGkfs",
+        "title": "Sanok skrzyżowanie Jana Pawła II - Dmowskiego"
+      },
+      {
+        "id": "x24W60ndoN4",
+        "title": "Sanok skrzyżowanie Mickiewicza, Królowej Bony i Dmowskiego"
+      },
+      {
+        "id": "5V0co-hVvVA",
+        "title": "Sanok ul. Kościuszki"
+      },
+      {
+        "id": "mDDWtALSOw4",
+        "title": "Sanok live Rynek kamera na żywo"
+      }
+    ]
   },
   {
     "id": "UCYCVwMuFBia4usSBbFj2Ycg",
@@ -10250,6 +10342,21 @@
       {
         "id": "67zqaidhq-U",
         "title": "🔴LIVE: Winter Garden, Florida Webcam"
+      }
+    ]
+  },
+  {
+    "id": "UCYDCnc3YBEqxfuhvQ4rxqSA",
+    "handle": "@LASVEGASAIRPORTLIVE",
+    "name": "LAS Vegas Airport LIVE",
+    "videos": [
+      {
+        "id": "fvB5KefOAM0",
+        "title": "NEW CAMERA LAS Vegas Airport LIVE"
+      },
+      {
+        "id": "3a4dRftiJ9Y",
+        "title": "LAS Vegas Airport LIVE 24/7"
       }
     ]
   },
@@ -10759,12 +10866,7 @@
     "id": "UC_uoRuoMCFudYHHg9SlWbQw",
     "handle": "@ATCCommunications",
     "name": "ATCCommunications",
-    "videos": [
-      {
-        "id": "uM-oftYVFGA",
-        "title": "Pomerelle Mountain Ski Resort Webcam - Hosted by ATC Communications Fiber Internet"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCa1XvGj-yhiLLC5fVFKfXJQ",
@@ -11124,24 +11226,7 @@
     "id": "UCbXiHnFTVZmnp2IspH2OPTw",
     "handle": "@randomlyentertained6482",
     "name": "Randomly Entertained",
-    "videos": [
-      {
-        "id": "cVjFBY1_8Yg",
-        "title": "Soi Buakhao, Pattaya, Thailand | Live Camera Stream"
-      },
-      {
-        "id": "WSm_r0eNl1E",
-        "title": "Nanai Road, Patong, Phuket, Thailand | Landmark Bar | Live Camera Stream"
-      },
-      {
-        "id": "IVa59mpPJTg",
-        "title": "Sainamyen Road, Patong, Phuket, Thailand | Nida Massage | Live Camera Stream"
-      },
-      {
-        "id": "8JCk5M_xrBs",
-        "title": "Walworth Road, London, England | Live Camera Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCbbfor2m620lTQd3jOk5ggQ",
@@ -11169,100 +11254,7 @@
     "id": "UCbn5eHDjwmPC2K9RG8P0i_A",
     "handle": "@kusatsumachi",
     "name": "草津町公式YouTubeチャンネル",
-    "videos": [
-      {
-        "id": "WB4jllqVRCc",
-        "title": "「LIVECAMERA」国道292号 草津前口"
-      },
-      {
-        "id": "OZqaznSUQ8o",
-        "title": "「LIVECAMERA 」西の河原露天風呂入り口"
-      },
-      {
-        "id": "moSQi2E-FII",
-        "title": "草津温泉街　全体　9面「LIVE CAMERA」"
-      },
-      {
-        "id": "eX7vAL4Jtfk",
-        "title": "「LIVECAMERA」草津温泉スキー場　天狗山山麓エリア"
-      },
-      {
-        "id": "J3zIOmIrSzM",
-        "title": "「LIVECAMERA」草津運動茶屋公園 道の駅"
-      },
-      {
-        "id": "rHuoK_TWOnA",
-        "title": "「LIVECAMERA」国道292号 草津温泉入口"
-      },
-      {
-        "id": "hN8mxz3-1pg",
-        "title": "「LIVE CAMERA」草津温泉スキー場　天狗山山頂エリア"
-      },
-      {
-        "id": "ybOa_LRzp_I",
-        "title": "「LIVECAMERA」裏草津地蔵 源泉広場"
-      },
-      {
-        "id": "h-OR7t33mPo",
-        "title": "[LIVE CAMERA]交通状況&駐車場状況"
-      },
-      {
-        "id": "ZFhzy9-sy3U",
-        "title": "「LIVECAMERA 」草津温泉・温泉門観光バス専用駐車場"
-      },
-      {
-        "id": "gL7YgPM0Jvk",
-        "title": "「LIVECAMERA 」草津温泉・白根山ライブカメラ（固定式）"
-      },
-      {
-        "id": "yMm2Q3zLXKI",
-        "title": "「LIVECAMERA 」草津温泉・白根山ライブカメラ（移動式）"
-      },
-      {
-        "id": "_Z1UzjJ6o2E",
-        "title": "「LIVECAMERA」草津温泉・本白根山ライブカメラ（移動式）"
-      },
-      {
-        "id": "qdws9fzE4Cs",
-        "title": "「LIVE CAMERA」草津温泉バスターミナル"
-      },
-      {
-        "id": "0ACRdNv3D9w",
-        "title": "「LIVECAMERA」裏草津地蔵 漫画堂 カフェ月の貌"
-      },
-      {
-        "id": "Xr781EeLdqs",
-        "title": "「LIVE CAMERA」草津温泉・温泉門"
-      },
-      {
-        "id": "VnRb8aFDK2M",
-        "title": "「LIVECAMERA」天狗山 第一駐車場"
-      },
-      {
-        "id": "UdOAbyzxKto",
-        "title": "「LIVECAMERA 」草津温泉・西の河原公園駐車場"
-      },
-      {
-        "id": "B_Sc1v1qR-g",
-        "title": "「LIVECAMERA」草津温泉「湯畑」（移動式ライブカメラ）"
-      },
-      {
-        "id": "VZ7UthXFfTw",
-        "title": "「LIVECAMERA 」草津温泉・本白根山ライブカメラ（固定式）"
-      },
-      {
-        "id": "_1PfF1v9GJc",
-        "title": "「LIVECAMERA 」草津温泉・温泉門無料駐車場"
-      },
-      {
-        "id": "GrEEoEmmrKs",
-        "title": "「LIVECAMERA」　草津温泉「湯畑」湯滝前"
-      },
-      {
-        "id": "RT_yg_qsK_M",
-        "title": "「LIVECAMERA」草津温泉 西の河原・湯川LIVE"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCc45_PGazFuEQHoSsaQdwCQ",
@@ -11641,12 +11633,7 @@
     "id": "UCdmrMySXycO_2dIiZnQ1k-g",
     "handle": "@kjdbum7967",
     "name": "KJD BUM",
-    "videos": [
-      {
-        "id": "VKU0P9Um7uY",
-        "title": "KJD BUM ŽUSTERNA LIVE 24/7 WEBCAM"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCdr9cCd_WQPlLCAUjNaoACg",
@@ -12864,40 +12851,7 @@
     "id": "UCi1vQx48j_nfrMg6XH5PItQ",
     "handle": "@climabcbrazil",
     "name": "CLIMA BC Brazil",
-    "videos": [
-      {
-        "id": "5SMXLrkkWPU",
-        "title": "Balneário Camboriú ao vivo - Central"
-      },
-      {
-        "id": "A8IMgy_wmss",
-        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
-      },
-      {
-        "id": "PcbhQFs529w",
-        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
-      },
-      {
-        "id": "OMgs2FA5XMs",
-        "title": "Balneário Camboriú ao vivo em 4K"
-      },
-      {
-        "id": "YF2HsODb32U",
-        "title": "Balneário Camboriú ao vivo - Avenida Brasil"
-      },
-      {
-        "id": "K34fAa1J2fM",
-        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
-      },
-      {
-        "id": "cLRwOdrRE-8",
-        "title": "Balneário Camboriú ao vivo - PRAIA"
-      },
-      {
-        "id": "YN-Zbzhdee8",
-        "title": "Balneário Camboriú ao vivo"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCi9wnYP7UBrl7Tnfi3LLkpw",
@@ -14065,7 +14019,12 @@
     "id": "UCkiqDO1CTcCyxlsGXnC8WvA",
     "handle": "@campidlewoodlive",
     "name": "Camp Idlewood Live Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "RjVZXgl_PdE",
+        "title": "Camp Idlewood Live Webcam"
+      }
+    ]
   },
   {
     "id": "UCl5P2zJoH1gBdf38AiYALKA",
@@ -14167,20 +14126,7 @@
     "id": "UClxEfXEOUlQ9kIcuKW3sw2Q",
     "handle": "@rainholdmai4486",
     "name": "Rainhold Mai",
-    "videos": [
-      {
-        "id": "LDApJazCx_8",
-        "title": "PIATA REPUBLICII - FAGARAS - ROMANIA"
-      },
-      {
-        "id": "RU95EHwyVNE",
-        "title": "Partia Bradul - Poiana Brasov"
-      },
-      {
-        "id": "87D-GzRNOq4",
-        "title": "CABANA BALEA LAC - P1428"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCm8DGdhRoGe-GPCXfCT65og",
@@ -14897,12 +14843,7 @@
     "id": "UCoHyPD0NIDl6aO60-T7qpnA",
     "handle": "@loipeninfo7687",
     "name": "loipeninfo",
-    "videos": [
-      {
-        "id": "RYrxQ2_qoeY",
-        "title": "Wechsel Panoramaloipe - Steyersberger Schwaig"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCoJmJjKcSaol6dUhhzTNlcw",
