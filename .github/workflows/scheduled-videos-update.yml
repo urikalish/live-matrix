@@ -2,7 +2,7 @@ name: Update Videos
 
 on:
   schedule:
-    - cron: '18,38 * * * *'
+    - cron: '18,48 * * * *'
   workflow_dispatch:
 
 permissions:
