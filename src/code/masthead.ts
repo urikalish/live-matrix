@@ -14,9 +14,9 @@ type MastheadHandlers = {
 };
 
 export const handlers: MastheadHandlers = {
-  onChangeGridLayout: null as (() => void) | null,
-  onShuffle: null as (() => void) | null,
-  onSelectSearchVideo: null as ((videoId: string) => void) | null,
+  onChangeGridLayout: null,
+  onShuffle: null,
+  onSelectSearchVideo: null,
 };
 
 type SearchUiElements = {
@@ -160,11 +160,8 @@ function attachSearchHandlers() {
 function syncLayoutButtonsDisabledState() {
   const activeCols = settings.getCols().toString();
   const activeRows = settings.getRows().toString();
-  const layoutButtons = document.querySelectorAll('button[data-action="layout"]');
-
-  layoutButtons.forEach(btnElm => {
-    if (!(btnElm instanceof HTMLButtonElement)) return;
-    btnElm.disabled = btnElm.dataset.cols === activeCols && btnElm.dataset.rows === activeRows;
+  document.querySelectorAll<HTMLButtonElement>('button[data-action="layout"]').forEach(btn => {
+    btn.disabled = btn.dataset.cols === activeCols && btn.dataset.rows === activeRows;
   });
 }
 
@@ -184,19 +181,18 @@ function handleActionButtonClick(event: MouseEvent) {
 }
 
 function buildActionButtons() {
-  const actionButtonsContainerElm = document.getElementById('layout-actions-container');
-  if (!(actionButtonsContainerElm instanceof HTMLDivElement)) return;
+  const container = document.getElementById('layout-actions-container');
+  if (!(container instanceof HTMLDivElement)) return;
 
-  const layoutButtonTemplateElm = document.createElement('button');
-  layoutButtonTemplateElm.dataset.action = 'layout';
-  layoutButtonTemplateElm.classList.add('masthead-btn');
   for (let c = 1; c <= settings.getMaxCols(); c++) {
-    const r = c === 1 ? 1 : c - 1;
-    const layoutButtonElm = layoutButtonTemplateElm.cloneNode(true) as HTMLButtonElement;
-    layoutButtonElm.dataset.cols = c.toString();
-    layoutButtonElm.dataset.rows = r.toString();
-    layoutButtonElm.textContent = `${c}x${r}`;
-    actionButtonsContainerElm.appendChild(layoutButtonElm);
+    const r = Math.max(1, c - 1);
+    const btn = document.createElement('button');
+    btn.classList.add('masthead-btn');
+    btn.dataset.action = 'layout';
+    btn.dataset.cols = String(c);
+    btn.dataset.rows = String(r);
+    btn.textContent = `${c}x${r}`;
+    container.appendChild(btn);
   }
 }
 
@@ -204,10 +200,7 @@ export async function init() {
   buildActionButtons();
   syncLayoutButtonsDisabledState();
   attachSearchHandlers();
-  const actionButtonElements = document.querySelectorAll('button[data-action]');
-  actionButtonElements.forEach(btnElm => {
-    if (btnElm instanceof HTMLButtonElement) {
-      btnElm.addEventListener('click', handleActionButtonClick);
-    }
+  document.querySelectorAll<HTMLButtonElement>('button[data-action]').forEach(btn => {
+    btn.addEventListener('click', handleActionButtonClick);
   });
 }

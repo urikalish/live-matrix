@@ -24,7 +24,6 @@ type RawChannel = {
   videos: RawVideo[];
 };
 
-const _allChannels: Channel[] = [];
 const _allVideos: Video[] = [];
 const _STORAGE_PINNED_VIDEO_IDS_KEY = 'live-matrix.pinned-video-ids';
 
@@ -53,39 +52,18 @@ function getPinnedVideoIdsFromStorage(): Set<string> {
   }
 }
 
-function savePinnedVideoIdsToStorage(): void {
+function savePinnedVideoIds(ids?: Set<string>): void {
   const storage = getStorage();
   if (!storage) return;
-  const pinnedIds = _allVideos.filter(video => video.pinned).map(video => video.id);
-  storage.setItem(_STORAGE_PINNED_VIDEO_IDS_KEY, JSON.stringify(pinnedIds));
-}
-
-function savePinnedVideoIdsToStorageByIds(ids: Set<string>): void {
-  const storage = getStorage();
-  if (!storage) return;
-  storage.setItem(_STORAGE_PINNED_VIDEO_IDS_KEY, JSON.stringify(Array.from(ids)));
+  const toSave = ids ?? new Set(_allVideos.filter(v => v.pinned).map(v => v.id));
+  storage.setItem(_STORAGE_PINNED_VIDEO_IDS_KEY, JSON.stringify([...toSave]));
 }
 
 function reconcilePinnedVideoIds(data: RawChannel[], pinnedVideoIds: Set<string>): Set<string> {
-  const validVideoIds = new Set<string>();
-  data.forEach(channel => {
-    channel.videos.forEach(video => {
-      validVideoIds.add(video.id);
-    });
-  });
-
-  const reconciledPinnedVideoIds = new Set<string>();
-  pinnedVideoIds.forEach(videoId => {
-    if (validVideoIds.has(videoId)) {
-      reconciledPinnedVideoIds.add(videoId);
-    }
-  });
-
-  if (reconciledPinnedVideoIds.size !== pinnedVideoIds.size) {
-    savePinnedVideoIdsToStorageByIds(reconciledPinnedVideoIds);
-  }
-
-  return reconciledPinnedVideoIds;
+  const validVideoIds = new Set(data.flatMap(c => c.videos.map(v => v.id)));
+  const reconciled = new Set([...pinnedVideoIds].filter(id => validVideoIds.has(id)));
+  if (reconciled.size !== pinnedVideoIds.size) savePinnedVideoIds(reconciled);
+  return reconciled;
 }
 
 function isRawVideo(value: unknown): value is RawVideo {
@@ -133,7 +111,6 @@ async function loadChannelsAndVideos() {
       throw new Error('videos.json has an invalid format.');
     }
 
-    _allChannels.length = 0;
     _allVideos.length = 0;
 
     const data: RawChannel[] = payload;
@@ -145,7 +122,6 @@ async function loadChannelsAndVideos() {
         name: channelData.name,
         videos: [],
       };
-      _allChannels.push(channel);
       channelData.videos.forEach(videoData => {
         const video: Video = {
           id: videoData.id,
@@ -198,9 +174,6 @@ export function searchVideos(query: string, maxResults = 20): Video[] {
   return matches;
 }
 
-export function getVideoIdByIndex(videoIndex: number) {
-  return videoIndex < _allVideos.length ? _allVideos[videoIndex].id : '';
-}
 
 export function getYouTubeVideoSrc(videoId: string) {
   return `https://www.youtube.com/embed/${encodeURIComponent(videoId)}?autohide=1&autoplay=1&controls=0&disablekb=1&iv_load_policy=3&modestbranding=1&mute=1&playsinline=1&rel=0&showinfo=0&vq=hd1080`;
@@ -237,7 +210,7 @@ export function setVideoPinned(videoId: string, pinned: boolean): boolean {
   const video = getVideoById(videoId);
   if (!video) return false;
   video.pinned = pinned;
-  savePinnedVideoIdsToStorage();
+  savePinnedVideoIds();
   return true;
 }
 

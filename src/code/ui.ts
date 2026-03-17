@@ -29,9 +29,11 @@ function clearVideoElements(cellElm: HTMLDivElement) {
 }
 
 function setVideo(cellElm: HTMLDivElement, video: Video | null) {
-  if (video === null) {
-    return;
-  }
+  if (video === null) return;
+
+  const w = getCellWidth();
+  const h = getCellHeight();
+
   cellElm.dataset.videoId = video.id;
   cellElm.dataset.videoTitle = video.title;
   cellElm.dataset.channelId = video.channel.id;
@@ -43,17 +45,16 @@ function setVideo(cellElm: HTMLDivElement, video: Video | null) {
   thumbnailElm.classList.add('matrix-cell-thumbnail');
   thumbnailElm.src = videos.getYouTubeThumbnailSrc(video.id);
   thumbnailElm.alt = video.title;
-  thumbnailElm.width = getCellWidth();
-  thumbnailElm.height = getCellHeight();
+  thumbnailElm.width = w;
+  thumbnailElm.height = h;
   cellElm.classList.add('video-loading');
   cellElm.appendChild(thumbnailElm);
 
-  const src = videos.getYouTubeVideoSrc(video.id);
   const frElm = document.createElement('iframe');
   frElm.classList.add('matrix-cell-iframe');
-  frElm.src = src;
-  frElm.width = `${getCellWidth()}`;
-  frElm.height = `${getCellHeight()}`;
+  frElm.src = videos.getYouTubeVideoSrc(video.id);
+  frElm.width = `${w}`;
+  frElm.height = `${h}`;
   frElm.setAttribute('frameborder', '0');
   frElm.title = video.title;
   frElm.setAttribute(
@@ -61,8 +62,7 @@ function setVideo(cellElm: HTMLDivElement, video: Video | null) {
     'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture',
   );
   frElm.addEventListener('load', () => {
-    const currentThumbnailElm = cellElm.querySelector('.matrix-cell-thumbnail');
-    if (currentThumbnailElm) currentThumbnailElm.remove();
+    cellElm.querySelector('.matrix-cell-thumbnail')?.remove();
     cellElm.classList.remove('video-loading');
   });
   cellElm.appendChild(frElm);
@@ -78,10 +78,7 @@ function replaceVideo(cellElm: HTMLDivElement) {
 }
 
 function getCellFromEvent(event: Event): HTMLDivElement | null {
-  const target = event.currentTarget;
-  if (!(target instanceof HTMLElement)) return null;
-  const cellElm = target.closest('.matrix-cell');
-  return cellElm instanceof HTMLDivElement ? cellElm : null;
+  return (event.currentTarget as HTMLElement)?.closest<HTMLDivElement>('.matrix-cell') ?? null;
 }
 
 function updateOverlayDetails(cellElm: HTMLDivElement) {
@@ -190,21 +187,17 @@ function renderGrid() {
   matrixCellTemplateElm.style.width = `${getCellWidth()}px`;
   matrixCellTemplateElm.style.height = `${getCellHeight()}px`;
 
-  for (let i: number = 0; i < settings.getCols() * settings.getRows(); i++) {
+  for (let i = 0; i < settings.getCols() * settings.getRows(); i++) {
     const matrixCellElm = matrixCellTemplateElm.cloneNode(true) as HTMLDivElement;
-    const video = videos.getVideoByIndex(i);
-    setVideo(matrixCellElm, video);
     matrixCellElm.appendChild(createOverlay());
-    updateOverlayDetails(matrixCellElm);
+    setVideo(matrixCellElm, videos.getVideoByIndex(i));
     matrixContainerElm.appendChild(matrixCellElm);
   }
 }
 
-function handleWindowResize() {
-  renderGrid();
-}
+function handleShuffle() {
+  videos.shuffleVideos();
 
-function shuffleUnpinnedCellsOnly() {
   const matrixContainerElm = getMatrixContainer();
   if (!matrixContainerElm) {
     renderGrid();
@@ -213,24 +206,15 @@ function shuffleUnpinnedCellsOnly() {
 
   const unpinnedVideos = videos.getUnpinnedVideos();
   let unpinnedVideoIndex = 0;
-  const matrixCellElements = matrixContainerElm.querySelectorAll('.matrix-cell');
-
-  matrixCellElements.forEach(cellElm => {
-    if (!(cellElm instanceof HTMLDivElement)) return;
+  matrixContainerElm.querySelectorAll<HTMLDivElement>('.matrix-cell').forEach(cellElm => {
     if (cellElm.classList.contains('pinned')) return;
-
     const nextVideo = unpinnedVideos[unpinnedVideoIndex++];
     if (!nextVideo) return;
-
     clearVideoElements(cellElm);
     setVideo(cellElm, nextVideo);
   });
 }
 
-function handleShuffle() {
-  videos.shuffleVideos();
-  shuffleUnpinnedCellsOnly();
-}
 
 function handleLayoutChange() {
   videos.shuffleVideos();
@@ -244,23 +228,19 @@ function handleSelectSearchVideo(videoId: string) {
   const matrixContainerElm = getMatrixContainer();
   if (!matrixContainerElm) return;
 
-  const matrixCellElements = Array.from(matrixContainerElm.querySelectorAll('.matrix-cell'));
-  const targetCellElm = matrixCellElements.find(
-    cellElm => cellElm instanceof HTMLDivElement && !cellElm.classList.contains('pinned'),
-  );
-  const fallbackCellElm = matrixCellElements[0];
-  const selectedCellElm = targetCellElm ?? fallbackCellElm;
-  if (!(selectedCellElm instanceof HTMLDivElement)) return;
+  const cells = Array.from(matrixContainerElm.querySelectorAll<HTMLDivElement>('.matrix-cell'));
+  const cell = cells.find(c => !c.classList.contains('pinned')) ?? cells[0];
+  if (!cell) return;
 
-  clearVideoElements(selectedCellElm);
-  setVideo(selectedCellElm, video);
+  clearVideoElements(cell);
+  setVideo(cell, video);
 }
 
 export async function init() {
   masthead.handlers.onShuffle = handleShuffle;
   masthead.handlers.onChangeGridLayout = handleLayoutChange;
   masthead.handlers.onSelectSearchVideo = handleSelectSearchVideo;
-  window.addEventListener('resize', handleWindowResize);
+  window.addEventListener('resize', renderGrid);
   videos.shuffleVideos();
   renderGrid();
 }

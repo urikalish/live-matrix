@@ -18,12 +18,8 @@ function getStorage(): Storage | null {
 }
 
 function loadGridValue(storageKey: string, fallbackValue: number, maxValue: number): number {
-  const storage = getStorage();
-  if (!storage) return clampGridSize(fallbackValue, maxValue);
-
-  const rawValue = storage.getItem(storageKey);
-  if (rawValue === null) return clampGridSize(fallbackValue, maxValue);
-  return clampGridSize(Number(rawValue), maxValue);
+  const rawValue = getStorage()?.getItem(storageKey) ?? null;
+  return clampGridSize(rawValue !== null ? Number(rawValue) : fallbackValue, maxValue);
 }
 
 function saveGridValue(storageKey: string, value: number): void {
