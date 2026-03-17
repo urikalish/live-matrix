@@ -2,8 +2,7 @@ name: Update Videos
 
 on:
   schedule:
-    # Runs every day at midnight
-    - cron: '0 0 * * *'
+    - cron: '31 * * * *'
   workflow_dispatch:
 
 permissions:
