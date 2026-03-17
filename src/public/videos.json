@@ -566,46 +566,6 @@
       {
         "id": "0Kaji9GHl68",
         "title": "🔴 PHILIPPINES Live camera Inside Dodong Barber Shop, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "Gy4_7mPsuWA",
-        "title": "🔴PHILIPPINES Live camera, Balut & Siomai street food, Davao City #philippines"
-      },
-      {
-        "id": "vesU40BscXc",
-        "title": "🔴PHILIPPINES Live camera  Van Storage and party area, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "8D94_hdxcac",
-        "title": "🔴PHILIPPINES Live camera Majah \"MJMB store\", Soliman Street, Agdao, Davao City"
-      },
-      {
-        "id": "z9O-XeUraDs",
-        "title": "🔴 PHILIPPINES Live camera Majah & Carolina street food sellers, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "8ALC939509U",
-        "title": "🔴 PHILIPPINES live Cam Street View, Soliman Street, Agdao, Davao City #philippines #livestream"
-      },
-      {
-        "id": "xa_7z1bHsPM",
-        "title": "🔴Philippines Live camera House View, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "DSRm7V_bsm8",
-        "title": "🔴PHILIPPINES Street View Live camera (2), Soliman Street, Agdao, Davao City #philippines #livestream"
-      },
-      {
-        "id": "Far_aDIwAyw",
-        "title": "🔴PHILIPPINES Street View Live camera (1), Soliman Street, Agdao, Davao City #philippines #livestream"
-      },
-      {
-        "id": "zeQWw6g_tu4",
-        "title": "🔴 PHILIPPINES Davao City live Street View ¦ Members cam 1 ¦ Soliman Street"
-      },
-      {
-        "id": "fkKa9oLDmi4",
-        "title": "🔴 PHILIPPINES Davao City live Street View ¦ Members cam 2 ¦ Soliman Street"
       }
     ]
   },
@@ -1395,10 +1355,6 @@
         "title": "ITAPEMA SC AO VIVO | PRAÇA DA PAZ – BRASIN EMPREENDIMENTOS | CONEXÃODCTV"
       },
       {
-        "id": "UAFkbBw311Y",
-        "title": "CAMBORIÚ SC AO VIVO | RÓTULA AV. SANTA CATARINA / 5ª AV – SERMAR – CONEXÃODCTV"
-      },
-      {
         "id": "yTel4ZppHIc",
         "title": "CAMBORIÚ SC AO VIVO | PARQUE MUNICIPAL VISTA CEDROS – MAX.COM MODA FITNESS | CONEXÃODCTV"
       },
@@ -1673,7 +1629,24 @@
     "id": "UC3yyv3A3atZf0d0ybFMrhbw",
     "handle": "@airplane_live",
     "name": "Airplane Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "97RfczNmY7s",
+        "title": "✈️ RE-Live Planespotting at Frankfurt Airport – B747 Paradise Takeoffs & Landings - FRA - EDDF"
+      },
+      {
+        "id": "1CRXoZI-Wdo",
+        "title": "✈️ RE-LIVE Planespotting Munich Airport MUC | Heavy Landings & Takeoffs | A380, A350, B777 Close-Ups"
+      },
+      {
+        "id": "11INCtK6uiA",
+        "title": "✈️ RE-Live New York Planespotting with Highlights  (JFK) Airport!  #planespotting #twahotel"
+      },
+      {
+        "id": "C7gwOwqHpWo",
+        "title": "RE-Live Planespotting at Mallorca (PMI) & Tenerife TFS  SPAIN Landings & Takeoffs | #tfs  #avgeek"
+      }
+    ]
   },
   {
     "id": "UC42NA-aQL2aSFs-9cI9KQjA",
@@ -1766,10 +1739,6 @@
         "title": "Kvítkovická křižovatka – směr Zlín"
       },
       {
-        "id": "Nht27MHw0QY",
-        "title": "Lázně Zlín - Venkovní bazén Hradská"
-      },
-      {
         "id": "AFzXK__hdkc",
         "title": "Lázně Zlín - Koupaliště Panorama"
       },
@@ -1854,6 +1823,10 @@
     "handle": "@AssociatedPress",
     "name": "Associated Press",
     "videos": [
+      {
+        "id": "Q6oDNZ7Whm4",
+        "title": "LIVE: Republicans debate a voting bill on the Senate floor"
+      },
       {
         "id": "MSrLYOhXaCg",
         "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
@@ -3657,7 +3630,12 @@
     "id": "UC8qCc7sF9hSjP-U0TiaO5Tw",
     "handle": "@CliffHouseLive",
     "name": "Cliff House Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "E5CB8b_RjQY",
+        "title": "EL FRONTÓN, PUNTA DE GÁLDAR, GRAN CANARIA,  PAISAJE SONORO"
+      }
+    ]
   },
   {
     "id": "UC8sXqdHFnwpVoOuOZmx1-kw",
@@ -6280,10 +6258,6 @@
         "title": "LIVE: Paul do Mar WebCam 24/7 | O Precipício, Fajã da Ovelha | Madeira-Web"
       },
       {
-        "id": "eYBjHSwkfio",
-        "title": "Live: Porto da Cruz Pool Cam | Baía do Bago | Madeira-Web"
-      },
-      {
         "id": "DsUHK6lyN1g",
         "title": "LIVE: Madalena do Mar Webcam - Bar La Fronteira | Banana Plantations, Madeira-web"
       },
@@ -6349,7 +6323,20 @@
     "id": "UCHhmOa8h4O5V4VZPJSRuxJQ",
     "handle": "@seetahoe",
     "name": "SeeTahoe",
-    "videos": []
+    "videos": [
+      {
+        "id": "E_m1ihDDWEs",
+        "title": "South Lake Tahoe Airport Live Webcam - North"
+      },
+      {
+        "id": "Gq1kM9PqNg4",
+        "title": "South Lake Tahoe Airport Live Webcam - South"
+      },
+      {
+        "id": "0m_laVpVw0k",
+        "title": "TPH - Johnson Meadow - SeeTahoe Live Webcam🔴"
+      }
+    ]
   },
   {
     "id": "UCHhtdcqzwyPYY0qBlEPh0QQ",
@@ -7880,10 +7867,6 @@
     "name": "digital scenarios",
     "videos": [
       {
-        "id": "TSnB-4HRNms",
-        "title": "LIVE Monte Alago, Pian delle Stelle 950m"
-      },
-      {
         "id": "AQ8NvRcz4oI",
         "title": "LIVE Monte Subasio | Foligno"
       },
@@ -8667,12 +8650,7 @@
     "id": "UCQc7Ol2itgbnMXPjZmPdRRQ",
     "handle": "@AaronPreslin",
     "name": "Aaron Preslin",
-    "videos": [
-      {
-        "id": "OEHt98ZDU3M",
-        "title": "Cincinnati Skyline, Ohio River, Brent Spence Bridge - Livestream from Covington, Kentucky"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCQmlVF-VRx75AflM-9gJytg",
@@ -9410,20 +9388,7 @@
     "id": "UCT-PZ211r3_9mFdF0zC1HHg",
     "handle": "@kachimai",
     "name": "十勝毎日新聞",
-    "videos": [
-      {
-        "id": "LdMY_R_ATho",
-        "title": "十勝川白鳥大橋ライブカメラ（十勝川温泉第一ホテル屋上より） Live Camera in The Hakutyo Bridge of Tokachi River, Hokkaido in Japan"
-      },
-      {
-        "id": "G2pXkb7DdPE",
-        "title": "十勝大橋ライブカメラ Live Camera in Tokachi Big Bridge over the Tokachi river, Hokkaido in Japan"
-      },
-      {
-        "id": "eKNqWXgCE1g",
-        "title": "JR帯広駅ライブカメラ Live Camera in The JR Obihiro Station, Hokkaido in Japan"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCT4jEYvUdpdN9oUALaypGfQ",
@@ -10476,12 +10441,7 @@
     "id": "UCYqyaXiOKAxUcgZ159wXG-A",
     "handle": "@municipalityofkos1518",
     "name": "Municipality of Kos 1",
-    "videos": [
-      {
-        "id": "09NGLixVinU",
-        "title": "Λεωφόρος φοινίκων"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCZ63kVFT7hf1K-Mx82MxFnQ",
@@ -13003,10 +12963,6 @@
       {
         "id": "YN-Zbzhdee8",
         "title": "Balneário Camboriú ao vivo"
-      },
-      {
-        "id": "mzupbpXw8sQ",
-        "title": "Balneário Camboriú ao vivo"
       }
     ]
   },
@@ -13337,10 +13293,6 @@
       {
         "id": "mCBSIMCKIgg",
         "title": "WATCH: Live from Baghdad where blasts have been reported"
-      },
-      {
-        "id": "ZheIUfbZ7rc",
-        "title": "Afghanistan says 400 people killed in Pakistan strike on Kabul hospital"
       },
       {
         "id": "0kO7oWTPvzM",
@@ -14727,7 +14679,32 @@
     "id": "UCnJz20oDnvQJJaWfaJGqKTw",
     "handle": "@InnovacionCipolletti",
     "name": "Innovación Cipolletti",
-    "videos": []
+    "videos": [
+      {
+        "id": "cjYqtbsc4XA",
+        "title": "Ciudad de Cipolletti en VIVO"
+      },
+      {
+        "id": "xhVpO3cplDs",
+        "title": "Rotonda Tercer Puente Cipolletti en VIVO"
+      },
+      {
+        "id": "sJBDRvQBXYI",
+        "title": "Rotonda de la Ciudad de Cipolletti en VIVO"
+      },
+      {
+        "id": "BtSdHeeDCpw",
+        "title": "Balneario Isla Jordán Cipolletti en VIVO"
+      },
+      {
+        "id": "xNCNQSluwQc",
+        "title": "Rotonda Mariano Moreno y Mengelle Cipolletti en VIVO"
+      },
+      {
+        "id": "IIN_oraf4sw",
+        "title": "Paseo del Ferrocarril Cipolletti en VIVO"
+      }
+    ]
   },
   {
     "id": "UCnKCrCu5RLG0Xr_Rxidho0g",
@@ -14957,12 +14934,7 @@
     "id": "UCoA1QcioL4aGra1fPQ6wlGg",
     "handle": "@CityofBiloxi",
     "name": "City of Biloxi",
-    "videos": [
-      {
-        "id": "f1xrq7ulwj0",
-        "title": "Biloxi Lighthouse"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCoGAnM2Ek-KVDEQiyuN_XGg",
@@ -16045,126 +16017,6 @@
         "title": "🔴[LIVE CCTV] JL. PANTURA DEPAN SMP KARANGTENGAH [1] by DISHUB KAB. DEMAK"
       },
       {
-        "id": "HvM2dCwvOSw",
-        "title": "🔴[LIVE CCTV] SIMPANG MAKAM PAHLAWAN [03] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "wp5mNnebj_w",
-        "title": "🔴[LIVE CCTV] SIMPANG MAKAM PAHLAWAN [02] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "p_W-PqnxB74",
-        "title": "🔴[LIVE CCTV] SIMPANG MAKAM PAHLAWAN [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "OjEMBdLXIfI",
-        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. LINGKAR JOGOLOYO DEMAK [02] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "06DK78T5CEo",
-        "title": "🔴[LIVE CCTV] U-TURN LOIRENG SAYUNG [2] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "0sG6Ez4dZnU",
-        "title": "🔴[LIVE CCTV] U-TURN LOIRENG SAYUNG [1] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "lWnaMwKa9eo",
-        "title": "🔴[LIVE CCTV] JEMBATAN BETENGAN - BUQ DEMAK [02] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "VWhxKKKZ1Tw",
-        "title": "🔴[LIVE CCTV] JEMBATAN BETENGAN - BUQ DEMAK [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "7ica-MMtAmA",
-        "title": "🔴[LIVE CCTV] PEREMPATAN BULUSARI SAYUNG [2] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "9SE8re8Yafs",
-        "title": "🔴[LIVE CCTV] PEREMPATAN BULUSARI SAYUNG [1] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "bUEJLDogQwg",
-        "title": "🔴[LIVE CCTV] U-TURN POM HALIM DEMAK [2] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "bViSJ6WpwEU",
-        "title": "🔴[LIVE CCTV] U-TURN POM HALIM DEMAK [1] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "3TGI9AWPzao",
-        "title": "🔴[LIVE CCTV] JL. PANTURA ONGGORAWE JEMBATAN [2] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "J1XUjaA6C5A",
-        "title": "🔴[LIVE CCTV] PEREMPATAN JL. BHAYANGKARA DEMAK [2] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "J8qCICYaQEE",
-        "title": "🔴[LIVE CCTV] PEREMPATAN JL. BHAYANGKARA DEMAK [1] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "wwmFRuL-Yy8",
-        "title": "🔴[LIVE CCTV] PERTIGAAN DEPAN KABUPATEN DEMAK [2] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "jvMVt9ySvrk",
-        "title": "🔴[LIVE CCTV] PERTIGAAN DEPAN KABUPATEN DEMAK [1] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "avADyBCRpAI",
-        "title": "🔴[LIVE CCTV] SIMPANG 4 GARUDA [2] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "xp8ifjx-XBE",
-        "title": "🔴[LIVE CCTV] SIMPANG 4 GARUDA [1] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "RX__IwzPu-0",
-        "title": "🔴[LIVE CCTV] PEREMPATAN KODIM APOTIK K24 [2] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "Vh1kB3g1iKM",
-        "title": "🔴[LIVE CCTV] PEREMPATAN KODIM APOTIK K24 [1] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "7-knqNmL0tg",
-        "title": "🔴[LIVE CCTV] SIMPANG PETENGAN - PEMUDA [2] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "dSus0B1vl0Y",
-        "title": "🔴[LIVE CCTV] SIMPANG PETENGAN - PEMUDA [1] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "-eoQFkjBAHQ",
-        "title": "🔴[LIVE CCTV] SIMPANG 3 STADIUN SULTAN FATAH [02] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "t4bRAU35NdI",
-        "title": "🔴[LIVE CCTV] SIMPANG 3 STADIUN SULTAN FATAH [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "zf8RYyF6BoI",
-        "title": "🔴[LIVE CCTV] SIMPANG 6 ALUN-ALUN KEJAKSAAN - TAMAN PKK DEMAK [02] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "wKBnkkUzC7Y",
-        "title": "🔴[LIVE CCTV] SIMPANG 6 ALUN-ALUN KEJAKSAAN - TAMAN PKK DEMAK [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "j6Oh5Zwhelo",
-        "title": "🔴[LIVE CCTV]  PERTIGAAN DEPAN PASAR BINTORO DEMAK [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "6bUj0Bae9L0",
-        "title": "🔴[LIVE CCTV] PASAR GAJAH [02] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "fMiU3FyyRRE",
-        "title": "🔴[LIVE CCTV]  PEREMPATAN TERMINAL DEMAK [01] by DISHUB KAB. DEMAK"
-      },
-      {
         "id": "5nw3G2jtWaU",
         "title": "🔴[LIVE CCTV] PERTIGAAN JEMBATAN KRACAAN DEMAK [00] by DISHUB KAB. DEMAK"
       },
@@ -16332,6 +16184,10 @@
     "name": "Town of Apex",
     "videos": [
       {
+        "id": "GAI8cbVaC6E",
+        "title": "2026.03.17 Town Council Work Session - Economic Development"
+      },
+      {
         "id": "-MWn7E2O-_o",
         "title": "Town of Apex Downtown Camera"
       }
@@ -16449,7 +16305,12 @@
     "id": "UCrr1vVhuKmB5pUV6eCilRMQ",
     "handle": "@portalbernihq",
     "name": "Port Alberni Live Webcam",
-    "videos": []
+    "videos": [
+      {
+        "id": "K1uuRIEsvAk",
+        "title": "Port Alberni Harbour Quay, BC"
+      }
+    ]
   },
   {
     "id": "UCrrkptlW7UtbiUHFjdsfKPg",
@@ -18414,9 +18275,14 @@
   },
   {
     "id": "UCyJ_WqTXFf1Wx6YiBR9CHxw",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@rogerstokes3320",
+    "name": "Roger Stokes",
+    "videos": [
+      {
+        "id": "Vi87V5GSFXw",
+        "title": "Woodbury webcam live!"
+      }
+    ]
   },
   {
     "id": "UCycdLbuODd-iBKVR13zfPsg",
