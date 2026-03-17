@@ -1714,7 +1714,28 @@
     "id": "UC4AoiIN2ErfWcE5-YyjDDIg",
     "handle": "@AshlandFiberNetwork",
     "name": "Ashland Fiber Network",
-    "videos": []
+    "videos": [
+      {
+        "id": "AeSUypToXO4",
+        "title": "Lithia Park Bandshell"
+      },
+      {
+        "id": "FRPe2RJZfCo",
+        "title": "Lithia Park Cam"
+      },
+      {
+        "id": "1fqGCuZUYhQ",
+        "title": "Ashland Municipal Airport S03"
+      },
+      {
+        "id": "gu0Ow9UqaF0",
+        "title": "N Main Traffic Camera"
+      },
+      {
+        "id": "OLrV_Hgl5Wo",
+        "title": "Ashland Plaza Cam"
+      }
+    ]
   },
   {
     "id": "UC4BM1oZhL6hnMp13bws6-sg",
@@ -2102,6 +2123,10 @@
     "handle": "@ozolio_live",
     "name": "Ozolio Live",
     "videos": [
+      {
+        "id": "gBaZmOK2_m0",
+        "title": "LIVE Maui Beach Cam | Napili Kai Beach Resort | Hawaii Live Cams"
+      },
       {
         "id": "ohBf0grnIDk",
         "title": "Miami LIVE Cam | Deering Estate in Palmetto Bay | Biscayne Bay Views 24/7"
@@ -4350,7 +4375,12 @@
     "id": "UCBSkHglhgTDIPA-m_NVEN6w",
     "handle": "@alletevideo8975",
     "name": "ALLETE Video",
-    "videos": []
+    "videos": [
+      {
+        "id": "gX1exrdM5rE",
+        "title": "Lake Cam"
+      }
+    ]
   },
   {
     "id": "UCBWgewoUjqDBEW4kEnh78OA",
@@ -5038,12 +5068,7 @@
     "id": "UCCp1rWY4KFh0t3fKILlPiUQ",
     "handle": "@ToyoComtecLiveChannel",
     "name": "ToyoComtecLiveChannel",
-    "videos": [
-      {
-        "id": "FyEaYH_tiZ4",
-        "title": "【 LIVE 】東京都 墨田区 スカイツリー 24時間 ライブ / Tokyo Skytree Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCD-Hv0aJkZz0isAwOtFErVg",
@@ -5206,12 +5231,7 @@
     "id": "UCDQ9-OMttGoiRHzLrg-xKRA",
     "handle": "@KhaoLakLandDiscovery",
     "name": "Khao Lak Land Discovery",
-    "videos": [
-      {
-        "id": "rN0ZYJykMOk",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 18-Mar-2026 00:01"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDUMVSw1K-ejDIoMe1fvF2Q",
@@ -5359,18 +5379,18 @@
     "id": "UCEZakpc_Sk9v4PU-LqzLXOA",
     "handle": "@SpinlockHQ",
     "name": "Spinlock",
-    "videos": [
-      {
-        "id": "PvFIAuYnLnU",
-        "title": "Spinlock"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCEloGRn_GCcr-I_6f5MYJPw",
     "handle": "@サンシャイン60通りライブカメラ",
     "name": "サンシャイン60通りライブカメラ",
-    "videos": []
+    "videos": [
+      {
+        "id": "TiDOEJxGtJI",
+        "title": "【LIVE】サンシャイン60通りライブカメラ：Tokyo City Live Camera ikebukuro"
+      }
+    ]
   },
   {
     "id": "UCEpDjqeFIGTqHwk-uULx72Q",
@@ -7507,24 +7527,7 @@
     "id": "UCLaxio5CTbT1gl5i8FB2-yw",
     "handle": "@TableMountainLiveStream",
     "name": "Table Mountain Live Stream",
-    "videos": [
-      {
-        "id": "ZfiGeTowMWU",
-        "title": "Brass Bell Surf Cam | Kalk Bay Live Stream South Africa | 24/7 Ocean & Surf Camera"
-      },
-      {
-        "id": "jOqASqt3vVI",
-        "title": "Table Mountain Live Stream | Cape Town Webcam | South Africa"
-      },
-      {
-        "id": "YfwTcW1IkN4",
-        "title": "LIVE Table Mountain & Bloubergstrand Beach Camera | 24/7 Cape Town South Africa Live Stream"
-      },
-      {
-        "id": "Hhc6vesmrNk",
-        "title": "LIVE Langebaan Lagoon Camera | Pearly’s Restaurant | 24/7 South Africa Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCLdB_nQzuawWis5zdOCtx6Q",
@@ -7829,12 +7832,7 @@
     "id": "UCMtmjdcTIEvVkhQbSlBKJ-A",
     "handle": "@ausablecenter",
     "name": "Ausable Freshwater Center",
-    "videos": [
-      {
-        "id": "jB4Iwn2GJS4",
-        "title": "Mirror Lake Livestream (Sponsored by Golden Arrow)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCMvAap1Jacyg-4bqYKDlmtw",
@@ -8021,6 +8019,10 @@
     "name": "Village of Greendale, Wisconsin",
     "videos": [
       {
+        "id": "p1WBQWOrOK4",
+        "title": "BOT Meeting 03-17-26"
+      },
+      {
         "id": "ADsY4BQWZOU",
         "title": "Broad Street Live Stream"
       }
@@ -8179,24 +8181,7 @@
     "id": "UCOlB4c8jh9f2T6u3A08T9mA",
     "handle": "@southdakotaminescameras",
     "name": "South Dakota Mines Cameras",
-    "videos": [
-      {
-        "id": "BXIlwGtLPTc",
-        "title": "South Dakota Mines Quad Cam"
-      },
-      {
-        "id": "0so_l_Vhtb4",
-        "title": "South Dakota School of Mines and Technology (SDSM&T) Campus Overview Camera"
-      },
-      {
-        "id": "qKyyGjW0Duk",
-        "title": "South Dakota Mines Nucor Mineral Industries Building - North Side View"
-      },
-      {
-        "id": "6lYoPExcOwg",
-        "title": "South Dakota School of Mines and Technology's (SDSM&T) Dino Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCOmgpmAnXKSPVEWWK_5Cd-Q",
@@ -9558,24 +9543,7 @@
     "id": "UCTkxSTO0A1d5_6_Nc4sVYtg",
     "handle": "@UDriveTechLIVEStreaming",
     "name": "UDrive Tech LIVE Streaming",
-    "videos": [
-      {
-        "id": "jEX3IqH6Cis",
-        "title": "Live View of Lazelle St in Sturgis SD from Sturgis Liquor"
-      },
-      {
-        "id": "3UHlTcL3L_Y",
-        "title": "Live View of Junction & Main St from Sturgis Motorcycle Museum"
-      },
-      {
-        "id": "uu82CI54eJU",
-        "title": "Live View from Hotel Sturgis on Main St. and Harley-Davidson Way in Sturgis SD"
-      },
-      {
-        "id": "O2bCoZSQTuo",
-        "title": "Live View of Lazelle from Sturgis Motorsports"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCTlY00NCf0nKyldwBys3mrA",
@@ -10037,7 +10005,20 @@
     "id": "UCWsRYU3f0gtQVcnWIds1Lxg",
     "handle": "@sr-varangerkommune5151",
     "name": "Sør-Varanger kommune",
-    "videos": []
+    "videos": [
+      {
+        "id": "acJRSLCe6G0",
+        "title": "Sør-Varanger Kirkenes - Himmelstigen"
+      },
+      {
+        "id": "5gqaJgq_cdA",
+        "title": "Sør-Varanger - Lyngbberget"
+      },
+      {
+        "id": "6rE0ua2lVaM",
+        "title": "Sør-Varanger Kirkenes - Utsikt fra kirketårnet sørover"
+      }
+    ]
   },
   {
     "id": "UCWsoep0hJKhGbYosMeQIyXA",
@@ -10620,12 +10601,7 @@
     "id": "UC_9dsRFZiS87yepdO4Qc9Ng",
     "handle": "@MiamiRiverCam",
     "name": "Miami River Camera ",
-    "videos": [
-      {
-        "id": "7wHgYc_kN98",
-        "title": "Miami River Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC_B1lpgj2DH_wO8T1jJnSYA",
@@ -11444,6 +11420,10 @@
     "name": "CityofAuburnAL",
     "videos": [
       {
+        "id": "Ih447QZOwKI",
+        "title": "Auburn City Council Meeting March 17, 2026"
+      },
+      {
         "id": "qG-86nZmZqU",
         "title": "City of Auburn Toomer's Corner Quad Cam"
       },
@@ -11695,12 +11675,7 @@
     "id": "UCdLE2nyW8fg3hh9Pogq824g",
     "handle": "@businesscontrol",
     "name": "Business Control MONITORING",
-    "videos": [
-      {
-        "id": "J0nItKQF0TA",
-        "title": "Ruda Śląska ONLINE"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCdV_1HeYSkwgNM-L4eIQ7AA",
@@ -12510,12 +12485,7 @@
     "id": "UCgDSg8kDhdOO3xwAJ_svtaA",
     "handle": "@friendsofmidwayatollnwr8166",
     "name": "Friends of Midway Atoll NWR",
-    "videos": [
-      {
-        "id": "L3iKvwoXZ38",
-        "title": "Midway Atoll NWR Wildlife Live Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgEQLYeJz2EZNQ9jWzNxfng",
@@ -12737,60 +12707,7 @@
     "id": "UCgorAQVJpb1Zf3S0gk_2gsA",
     "handle": "@FloridaKeysWebcams",
     "name": "Florida Keys Webcams",
-    "videos": [
-      {
-        "id": "yNpciG0zc1Q",
-        "title": "Sloppy Crowd Cam"
-      },
-      {
-        "id": "g8yMaHH8m34",
-        "title": "Cheeca Lodge, Islamorada"
-      },
-      {
-        "id": "RDlvQ1G-lwY",
-        "title": "Key West Bight Live From The Galleon Resort"
-      },
-      {
-        "id": "1PzbWAff8NA",
-        "title": "Parrot Key"
-      },
-      {
-        "id": "S9skdvGJW8k",
-        "title": "Ocean Home Rentals"
-      },
-      {
-        "id": "sk7jojKGefM",
-        "title": "Tranquility Bay Resort, Marathon"
-      },
-      {
-        "id": "1eN-V7r_l6I",
-        "title": "Oceans Edge Resort, Key West"
-      },
-      {
-        "id": "OKh2Dhyc3-c",
-        "title": "Southernmost Point, Key West"
-      },
-      {
-        "id": "Q0216ncex58",
-        "title": "Southernmost Beach Resorts: Shores Pool, Key West"
-      },
-      {
-        "id": "nrlgx7A-MNs",
-        "title": "Southernmost Beach Resorts: Pineapple Pool"
-      },
-      {
-        "id": "f9pMVLoJfyE",
-        "title": "Mallory Square 4K, Key West"
-      },
-      {
-        "id": "1Gn9gG9U2iM",
-        "title": "Key West Sunset Cam, Ocean Key Resort"
-      },
-      {
-        "id": "iuW7Cdqjop4",
-        "title": "Southernmost Beach Resorts: Pier"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgrNz-aDmcr2uuto8_DL2jg",
@@ -12978,7 +12895,40 @@
     "id": "UCi1vQx48j_nfrMg6XH5PItQ",
     "handle": "@climabcbrazil",
     "name": "CLIMA BC Brazil",
-    "videos": []
+    "videos": [
+      {
+        "id": "5SMXLrkkWPU",
+        "title": "Balneário Camboriú ao vivo - Central"
+      },
+      {
+        "id": "A8IMgy_wmss",
+        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
+      },
+      {
+        "id": "PcbhQFs529w",
+        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
+      },
+      {
+        "id": "OMgs2FA5XMs",
+        "title": "Balneário Camboriú ao vivo em 4K"
+      },
+      {
+        "id": "YF2HsODb32U",
+        "title": "Balneário Camboriú ao vivo - Avenida Brasil"
+      },
+      {
+        "id": "K34fAa1J2fM",
+        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
+      },
+      {
+        "id": "cLRwOdrRE-8",
+        "title": "Balneário Camboriú ao vivo - PRAIA"
+      },
+      {
+        "id": "YN-Zbzhdee8",
+        "title": "Balneário Camboriú ao vivo"
+      }
+    ]
   },
   {
     "id": "UCi9wnYP7UBrl7Tnfi3LLkpw",
@@ -13302,10 +13252,6 @@
       {
         "id": "mCBSIMCKIgg",
         "title": "WATCH: Live from Baghdad where blasts have been reported"
-      },
-      {
-        "id": "0kO7oWTPvzM",
-        "title": "Live of Beirut skyline, Lebanon"
       },
       {
         "id": "cO0Senzgzpc",
@@ -14272,12 +14218,7 @@
     "id": "UCm8DGdhRoGe-GPCXfCT65og",
     "handle": "@YokohamaLive",
     "name": "横浜港ライブカメラ",
-    "videos": [
-      {
-        "id": "mg5rgKyKO2A",
-        "title": "ライブカメラ　みなとみらい、ベイブリッジ、横浜港：Yokohama Port Live Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCm9zLeJlfz7jRT_6vff70_w",
@@ -14295,18 +14236,82 @@
     "id": "UCmGJrhK3VM4BSOGF6g5pmZw",
     "handle": "@Weercamera",
     "name": "Weathercam",
-    "videos": []
+    "videos": [
+      {
+        "id": "7KXim_pTDD4",
+        "title": "🔴 Webcam @ Zeedijk Nieuwpoort - Hotel Sandeshoved"
+      },
+      {
+        "id": "GUyebtSui5A",
+        "title": "🔴 Webcam @ Knokke-Heist Belgium - Lakeside Paradise"
+      },
+      {
+        "id": "NebcksVE-Tk",
+        "title": "🔴Live Webcam @ Virginie Lovelinggebouw Ghent - Inside Nest"
+      },
+      {
+        "id": "agmAdlmdEpc",
+        "title": "🔴Live Webcam @ Virginie Lovelinggebouw Ghent - Outside Nest"
+      },
+      {
+        "id": "ELUtEnMBS6k",
+        "title": "🔴 Live Webcam @ Het Zwin - Knokke-Heist"
+      },
+      {
+        "id": "a6v5zNvcIzQ",
+        "title": "🔴 Webcam @ Middelkerke Zeedijk - Hotel Excelsior"
+      },
+      {
+        "id": "fPc6v5QFTcE",
+        "title": "🔴 Live Webcam @ Zeedijk - Knokke-Heist"
+      },
+      {
+        "id": "AZeifyx8GaA",
+        "title": "🔴 Live Webcam @ Hotel Helios C-Hotels - Blankenberge Belgium"
+      },
+      {
+        "id": "HQpfmh27VMs",
+        "title": "🔴 Live Webcam @ Beach Zeebrugge - Surfclub Icarus"
+      },
+      {
+        "id": "aZGlZaZK1m4",
+        "title": "🔴 Live Webcam @ Hotel Les Mouettes - Wenduine Belgium"
+      },
+      {
+        "id": "wEeJfBE8ecM",
+        "title": "🔴 Live Webcam @ Brasserie Leopold I - De Panne Belgium"
+      },
+      {
+        "id": "I09L5RCJkjo",
+        "title": "🔴 Live Webcam @ Hotel Andromeda C-Hotels - Oostende Belgium"
+      },
+      {
+        "id": "__akfUoCbxw",
+        "title": "🔴 Live Webcam @ River Woods Beach Club - Knokke"
+      },
+      {
+        "id": "YExjEi4p118",
+        "title": "🔴 Live Webcam @ Domein Aan De Plas - Brugge, Belgium"
+      },
+      {
+        "id": "ThVtj7egCKY",
+        "title": "🔴 Live Webcam @ Anemos Heist - Belgium"
+      },
+      {
+        "id": "mU08nJaIlIg",
+        "title": "🔴 Live Webcam @ Nieuwpoort Belgian Coast - Brasserie Casino"
+      },
+      {
+        "id": "Sx-oMVmNoPA",
+        "title": "🔴 Live Webcam @ Surfers Paradise Knokke Belgium"
+      }
+    ]
   },
   {
     "id": "UCmM8fJ5uDl8pqu8nnd8Ixlg",
     "handle": "@mooreequipmentltd.3428",
     "name": "Moore Equipment Ltd.",
-    "videos": [
-      {
-        "id": "nNcfuDt4Xbs",
-        "title": "LIVE Montreal Trudeau Airport CYUL 24/7 Webcam Runway 24R"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCmP2ra7DF80Yb1cy0HW3gxg",
@@ -15447,10 +15452,6 @@
     "name": "St. George Tower",
     "videos": [
       {
-        "id": "9Gq3PeZ8Bb0",
-        "title": "Live NYC Brooklyn Bridge & Manhattan cam"
-      },
-      {
         "id": "MKJnCn2C1MI",
         "title": "Live NYC Lower Manhattan & New York Harbor Cam"
       }
@@ -16263,10 +16264,6 @@
     "name": "Town of Apex",
     "videos": [
       {
-        "id": "GAI8cbVaC6E",
-        "title": "2026.03.17 Town Council Work Session - Economic Development"
-      },
-      {
         "id": "-MWn7E2O-_o",
         "title": "Town of Apex Downtown Camera"
       }
@@ -16298,7 +16295,12 @@
     "id": "UCqhDq_fKTSgc8LZCa2gGMEg",
     "handle": "@GavinBHeffernan",
     "name": "Gavin Heffernan Timelapse Travel ",
-    "videos": []
+    "videos": [
+      {
+        "id": "fDN1tfU_9Xk",
+        "title": "🌲 Yosemite Live Webcams | Half Dome, El Capitan,  High Sierra 🌄 Relaxing Nature Escape"
+      }
+    ]
   },
   {
     "id": "UCr5Z4Oi3UFwkM6sLPFDC6QA",
@@ -17073,12 +17075,7 @@
     "id": "UCtzYRypg21-R2suTVCetlbg",
     "handle": "@VivaTheKeys",
     "name": "Viva The Keys",
-    "videos": [
-      {
-        "id": "qi0mY6zVQnY",
-        "title": "Live Cam in The Lower Keys"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCu1Dd875bgWL61e6sJ7HMbg",
