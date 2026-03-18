@@ -166,16 +166,7 @@
     "id": "UC-I6QXW30NLYkW2GOMtHxew",
     "handle": "@TresoarBoterhoek1",
     "name": "Tresoar - museum, bibliotheek en archief Fryslân",
-    "videos": [
-      {
-        "id": "DPDyHlgJGnY",
-        "title": "Oldehoofsterkerkhof webcam"
-      },
-      {
-        "id": "SjY9wJXBQP8",
-        "title": "Oldehove webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
@@ -285,7 +276,12 @@
     "id": "UC-bEmTUibiby67vliNPscBA",
     "handle": "@FeelthenatureFi",
     "name": "Feel The Nature",
-    "videos": []
+    "videos": [
+      {
+        "id": "JWta8Urznhw",
+        "title": "Meanwhile in Nuuksio Forest - live - Nyt Nuuksiossa - with binaural sound 🎧"
+      }
+    ]
   },
   {
     "id": "UC-dGHuK8OcC_WIWvNzxysag",
@@ -1309,6 +1305,126 @@
         "title": "IMBITUBA SC AO VIVO | AV. MANOEL FLORENTINO MACHADO – FABRICIO AUTO CENTER | CONEXÃODCTV"
       },
       {
+        "id": "aY1vCIcr2oU",
+        "title": "ITAPEMA SC AO VIVO | ORLA – CANTO DA PRAIA – RESTAURANTE FRIGIDEIRAS | CONEXÃODCTV"
+      },
+      {
+        "id": "qMkIRMKqL-A",
+        "title": "ITAPEMA SC AO VIVO | PONTE DO SUSPIRO – CANTO DA PRAIA | CONEXÃODCTV"
+      },
+      {
+        "id": "IpZiXRp_v9U",
+        "title": "RESERVA NATURAL ALTO DOS MACACOS - BALNEÁRIO DE CACHOEIRAS - CAMBORIÚ - SC"
+      },
+      {
+        "id": "gtzbu88j_8Q",
+        "title": "ACESSO PISCINAS NATURAIS - RESERVA NATURAL ALTO DOS MACACOS COM AUDIO - CAMBORIÚ - SC"
+      },
+      {
+        "id": "VyYyzq6XUZQ",
+        "title": "CAMBORIÚ SC AO VIVO | PANORÂMICA CENTRAL – UNIFIQUE INTERNET FIBRA | CONEXÃODCTV"
+      },
+      {
+        "id": "huJUcnG8ns0",
+        "title": "CAMBORIÚ SC AO VIVO | PANORÂMICA SANTA REGINA – UNIFIQUE INTERNET FIBRA | CONEXÃODCTV"
+      },
+      {
+        "id": "3fPqRlwtSHM",
+        "title": "ITAJAÍ SC AO VIVO | PORTO DE ITAJAÍ – 2K – FASTSIGNAL | CONEXÃODCTV"
+      },
+      {
+        "id": "o3ITfgiQf7s",
+        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | ORLA – VISTA PANORÂMICA – PARQUE UNIPRAIAS | CONEXÃODCTV"
+      },
+      {
+        "id": "VbvbR2foE4s",
+        "title": "📡 CÂMERA AO VIVO | MIRANTE DA LAGOA DA CONCEIÇÃO - FLORIANÓPOLIS SC | PARCERIA INDAIÁ EVENTOS"
+      },
+      {
+        "id": "UqOW_HhGVUo",
+        "title": "CAMBORIÚ SC AO VIVO | TA NA CHAPA – AMBIENTE INTERNO (PALCO) – CÂMERAS 24H | CONEXÃODCTV"
+      },
+      {
+        "id": "JJq79YkcuQA",
+        "title": "CAMBORIÚ SC AO VIVO | TA NA CHAPA – AMBIENTE EXTERNO – CÂMERAS 24H | CONEXÃODCTV"
+      },
+      {
+        "id": "RF8-qVsKsD0",
+        "title": "ITAPEMA SC AO VIVO | BR-101 – PRF – BLUE SEA HOTEL | CONEXÃODCTV"
+      },
+      {
+        "id": "J3Ryjw2eawE",
+        "title": "ITAJAÍ SC AO VIVO | BR-101 – SENTIDO NORTE – BORRACHARIA 101 | CONEXÃODCTV"
+      },
+      {
+        "id": "mTPs9R5kT8w",
+        "title": "ITAPEMA SC AO VIVO | PRAÇA DA PAZ – BRASIN EMPREENDIMENTOS | CONEXÃODCTV"
+      },
+      {
+        "id": "yTel4ZppHIc",
+        "title": "CAMBORIÚ SC AO VIVO | PARQUE MUNICIPAL VISTA CEDROS – MAX.COM MODA FITNESS | CONEXÃODCTV"
+      },
+      {
+        "id": "ZlG7C7_A6R4",
+        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | VISTA PANORÂMICA – CRISTO LUZ – PETRUS HARMONIZAÇÃO | CONEXÃODCTV"
+      },
+      {
+        "id": "Y8wPSQUFDhI",
+        "title": "ITAJAÍ SC AO VIVO | PANORÂMICA PRAIA BRAVA – SÍTIO DOM PEPPE | CONEXÃODCTV"
+      },
+      {
+        "id": "OVLAbyUZOT8",
+        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | PRAIA CENTRAL / RODA GIGANTE | CONEXÃODCTV"
+      },
+      {
+        "id": "8A2hGSqrqas",
+        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | PASSARELA DA BARRA – PARQUE UNIPRAIAS | CONEXÃODCTV"
+      },
+      {
+        "id": "KnD2p-eGHOg",
+        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | RIO CAMBORIÚ – PONTE BC/CAMBORIÚ – VILA MARIA | CONEXÃODCTV"
+      },
+      {
+        "id": "zxvq_tT8sPU",
+        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | 5ª AVENIDA – VILA REAL | CONEXÃODCTV"
+      },
+      {
+        "id": "C3223eRyfZQ",
+        "title": "CORREIA PINTO SC AO VIVO | CENTRO – ATELIÊ LEYSE MOREIRA | CONEXÃODCTV"
+      },
+      {
+        "id": "ok6yOgF5QM4",
+        "title": "AO VIVO CÂMERAS EM TEMPO REAL – SÃO FRANCISCO DO SUL, ARAQUARI, BR-280 E REGIÃO INOVAR MONITORAMENTO"
+      },
+      {
+        "id": "DPX04x-cGvw",
+        "title": "ITAJAÍ SC AO VIVO | CANAL DO PORTO ITAJAÍ/NAVEGANTES – FASTSIGNAL | CONEXÃODCTV"
+      },
+      {
+        "id": "v-ydeJQzQnM",
+        "title": "NAVEGANTES AO VIVO - BR 470 - VOLTA GRANDE - FASTSIGNAL INTERNET - NAVEGA AO VIVO"
+      },
+      {
+        "id": "SIU3I4DyYM0",
+        "title": "ITAJAÍ SC AO VIVO | SC-486 – ITAIPAVA – FASTSIGNAL INTERNET | CONEXÃODCTV"
+      },
+      {
+        "id": "GPdVb0KTp_E",
+        "title": "ITAJAÍ SC AO VIVO | BAIRRO ITAIPAVA – KM 12 – FASTSIGNAL INTERNET | CONEXÃODCTV"
+      },
+      {
+        "id": "qi2z9VlDQJ8",
+        "title": "ITAJAÍ SC AO VIVO | BR-101 – SENTIDO SUL – BORRACHARIA 101 | CONEXÃODCTV"
+      },
+      {
+        "id": "c0VxcntfWhA",
+        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | AV. ATLÂNTICA – PRÓX. RUA 3700 | CONEXÃODCTV"
+      },
+      {
+        "id": "fee6XKJmAZU",
+        "title": "CAMBORIÚ SC AO VIVO | PARQUE MUNICIPAL – PARCERIA MAX.COM MODA FITNESS – CÂMERAS 24H | CONEXÃODCTV"
+      },
+      {
         "id": "xNNPI0ZwBbQ",
         "title": "📡 CÂMERA AO VIVO | CANTO DA LAGOA DA CONCEIÇÃO - FLORIANÓPOLIS SC | PARCERIA INDAIÁ EVENTOS"
       },
@@ -1706,6 +1822,14 @@
     "name": "Associated Press",
     "videos": [
       {
+        "id": "CI4uKzLpxfQ",
+        "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
+      },
+      {
+        "id": "ZIyTybQgcro",
+        "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
+      },
+      {
         "id": "Uiz6hMvHjUc",
         "title": "Jerome Powell LIVE: Fed Chair speaks after interest rate decision"
       },
@@ -1719,7 +1843,12 @@
     "id": "UC5Dy3WsfZw5AQxnamT0d0ow",
     "handle": "@BungalowsChryssa",
     "name": "Bungalows Chryssa",
-    "videos": []
+    "videos": [
+      {
+        "id": "0Jbpvr1Mp-w",
+        "title": "Liopessi and St. Peter's Beach Live View"
+      }
+    ]
   },
   {
     "id": "UC5FiBoG6GcB5QqsiOsGe22A",
@@ -2675,7 +2804,12 @@
     "id": "UC7WAqB7dyv1t8jKunD-8krA",
     "handle": "@L.A.FLIGHTS",
     "name": "L.A FLIGHTS",
-    "videos": []
+    "videos": [
+      {
+        "id": "ezsduXzZwWY",
+        "title": "🔴LIVE SFO! SAN FRANCISCO AIRPORT PLANE SPOTTING | March 18, 2026"
+      }
+    ]
   },
   {
     "id": "UC7Z6yfD0LKxSftKxOLrbPeQ",
@@ -3840,22 +3974,6 @@
       {
         "id": "sS4GzzSOY8Q",
         "title": "Pelican Beach Resort Destin, FL"
-      },
-      {
-        "id": "r4mXdVQuP6E",
-        "title": "Seascape Events Plaza"
-      },
-      {
-        "id": "2EfuPXRXLLk",
-        "title": "Seascape Town Center, Events Plaza at Mezcal"
-      },
-      {
-        "id": "TyX02EtQcYI",
-        "title": "Whales Tail Webcam Seascape FL"
-      },
-      {
-        "id": "CVgBM39TOh8",
-        "title": "Leeward Key Webcam Miramar Beach, FL"
       }
     ]
   },
@@ -5066,8 +5184,8 @@
     "name": "Khao Lak Land Discovery",
     "videos": [
       {
-        "id": "UiK16FttnLg",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 19-Mar-2026 00:04"
+        "id": "BYcfAXCqpHs",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 19-Mar-2026 02:33"
       }
     ]
   },
@@ -6168,10 +6286,6 @@
         "title": "LIVE Planespotting Madeira Airport by Cassiano's Snack Bar | Madeira-Web"
       },
       {
-        "id": "HSz0Mu6_S20",
-        "title": "LIVE: Sunset Terrace Bar Centromar Webcam Praia Formosa Funchal | Madeira-Web"
-      },
-      {
         "id": "ZRwm4-REmSY",
         "title": "LIVE: Cruz da Caldeira HD Webcam, Câmara de Lobos | Madeira-Web"
       },
@@ -6295,7 +6409,12 @@
     "id": "UCIY3JMAcniBR8ngBw6OYvTA",
     "handle": "@Niagarafallslive",
     "name": "Old Fort Niagara",
-    "videos": []
+    "videos": [
+      {
+        "id": "J032Ui8Papc",
+        "title": "Fort Niagara Webcam"
+      }
+    ]
   },
   {
     "id": "UCIeAa1ORzuGMaaBNcuLgAvw",
@@ -6313,10 +6432,6 @@
     "handle": "@leavenworthcountykansas9566",
     "name": "Leavenworth County Kansas",
     "videos": [
-      {
-        "id": "DxiPVFOLBVM",
-        "title": "LV COUNTY KS 2026-03-18"
-      },
       {
         "id": "wdl24JBMMis",
         "title": "Leavenworth County Kansas Live View"
@@ -9423,7 +9538,12 @@
     "id": "UCTTbcfIcioz1eGwlLIYmDIg",
     "handle": "@KKimoto001",
     "name": "kimopy (kimopy)",
-    "videos": []
+    "videos": [
+      {
+        "id": "hVGdqZAd1xA",
+        "title": "【Live Stream】久里浜遠望カメラ　神奈川県横須賀市 The sky of Yokosuka, Japan"
+      }
+    ]
   },
   {
     "id": "UCTkxSTO0A1d5_6_Nc4sVYtg",
@@ -9678,32 +9798,7 @@
     "id": "UCVPOzZcFIe5-2xy3J1bdHEQ",
     "handle": "@royalresorts7000",
     "name": "Royal Resorts",
-    "videos": [
-      {
-        "id": "YQll66UkkBY",
-        "title": "The Royal Haciendas Phase 2 Live Webcam"
-      },
-      {
-        "id": "fQJRrJkDKo8",
-        "title": "Grand Residences Riviera Cancun Live Webcam"
-      },
-      {
-        "id": "r_mablBOcz0",
-        "title": "The Royal Haciendas Phase 1 Live Webcam"
-      },
-      {
-        "id": "5D8BK_MLd-I",
-        "title": "The Royal Cancun Live Webcam"
-      },
-      {
-        "id": "fv0Qlo_IofY",
-        "title": "The Royal Sands Phase 2 Live Webcam"
-      },
-      {
-        "id": "tlRVK1opGXo",
-        "title": "The Royal Sands Phase 1 Live Webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCVR1W8BAC5bUrsvi0IdqDPg",
@@ -9993,7 +10088,7 @@
     "name": "Viviendas Vacacionales Canteras Vista Playa",
     "videos": [
       {
-        "id": "OTodo6qdL98",
+        "id": "wei_iEV17F4",
         "title": "Viviendas vacacionales Canteras Vista Playa"
       }
     ]
@@ -10105,7 +10200,12 @@
     "id": "UCXtGlMSjKYfGoPggHcAZYbQ",
     "handle": "@ScottishWildlifeTrustvideos",
     "name": "Scottish Wildlife Trust",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZFp_yx59psE",
+        "title": "Live osprey nest camera at Loch of the Lowes Wildlife Reserve"
+      }
+    ]
   },
   {
     "id": "UCXtzCdsTkuBWIrOSuMNvANQ",
@@ -10246,12 +10346,7 @@
     "id": "UCYIDC8uaWwWoYTgrSWP-_GA",
     "handle": "@SatelliteBeachLive",
     "name": "SatelliteBeachLive",
-    "videos": [
-      {
-        "id": "0bv7YxPWRdw",
-        "title": "🔴 LIVE Florida Cams | Satellite Beach Grand Canal  #satellitebeach #livestream  #florida"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCYIYTY6_2jB145WxIYdyR1A",
@@ -11154,7 +11249,96 @@
     "id": "UCbn5eHDjwmPC2K9RG8P0i_A",
     "handle": "@kusatsumachi",
     "name": "草津町公式YouTubeチャンネル",
-    "videos": []
+    "videos": [
+      {
+        "id": "WB4jllqVRCc",
+        "title": "「LIVECAMERA」国道292号 草津前口"
+      },
+      {
+        "id": "OZqaznSUQ8o",
+        "title": "「LIVECAMERA 」西の河原露天風呂入り口"
+      },
+      {
+        "id": "eX7vAL4Jtfk",
+        "title": "「LIVECAMERA」草津温泉スキー場　天狗山山麓エリア"
+      },
+      {
+        "id": "J3zIOmIrSzM",
+        "title": "「LIVECAMERA」草津運動茶屋公園 道の駅"
+      },
+      {
+        "id": "rHuoK_TWOnA",
+        "title": "「LIVECAMERA」国道292号 草津温泉入口"
+      },
+      {
+        "id": "hN8mxz3-1pg",
+        "title": "「LIVE CAMERA」草津温泉スキー場　天狗山山頂エリア"
+      },
+      {
+        "id": "ybOa_LRzp_I",
+        "title": "「LIVECAMERA」裏草津地蔵 源泉広場"
+      },
+      {
+        "id": "h-OR7t33mPo",
+        "title": "[LIVE CAMERA]交通状況&駐車場状況"
+      },
+      {
+        "id": "ZFhzy9-sy3U",
+        "title": "「LIVECAMERA 」草津温泉・温泉門観光バス専用駐車場"
+      },
+      {
+        "id": "gL7YgPM0Jvk",
+        "title": "「LIVECAMERA 」草津温泉・白根山ライブカメラ（固定式）"
+      },
+      {
+        "id": "yMm2Q3zLXKI",
+        "title": "「LIVECAMERA 」草津温泉・白根山ライブカメラ（移動式）"
+      },
+      {
+        "id": "_Z1UzjJ6o2E",
+        "title": "「LIVECAMERA」草津温泉・本白根山ライブカメラ（移動式）"
+      },
+      {
+        "id": "qdws9fzE4Cs",
+        "title": "「LIVE CAMERA」草津温泉バスターミナル"
+      },
+      {
+        "id": "0ACRdNv3D9w",
+        "title": "「LIVECAMERA」裏草津地蔵 漫画堂 カフェ月の貌"
+      },
+      {
+        "id": "Xr781EeLdqs",
+        "title": "「LIVE CAMERA」草津温泉・温泉門"
+      },
+      {
+        "id": "VnRb8aFDK2M",
+        "title": "「LIVECAMERA」天狗山 第一駐車場"
+      },
+      {
+        "id": "UdOAbyzxKto",
+        "title": "「LIVECAMERA 」草津温泉・西の河原公園駐車場"
+      },
+      {
+        "id": "B_Sc1v1qR-g",
+        "title": "「LIVECAMERA」草津温泉「湯畑」（移動式ライブカメラ）"
+      },
+      {
+        "id": "VZ7UthXFfTw",
+        "title": "「LIVECAMERA 」草津温泉・本白根山ライブカメラ（固定式）"
+      },
+      {
+        "id": "_1PfF1v9GJc",
+        "title": "「LIVECAMERA 」草津温泉・温泉門無料駐車場"
+      },
+      {
+        "id": "GrEEoEmmrKs",
+        "title": "「LIVECAMERA」　草津温泉「湯畑」湯滝前"
+      },
+      {
+        "id": "RT_yg_qsK_M",
+        "title": "「LIVECAMERA」草津温泉 西の河原・湯川LIVE"
+      }
+    ]
   },
   {
     "id": "UCc45_PGazFuEQHoSsaQdwCQ",
@@ -11494,28 +11678,7 @@
     "id": "UCdmPhiIJ-s7MJG2WtM7nbUw",
     "handle": "@BrownvillesFoodPantryForDeer",
     "name": "Brownville&#39;s Food Pantry For Deer",
-    "videos": [
-      {
-        "id": "Nw4HLGxuQ8s",
-        "title": "Brownville's Food Pantry For Deer \"Pond View\""
-      },
-      {
-        "id": "LbcUTGNOMd8",
-        "title": "Brownville's Food Pantry For Deer \"Trail View\""
-      },
-      {
-        "id": "XYdZPXiQMXs",
-        "title": "Brownville's Food Pantry For Deer \"Richard's PTZ\""
-      },
-      {
-        "id": "XwLug9jR7lA",
-        "title": "Brownville's Food Pantry For Deer \"Trough View\""
-      },
-      {
-        "id": "47dcM4M16Ic",
-        "title": "Ryan's Bird Buffet at Brownville's Food Pantry For Deer"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCdmrMySXycO_2dIiZnQ1k-g",
@@ -11532,12 +11695,7 @@
     "id": "UCdr9cCd_WQPlLCAUjNaoACg",
     "handle": "@LVsphere",
     "name": "LV Strip Cam",
-    "videos": [
-      {
-        "id": "-6q-aEQB14E",
-        "title": "LIVE: Las Vegas Strip Live | Real-Time View Las Vegas Strip"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCdz7UmkCvw3GlZTxHRR6Pyw",
@@ -14440,48 +14598,7 @@
     "id": "UCn7285bO_vEziJ9brPtkFMA",
     "handle": "@wcax-tvchannel3news",
     "name": "WCAX-TV Channel 3 News",
-    "videos": [
-      {
-        "id": "JcjXzM_WAe4",
-        "title": "WCAX Sky Watch 3: Champlain Valley Fairgrounds"
-      },
-      {
-        "id": "55JpgptjSkw",
-        "title": "WCAX SkyWatch3: Mount Mansfield, VT"
-      },
-      {
-        "id": "0fJeJeIoaTM",
-        "title": "WCAX SkyWatch3: Rutland, VT"
-      },
-      {
-        "id": "GWMEipj_Rr0",
-        "title": "WCAX Skywatch 3: Lyndon Institute in Lyndon, VT"
-      },
-      {
-        "id": "3NZYi-BCCDY",
-        "title": "WCAX SkyWatch3: BTV Airport South"
-      },
-      {
-        "id": "c6N5C6Ifxys",
-        "title": "WCAX Skywatch 3: Goodrich Memorial Library, Newport, VT"
-      },
-      {
-        "id": "e7ff5Yvt5Jk",
-        "title": "WCAX SkyWatch3: WCAX Studio, South Burlington, VT"
-      },
-      {
-        "id": "JIE0vE51OKU",
-        "title": "WCAX Sky Watch 3 Camera: ECHO Center for Lake Champlain"
-      },
-      {
-        "id": "Jv2qVHojYqY",
-        "title": "WCAX SkyWatch3: G. Stone Motors, Middlebury, VT"
-      },
-      {
-        "id": "T8_7hmOsIJI",
-        "title": "WCAX SkyWatch3: Homeport, Church St., Burlington, VT"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCnB-Fhp5FQfCZNfdAvm27Qw",
@@ -16801,7 +16918,12 @@
     "id": "UCtZdd8-WlpOVxDaWbbeTmZQ",
     "handle": "@BatsiLiveStreaming",
     "name": "Batsi Live Streaming",
-    "videos": []
+    "videos": [
+      {
+        "id": "yL-zfzX6qd8",
+        "title": "Port of Batsi Live Stream"
+      }
+    ]
   },
   {
     "id": "UCtllXAWa3EcfcsL5tvpqGSw",
@@ -17054,7 +17176,12 @@
     "id": "UCuUN9emeGbnhV-UrrSEQ8mA",
     "handle": "@AccessLaPorteCountyMedia",
     "name": "Access LaPorte County Media",
-    "videos": []
+    "videos": [
+      {
+        "id": "Y2VkN45kj_0",
+        "title": "Access LaPorte County BeachCam"
+      }
+    ]
   },
   {
     "id": "UCuY1i-Tic2G2xmox2_0h-Fw",
