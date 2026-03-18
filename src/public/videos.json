@@ -1194,6 +1194,26 @@
     "name": "ConexãoDCTV - Balneário Camboriú Ao Vivo",
     "videos": [
       {
+        "id": "xdYIs_I2mF0",
+        "title": "ITAJAÍ SC AO VIVO | QUIOSQUE ESTRELA DO MAR – PRAIA BRAVA | CONEXÃODCTV"
+      },
+      {
+        "id": "MLv8Avp7Hv4",
+        "title": "ITAJAÍ SC AO VIVO | AV. JOSÉ MEDEIROS VIEIRA – PRAIA BRAVA – ESTRELA DO MAR | CONEXÃODCTV"
+      },
+      {
+        "id": "OU798IQCO50",
+        "title": "GOV. CELSO RAMOS SC AO VIVO | PRAIA DE PALMAS – QUIOSQUE DA JÚ | CONEXÃODCTV"
+      },
+      {
+        "id": "rRf3hVFZBhY",
+        "title": "CORREIA PINTO SC AO VIVO | BR-116 – UNIFIQUE INTERNET | CONEXÃODCTV"
+      },
+      {
+        "id": "W50zoSXZBi4",
+        "title": "CABO FRIO AO VIVO 24H 🇧🇷 | TOUR PELAS CÂMERAS DA CIDADE DE CABO FRIO | PARCERIA NOVA COSTA TELECOM"
+      },
+      {
         "id": "zKGH4eav60M",
         "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | AV. DO ESTADO – CACAU SHOW | CONEXÃODCTV"
       },
@@ -4862,7 +4882,16 @@
     "id": "UCBekjy3cWsLpEjibeFYecLQ",
     "handle": "@紅樹林有線電視-h7k",
     "name": "紅樹林有線電視",
-    "videos": []
+    "videos": [
+      {
+        "id": "9rcEL_yWMk4",
+        "title": "新北市淡水區景點(即時影像) 淡水渡船頭 直播 #淡水河 #夕陽 #觀音山 #台北港 #淡水老街河岸 #淡水渡し船乗り場  Du Chuan Tou, Tamsui"
+      },
+      {
+        "id": "yn_8QwCWsyI",
+        "title": "新北市淡水區 #即時路況 車流直播---#淡水竹圍雙向 #紅樹林往台北 #水源街二段與淡金路口"
+      }
+    ]
   },
   {
     "id": "UCBjzM0ZW12Z8bggEORo8oBQ",
@@ -5130,6 +5159,10 @@
     "name": "City of Bettendorf, Iowa",
     "videos": [
       {
+        "id": "nzXfw8KNSXw",
+        "title": "March 18, 2026 Planning and Zoning Commission Meeting"
+      },
+      {
         "id": "8Rp5JRSQOvk",
         "title": "Bettendorf View of the I-74 Mississippi River Bridge"
       },
@@ -5312,10 +5345,6 @@
     "handle": "@LocoMediaGroep",
     "name": "Loco Media Groep",
     "videos": [
-      {
-        "id": "_rh95VZX9Eo",
-        "title": "Oldebroek Kiest | De uitslagenavond"
-      },
       {
         "id": "JkKEupWWhdM",
         "title": "LocoMediaGroep.nl | Webcam Haven Elburg"
@@ -12777,14 +12806,6 @@
     "handle": "@cgtn",
     "name": "CGTN",
     "videos": [
-      {
-        "id": "8Dva7JrsDYs",
-        "title": "The United Nations Security Council meets to discuss the situation in the Middle East."
-      },
-      {
-        "id": "Z7aB83mXfck",
-        "title": "Trump homeland nominee testifies in Senate confirmation hearing"
-      },
       {
         "id": "2x8meS9VnNA",
         "title": "Live of Beirut skyline."
