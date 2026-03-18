@@ -301,22 +301,13 @@
     "id": "UC-dGHuK8OcC_WIWvNzxysag",
     "handle": "@LiveCamNatal",
     "name": "WebcamNatal",
-    "videos": [
-      {
-        "id": "AN3MIroAVuU",
-        "title": "PRAIA DE PONTA NEGRA AO VIVO! NATAL-RN / BRASIL - LIVE CAM NATAL"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-jBJkLN89AlQp6eeCNnnWg",
     "handle": "@RyukyushimpoJp",
     "name": "琉球新報",
     "videos": [
-      {
-        "id": "XO3Ip031sCQ",
-        "title": "【2026年3月18日(水)】琉球新報社から生配信！ニュースペーBar 泉崎コメディクラブ"
-      },
       {
         "id": "nU41kpfKLJM",
         "title": "【LIVE】きょうの沖縄・那覇市役所前交差点ライブカメラ【琉球新報社から】"
@@ -644,16 +635,7 @@
     "id": "UC13OHbp8jtFgUgRD2YASQ8g",
     "handle": "@Tahug",
     "name": "Tahug",
-    "videos": [
-      {
-        "id": "4v5ws9XOQHY",
-        "title": "🔴LIVE: Mahatun Plaza Ploenchit"
-      },
-      {
-        "id": "a_bUVExv_Cg",
-        "title": "🔴LIVE: Petchaburi Road, Bangkok"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC15QFO-cdISk-4Sn5CPd78g",
@@ -760,6 +742,10 @@
     "name": "Char Dham Yatra Live",
     "videos": [
       {
+        "id": "PJ-29Q_DT2w",
+        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
+      },
+      {
         "id": "phJ3zBITr0Y",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
@@ -769,10 +755,6 @@
       },
       {
         "id": "PV2ck61VIS0",
-        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
-      },
-      {
-        "id": "ybcYr_ExhpM",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
       {
@@ -1851,10 +1833,6 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "l-cuf1D3-JU",
-        "title": "LIVE: UN maritime body meets on Iran war shipping risks"
-      },
-      {
         "id": "Cc0I5wgG-YY",
         "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
       },
@@ -2355,12 +2333,12 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "yQBPLoq2UPI",
-        "title": "【LIVE】夜のニュース（Japan News Digest Live）最新情報など（3月18日）｜TBS NEWS DIG"
+        "id": "evjOmfHV3fY",
+        "title": "【イラン情勢まとめ】トランプ氏「支援は必要ない」不満あらわ/政権幹部辞任で“攻撃の根拠”疑問視する声/高市総理「できないことはできないと」/約80兆円の対米投資も議論か/モジタバ師 停戦拒否　など"
       },
       {
-        "id": "9ILlmZpJkhI",
-        "title": "【イラン情勢最新まとめ】トランプ氏 日本などの支援\"もはや必要ない\" ホルムズ海峡への艦船派遣めぐり / “アメリカとイスラエルが屈服まで和平なし”イラン･モジタバ師 停戦拒否し強硬姿勢 など"
+        "id": "yQBPLoq2UPI",
+        "title": "【LIVE】夜のニュース（Japan News Digest Live）最新情報など（3月18日）｜TBS NEWS DIG"
       },
       {
         "id": "8PG-4pYVfy8",
@@ -4182,12 +4160,7 @@
     "id": "UCAphsmhYyvZDI7s67XM5l0A",
     "handle": "@RioWorldLiveCam",
     "name": "Rio World Live Cam",
-    "videos": [
-      {
-        "id": "FP3SYvc_dl8",
-        "title": "Acompanhe Copacabana Ao Vivo 17/03"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCArs3YQib0gUuv5SVrjjtCQ",
@@ -5214,8 +5187,8 @@
     "name": "Khao Lak Land Discovery",
     "videos": [
       {
-        "id": "OjLB89rwpVE",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 18-Mar-2026 08:49"
+        "id": "21vDQHWWXVE",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 18-Mar-2026 18:15"
       }
     ]
   },
@@ -5664,8 +5637,8 @@
     "name": "MRO北陸放送公式チャンネル",
     "videos": [
       {
-        "id": "zA2UtMISx_Y",
-        "title": "【3月17日 石川県内ニュースまとめ】被災地復興ボランティアの現状／原油高 トマト農家にも打撃／地価公示 金沢市で15％上昇／白山市の地滑りで要望／花粉対策グッズのトレンド／災害救助犬の審査会…など"
+        "id": "JL9r3FculVo",
+        "title": "【3月18日 石川県内ニュースまとめ】統合で閉校の門前東・西小 最後の卒業式／ガソリン191円で過去最高値／PFAS問題 2市12井戸で指針値超／喜びの春 公立高校で合格発表／リハ栄養の今に迫る…など"
       },
       {
         "id": "CgmxirNHFgI",
@@ -7498,24 +7471,7 @@
     "id": "UCLaxio5CTbT1gl5i8FB2-yw",
     "handle": "@TableMountainLiveStream",
     "name": "Table Mountain Live Stream",
-    "videos": [
-      {
-        "id": "ZfiGeTowMWU",
-        "title": "Brass Bell Surf Cam | Kalk Bay Live Stream South Africa | 24/7 Ocean & Surf Camera"
-      },
-      {
-        "id": "jOqASqt3vVI",
-        "title": "Table Mountain Live Stream | Cape Town Webcam | South Africa"
-      },
-      {
-        "id": "YfwTcW1IkN4",
-        "title": "LIVE Table Mountain & Bloubergstrand Beach Camera | 24/7 Cape Town South Africa Live Stream"
-      },
-      {
-        "id": "Hhc6vesmrNk",
-        "title": "LIVE Langebaan Lagoon Camera | Pearly’s Restaurant | 24/7 South Africa Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCLdB_nQzuawWis5zdOCtx6Q",
@@ -7593,7 +7549,12 @@
     "id": "UCLwUcA69lv5tns6ct-ipiHA",
     "handle": "@BoathouseatNorthLanding",
     "name": "Boathouse at North Landing ",
-    "videos": []
+    "videos": [
+      {
+        "id": "mT1NbEJExvc",
+        "title": "North Landing Weather Cam"
+      }
+    ]
   },
   {
     "id": "UCM0qV6ZHBkjxBokQepECyFg",
@@ -8672,12 +8633,7 @@
     "id": "UCQsD9rKnDZ7Fik7D22bI0gw",
     "handle": "@cityoffairhope",
     "name": "City of Fairhope",
-    "videos": [
-      {
-        "id": "N5wWOVOTHmQ",
-        "title": "Fairhope Piercam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCR2CLso5tZOHwkFDXPuuKHw",
@@ -9307,7 +9263,12 @@
     "id": "UCSFrrg7k1zpt5JvQ96KjRqg",
     "handle": "@SnooksBaysideKeyLargo",
     "name": "Snook&#39;s Bayside Restaurant &amp; Grand Tiki",
-    "videos": []
+    "videos": [
+      {
+        "id": "tIYUOWF1N4s",
+        "title": "🔴 LIVE Snook's Bayside Key Largo Florida"
+      }
+    ]
   },
   {
     "id": "UCSGpRUfc4CaBpZlaXA6tr0w",
@@ -9701,6 +9662,10 @@
     "name": "Vacation Myrtle Beach",
     "videos": [
       {
+        "id": "uyd5gTs2C0E",
+        "title": "Myrtle Beach Sunrise 03/18/2026"
+      },
+      {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
       },
@@ -9734,10 +9699,6 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
-      {
-        "id": "qfD9QEXh4GA",
-        "title": "LIVE at the waterhole - 18 March 2026"
-      },
       {
         "id": "OwjHV9Lby3w",
         "title": "Jaci’s Dam Cam"
@@ -10049,12 +10010,7 @@
     "id": "UCWtwhsqQXogkkQEFBrFwwRA",
     "handle": "@coveleland",
     "name": "The Cove",
-    "videos": [
-      {
-        "id": "s7sY1waeOf4",
-        "title": "The Cove Leland Fishtown Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCWy8xdFQ0O0U3kQiotfMwGA",
@@ -10622,36 +10578,7 @@
     "id": "UC_B1lpgj2DH_wO8T1jJnSYA",
     "handle": "@FOX10.News.",
     "name": "FOX10 News",
-    "videos": [
-      {
-        "id": "QkBL9SJI8iM",
-        "title": "🔴 LIVE CAM: Bankhead Tunnel in Downtown Mobile, AL"
-      },
-      {
-        "id": "mNlMCr5eeXs",
-        "title": "🔴 LIVE CAM: Downtown Mobile, AL from Dauphin's Resturant"
-      },
-      {
-        "id": "5Ijk8QsR-nw",
-        "title": "🔴 LIVE CAM: Orange Beach, Alabama and the Gulf"
-      },
-      {
-        "id": "rjASdnpfONo",
-        "title": "🔴 LIVE CAM: Downtown Mobile, AL from The Admiral Hotel"
-      },
-      {
-        "id": "jSfjVpXcoGI",
-        "title": "🔴 LIVE CAM: Mobile Bay Delta from Daphne, Alabama"
-      },
-      {
-        "id": "iQPgyQYfVjQ",
-        "title": "🔴 LIVE CAM: USS Alabama Battleship in Mobile, AL"
-      },
-      {
-        "id": "fYsEy6RFskY",
-        "title": "🔴 LIVE CAM: D'Iberville, Mississippi from Scarlet Pearl Casino Resort"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC_FuR9GFVJE2A8H02sQmHWw",
@@ -10814,10 +10741,6 @@
         "title": "Banyan Food Market 🔴 Koh Samui | Thailand | Live Street cam"
       },
       {
-        "id": "1ieoJnt8grw",
-        "title": "Annie Sweetery & Eatery | Thong Krut | Koh Samui | Thailand"
-      },
-      {
         "id": "1sJ5KR7n85E",
         "title": "The Deck Beach Club 🔴 Bang Rak beach - Koh Samui Live cam"
       },
@@ -10864,7 +10787,12 @@
     "id": "UC_uoRuoMCFudYHHg9SlWbQw",
     "handle": "@ATCCommunications",
     "name": "ATCCommunications",
-    "videos": []
+    "videos": [
+      {
+        "id": "uM-oftYVFGA",
+        "title": "Pomerelle Mountain Ski Resort Webcam - Hosted by ATC Communications Fiber Internet"
+      }
+    ]
   },
   {
     "id": "UCa1XvGj-yhiLLC5fVFKfXJQ",
@@ -11104,14 +11032,6 @@
       {
         "id": "aVtfxKrnB54",
         "title": "Punat Live - Turistička Zajednica"
-      },
-      {
-        "id": "7Cd78BsM0Ag",
-        "title": "Malinska Live - Turistička Zajednica CAM1"
-      },
-      {
-        "id": "h-GisAR35u0",
-        "title": "Malinska Live - Turistička Zajednica CAM2"
       },
       {
         "id": "cdiM3fbLl8I",
@@ -11398,7 +11318,12 @@
     "id": "UCcDDEzMRly4_FRH3LxOpDNQ",
     "handle": "@cityofreno-cityplazacamera9918",
     "name": "City of Reno - City Plaza Camera",
-    "videos": []
+    "videos": [
+      {
+        "id": "Aea4taIIVPE",
+        "title": "Live City Plaza Camera"
+      }
+    ]
   },
   {
     "id": "UCcGI_kXwKl_QhyW9jK_8gIA",
@@ -11578,14 +11503,6 @@
         "title": "MEDview: Växjö Golfklubb"
       },
       {
-        "id": "xBuVIWTVX9E",
-        "title": "MEDview: Läjets Camping - La Terraza"
-      },
-      {
-        "id": "45Rys96Sj5M",
-        "title": "MEDview: Läjets Camping - Reception"
-      },
-      {
         "id": "IEDF51akADs",
         "title": "MEDview: Brunnsparken, Varberg"
       },
@@ -11672,7 +11589,12 @@
     "id": "UCdLE2nyW8fg3hh9Pogq824g",
     "handle": "@businesscontrol",
     "name": "Business Control MONITORING",
-    "videos": []
+    "videos": [
+      {
+        "id": "_kHvP0UoI9c",
+        "title": "Ruda Śląska ONLINE"
+      }
+    ]
   },
   {
     "id": "UCdV_1HeYSkwgNM-L4eIQ7AA",
@@ -11727,12 +11649,7 @@
     "id": "UCdmrMySXycO_2dIiZnQ1k-g",
     "handle": "@kjdbum7967",
     "name": "KJD BUM",
-    "videos": [
-      {
-        "id": "VKU0P9Um7uY",
-        "title": "KJD BUM ŽUSTERNA LIVE 24/7 WEBCAM"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCdr9cCd_WQPlLCAUjNaoACg",
@@ -12508,24 +12425,7 @@
     "id": "UCgGmACGEil_QEVQOKOBPJrg",
     "handle": "@SquirrelNestLive",
     "name": "SquirrelNest Live",
-    "videos": [
-      {
-        "id": "rgEPloqINUc",
-        "title": "🔴24/7 Squirrel Wonderland Live - SqNest.Live-5of6 🇺🇸🎗🇺🇦"
-      },
-      {
-        "id": "3zwdM2_6IUY",
-        "title": "🔴24/7 baby squirrels born Feb 15, 2026 to Lily in Nest1 / Nest9 babies born Feb 16 SqNest.Live-6of6"
-      },
-      {
-        "id": "cA480uosylk",
-        "title": "🔴24/7 Nest 5: 3 babies born Feb 16, 2026, Nest 2: 4 youngsters born in 2025 SqNest.Live-1of6: 🇺🇸🎗🇺🇦"
-      },
-      {
-        "id": "AuW3FZZWz-E",
-        "title": "🔴Nest 3 🌹 baby squirrels born February 15, 2026 SqNest.Live-24/7 3of7🇺🇸🎗🇺🇦"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgHSWWpejV6K7hz6Q08fJpQ",
@@ -12832,7 +12732,12 @@
     "id": "UChDKyKQ59fYz3JO2fl0Z6sg",
     "handle": "@TODAY",
     "name": "TODAY",
-    "videos": []
+    "videos": [
+      {
+        "id": "YS5YKZpH-F0",
+        "title": "Watch celebrity interviews, entertaining tips and TODAY Show exclusives | TODAY All Day - March 18"
+      }
+    ]
   },
   {
     "id": "UChFbxcSq9iCfdbu-twIfGuw",
@@ -13316,6 +13221,10 @@
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
     "videos": [
+      {
+        "id": "W7m82v3ZVvo",
+        "title": "Live from Kabul for a funeral of those killed following a strike on a hospital Tuesday"
+      },
       {
         "id": "2GDWDHrky6I",
         "title": "WATCH LIVE: View of Beirut skyline"
@@ -14296,7 +14205,12 @@
     "id": "UCm9zLeJlfz7jRT_6vff70_w",
     "handle": "@AirportAction",
     "name": "Airport Action",
-    "videos": []
+    "videos": [
+      {
+        "id": "dC2DUuHmExQ",
+        "title": "Birmingham Airport Live ✈️ BHX R15 Ops 18.03.26"
+      }
+    ]
   },
   {
     "id": "UCmEC5XS9Ol-6jqBaKpzqehQ",
@@ -15678,7 +15592,7 @@
     "videos": [
       {
         "id": "o78gCsXX3mo",
-        "title": "Live Coverage of U.S. Spacewalk 94 - Multi-Camera Views & ISS Tracker (Mar 18, 2026)"
+        "title": "LIVE | U.S. Spacewalk 94 - Multi-Camera Views & ISS Tracker (Mar 18, 2026) from NASA"
       },
       {
         "id": "AS_tTDLPgns",
@@ -16154,6 +16068,110 @@
       {
         "id": "fMiU3FyyRRE",
         "title": "🔴[LIVE CCTV]  PEREMPATAN TERMINAL DEMAK [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "5nw3G2jtWaU",
+        "title": "🔴[LIVE CCTV] PERTIGAAN JEMBATAN KRACAAN DEMAK [00] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "7c4CsGkmBu8",
+        "title": "🔴[LIVE CCTV] JL. DEMAK - KUDUS PASAR KARANGANYAR [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "Uj2odXw3eZM",
+        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. PANTURA JEBOR DEMAK [03] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "29LdiJuD3NU",
+        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT PERSIMPANGAN TRENGGULI DEMAK [03] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "9za_0iJt81s",
+        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT PERSIMPANGAN TRENGGULI DEMAK [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "AZdFpz_ST_k",
+        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT PERSIMPANGAN TRENGGULI DEMAK [00] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "Rh8duQUsR1Y",
+        "title": "🔴[LIVE CCTV] EXIT TOL JL. LINGKAR DEMAK [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "WnfAwUH1m6g",
+        "title": "🔴[LIVE CCTV]  ALUN - ALUN DEMAK [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "Tmn6cpvyAoc",
+        "title": "🔴[LIVE CCTV] PERTIGAAN JEMBATAN KRACAAN DEMAK [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "aboCZ7gkclk",
+        "title": "🔴[LIVE CCTV]  ALUN - ALUN DEMAK [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "LcCa-Uk_nAc",
+        "title": "🔴[LIVE CCTV]  PERBATASAN MIJEN DEMAK - WELAHAN JEPARA [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "1NcjULBBjRA",
+        "title": "🔴[LIVE CCTV] JL. PENGAPON DEMAK - DEMPET [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "2_fsxZ8q5Ys",
+        "title": "🔴[LIVE CCTV] JL. DEMAK - KUDUS PASAR KARANGANYAR [PTZ] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "lqqJ9xURi8w",
+        "title": "🔴[LIVE CCTV] PEREMPATAN PASAR KARANGAWEN [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "EN5ofP4ToJE",
+        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. PANTURA JEBOR DEMAK [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "qfOXNxnPGE0",
+        "title": "🔴[LIVE CCTV] JL. PANTURA DEPAN PASAR BUYARAN DEMAK [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "-wkGZkefT1M",
+        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. SULTAN FATAH (SMP N 1) DEMAK [00] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "4JEkF3qN2jY",
+        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. SULTAN FATAH BOGORAME DEMAK [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "1v3p94yVVIs",
+        "title": "🔴[LIVE CCTV]  GAPURA PARKIR TEMBIRING DEMAK [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "_vb1ukf_pVY",
+        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. SULTAN FATAH (SMP N 1) DEMAK [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "UtD-Ve_oaPA",
+        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. SULTAN FATAH (SMP N 1) DEMAK [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "IojQ4gZB4rw",
+        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. PANTURA JEBOR DEMAK [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "8ZaS9q767p0",
+        "title": "🔴[LIVE CCTV]  PERBATASAN MIJEN DEMAK - WELAHAN JEPARA [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "1zpmNaOOBJw",
+        "title": "🔴[LIVE CCTV]  JL. PENGAPON DEMAK - DEMPET [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "vcUdVJfyvF8",
+        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. LINGKAR BOTOREJO DEMAK [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "Rm-UJ5BXomw",
+        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. SULTAN FATAH (SMP N 1) DEMAK [03] by DISHUB KAB. DEMAK"
       }
     ]
   },
@@ -17103,7 +17121,12 @@
     "id": "UCuSeVCzI21lPeKnIzZehFPQ",
     "handle": "@SantuárioNacionaldeAparecida",
     "name": "Santuário Nacional de Aparecida",
-    "videos": []
+    "videos": [
+      {
+        "id": "juUt-rN5CVo",
+        "title": "Santuário Nacional AO VIVO - Você em constante Oração na Casa da Mãe"
+      }
+    ]
   },
   {
     "id": "UCuTaHTWV4TjZE9r8Vjcfaog",
@@ -17596,7 +17619,12 @@
     "id": "UCvb1J8D2T6ZlOnbLbAZ0YOA",
     "handle": "@rehobothboardwalkcam2205",
     "name": "Rehoboth Boardwalk Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "lq15dNFXISw",
+        "title": "Rehoboth Boardwalk Plaza Hotel Cam"
+      }
+    ]
   },
   {
     "id": "UCvchmSxNOFCgrEECXeZx3rg",
@@ -17829,7 +17857,12 @@
     "id": "UCx6ra-kP4Z2kZQfu5zTX1vA",
     "handle": "@VillaRenaissanceTCI",
     "name": "Strata Plan No 43 | Villa Renaissance",
-    "videos": []
+    "videos": [
+      {
+        "id": "shNgEojhTK4",
+        "title": "Villa Renaissance | Turks & Caicos Is | LiveCam"
+      }
+    ]
   },
   {
     "id": "UCx8ILP7mQxM0nBv9bwTmTRQ",
@@ -17885,7 +17918,12 @@
     "id": "UCxXKtAvUNQw5rv9lIU0V4UQ",
     "handle": "@ViracoposaoVivo",
     "name": "Viracopos ao Vivo",
-    "videos": []
+    "videos": [
+      {
+        "id": "P7So-JNvgoc",
+        "title": "AO VIVO - AEROPORTO INTERNACIONAL DE VIRACOPOS EM CAMPINAS - SÃO PAULO"
+      }
+    ]
   },
   {
     "id": "UCxaKME3e34j3aTESZZ3h7Sg",
