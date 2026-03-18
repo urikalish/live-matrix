@@ -296,12 +296,7 @@
     "id": "UC-dGHuK8OcC_WIWvNzxysag",
     "handle": "@LiveCamNatal",
     "name": "WebcamNatal",
-    "videos": [
-      {
-        "id": "AN3MIroAVuU",
-        "title": "PRAIA DE PONTA NEGRA AO VIVO! NATAL-RN / BRASIL - LIVE CAM NATAL"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-jBJkLN89AlQp6eeCNnnWg",
@@ -318,7 +313,12 @@
     "id": "UC-omrowFhBZ_gzNLhX8Hq4w",
     "handle": "@paulbunyanandbabetheblueox3329",
     "name": "Paul Bunyan and Babe the Blue Ox",
-    "videos": []
+    "videos": [
+      {
+        "id": "Fwx-2yF2bic",
+        "title": "Paul Bunyan and Babe the Blue Ox Live Stream"
+      }
+    ]
   },
   {
     "id": "UC029bcZGqxOsRkvWrZLhgKQ",
@@ -1596,10 +1596,6 @@
     "name": "Val Fiorentina Dolomites Italy",
     "videos": [
       {
-        "id": "79Ob2mKLEh0",
-        "title": "Webcam Monte Fertazza Dolomiti - Ristoro Belvedere - Selva di Cadore - Italy"
-      },
-      {
         "id": "0006zDOzcPM",
         "title": "LiveCam Val Fiorentina - Ski Civetta - Selva di Cadore - Dolomiti Italy"
       }
@@ -2331,8 +2327,8 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "Dffif1Cjzs0",
-        "title": "【LIVE】最新ニュースまとめ（Japan News Digest）（3月18日）｜TBS NEWS DIG"
+        "id": "jeS8R_aSvGM",
+        "title": "【LIVE】朝のニュース（Japan News Digest Live）最新情報など｜TBS NEWS DIG（3月19日）"
       },
       {
         "id": "evjOmfHV3fY",
@@ -3646,18 +3642,18 @@
     "id": "UC8qCc7sF9hSjP-U0TiaO5Tw",
     "handle": "@CliffHouseLive",
     "name": "Cliff House Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "E5CB8b_RjQY",
+        "title": "EL FRONTÓN, PUNTA DE GÁLDAR, GRAN CANARIA,  PAISAJE SONORO"
+      }
+    ]
   },
   {
     "id": "UC8sXqdHFnwpVoOuOZmx1-kw",
     "handle": "@TICJezersko",
     "name": "TIC Jezersko",
-    "videos": [
-      {
-        "id": "z-zfvszDEvo",
-        "title": "Panoramska kamera Jezersko"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC8t7FI3O7_NV9ucGWKz2D4Q",
@@ -4125,12 +4121,7 @@
     "id": "UCAfi6hcs4a9Zk1zNShCuxfA",
     "handle": "@MajesticBeachTowers",
     "name": "Majestic Beach Towers",
-    "videos": [
-      {
-        "id": "XSl1FZzhiQI",
-        "title": "Majestic Towers"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCAoSufogSQbl5N5AtUIid4Q",
@@ -4952,8 +4943,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "Qfc6FBj46Y4",
-        "title": "【 Archive】 2026-03-19『03:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "MZXyPQzQmvU",
+        "title": "【 Archive】 2026-03-19『06:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -6970,7 +6961,12 @@
     "id": "UCJONGed182uY9_TVRp1qiMg",
     "handle": "@woodlandtrust",
     "name": "The Woodland Trust",
-    "videos": []
+    "videos": [
+      {
+        "id": "--l_qKzu2kE",
+        "title": "Loch Arkaig Osprey camera 1"
+      }
+    ]
   },
   {
     "id": "UCJTTzETV9AfJYvTmCWO-3rQ",
@@ -7067,7 +7063,12 @@
     "id": "UCKGyGK964U4Yd71WqBkvImA",
     "handle": "@derbycomplex",
     "name": "World Championship Derby Complex",
-    "videos": []
+    "videos": [
+      {
+        "id": "lv1Sgs7iWMA",
+        "title": "World Championship Derby Complex Live Stream"
+      }
+    ]
   },
   {
     "id": "UCKO7Og-r4lviwFcaXUNDNLA",
@@ -7324,10 +7325,6 @@
     "handle": "@NASA",
     "name": "NASA",
     "videos": [
-      {
-        "id": "VlB_ZtDLAOQ",
-        "title": "U.S. Spacewalk 94"
-      },
       {
         "id": "sWasdbDVNvc",
         "title": "Live Video from the International Space Station (Official NASA Stream)"
@@ -8554,12 +8551,7 @@
     "id": "UCQJE3qm7Sjc5-JXAYjAfkrw",
     "handle": "@-ishigakiisland-2224",
     "name": "石垣島ライブカメラ -ishigaki island-",
-    "videos": [
-      {
-        "id": "gcglPa_q7-o",
-        "title": "石垣島７３０交差点ＬＩＶＥカメラ"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCQKQTgZJo3PlxA-9V1Z51XA",
@@ -8737,7 +8729,20 @@
     "id": "UCRDYkSXQNIq1DMITnrmOWiQ",
     "handle": "@SwakopmundFlyingSchool",
     "name": "Swakopmund Flying School",
-    "videos": []
+    "videos": [
+      {
+        "id": "rcT8qzT5sbM",
+        "title": "Swakopmund Airport (FYSM) - Towards Runway 024"
+      },
+      {
+        "id": "Afsp_NB0AYA",
+        "title": "Rossing Mountain East Live Stream"
+      },
+      {
+        "id": "VUpI8tcf1rw",
+        "title": "Rossing Mountain West"
+      }
+    ]
   },
   {
     "id": "UCRFKY6zRG17tBT1tktsFiVg",
@@ -9706,7 +9711,24 @@
     "id": "UCUqP3f8JxvTVfAv-2L5NE6g",
     "handle": "@VacationMB",
     "name": "Vacation Myrtle Beach",
-    "videos": []
+    "videos": [
+      {
+        "id": "GKOyGoRE0Tg",
+        "title": "Live Myrtle Beach View - Captain's Quarters Resort"
+      },
+      {
+        "id": "yTfNMKMnK2Y",
+        "title": "Gorgeous day in Myrtle Beach! Live look from Crown Reef Beach Resort and Waterpark!"
+      },
+      {
+        "id": "MAPDh0XDtZs",
+        "title": "Live Beach Views | Sea Watch Resort, Myrtle Beach"
+      },
+      {
+        "id": "lsD46RnvUiw",
+        "title": "Live View at Ocean Creek Resort | Myrtle Beach, SC"
+      }
+    ]
   },
   {
     "id": "UCUtI5pIKfGoRlKRxVeUwI5A",
@@ -10076,12 +10098,7 @@
     "id": "UCWzx-v_6kdTKi3oXhWOK1FA",
     "handle": "@qab4524",
     "name": "QAB琉球朝日放送",
-    "videos": [
-      {
-        "id": "ZdvNQ3D0PY4",
-        "title": "QAB琉球朝日放送　お天気カメラ　那覇空港ほか"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXCRtOlf5p2fQnaWCrKigTA",
@@ -10099,42 +10116,6 @@
     "handle": "@KOINLOCAL6",
     "name": "KOIN 6",
     "videos": [
-      {
-        "id": "-MQ1U3cyr28",
-        "title": "Stoller Family Estate in Dayton OR"
-      },
-      {
-        "id": "PNNF03OfMPk",
-        "title": "Swan Island Dahlias in Canby OR"
-      },
-      {
-        "id": "sispcSR4JLs",
-        "title": "Mt Hood Meadows"
-      },
-      {
-        "id": "LSdEhxVayxE",
-        "title": "City of Seaside"
-      },
-      {
-        "id": "L7MCnfnzXj8",
-        "title": "ilani in Ridgefield"
-      },
-      {
-        "id": "eHH-e-8m5n4",
-        "title": "KOIN Tower Southwest View"
-      },
-      {
-        "id": "EdA1I3G0zaE",
-        "title": "ilani in Ridgefield"
-      },
-      {
-        "id": "00uUJ1O9L5E",
-        "title": "KOIN Tower Southwest View"
-      },
-      {
-        "id": "uZDLl8Ft5vM",
-        "title": "PDX Airport Hotels"
-      },
       {
         "id": "wCcZLPdpinA",
         "title": "Chinook Winds Casino Resort in Lincoln City, OR"
@@ -10369,32 +10350,7 @@
     "id": "UCYP2o52KVpbcd8Y23moa2KA",
     "handle": "@CarolinaWebcamStreaming",
     "name": "Carolina Webcam Streaming",
-    "videos": [
-      {
-        "id": "qXDbRKyhDdY",
-        "title": "Sunset Beach Webcam by sunsetbeachsales.com"
-      },
-      {
-        "id": "8e3gfzRQNqA",
-        "title": "Sunset Beach Waterway & Bridge Webcam by sunsetbeachsales.com"
-      },
-      {
-        "id": "DscmQzgXAYw",
-        "title": "Sunset Beach Pier Webcam by sunsetbeachsales.com"
-      },
-      {
-        "id": "9kBHbE8Y7uc",
-        "title": "Jinks Creek Ocean Isle Beach Webcam"
-      },
-      {
-        "id": "sBtvpwKH2BE",
-        "title": "Holden Beach Webcam by holdenbeachvacations.com"
-      },
-      {
-        "id": "nVUI6lDy0Bc",
-        "title": "Ocean Isle Marina & Yacht Club Webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCYUbNjkuE4lsr2v1Id2O1oA",
@@ -11233,12 +11189,7 @@
     "id": "UCbbfor2m620lTQd3jOk5ggQ",
     "handle": "@SedonaLiveStream",
     "name": "Sedona Live Cam",
-    "videos": [
-      {
-        "id": "JlxDI6rGH-U",
-        "title": "SedonaLiveCam.com"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCbgxtV72D8jMhzsYeK7BwHA",
@@ -11864,12 +11815,7 @@
     "id": "UCereGvaufa7JIbEPC1AMRQQ",
     "handle": "@LittlehouseLiveThree",
     "name": "Littlehouse Live Three",
-    "videos": [
-      {
-        "id": "O7gqU25AWIs",
-        "title": "Littlehouse Live Three (Live Stream)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCeunW_050lqjYtDwGatMFvw",
@@ -12865,12 +12811,7 @@
     "id": "UChL5PWTYzB3CNEm4FpgaAMQ",
     "handle": "@Harbourvillagebonaire",
     "name": "Harbour Village Bonaire",
-    "videos": [
-      {
-        "id": "W8mRMe2CDDc",
-        "title": "Harbour Village Bonaire Coral Reef"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UChP_bnv9cDFZWfVKw3iBwRQ",
@@ -14574,7 +14515,52 @@
     "id": "UCn4oQ60oxfvq7aesEPYqpKw",
     "handle": "@prorail",
     "name": "ProRail",
-    "videos": []
+    "videos": [
+      {
+        "id": "OisSiJ36SLI",
+        "title": "Strukton PACS C11 Camera 2"
+      },
+      {
+        "id": "tmMXU7B79Tg",
+        "title": "Strukton PACS C11 Camera 1"
+      },
+      {
+        "id": "2tgHBRFHMm8",
+        "title": "Amsterdam De Vijf Bruggen camera 1"
+      },
+      {
+        "id": "0imghdHjEks",
+        "title": "Werkzaamheden station Nijmegen I Livestream ProRail"
+      },
+      {
+        "id": "Z4HhtYkbfSk",
+        "title": "livestream: Spoorzone Groningen ProRail | Live 1/2"
+      },
+      {
+        "id": "ZfOeOuWz-YQ",
+        "title": "Zuidwestboog Meteren"
+      },
+      {
+        "id": "yhZ9ouC4kdI",
+        "title": "Livestream Heerhugowaard ODG Zuidtangent | ProRail"
+      },
+      {
+        "id": "vmNQjvCC3Ws",
+        "title": "Station Amsterdam Centraal Dijksgracht, Livestream ProRail"
+      },
+      {
+        "id": "FHJH2yMe6Hw",
+        "title": "Station Amsterdam Centraal - De Vijf Bruggen, camera 2 | Livestream ProRail"
+      },
+      {
+        "id": "SfvOavZTU3Y",
+        "title": "Livestream Heerhugowaard bouw spooronderdoorgang | ProRail"
+      },
+      {
+        "id": "xxjW1hCdg9s",
+        "title": "Livestream: Spoorzone Groningen - camera 2 | ProRail"
+      }
+    ]
   },
   {
     "id": "UCn7285bO_vEziJ9brPtkFMA",
@@ -14833,16 +14819,7 @@
     "id": "UCnsR6NZFdu_kOljI3SWiGJw",
     "handle": "@Mt.ofOlivesPrayerBridge",
     "name": "Mt. of Olives Prayer Bridge",
-    "videos": [
-      {
-        "id": "zp6LNSoq000",
-        "title": "Western Wall, Temple Archaeological Park"
-      },
-      {
-        "id": "AKGqd20ik_A",
-        "title": "Western Wall, the Kotel."
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCo-qXsM5O9OUI3mNlfIr0PA",
@@ -15015,6 +14992,10 @@
     "handle": "@webcamsdemexico",
     "name": "webcamsdemexico",
     "videos": [
+      {
+        "id": "ZA6KIHgGavY",
+        "title": "🚨 #CDMX  | Se monta planton en el #Zócalo #EnVivo"
+      },
       {
         "id": "G5TBwTzDYi4",
         "title": "⚠️ #CDMX ((PLANTÓN)) | Manifestantes del #CNTE, se espera mega #marcha. #Zócalo #EnVivo"
@@ -15210,6 +15191,126 @@
       {
         "id": "maqF165tmEA",
         "title": "Cabo San Lucas, Baja California Sur En Vivo | Vista Playa El Médano"
+      },
+      {
+        "id": "E85vFalANCo",
+        "title": "Cabo San Lucas Medano Este"
+      },
+      {
+        "id": "EaBdl4I887c",
+        "title": "Centro de la Alcaldía Tlalpan en vivo"
+      },
+      {
+        "id": "96_pwUmE_lM",
+        "title": "Rancho La Onza. Bebedero"
+      },
+      {
+        "id": "iYN3GnHM9T0",
+        "title": "Rancho La Onza Panorámica"
+      },
+      {
+        "id": "CkrHaba08QQ",
+        "title": "Rancho La Onza. Bordo"
+      },
+      {
+        "id": "VhLVfzmJXLQ",
+        "title": "El Parque de Xel Ha, Quintana Roo, en vivo"
+      },
+      {
+        "id": "YaDY9zRsoSA",
+        "title": "Cancún, Quintana Roo En Vivo | Vista Panorámica hacia el Sur de Cancún"
+      },
+      {
+        "id": "VZcb6neiihI",
+        "title": "Puebla. Vista de los volcanes Popocatépetl e Iztaccíhuatl desde Hotel Holiday Inn Puebla"
+      },
+      {
+        "id": "hKj918yyq10",
+        "title": "El Volcán de Fuego de Colima en vivo visto desde Montitlán, Colima gracias a Cenapred"
+      },
+      {
+        "id": "oC11QNM--hY",
+        "title": "El Volcán de Fuego de Colima en vivo visto desde Palmillas, Colima, gracias a Cenapred"
+      },
+      {
+        "id": "NI4v1OlIlZM",
+        "title": "Volcán #Popocatépetl En Vivo | Vista Tlamacas, Estado de México"
+      },
+      {
+        "id": "WdlVBzYp44U",
+        "title": "Cozumel, Quintana Roo En Vivo | Vista desde Hotel Presidente Intercontinental Cozumel Resort & Spa"
+      },
+      {
+        "id": "AiDH11vkEoo",
+        "title": "⚠️☃️🍇 #VALLADOLID | ¡NEVANDO! Viñedos Virtus Bodegas, Ribera del Duero #EnVivo"
+      },
+      {
+        "id": "KwCgg_J-bdM",
+        "title": "Puerto Vallarta en vivo desde Grand Park Royal Vallarta"
+      },
+      {
+        "id": "YsavcrN0B7A",
+        "title": "Vista subacuática de Cozumel"
+      },
+      {
+        "id": "6ImBqGm-3TE",
+        "title": "Vista en vivo del Zócalo de la Ciudad de México"
+      },
+      {
+        "id": "6zRl9by4sSs",
+        "title": "Playa del Carmen EN VIVO - Vista panorámica Webcams de México"
+      },
+      {
+        "id": "nM4I71den9Q",
+        "title": "Plaza Garibaldi, Ciudad de México, en vivo"
+      },
+      {
+        "id": "ZdmcToASPwQ",
+        "title": "Hotel Xcaret México en Vivo"
+      },
+      {
+        "id": "eoZLgp-vqdg",
+        "title": "Vista de Virtus: Bodega en Valladolid"
+      },
+      {
+        "id": "PVfP4PT6ZsE",
+        "title": "Loreto, Baja California Sur en vivo"
+      },
+      {
+        "id": "i882xh_Rf4c",
+        "title": "Paseo de la Reforma en CDMX desde Hotel B Urban Xaman Reforma"
+      },
+      {
+        "id": "RY3iDXftbMc",
+        "title": "Puerto Vallarta, Jalisco en vivo visto desde Hyatt Ziva Puerto Vallarta"
+      },
+      {
+        "id": "LfiRn3jixtA",
+        "title": "Vista de Cancún en vivo desde Breathless Cancún Soul Resort & Spa"
+      },
+      {
+        "id": "rAwfz0gC3JI",
+        "title": "Cancún, Quintana Roo | Vista desde Grand Park Royal Luxury Resorts"
+      },
+      {
+        "id": "ew8U525nfBQ",
+        "title": "Ixtapa Zihuatanejo, Guerrero En Vivo | Vista Oriente"
+      },
+      {
+        "id": "9f3npaKdyCA",
+        "title": "Acapulco, Guerrero En Vivo | Vista panorámica de la Marina"
+      },
+      {
+        "id": "rVhFjxPiSEI",
+        "title": "Cozumel Hotel B Cozumel en vivo"
+      },
+      {
+        "id": "yyWbHA_EWCc",
+        "title": "🔴 #CDMX ((ALERTA)) | ¡La tormenta está extrema! CDMX #EnVivo"
+      },
+      {
+        "id": "cAIWGSFgFS4",
+        "title": "Bahía Santa Cruz, Huatulco. Vista en vivo"
       },
       {
         "id": "OcS0DxGKjG4",
@@ -15501,10 +15602,6 @@
     "name": "Beaker &amp; Honeydew",
     "videos": [
       {
-        "id": "o78gCsXX3mo",
-        "title": "LIVE | U.S. Spacewalk 94 - Multi-Camera Views & ISS Tracker (Mar 18, 2026) from NASA"
-      },
-      {
         "id": "AS_tTDLPgns",
         "title": "LIVE 24/7 - International Space Station (ISS) Communications"
       },
@@ -15586,12 +15683,7 @@
     "id": "UCpcQw8euHeDXiI7yJAvNzpQ",
     "handle": "@carronfarm",
     "name": "Carron Farm",
-    "videos": [
-      {
-        "id": "vKnO8qTj6Vw",
-        "title": "Higher Town Quay"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCpkcJlssp52fP6xHFUYT9ag",
@@ -16791,20 +16883,7 @@
     "id": "UCtUyw9nTFtCCg-RPA4c8cDg",
     "handle": "@GoWhistler",
     "name": "GoWhistler",
-    "videos": [
-      {
-        "id": "THHtVN4PTDc",
-        "title": "Whistler Golf Club - Hole 1"
-      },
-      {
-        "id": "gtXbXdk8kww",
-        "title": "Whistler Golf Club - 9th hole"
-      },
-      {
-        "id": "IEhDUXECe_k",
-        "title": "Whistler Olympic Plaza"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtZEp-JUvGtQbOG6PDKDuHQ",
@@ -17489,6 +17568,10 @@
     "name": "City of Coldwater MI",
     "videos": [
       {
+        "id": "3B8WsDavQQU",
+        "title": "Zoning Board of Appeals (ZBA)"
+      },
+      {
         "id": "yJefbf6d2Vk",
         "title": "Rotary Park"
       },
@@ -18056,7 +18139,12 @@
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
     "handle": "@wightwildlifecam",
     "name": "Wight Wildlife Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "xfdcA-9PCEo",
+        "title": "BIRD FEEDERS ISLE OF WIGHT *LIVE 24/7*"
+      }
+    ]
   },
   {
     "id": "UCxovy5qTcwjsyl3ETKAOgdg",
