@@ -868,12 +868,7 @@
     "id": "UC1YsvhwhmQV5kfVMRpTVx-A",
     "handle": "@神戸ウォーターフロント開発機",
     "name": "神戸ウォーターフロント開発機構",
-    "videos": [
-      {
-        "id": "AU_2zfM4m68",
-        "title": "【LIVE】神戸ウォーターフロント  ＃メリケンパーク＃神戸ポートタワー"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC1dvZq_0NLxBTrYp4bWKeCQ",
@@ -1113,7 +1108,12 @@
     "id": "UC2oMNweAfeRUdh4iKV8ms2g",
     "handle": "@manitowocmarina",
     "name": "Manitowoc Marina",
-    "videos": []
+    "videos": [
+      {
+        "id": "lty-_xS_xWA",
+        "title": "Manitowoc Marina Harbor Cam"
+      }
+    ]
   },
   {
     "id": "UC2qwiv3R_Dqrp15vh7cpH9Q",
@@ -1225,10 +1225,6 @@
         "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | AV. ECO PARQUE – BIG LANCHES – BAIRRO MUNICÍPIOS | CONEXÃODCTV"
       },
       {
-        "id": "UcmJqv2VxhM",
-        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | PRAIA CENTRAL – PONTO DO MILHO 73 | CONEXÃODCTV"
-      },
-      {
         "id": "qqhLAw6hflA",
         "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | PRAIA DO ESTALEIRO – BRISA DO MAR RESTAURANTE | CONEXÃODCTV"
       },
@@ -1331,10 +1327,6 @@
       {
         "id": "gtzbu88j_8Q",
         "title": "ACESSO PISCINAS NATURAIS - RESERVA NATURAL ALTO DOS MACACOS COM AUDIO - CAMBORIÚ - SC"
-      },
-      {
-        "id": "FH3gMEZG24w",
-        "title": "CORREIA PINTO SC AO VIVO | BR-116 – UNIFIQUE INTERNET | CONEXÃODCTV"
       },
       {
         "id": "VyYyzq6XUZQ",
@@ -1685,7 +1677,12 @@
     "id": "UC4681k6C6kYK6daFF0n9Yxw",
     "handle": "@puentesinternacionalespn",
     "name": "La Casa del Senador",
-    "videos": []
+    "videos": [
+      {
+        "id": "mwi1Vesi5X4",
+        "title": "Puentes Internacionales de Piedras Negras, Coahuila y Eagle Pass, Texas."
+      }
+    ]
   },
   {
     "id": "UC4AoiIN2ErfWcE5-YyjDDIg",
@@ -1791,6 +1788,10 @@
     "name": "St-Barth LiveCam",
     "videos": [
       {
+        "id": "nxIF1XzSQzU",
+        "title": "Live Webcam - SBH Saint-Jean"
+      },
+      {
         "id": "IeeDy5VfSsg",
         "title": "Live Webcam - SBH Baie de Lorient"
       },
@@ -1837,16 +1838,12 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "wKi1eEalG6s",
-        "title": "LIVE: Tulsi Gabbard and Kash Patel hearing on Iran war and worldwide threats"
+        "id": "hBtp_FDrP3A",
+        "title": "LIVE: Republicans debate a voting bill on the Senate floor"
       },
       {
         "id": "8OQf8EvzHRE",
-        "title": "LIVE: Markwayne Mullin confirmation hearing to replace Kristi Noem as DHS chief"
-      },
-      {
-        "id": "33NEP41rr8Y",
-        "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
+        "title": "LIVE: Markwayne Mullin confirmation hearing as DHS secretary"
       }
     ]
   },
@@ -3293,12 +3290,7 @@
     "id": "UC8ZnDZj0IUDw1tkECARmEkA",
     "handle": "@saintpetersburglivecamera3457",
     "name": "Saint Petersburg Live Camera",
-    "videos": [
-      {
-        "id": "WN2VDFMvCJI",
-        "title": "🔴 Russia Petersburg live camera😍😍"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC8cnCaq-MquhsebMer9A9rQ",
@@ -3644,12 +3636,7 @@
     "id": "UC8p1N6NQkCnUukz3fkwb9Rw",
     "handle": "@Taimaz.B",
     "name": "Taimaz",
-    "videos": [
-      {
-        "id": "1jIuUY9qTkI",
-        "title": "Calgary Live Webcam |  Downtown | Canada"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC8qCc7sF9hSjP-U0TiaO5Tw",
@@ -4173,7 +4160,12 @@
     "id": "UCAphsmhYyvZDI7s67XM5l0A",
     "handle": "@RioWorldLiveCam",
     "name": "Rio World Live Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "0M9ldmGfIbY",
+        "title": "Acompanhe Copacabana Ao Vivo 18/03"
+      }
+    ]
   },
   {
     "id": "UCArs3YQib0gUuv5SVrjjtCQ",
@@ -4342,12 +4334,7 @@
     "id": "UCBSkHglhgTDIPA-m_NVEN6w",
     "handle": "@alletevideo8975",
     "name": "ALLETE Video",
-    "videos": [
-      {
-        "id": "gX1exrdM5rE",
-        "title": "Lake Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCBWgewoUjqDBEW4kEnh78OA",
@@ -5091,12 +5078,7 @@
     "id": "UCD3fPz7PdO06e8k75nIwifQ",
     "handle": "@geirangerfjordcruiseporthe535",
     "name": "Geirangerfjord cruise port, Hellesylt",
-    "videos": [
-      {
-        "id": "S4aJlRY39fo",
-        "title": "Geirangerfjord cruise port, Hellesylt"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDAHA3f1RMYenm_lFgqjDXQ",
@@ -5702,7 +5684,12 @@
     "id": "UCFZO10OCD0gGxRGa1N0ePYQ",
     "handle": "@ashehighcountryrealty",
     "name": "Ashe High Country Realty",
-    "videos": []
+    "videos": [
+      {
+        "id": "upDlUWbzp7k",
+        "title": "Ashe High Country Realty Live Stream"
+      }
+    ]
   },
   {
     "id": "UCFbCFCIy44FvzHecRZnzHww",
@@ -5920,12 +5907,7 @@
     "id": "UCGMCIiOelr1UlVNxFXibrgQ",
     "handle": "@mncam_com",
     "name": "MNCam",
-    "videos": [
-      {
-        "id": "FY6WlMjzG2U",
-        "title": "24/7 MSP Webcam - Minneapolis / St. Paul Airport - You Control The Cams!"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCGOxU-8iNOeoG3a337shXoA",
@@ -6366,20 +6348,7 @@
     "id": "UCHhtdcqzwyPYY0qBlEPh0QQ",
     "handle": "@olhar013",
     "name": "Olhar 013",
-    "videos": [
-      {
-        "id": "uoijYgHH7-E",
-        "title": "🔴Escola de Surf Radical Ilha Porchat club | São Vicente, Praia do itararé | Cantão Da Ilha"
-      },
-      {
-        "id": "kNvolUPnBc8",
-        "title": "São Vicente ao vivo | Praia dos Milionários ,Quiosque Bambu Bar, ponte pênsil,   | cam tempo real !"
-      },
-      {
-        "id": "l69Dc4s9qxk",
-        "title": "🔴 SANTOS  AO VIVO: Gonzaga Canal 2 Santos Agora | Câmera na Orla  – Olhar 013"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCI-kn_qBWAwygzm5P5DCxNA",
@@ -6453,7 +6422,7 @@
     "name": "Leavenworth County Kansas",
     "videos": [
       {
-        "id": "m1qdv-qck2k",
+        "id": "BjPVRSJB0hs",
         "title": "LV COUNTY KS 2026-03-18"
       },
       {
@@ -8106,7 +8075,12 @@
     "id": "UCOC5E1x-2E_o_ob5IsEhhqQ",
     "handle": "@eugenmatei375",
     "name": "eugen m",
-    "videos": []
+    "videos": [
+      {
+        "id": "X8GZbkhJFV0",
+        "title": "WeatherTech Laguna Seca Live Stream"
+      }
+    ]
   },
   {
     "id": "UCODo53NEfcGzaUkCJ_spvuA",
@@ -8134,7 +8108,12 @@
     "id": "UCORHd1urdBsokSftmLlrRMg",
     "handle": "@friantroulette",
     "name": "Friant Roulette",
-    "videos": []
+    "videos": [
+      {
+        "id": "1xl0hX-nF2E",
+        "title": "⭕ Traffic Camera - Car Spotting - Police Scanner - Live From Fresno, California"
+      }
+    ]
   },
   {
     "id": "UCOTgdX8GhLGHid1ju3kNvqQ",
@@ -8502,7 +8481,12 @@
     "id": "UCPdDNVBL_WBd6X2Wt8DuIDA",
     "handle": "@LazyDaysIslamorada",
     "name": "Lazy Days Islamorada",
-    "videos": []
+    "videos": [
+      {
+        "id": "Bxy3g5WfYbg",
+        "title": "🔴 LIVE Lazy Days Islamorada Florida"
+      }
+    ]
   },
   {
     "id": "UCPp3S_agEGIvcEe9NynOjPw",
@@ -8697,28 +8681,7 @@
     "id": "UCR2CLso5tZOHwkFDXPuuKHw",
     "handle": "@Haustechnik-Corbusierhaus",
     "name": "Turmfalken im Corbusierhaus",
-    "videos": [
-      {
-        "id": "qDiC4NUoQ2w",
-        "title": "Live - Turmfalken - Webcam - Corbusierhaus - Berlin (innen I)"
-      },
-      {
-        "id": "61b3Jty73Zo",
-        "title": "Live - Blick vom Corbusierhaus Berlin auf das Olympiastadion"
-      },
-      {
-        "id": "Gws0bDNREYU",
-        "title": "Live - Turmfalken - Webcam - Corbusierhaus - Berlin (innen II)"
-      },
-      {
-        "id": "2DMOgZSmuMc",
-        "title": "Live - Turmfalken - Webcam - Corbusierhaus - Berlin (außen)"
-      },
-      {
-        "id": "LAJiFSw2ICc",
-        "title": "Live - Panoramarundblick vom Dach des Corbusierhauses in Berlin - aus ca. 100 m ü NN"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCR77bEpXLTBxztLOEKN3Wbg",
@@ -9673,28 +9636,7 @@
     "id": "UCUaLy1_4rsLo4HyCLCPlD4g",
     "handle": "@LanzaroteWebcam",
     "name": "LanzaroteWebcam",
-    "videos": [
-      {
-        "id": "AfD16cDYBbE",
-        "title": "🔴  LIVE WEBCAM from PUERTO del CARMEN BEACH - Storm Therese (Lanzarote, Canary Islands, Spain)"
-      },
-      {
-        "id": "BRXBUNi2J78",
-        "title": "🔴 LIVE WEBCAM from FUERTEVENTURA AIRPORT - Tracking Storm Therese (Canary Islands, Spain)"
-      },
-      {
-        "id": "yrx0fvj-4QI",
-        "title": "⛈️ LIVE WEBCAM from TENERIFE AIRPORT - Storm Therese  (Canary Islands, Spain)"
-      },
-      {
-        "id": "JMFFi4Ma5M4",
-        "title": "🔴 LIVE WEBCAM from FUERTEVENTURA AIRPORT (Canary Islands, Spain)"
-      },
-      {
-        "id": "AAlo3eCPVbk",
-        "title": "🔴 LIVE WEBCAM from LANZAROTE AIRPORT - Storm Therese (Canary Islands, Spain)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCUmvxPTUfflU3v_mcRNGAeg",
@@ -9757,10 +9699,6 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
-      {
-        "id": "2NS10IuTXFQ",
-        "title": "SafariLIVE Sunset - 18 March 2026"
-      },
       {
         "id": "OwjHV9Lby3w",
         "title": "Jaci’s Dam Cam"
@@ -10067,12 +10005,7 @@
     "id": "UCWtwhsqQXogkkQEFBrFwwRA",
     "handle": "@coveleland",
     "name": "The Cove",
-    "videos": [
-      {
-        "id": "s7sY1waeOf4",
-        "title": "The Cove Leland Fishtown Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCWy8xdFQ0O0U3kQiotfMwGA",
@@ -10472,7 +10405,20 @@
     "id": "UCYWJbeYvOMDm6avN5GaRa3Q",
     "handle": "@RadioCentreTC",
     "name": "Radio Centre",
-    "videos": []
+    "videos": [
+      {
+        "id": "2ETj1sUmEmU",
+        "title": "LIVE | Traverse City, MI | West Bay Camera"
+      },
+      {
+        "id": "8-V9uEqFLwE",
+        "title": "LIVE | Traverse City, MI | Downtown Camera |"
+      },
+      {
+        "id": "FS9Iz-EJW5Y",
+        "title": "LIVE | Alpena, MI | Thunder Bay Marina Camera"
+      }
+    ]
   },
   {
     "id": "UCYqyaXiOKAxUcgZ159wXG-A",
@@ -10886,7 +10832,7 @@
     "name": "The Beachcomber Restaurant St. Augustine",
     "videos": [
       {
-        "id": "JyMajFctx1k",
+        "id": "GEyUNFMaoMU",
         "title": "The Beachcomber Restaurant St. Augustine Live Stream"
       }
     ]
@@ -11233,6 +11179,14 @@
     "name": "Randomly Entertained",
     "videos": [
       {
+        "id": "tpbPt_LqdJc",
+        "title": "Soi 6 Pattaya, Thailand | Live Camera Stream"
+      },
+      {
+        "id": "WYXViSsFvQs",
+        "title": "Pattaya Beach Road, Thailand | Live Camera Stream"
+      },
+      {
         "id": "cVjFBY1_8Yg",
         "title": "Soi Buakhao, Pattaya, Thailand | Live Camera Stream"
       },
@@ -11284,10 +11238,6 @@
       {
         "id": "OZqaznSUQ8o",
         "title": "「LIVECAMERA 」西の河原露天風呂入り口"
-      },
-      {
-        "id": "moSQi2E-FII",
-        "title": "草津温泉街　全体　9面「LIVE CAMERA」"
       },
       {
         "id": "eX7vAL4Jtfk",
@@ -12788,6 +12738,10 @@
     "name": "CGTN",
     "videos": [
       {
+        "id": "8Dva7JrsDYs",
+        "title": "The United Nations Security Council meets to discuss the situation in the Middle East."
+      },
+      {
         "id": "Z7aB83mXfck",
         "title": "Trump homeland nominee testifies in Senate confirmation hearing"
       },
@@ -12960,7 +12914,12 @@
     "id": "UChyEBRozX9qMh5uusGzQfAQ",
     "handle": "@deserthandcarwash",
     "name": "Desert Hand Car Wash",
-    "videos": []
+    "videos": [
+      {
+        "id": "6ILuxieirno",
+        "title": "Desert Hand Car Cash LIVE"
+      }
+    ]
   },
   {
     "id": "UCi1vQx48j_nfrMg6XH5PItQ",
@@ -13007,7 +12966,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "aZ1RtNl8K5o",
+        "id": "iPZggSZXCCk",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -13016,7 +12975,88 @@
     "id": "UCiGOIXjFqy5_mUNxQNOMfHw",
     "handle": "@ExploreAfrica",
     "name": "Explore Africa",
-    "videos": []
+    "videos": [
+      {
+        "id": "u5eVtSg2Skg",
+        "title": "Lola ya Bonobo Sanctuary Nursery powered by EXPLORE.org"
+      },
+      {
+        "id": "T0cF-bXCOHE",
+        "title": "Lola ya Bonobo Sanctuary Enclosure powered by EXPLORE.org"
+      },
+      {
+        "id": "epZP0VOirh0",
+        "title": "Kalahari Salt Pan powered by EXPLORE.org"
+      },
+      {
+        "id": "7hKbyXxWT2k",
+        "title": "Africam Boteti River Zebra Migration powered by EXPLORE.org"
+      },
+      {
+        "id": "oruIH1ZadqE",
+        "title": "Africam Outdoor Rhino Cam at HESC powered by Explore.org"
+      },
+      {
+        "id": "StGk_2DA5ig",
+        "title": "Africam Stony Point Penguin Colony Camera powered by EXPLORE.org"
+      },
+      {
+        "id": "VUJbDTIYlM4",
+        "title": "Africam Tembe Elephant Park powered by EXPLORE.org"
+      },
+      {
+        "id": "DsNtwGJXTTs",
+        "title": "Africam Tau powered by EXPLORE.org"
+      },
+      {
+        "id": "yfSyjwY6zSQ",
+        "title": "GRACE Gorilla Forest Corridor Cam powered by EXPLORE.org"
+      },
+      {
+        "id": "QkWGGhtTA4k",
+        "title": "African Safari Camera powered by Explore.org"
+      },
+      {
+        "id": "O8xVFhgEv6Q",
+        "title": "African Animal Lookout  Camera powered by EXPLORE.org"
+      },
+      {
+        "id": "2swy9gysvOY",
+        "title": "African River Wildlife Camera powered by Explore.org"
+      },
+      {
+        "id": "dIChLG4_WNs",
+        "title": "Africam Nkorho Bush Lodge powered by EXPLORE.org"
+      },
+      {
+        "id": "KyQAB-TKOVA",
+        "title": "African Watering Hole powered by Explore.org"
+      },
+      {
+        "id": "_NXaovxB-Bk",
+        "title": "Africam Olifants River powered by EXPLORE.org"
+      },
+      {
+        "id": "pZZst4BOpVI",
+        "title": "Africam Naledi Cat-EYE powered by EXPLORE.org"
+      },
+      {
+        "id": "ItdXaWUVF48",
+        "title": "Africam Rosie's Pan powered by EXPLORE.org"
+      },
+      {
+        "id": "Z1wf0QBoAPM",
+        "title": "Black Eagles powered by EXPLORE.org"
+      },
+      {
+        "id": "9viZIxuonrI",
+        "title": "Africam Lisbon Falls powered by EXPLORE.org"
+      },
+      {
+        "id": "3MlJEXOZTfo",
+        "title": "Africam Lessor Flamingos at Kamfers Dam powered by EXPLORE.org"
+      }
+    ]
   },
   {
     "id": "UCiIA2H7KnbK7Wsyhpw1_glw",
@@ -13249,10 +13289,6 @@
         "title": "WATCH LIVE: Macron visits construction site of new aircraft carrier"
       },
       {
-        "id": "kWZxBBSjdNQ",
-        "title": "WATCH LIVE: Funeral procession for Iranian security chief Ali Larijani"
-      },
-      {
         "id": "2GDWDHrky6I",
         "title": "WATCH LIVE: View of Beirut skyline"
       },
@@ -13262,7 +13298,7 @@
       },
       {
         "id": "Ad210DlxTlY",
-        "title": "WATCH Live: Aftermath at site of Iranian missile strike"
+        "title": "WATCH Live: View of Tel Aviv skyline"
       },
       {
         "id": "_6dRRfnYJws",
@@ -16216,7 +16252,12 @@
     "id": "UCqCmgkzXxyQ9s6MRqKbz3nw",
     "handle": "@嘉義縣文化觀光局",
     "name": "嘉義縣文化觀光局",
-    "videos": []
+    "videos": [
+      {
+        "id": "TrWoNJ-wcq8",
+        "title": "【Live】東石漁人碼頭 360 4K全景即時影像 #360看見台灣"
+      }
+    ]
   },
   {
     "id": "UCqH_TI67yWOokRzZi5g1fMg",
@@ -16353,12 +16394,7 @@
     "id": "UCrBd0lVRjlyT-uu0fcFihUw",
     "handle": "@LiveCamTrento-Opinione",
     "name": "Live Trento H24 - Piazza Duomo",
-    "videos": [
-      {
-        "id": "Llv45nPcbbo",
-        "title": "Trento live cam - centro città (Piazza Duomo)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCrGS8VyrgCqYwaogH5bQpxQ",
@@ -16541,24 +16577,7 @@
     "id": "UCs4pu1ROx5V74IaCUZrfl6g",
     "handle": "@alphatech-n5j",
     "name": "Alpha Tech",
-    "videos": [
-      {
-        "id": "4FssMwyEU3c",
-        "title": "Dormakade Urk"
-      },
-      {
-        "id": "q7rNnFBWkHM",
-        "title": "Staversekade Urk"
-      },
-      {
-        "id": "7UT9ViLR10c",
-        "title": "Werkhaven Urk"
-      },
-      {
-        "id": "0gh8j7k8WtM",
-        "title": "Westhavenkade Urk"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCs8QCDKYww0gFmZkJ3JHiBQ",
@@ -17585,16 +17604,7 @@
     "id": "UCv7_krlrre3GQi79d4guxHQ",
     "handle": "@ytv_news",
     "name": "YOMIURI TELECASTING CORPORATION NEWS CHANNEL",
-    "videos": [
-      {
-        "id": "1V-rE4Z1ZZQ",
-        "title": "【ライブカメラ】神戸空港（UKB）　飛行機の離着陸とお天気（読売テレビ）/ Live Camera Kobe Airport"
-      },
-      {
-        "id": "kCE6T3p8AZ4",
-        "title": "🔴【ライブカメラ】閉幕後の万博会場　大屋根リング／EXPO2025 The Grand Ring Live Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCv9D0xATZ18lnDzhWVEtnIA",
