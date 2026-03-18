@@ -1266,10 +1266,6 @@
         "title": "JOINVILLE AO VIVO | RUA VISCONDE DE TAUNAY - CENTRO | CÂMERA INDAIÁ EVENTOS"
       },
       {
-        "id": "4wKzRbdCscg",
-        "title": "GOV. CELSO RAMOS SC AO VIVO | PRAIA DE PALMAS – QUIOSQUE DA JÚ | CONEXÃODCTV"
-      },
-      {
         "id": "beLeQBkErj8",
         "title": "ILHOTA SC AO VIVO | RIO ITAJAÍ-AÇU – AIDA CABELEIREIRA | CONEXÃODCTV"
       },
@@ -4866,16 +4862,7 @@
     "id": "UCBekjy3cWsLpEjibeFYecLQ",
     "handle": "@紅樹林有線電視-h7k",
     "name": "紅樹林有線電視",
-    "videos": [
-      {
-        "id": "9rcEL_yWMk4",
-        "title": "新北市淡水區景點(即時影像) 淡水渡船頭 直播 #淡水河 #夕陽 #觀音山 #台北港 #淡水老街河岸 #淡水渡し船乗り場  Du Chuan Tou, Tamsui"
-      },
-      {
-        "id": "yn_8QwCWsyI",
-        "title": "新北市淡水區 #即時路況 車流直播---#淡水竹圍雙向 #紅樹林往台北 #水源街二段與淡金路口"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCBjzM0ZW12Z8bggEORo8oBQ",
@@ -5696,7 +5683,12 @@
     "id": "UCFHiC0LXThenL-CEHmf5Q2A",
     "handle": "@bioberghotelifenblick",
     "name": "Bio-Berghotel Ifenblick",
-    "videos": []
+    "videos": [
+      {
+        "id": "EF0IxO7ZHK4",
+        "title": "Bio-Berghotel Ifenblick WebCam"
+      }
+    ]
   },
   {
     "id": "UCFZO10OCD0gGxRGa1N0ePYQ",
@@ -6565,10 +6557,6 @@
       {
         "id": "CyHMEtXpJF0",
         "title": "Woodbine Main Street Live Railcam - Woodbine, IA #steelhighway"
-      },
-      {
-        "id": "uqSg5r1hv4g",
-        "title": "Genoa, Illinois Kishwaukee Valley Heritage Society Live Railcam - Genoa, IL #steelhighway"
       },
       {
         "id": "BjxITtji3xo",
@@ -9561,7 +9549,24 @@
     "id": "UCTkxSTO0A1d5_6_Nc4sVYtg",
     "handle": "@UDriveTechLIVEStreaming",
     "name": "UDrive Tech LIVE Streaming",
-    "videos": []
+    "videos": [
+      {
+        "id": "jEX3IqH6Cis",
+        "title": "Live View of Lazelle St in Sturgis SD from Sturgis Liquor"
+      },
+      {
+        "id": "3UHlTcL3L_Y",
+        "title": "Live View of Junction & Main St from Sturgis Motorcycle Museum"
+      },
+      {
+        "id": "uu82CI54eJU",
+        "title": "Live View from Hotel Sturgis on Main St. and Harley-Davidson Way in Sturgis SD"
+      },
+      {
+        "id": "O2bCoZSQTuo",
+        "title": "Live View of Lazelle from Sturgis Motorsports"
+      }
+    ]
   },
   {
     "id": "UCTlY00NCf0nKyldwBys3mrA",
@@ -16629,7 +16634,28 @@
     "id": "UCs8QCDKYww0gFmZkJ3JHiBQ",
     "handle": "@Camstreamer_com",
     "name": "CamStreamer",
-    "videos": []
+    "videos": [
+      {
+        "id": "Wcju9xj5UMo",
+        "title": "Axis Experience Center - Cincinnati"
+      },
+      {
+        "id": "7k7RTdANPqM",
+        "title": "ATL Axis Experience Center Live Stream"
+      },
+      {
+        "id": "IFnbDmgP69Q",
+        "title": "Creative Live streaming from Prague (Czech Republic) by CamStreamer"
+      },
+      {
+        "id": "_tam0-UVAcY",
+        "title": "Ft. Lauderdale Axis Experience Center LIVE"
+      },
+      {
+        "id": "1wV9lLe14aU",
+        "title": "Washington DC Live from Axis Communications Experience Center"
+      }
+    ]
   },
   {
     "id": "UCsDU8TKp0yzyVggxWlLQlDQ",
@@ -17050,10 +17076,6 @@
       {
         "id": "zPf2lh-ZChU",
         "title": "Câmera ao vivo Praia do Santinho- Florianópolis - Restaurante Mar do Santinho"
-      },
-      {
-        "id": "D9LXZXwhqEM",
-        "title": "Câmera ao vivo Porto de Galinhas - Maracaipe- Pousada La Bella Luna"
       },
       {
         "id": "6MteUqaYuVw",
