@@ -181,12 +181,7 @@
     "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
     "handle": "@alwarith-center",
     "name": "مركز الوارث للإنتاج الفني",
-    "videos": [
-      {
-        "id": "oCQNocwhH6w",
-        "title": "البث المباشر من العتبتين المقدستين الحسينية  والعباسية |  كربلاء المقدسة الان Karbala live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-KS6AGW3J43aFF-KOQ6VAw",
@@ -868,7 +863,12 @@
     "id": "UC1YsvhwhmQV5kfVMRpTVx-A",
     "handle": "@神戸ウォーターフロント開発機",
     "name": "神戸ウォーターフロント開発機構",
-    "videos": []
+    "videos": [
+      {
+        "id": "AU_2zfM4m68",
+        "title": "【LIVE】神戸ウォーターフロント  ＃メリケンパーク＃神戸ポートタワー"
+      }
+    ]
   },
   {
     "id": "UC1dvZq_0NLxBTrYp4bWKeCQ",
@@ -1838,12 +1838,12 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "hBtp_FDrP3A",
-        "title": "LIVE: Republicans debate a voting bill on the Senate floor"
+        "id": "Uiz6hMvHjUc",
+        "title": "Jerome Powell LIVE: Fed Chair speaks after interest rate decision"
       },
       {
-        "id": "8OQf8EvzHRE",
-        "title": "LIVE: Markwayne Mullin confirmation hearing as DHS secretary"
+        "id": "hBtp_FDrP3A",
+        "title": "LIVE: Republicans debate a voting bill on the Senate floor"
       }
     ]
   },
@@ -2888,10 +2888,6 @@
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
       {
-        "id": "Zaqac9S6Phk",
-        "title": "Rosario desde Lourdes - 18/03/2026"
-      },
-      {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
       },
@@ -3290,7 +3286,12 @@
     "id": "UC8ZnDZj0IUDw1tkECARmEkA",
     "handle": "@saintpetersburglivecamera3457",
     "name": "Saint Petersburg Live Camera",
-    "videos": []
+    "videos": [
+      {
+        "id": "WN2VDFMvCJI",
+        "title": "🔴 Russia Petersburg live camera😍😍"
+      }
+    ]
   },
   {
     "id": "UC8cnCaq-MquhsebMer9A9rQ",
@@ -3636,7 +3637,12 @@
     "id": "UC8p1N6NQkCnUukz3fkwb9Rw",
     "handle": "@Taimaz.B",
     "name": "Taimaz",
-    "videos": []
+    "videos": [
+      {
+        "id": "1jIuUY9qTkI",
+        "title": "Calgary Live Webcam |  Downtown | Canada"
+      }
+    ]
   },
   {
     "id": "UC8qCc7sF9hSjP-U0TiaO5Tw",
@@ -4334,7 +4340,12 @@
     "id": "UCBSkHglhgTDIPA-m_NVEN6w",
     "handle": "@alletevideo8975",
     "name": "ALLETE Video",
-    "videos": []
+    "videos": [
+      {
+        "id": "gX1exrdM5rE",
+        "title": "Lake Cam"
+      }
+    ]
   },
   {
     "id": "UCBWgewoUjqDBEW4kEnh78OA",
@@ -5078,7 +5089,12 @@
     "id": "UCD3fPz7PdO06e8k75nIwifQ",
     "handle": "@geirangerfjordcruiseporthe535",
     "name": "Geirangerfjord cruise port, Hellesylt",
-    "videos": []
+    "videos": [
+      {
+        "id": "S4aJlRY39fo",
+        "title": "Geirangerfjord cruise port, Hellesylt"
+      }
+    ]
   },
   {
     "id": "UCDAHA3f1RMYenm_lFgqjDXQ",
@@ -5187,8 +5203,8 @@
     "name": "Khao Lak Land Discovery",
     "videos": [
       {
-        "id": "21vDQHWWXVE",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 18-Mar-2026 18:15"
+        "id": "UiK16FttnLg",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 19-Mar-2026 00:04"
       }
     ]
   },
@@ -5560,12 +5576,7 @@
     "id": "UCEw0F1AUvO6H_awqxI7QbtQ",
     "handle": "@DeDijkVolendam",
     "name": "De Dijk Volendam",
-    "videos": [
-      {
-        "id": "9UpAVPmtPtA",
-        "title": "Haven / Harbour Volendam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCEzKRcMZmlfOKttfdgEcFHQ",
@@ -5907,7 +5918,12 @@
     "id": "UCGMCIiOelr1UlVNxFXibrgQ",
     "handle": "@mncam_com",
     "name": "MNCam",
-    "videos": []
+    "videos": [
+      {
+        "id": "FY6WlMjzG2U",
+        "title": "24/7 MSP Webcam - Minneapolis / St. Paul Airport - You Control The Cams!"
+      }
+    ]
   },
   {
     "id": "UCGOxU-8iNOeoG3a337shXoA",
@@ -6348,7 +6364,20 @@
     "id": "UCHhtdcqzwyPYY0qBlEPh0QQ",
     "handle": "@olhar013",
     "name": "Olhar 013",
-    "videos": []
+    "videos": [
+      {
+        "id": "uoijYgHH7-E",
+        "title": "🔴Escola de Surf Radical Ilha Porchat club | São Vicente, Praia do itararé | Cantão Da Ilha"
+      },
+      {
+        "id": "kNvolUPnBc8",
+        "title": "São Vicente ao vivo | Praia dos Milionários ,Quiosque Bambu Bar, ponte pênsil,   | cam tempo real !"
+      },
+      {
+        "id": "l69Dc4s9qxk",
+        "title": "🔴 SANTOS  AO VIVO: Gonzaga Canal 2 Santos Agora | Câmera na Orla  – Olhar 013"
+      }
+    ]
   },
   {
     "id": "UCI-kn_qBWAwygzm5P5DCxNA",
@@ -6421,10 +6450,6 @@
     "handle": "@leavenworthcountykansas9566",
     "name": "Leavenworth County Kansas",
     "videos": [
-      {
-        "id": "BjPVRSJB0hs",
-        "title": "LV COUNTY KS 2026-03-18"
-      },
       {
         "id": "wdl24JBMMis",
         "title": "Leavenworth County Kansas Live View"
@@ -8681,7 +8706,28 @@
     "id": "UCR2CLso5tZOHwkFDXPuuKHw",
     "handle": "@Haustechnik-Corbusierhaus",
     "name": "Turmfalken im Corbusierhaus",
-    "videos": []
+    "videos": [
+      {
+        "id": "qDiC4NUoQ2w",
+        "title": "Live - Turmfalken - Webcam - Corbusierhaus - Berlin (innen I)"
+      },
+      {
+        "id": "61b3Jty73Zo",
+        "title": "Live - Blick vom Corbusierhaus Berlin auf das Olympiastadion"
+      },
+      {
+        "id": "Gws0bDNREYU",
+        "title": "Live - Turmfalken - Webcam - Corbusierhaus - Berlin (innen II)"
+      },
+      {
+        "id": "2DMOgZSmuMc",
+        "title": "Live - Turmfalken - Webcam - Corbusierhaus - Berlin (außen)"
+      },
+      {
+        "id": "LAJiFSw2ICc",
+        "title": "Live - Panoramarundblick vom Dach des Corbusierhauses in Berlin - aus ca. 100 m ü NN"
+      }
+    ]
   },
   {
     "id": "UCR77bEpXLTBxztLOEKN3Wbg",
@@ -8698,20 +8744,7 @@
     "id": "UCRDYkSXQNIq1DMITnrmOWiQ",
     "handle": "@SwakopmundFlyingSchool",
     "name": "Swakopmund Flying School",
-    "videos": [
-      {
-        "id": "rcT8qzT5sbM",
-        "title": "Swakopmund Airport (FYSM) - Towards Runway 024"
-      },
-      {
-        "id": "Afsp_NB0AYA",
-        "title": "Rossing Mountain East Live Stream"
-      },
-      {
-        "id": "VUpI8tcf1rw",
-        "title": "Rossing Mountain West"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCRFKY6zRG17tBT1tktsFiVg",
@@ -9636,7 +9669,28 @@
     "id": "UCUaLy1_4rsLo4HyCLCPlD4g",
     "handle": "@LanzaroteWebcam",
     "name": "LanzaroteWebcam",
-    "videos": []
+    "videos": [
+      {
+        "id": "AfD16cDYBbE",
+        "title": "🔴  LIVE WEBCAM from PUERTO del CARMEN BEACH - Storm Therese (Lanzarote, Canary Islands, Spain)"
+      },
+      {
+        "id": "BRXBUNi2J78",
+        "title": "🔴 LIVE WEBCAM from FUERTEVENTURA AIRPORT - Tracking Storm Therese (Canary Islands, Spain)"
+      },
+      {
+        "id": "yrx0fvj-4QI",
+        "title": "⛈️ LIVE WEBCAM from TENERIFE AIRPORT - Storm Therese  (Canary Islands, Spain)"
+      },
+      {
+        "id": "JMFFi4Ma5M4",
+        "title": "🔴 LIVE WEBCAM from FUERTEVENTURA AIRPORT (Canary Islands, Spain)"
+      },
+      {
+        "id": "AAlo3eCPVbk",
+        "title": "🔴 LIVE WEBCAM from LANZAROTE AIRPORT - Storm Therese (Canary Islands, Spain)"
+      }
+    ]
   },
   {
     "id": "UCUmvxPTUfflU3v_mcRNGAeg",
@@ -9717,12 +9771,7 @@
     "id": "UCVARamJgetNC2PQkw7kDD0Q",
     "handle": "@johnvlissingenwebcam2437",
     "name": "John Vlissingenwebcam",
-    "videos": [
-      {
-        "id": "cUcRXzE5sYY",
-        "title": "Livestream Vlissingenwebcam 1"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCVK-LGmxFkjQEe6eV1NvQ2w",
@@ -10005,7 +10054,12 @@
     "id": "UCWtwhsqQXogkkQEFBrFwwRA",
     "handle": "@coveleland",
     "name": "The Cove",
-    "videos": []
+    "videos": [
+      {
+        "id": "s7sY1waeOf4",
+        "title": "The Cove Leland Fishtown Live"
+      }
+    ]
   },
   {
     "id": "UCWy8xdFQ0O0U3kQiotfMwGA",
@@ -10830,12 +10884,7 @@
     "id": "UCa1XvGj-yhiLLC5fVFKfXJQ",
     "handle": "@BeachcomberStAugustine",
     "name": "The Beachcomber Restaurant St. Augustine",
-    "videos": [
-      {
-        "id": "GEyUNFMaoMU",
-        "title": "The Beachcomber Restaurant St. Augustine Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCa6JQgXH9u3ce7UNMv9d-ig",
@@ -12548,10 +12597,6 @@
         "title": "Kroměříž - Riegrovo nám. - prujezdnost  /u kašny/"
       },
       {
-        "id": "hCP_66JPz40",
-        "title": "Kroměříž - Hanácké náměstí"
-      },
-      {
         "id": "Xs_872Hah3o",
         "title": "Kroměříž - ul. 1.Máje - průjezdnost a statistiky"
       }
@@ -12927,6 +12972,14 @@
     "name": "CLIMA BC Brazil",
     "videos": [
       {
+        "id": "EilcrG_aPHM",
+        "title": "Balneário Camboriú ao vivo - Central"
+      },
+      {
+        "id": "curEtyrOR74",
+        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
+      },
+      {
         "id": "5SMXLrkkWPU",
         "title": "Balneário Camboriú ao vivo - Central"
       },
@@ -12939,20 +12992,8 @@
         "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
       },
       {
-        "id": "OMgs2FA5XMs",
-        "title": "Balneário Camboriú ao vivo em 4K"
-      },
-      {
         "id": "YF2HsODb32U",
         "title": "Balneário Camboriú ao vivo - Avenida Brasil"
-      },
-      {
-        "id": "K34fAa1J2fM",
-        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
-      },
-      {
-        "id": "cLRwOdrRE-8",
-        "title": "Balneário Camboriú ao vivo - PRAIA"
       },
       {
         "id": "YN-Zbzhdee8",
@@ -12966,7 +13007,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "iPZggSZXCCk",
+        "id": "QPIwBchWESo",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -13284,6 +13325,10 @@
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
     "videos": [
+      {
+        "id": "y5H62UKYWkw",
+        "title": "LIVE: NASA astronauts conduct a planned six‑and‑a‑half‑hour spacewalk"
+      },
       {
         "id": "nLeSAVoBrLk",
         "title": "WATCH LIVE: Macron visits construction site of new aircraft carrier"
@@ -14179,12 +14224,7 @@
     "id": "UClSdxxEoPbpZHrujhfQcdow",
     "handle": "@castrostreetcam2549",
     "name": "Castro Street Cam 2",
-    "videos": [
-      {
-        "id": "0H6lUQJGDXE",
-        "title": "Castro Street Cam 2 Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UClcicFOBsxXQxaQnT1RshJg",
@@ -14213,6 +14253,10 @@
     "handle": "@GramadoTV",
     "name": "Gramado TV",
     "videos": [
+      {
+        "id": "Busyb4PoLoo",
+        "title": "Gramado ao vivo"
+      },
       {
         "id": "C3ckf10sAYw",
         "title": "Acompanhe a Gramado TV 24 horas"
@@ -14268,12 +14312,7 @@
     "id": "UCm9zLeJlfz7jRT_6vff70_w",
     "handle": "@AirportAction",
     "name": "Airport Action",
-    "videos": [
-      {
-        "id": "dC2DUuHmExQ",
-        "title": "Birmingham Airport Live ✈️ Boeing 747 Arrival ETA 16:17"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCmEC5XS9Ol-6jqBaKpzqehQ",
@@ -15050,86 +15089,6 @@
     "name": "webcamsdemexico",
     "videos": [
       {
-        "id": "G5TBwTzDYi4",
-        "title": "⚠️ #CDMX ((PLANTÓN)) | Manifestantes del #CNTE, se espera mega #marcha. #Zócalo #EnVivo"
-      },
-      {
-        "id": "ui2S_s8q3DU",
-        "title": "⚠️ P. de la REFORMA ((MEGA MARCHA)) | 9:00 hrs. Del Ángel #Independencia al #Zócalo. #CDMX #EnVivo"
-      },
-      {
-        "id": "Zu3-tC0Ymjk",
-        "title": "🚨 #CDMX (PRECAUCIÓN) | Seguirán las #lluvias esta noche. La capital #EnVivo"
-      },
-      {
-        "id": "ZQdJHbSeQn8",
-        "title": "⚠️ #CDMX | #Lluvia, #rayos y posible #granizo. La capital #EnVivo"
-      },
-      {
-        "id": "TRP-4F_zfIQ",
-        "title": "#BellasArtes | Se vinieron fuertes las lluvias #envivo"
-      },
-      {
-        "id": "zHWOY8uSsZM",
-        "title": "Vista en vivo del Hotel Velas Vallarta"
-      },
-      {
-        "id": "qnIct_Kk2eQ",
-        "title": "Grand Velas Los Cabos en vivo."
-      },
-      {
-        "id": "JTnv3iEd5AI",
-        "title": "Ixtapa, Zihuatanejo desde Park Royal Ixtapa"
-      },
-      {
-        "id": "-I8o83MMXA0",
-        "title": "Acapulco, Guerrero En Vivo | Vista Panorámica de la Bahía de Santa Lucía"
-      },
-      {
-        "id": "HaQlhXnNXeo",
-        "title": "🌋 #VOLCÁN DE #COLIMA | Cosas raras ocurren aquí. #Volcán de Fuego #EnVivo"
-      },
-      {
-        "id": "pVyBqT-T0q0",
-        "title": "⛈️ #CDMX | Lluvias al Sur de la ciudad. La capital #EnVivo"
-      },
-      {
-        "id": "LpHkYiyUwTo",
-        "title": "🗻 #POPOCATÉPETL | Vestido de blanco. El #Volcán #EnVivo"
-      },
-      {
-        "id": "KROgq-irPdo",
-        "title": "🌋 #POPOCATÉPETL | Noche de incandescencia con avistamientos. El #Volcán #EnVivo"
-      },
-      {
-        "id": "pDJBbH6ARxI",
-        "title": "🌋 #POPOCATÉPETL | Fuerte incandescencia ilumina la noche. El #Volcán #EnVivo"
-      },
-      {
-        "id": "kmk7gvAC5Vs",
-        "title": "⚠️ #CDMX (MAÑANA 10:00 hrs) | ¡Todo listo para romper #recordguinnes! #Zócalo #EnVivo"
-      },
-      {
-        "id": "JUQhrRps6BI",
-        "title": "🗻 #POPOCATÉPETL | Nevado y activo. El #Volcán #EnVivo"
-      },
-      {
-        "id": "0doCWoRLOek",
-        "title": "#Zócalo | La cancha esta lista para el partido ⚽️ #Zócalo #EnVivo"
-      },
-      {
-        "id": "dVL4tFZOn3U",
-        "title": "💃 #CDMX | Danzantes alegrando al #Zócalo. #EnVivo"
-      },
-      {
-        "id": "ssEfxbGgBmw",
-        "title": "#Garibaldi | La plaza comienza con fiesta #envivo"
-      },
-      {
-        "id": "NxgYarQp-s0",
-        "title": "Ixtapa Zihuatanejo, Guerrero En Vivo | Vista Playa Poniente"
-      },
-      {
         "id": "RjWN-JGux5Q",
         "title": "Basílica de Guadalupe, Ciudad de México, en vivo"
       },
@@ -15642,12 +15601,7 @@
     "id": "UCpDwGh4oXSWjKJJl6-kyfHg",
     "handle": "@customshouse1897",
     "name": "Customs House 1897🇨🇦",
-    "videos": [
-      {
-        "id": "FbgNIdKsXW8",
-        "title": "Tilley Cam -  24/7 Harbour Cam - Port aux Basques, Newfoundland - Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCpI9GLMAgiGTKyFnsmbptuQ",
@@ -16394,7 +16348,12 @@
     "id": "UCrBd0lVRjlyT-uu0fcFihUw",
     "handle": "@LiveCamTrento-Opinione",
     "name": "Live Trento H24 - Piazza Duomo",
-    "videos": []
+    "videos": [
+      {
+        "id": "Llv45nPcbbo",
+        "title": "Trento live cam - centro città (Piazza Duomo)"
+      }
+    ]
   },
   {
     "id": "UCrGS8VyrgCqYwaogH5bQpxQ",
@@ -16577,7 +16536,24 @@
     "id": "UCs4pu1ROx5V74IaCUZrfl6g",
     "handle": "@alphatech-n5j",
     "name": "Alpha Tech",
-    "videos": []
+    "videos": [
+      {
+        "id": "4FssMwyEU3c",
+        "title": "Dormakade Urk"
+      },
+      {
+        "id": "q7rNnFBWkHM",
+        "title": "Staversekade Urk"
+      },
+      {
+        "id": "7UT9ViLR10c",
+        "title": "Werkhaven Urk"
+      },
+      {
+        "id": "0gh8j7k8WtM",
+        "title": "Westhavenkade Urk"
+      }
+    ]
   },
   {
     "id": "UCs8QCDKYww0gFmZkJ3JHiBQ",
@@ -17604,7 +17580,16 @@
     "id": "UCv7_krlrre3GQi79d4guxHQ",
     "handle": "@ytv_news",
     "name": "YOMIURI TELECASTING CORPORATION NEWS CHANNEL",
-    "videos": []
+    "videos": [
+      {
+        "id": "1V-rE4Z1ZZQ",
+        "title": "【ライブカメラ】神戸空港（UKB）　飛行機の離着陸とお天気（読売テレビ）/ Live Camera Kobe Airport"
+      },
+      {
+        "id": "kCE6T3p8AZ4",
+        "title": "🔴【ライブカメラ】閉幕後の万博会場　大屋根リング／EXPO2025 The Grand Ring Live Camera"
+      }
+    ]
   },
   {
     "id": "UCv9D0xATZ18lnDzhWVEtnIA",
@@ -18447,14 +18432,6 @@
     "handle": "@AquaTerraZoo",
     "name": "Haus des Meeres Aqua Terra Zoo",
     "videos": [
-      {
-        "id": "V_lYXRlyjVM",
-        "title": "Haus des Meeres Aqua Terra Zoo: Haifischbecken Kamera 2"
-      },
-      {
-        "id": "PL3ga47vyAA",
-        "title": "Haus des Meeres Aqua Terra Zoo: Haifischbecken Kamera 1"
-      },
       {
         "id": "dJGhJvWx-qg",
         "title": "Haus des Meeres Aqua Terra Zoo: Dachkamera Nord"
