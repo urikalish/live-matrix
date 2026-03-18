@@ -166,7 +166,16 @@
     "id": "UC-I6QXW30NLYkW2GOMtHxew",
     "handle": "@TresoarBoterhoek1",
     "name": "Tresoar - museum, bibliotheek en archief Fryslân",
-    "videos": []
+    "videos": [
+      {
+        "id": "DPDyHlgJGnY",
+        "title": "Oldehoofsterkerkhof webcam"
+      },
+      {
+        "id": "SjY9wJXBQP8",
+        "title": "Oldehove webcam"
+      }
+    ]
   },
   {
     "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
@@ -309,12 +318,7 @@
     "id": "UC-omrowFhBZ_gzNLhX8Hq4w",
     "handle": "@paulbunyanandbabetheblueox3329",
     "name": "Paul Bunyan and Babe the Blue Ox",
-    "videos": [
-      {
-        "id": "Fwx-2yF2bic",
-        "title": "Paul Bunyan and Babe the Blue Ox Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC029bcZGqxOsRkvWrZLhgKQ",
@@ -1830,10 +1834,6 @@
         "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
       },
       {
-        "id": "Uiz6hMvHjUc",
-        "title": "Jerome Powell LIVE: Fed Chair speaks after interest rate decision"
-      },
-      {
         "id": "hBtp_FDrP3A",
         "title": "LIVE: Republicans debate a voting bill on the Senate floor"
       }
@@ -1901,7 +1901,12 @@
     "id": "UC5PNUCvYkt6PxAmgvAV8x8g",
     "handle": "@CaliPlanes",
     "name": "Cali Planes",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZZ6EnSIdSNE",
+        "title": "KSFO LIVE | LUFTHANSA 100 YEAR 747 & a380 SAN FRANCISCO INT AIRPORT PLANES LIVE IRL"
+      }
+    ]
   },
   {
     "id": "UC5UwWocd9b4F-GdEyJ4SKxA",
@@ -3330,10 +3335,6 @@
         "title": "Barnstable, MA live cam"
       },
       {
-        "id": "-6G42eHkaVs",
-        "title": "McAdam Railway Station, NB Canada - Live Cam"
-      },
-      {
         "id": "JVrS76NhZuc",
         "title": "Shrewsbury, Massachusetts - Live Scenic Pond and Trees"
       },
@@ -3645,12 +3646,7 @@
     "id": "UC8qCc7sF9hSjP-U0TiaO5Tw",
     "handle": "@CliffHouseLive",
     "name": "Cliff House Live",
-    "videos": [
-      {
-        "id": "E5CB8b_RjQY",
-        "title": "EL FRONTÓN, PUNTA DE GÁLDAR, GRAN CANARIA,  PAISAJE SONORO"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC8sXqdHFnwpVoOuOZmx1-kw",
@@ -3974,6 +3970,22 @@
       {
         "id": "sS4GzzSOY8Q",
         "title": "Pelican Beach Resort Destin, FL"
+      },
+      {
+        "id": "r4mXdVQuP6E",
+        "title": "Seascape Events Plaza"
+      },
+      {
+        "id": "2EfuPXRXLLk",
+        "title": "Seascape Town Center, Events Plaza at Mezcal"
+      },
+      {
+        "id": "TyX02EtQcYI",
+        "title": "Whales Tail Webcam Seascape FL"
+      },
+      {
+        "id": "CVgBM39TOh8",
+        "title": "Leeward Key Webcam Miramar Beach, FL"
       }
     ]
   },
@@ -4298,7 +4310,12 @@
     "id": "UCB1PUu8IJKnIsMSKMOgT8tw",
     "handle": "@marinaamarillacostasanmigu4994",
     "name": "Marina Amarilla Costa San Miguel",
-    "videos": []
+    "videos": [
+      {
+        "id": "9nBcSKKULIM",
+        "title": "Marina Amarilla San Miguel (Tenerife) - Live WEBCAM"
+      }
+    ]
   },
   {
     "id": "UCBHhwpHuJR4ZSH8gvxT0DdQ",
@@ -5303,6 +5320,10 @@
     "handle": "@LocoMediaGroep",
     "name": "Loco Media Groep",
     "videos": [
+      {
+        "id": "_rh95VZX9Eo",
+        "title": "Oldebroek Kiest | De uitslagenavond"
+      },
       {
         "id": "JkKEupWWhdM",
         "title": "LocoMediaGroep.nl | Webcam Haven Elburg"
@@ -6949,12 +6970,7 @@
     "id": "UCJONGed182uY9_TVRp1qiMg",
     "handle": "@woodlandtrust",
     "name": "The Woodland Trust",
-    "videos": [
-      {
-        "id": "--l_qKzu2kE",
-        "title": "Loch Arkaig Osprey camera 1"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCJTTzETV9AfJYvTmCWO-3rQ",
@@ -7051,12 +7067,7 @@
     "id": "UCKGyGK964U4Yd71WqBkvImA",
     "handle": "@derbycomplex",
     "name": "World Championship Derby Complex",
-    "videos": [
-      {
-        "id": "lv1Sgs7iWMA",
-        "title": "World Championship Derby Complex Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCKO7Og-r4lviwFcaXUNDNLA",
@@ -7920,7 +7931,7 @@
     "name": "Trinidad Harbor Live Webcam",
     "videos": [
       {
-        "id": "dkJoCyEm9Dk",
+        "id": "lrQk7tLaI5U",
         "title": "Trinidad Harbor Webcam Live Stream"
       }
     ]
@@ -8726,20 +8737,7 @@
     "id": "UCRDYkSXQNIq1DMITnrmOWiQ",
     "handle": "@SwakopmundFlyingSchool",
     "name": "Swakopmund Flying School",
-    "videos": [
-      {
-        "id": "rcT8qzT5sbM",
-        "title": "Swakopmund Airport (FYSM) - Towards Runway 024"
-      },
-      {
-        "id": "Afsp_NB0AYA",
-        "title": "Rossing Mountain East Live Stream"
-      },
-      {
-        "id": "VUpI8tcf1rw",
-        "title": "Rossing Mountain West"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCRFKY6zRG17tBT1tktsFiVg",
@@ -9572,12 +9570,7 @@
     "id": "UCTlY00NCf0nKyldwBys3mrA",
     "handle": "@SerradoRiodoRastroaoVivo",
     "name": "Serra do Rio do Rastro ao Vivo",
-    "videos": [
-      {
-        "id": "AtuJNG9Sbto",
-        "title": "Serra do Rio do Rastro em Lauro Müller ao vivo!"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCToP9T8yl8FzL-G9J3ONJ0g",
@@ -9713,24 +9706,7 @@
     "id": "UCUqP3f8JxvTVfAv-2L5NE6g",
     "handle": "@VacationMB",
     "name": "Vacation Myrtle Beach",
-    "videos": [
-      {
-        "id": "GKOyGoRE0Tg",
-        "title": "Live Myrtle Beach View - Captain's Quarters Resort"
-      },
-      {
-        "id": "yTfNMKMnK2Y",
-        "title": "Gorgeous day in Myrtle Beach! Live look from Crown Reef Beach Resort and Waterpark!"
-      },
-      {
-        "id": "MAPDh0XDtZs",
-        "title": "Live Beach Views | Sea Watch Resort, Myrtle Beach"
-      },
-      {
-        "id": "lsD46RnvUiw",
-        "title": "Live View at Ocean Creek Resort | Myrtle Beach, SC"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCUtI5pIKfGoRlKRxVeUwI5A",
@@ -9798,7 +9774,32 @@
     "id": "UCVPOzZcFIe5-2xy3J1bdHEQ",
     "handle": "@royalresorts7000",
     "name": "Royal Resorts",
-    "videos": []
+    "videos": [
+      {
+        "id": "YQll66UkkBY",
+        "title": "The Royal Haciendas Phase 2 Live Webcam"
+      },
+      {
+        "id": "fQJRrJkDKo8",
+        "title": "Grand Residences Riviera Cancun Live Webcam"
+      },
+      {
+        "id": "r_mablBOcz0",
+        "title": "The Royal Haciendas Phase 1 Live Webcam"
+      },
+      {
+        "id": "5D8BK_MLd-I",
+        "title": "The Royal Cancun Live Webcam"
+      },
+      {
+        "id": "fv0Qlo_IofY",
+        "title": "The Royal Sands Phase 2 Live Webcam"
+      },
+      {
+        "id": "tlRVK1opGXo",
+        "title": "The Royal Sands Phase 1 Live Webcam"
+      }
+    ]
   },
   {
     "id": "UCVR1W8BAC5bUrsvi0IdqDPg",
@@ -10346,7 +10347,12 @@
     "id": "UCYIDC8uaWwWoYTgrSWP-_GA",
     "handle": "@SatelliteBeachLive",
     "name": "SatelliteBeachLive",
-    "videos": []
+    "videos": [
+      {
+        "id": "0bv7YxPWRdw",
+        "title": "🔴 LIVE Florida Cams | Satellite Beach Grand Canal  #satellitebeach #livestream  #florida"
+      }
+    ]
   },
   {
     "id": "UCYIYTY6_2jB145WxIYdyR1A",
@@ -11678,7 +11684,28 @@
     "id": "UCdmPhiIJ-s7MJG2WtM7nbUw",
     "handle": "@BrownvillesFoodPantryForDeer",
     "name": "Brownville&#39;s Food Pantry For Deer",
-    "videos": []
+    "videos": [
+      {
+        "id": "Nw4HLGxuQ8s",
+        "title": "Brownville's Food Pantry For Deer \"Pond View\""
+      },
+      {
+        "id": "LbcUTGNOMd8",
+        "title": "Brownville's Food Pantry For Deer \"Trail View\""
+      },
+      {
+        "id": "XYdZPXiQMXs",
+        "title": "Brownville's Food Pantry For Deer \"Richard's PTZ\""
+      },
+      {
+        "id": "XwLug9jR7lA",
+        "title": "Brownville's Food Pantry For Deer \"Trough View\""
+      },
+      {
+        "id": "47dcM4M16Ic",
+        "title": "Ryan's Bird Buffet at Brownville's Food Pantry For Deer"
+      }
+    ]
   },
   {
     "id": "UCdmrMySXycO_2dIiZnQ1k-g",
@@ -11695,7 +11722,12 @@
     "id": "UCdr9cCd_WQPlLCAUjNaoACg",
     "handle": "@LVsphere",
     "name": "LV Strip Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "-6q-aEQB14E",
+        "title": "LIVE: Las Vegas Strip Live | Real-Time View Las Vegas Strip"
+      }
+    ]
   },
   {
     "id": "UCdz7UmkCvw3GlZTxHRR6Pyw",
@@ -12945,12 +12977,7 @@
     "id": "UCi9wnYP7UBrl7Tnfi3LLkpw",
     "handle": "@yiannisakkos",
     "name": "Yianni&#39;s Channel",
-    "videos": [
-      {
-        "id": "QPIwBchWESo",
-        "title": "Corfu / Kerkyra, Greece LIVE"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCiGOIXjFqy5_mUNxQNOMfHw",
@@ -14547,58 +14574,54 @@
     "id": "UCn4oQ60oxfvq7aesEPYqpKw",
     "handle": "@prorail",
     "name": "ProRail",
-    "videos": [
-      {
-        "id": "OisSiJ36SLI",
-        "title": "Strukton PACS C11 Camera 2"
-      },
-      {
-        "id": "tmMXU7B79Tg",
-        "title": "Strukton PACS C11 Camera 1"
-      },
-      {
-        "id": "2tgHBRFHMm8",
-        "title": "Amsterdam De Vijf Bruggen camera 1"
-      },
-      {
-        "id": "0imghdHjEks",
-        "title": "Werkzaamheden station Nijmegen I Livestream ProRail"
-      },
-      {
-        "id": "Z4HhtYkbfSk",
-        "title": "livestream: Spoorzone Groningen ProRail | Live 1/2"
-      },
-      {
-        "id": "ZfOeOuWz-YQ",
-        "title": "Zuidwestboog Meteren"
-      },
-      {
-        "id": "yhZ9ouC4kdI",
-        "title": "Livestream Heerhugowaard ODG Zuidtangent | ProRail"
-      },
-      {
-        "id": "vmNQjvCC3Ws",
-        "title": "Station Amsterdam Centraal Dijksgracht, Livestream ProRail"
-      },
-      {
-        "id": "FHJH2yMe6Hw",
-        "title": "Station Amsterdam Centraal - De Vijf Bruggen, camera 2 | Livestream ProRail"
-      },
-      {
-        "id": "SfvOavZTU3Y",
-        "title": "Livestream Heerhugowaard bouw spooronderdoorgang | ProRail"
-      },
-      {
-        "id": "xxjW1hCdg9s",
-        "title": "Livestream: Spoorzone Groningen - camera 2 | ProRail"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCn7285bO_vEziJ9brPtkFMA",
     "handle": "@wcax-tvchannel3news",
     "name": "WCAX-TV Channel 3 News",
-    "videos": []
+    "videos": [
+      {
+        "id": "JcjXzM_WAe4",
+        "title": "WCAX Sky Watch 3: Champlain Valley Fairgrounds"
+      },
+      {
+        "id": "55JpgptjSkw",
+        "title": "WCAX SkyWatch3: Mount Mansfield, VT"
+      },
+      {
+        "id": "0fJeJeIoaTM",
+        "title": "WCAX SkyWatch3: Rutland, VT"
+      },
+      {
+        "id": "GWMEipj_Rr0",
+        "title": "WCAX Skywatch 3: Lyndon Institute in Lyndon, VT"
+      },
+      {
+        "id": "3NZYi-BCCDY",
+        "title": "WCAX SkyWatch3: BTV Airport South"
+      },
+      {
+        "id": "c6N5C6Ifxys",
+        "title": "WCAX Skywatch 3: Goodrich Memorial Library, Newport, VT"
+      },
+      {
+        "id": "e7ff5Yvt5Jk",
+        "title": "WCAX SkyWatch3: WCAX Studio, South Burlington, VT"
+      },
+      {
+        "id": "JIE0vE51OKU",
+        "title": "WCAX Sky Watch 3 Camera: ECHO Center for Lake Champlain"
+      },
+      {
+        "id": "Jv2qVHojYqY",
+        "title": "WCAX SkyWatch3: G. Stone Motors, Middlebury, VT"
+      },
+      {
+        "id": "T8_7hmOsIJI",
+        "title": "WCAX SkyWatch3: Homeport, Church St., Burlington, VT"
+      }
+    ]
   },
   {
     "id": "UCnB-Fhp5FQfCZNfdAvm27Qw",
@@ -15187,126 +15210,6 @@
       {
         "id": "maqF165tmEA",
         "title": "Cabo San Lucas, Baja California Sur En Vivo | Vista Playa El Médano"
-      },
-      {
-        "id": "E85vFalANCo",
-        "title": "Cabo San Lucas Medano Este"
-      },
-      {
-        "id": "EaBdl4I887c",
-        "title": "Centro de la Alcaldía Tlalpan en vivo"
-      },
-      {
-        "id": "96_pwUmE_lM",
-        "title": "Rancho La Onza. Bebedero"
-      },
-      {
-        "id": "iYN3GnHM9T0",
-        "title": "Rancho La Onza Panorámica"
-      },
-      {
-        "id": "CkrHaba08QQ",
-        "title": "Rancho La Onza. Bordo"
-      },
-      {
-        "id": "VhLVfzmJXLQ",
-        "title": "El Parque de Xel Ha, Quintana Roo, en vivo"
-      },
-      {
-        "id": "YaDY9zRsoSA",
-        "title": "Cancún, Quintana Roo En Vivo | Vista Panorámica hacia el Sur de Cancún"
-      },
-      {
-        "id": "VZcb6neiihI",
-        "title": "Puebla. Vista de los volcanes Popocatépetl e Iztaccíhuatl desde Hotel Holiday Inn Puebla"
-      },
-      {
-        "id": "hKj918yyq10",
-        "title": "El Volcán de Fuego de Colima en vivo visto desde Montitlán, Colima gracias a Cenapred"
-      },
-      {
-        "id": "oC11QNM--hY",
-        "title": "El Volcán de Fuego de Colima en vivo visto desde Palmillas, Colima, gracias a Cenapred"
-      },
-      {
-        "id": "NI4v1OlIlZM",
-        "title": "Volcán #Popocatépetl En Vivo | Vista Tlamacas, Estado de México"
-      },
-      {
-        "id": "WdlVBzYp44U",
-        "title": "Cozumel, Quintana Roo En Vivo | Vista desde Hotel Presidente Intercontinental Cozumel Resort & Spa"
-      },
-      {
-        "id": "AiDH11vkEoo",
-        "title": "⚠️☃️🍇 #VALLADOLID | ¡NEVANDO! Viñedos Virtus Bodegas, Ribera del Duero #EnVivo"
-      },
-      {
-        "id": "KwCgg_J-bdM",
-        "title": "Puerto Vallarta en vivo desde Grand Park Royal Vallarta"
-      },
-      {
-        "id": "YsavcrN0B7A",
-        "title": "Vista subacuática de Cozumel"
-      },
-      {
-        "id": "6ImBqGm-3TE",
-        "title": "Vista en vivo del Zócalo de la Ciudad de México"
-      },
-      {
-        "id": "6zRl9by4sSs",
-        "title": "Playa del Carmen EN VIVO - Vista panorámica Webcams de México"
-      },
-      {
-        "id": "nM4I71den9Q",
-        "title": "Plaza Garibaldi, Ciudad de México, en vivo"
-      },
-      {
-        "id": "ZdmcToASPwQ",
-        "title": "Hotel Xcaret México en Vivo"
-      },
-      {
-        "id": "eoZLgp-vqdg",
-        "title": "Vista de Virtus: Bodega en Valladolid"
-      },
-      {
-        "id": "PVfP4PT6ZsE",
-        "title": "Loreto, Baja California Sur en vivo"
-      },
-      {
-        "id": "i882xh_Rf4c",
-        "title": "Paseo de la Reforma en CDMX desde Hotel B Urban Xaman Reforma"
-      },
-      {
-        "id": "RY3iDXftbMc",
-        "title": "Puerto Vallarta, Jalisco en vivo visto desde Hyatt Ziva Puerto Vallarta"
-      },
-      {
-        "id": "LfiRn3jixtA",
-        "title": "Vista de Cancún en vivo desde Breathless Cancún Soul Resort & Spa"
-      },
-      {
-        "id": "rAwfz0gC3JI",
-        "title": "Cancún, Quintana Roo | Vista desde Grand Park Royal Luxury Resorts"
-      },
-      {
-        "id": "ew8U525nfBQ",
-        "title": "Ixtapa Zihuatanejo, Guerrero En Vivo | Vista Oriente"
-      },
-      {
-        "id": "9f3npaKdyCA",
-        "title": "Acapulco, Guerrero En Vivo | Vista panorámica de la Marina"
-      },
-      {
-        "id": "rVhFjxPiSEI",
-        "title": "Cozumel Hotel B Cozumel en vivo"
-      },
-      {
-        "id": "yyWbHA_EWCc",
-        "title": "🔴 #CDMX ((ALERTA)) | ¡La tormenta está extrema! CDMX #EnVivo"
-      },
-      {
-        "id": "cAIWGSFgFS4",
-        "title": "Bahía Santa Cruz, Huatulco. Vista en vivo"
       },
       {
         "id": "OcS0DxGKjG4",
@@ -16264,7 +16167,7 @@
     "name": "Hawick TV",
     "videos": [
       {
-        "id": "k20NVCqEFFc",
+        "id": "YgHpaBRzJ3w",
         "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
       }
     ]
