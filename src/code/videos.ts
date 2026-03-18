@@ -174,7 +174,6 @@ export function searchVideos(query: string, maxResults = 20): Video[] {
   return matches;
 }
 
-
 export function getYouTubeVideoSrc(videoId: string) {
   return `https://www.youtube.com/embed/${encodeURIComponent(videoId)}?autohide=1&autoplay=1&controls=0&disablekb=1&iv_load_policy=3&modestbranding=1&mute=1&playsinline=1&rel=0&showinfo=0&vq=hd1080`;
 }

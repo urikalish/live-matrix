@@ -215,7 +215,6 @@ function handleShuffle() {
   });
 }
 
-
 function handleLayoutChange() {
   videos.shuffleVideos();
   renderGrid();
