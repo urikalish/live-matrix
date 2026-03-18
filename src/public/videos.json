@@ -991,7 +991,7 @@
     "name": "SISE Argentina®",
     "videos": [
       {
-        "id": "WxqFswgQqUk",
+        "id": "UBvY3QnKkUg",
         "title": "Camaras en Vivo Puente General Belgrano - SISE Argentina®"
       }
     ]
@@ -1580,7 +1580,40 @@
     "id": "UC3ewP9SczRIGGpDXDQvpPyQ",
     "handle": "@SlowTVLive",
     "name": "SlowTV",
-    "videos": []
+    "videos": [
+      {
+        "id": "pKbUd8n5p5Y",
+        "title": "🔴 LIVE: Planespotting at Prague Vaclav Havel Airport, Prague | 24/7 LIVE"
+      },
+      {
+        "id": "oFLvtPKBXEs",
+        "title": "🔴 LIVE: Trains at Oustecké nádraží | 24/7 LIVE"
+      },
+      {
+        "id": "CdChoUw9-VU",
+        "title": "🟢 Premium 4K Livestream: Trainspotting on Prague Main Station | 24/7 LIVE"
+      },
+      {
+        "id": "tmlE1ct0cYk",
+        "title": "🔴 4K LIVE: Trainspotting on Prague Main Station | 24/7 LIVE"
+      },
+      {
+        "id": "EHgE96uSTdk",
+        "title": "🔴 LIVE: Lužná u Rakovníka Train Station | 24/7 LIVE"
+      },
+      {
+        "id": "VnsRQvfv_g4",
+        "title": "🔴 LIVE: RIO Boat | 24/7 LIVE"
+      },
+      {
+        "id": "-8EcyiG3I3g",
+        "title": "🟢 Premium Livestream: Lužná u Rakovníka Train Station | 24/7 LIVE"
+      },
+      {
+        "id": "gvxM3fr1tWc",
+        "title": "🟢 Premium Livestream: Rio Boat | 24/7 LIVE"
+      }
+    ]
   },
   {
     "id": "UC3j2hR5zFDLw5He4n4J-BbA",
@@ -1814,6 +1847,14 @@
     "name": "Associated Press",
     "videos": [
       {
+        "id": "wKi1eEalG6s",
+        "title": "LIVE: Tulsi Gabbard and Kash Patel hearing on Iran war and worldwide threats"
+      },
+      {
+        "id": "8OQf8EvzHRE",
+        "title": "LIVE: Markwayne Mullin confirmation hearing to replace Kristi Noem as DHS chief"
+      },
+      {
         "id": "Cc0I5wgG-YY",
         "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
       },
@@ -1891,7 +1932,12 @@
     "id": "UC5UwWocd9b4F-GdEyJ4SKxA",
     "handle": "@vibewithmike",
     "name": "Vibe with Mike ⚓️",
-    "videos": []
+    "videos": [
+      {
+        "id": "f0YRWpQTxNU",
+        "title": "Duluth Ship Cam at Canal Park"
+      }
+    ]
   },
   {
     "id": "UC5_UEwpA9D5p5TjbfI5Ys6w",
@@ -1908,20 +1954,7 @@
     "id": "UC5fEp9PlxQP9llmRAWto_XQ",
     "handle": "@portevergladestrafficcam8353",
     "name": "Port Everglades Traffic Cam",
-    "videos": [
-      {
-        "id": "Wwl0slIHKXE",
-        "title": "Port Everglades Traffic Cam.02"
-      },
-      {
-        "id": "Lpm-C_Gz6yM",
-        "title": "Port Everglades Traffic Cam.03"
-      },
-      {
-        "id": "67-73mgWDf0",
-        "title": "Port Everglades Traffic Cam.01"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC5lMzpZvCLpwyvu348B8zYw",
@@ -2218,10 +2251,6 @@
     "handle": "@Sondelaterre",
     "name": "Le Son de la terre",
     "videos": [
-      {
-        "id": "bS_TdqzP2do",
-        "title": "Ma diffusion"
-      },
       {
         "id": "k3DZKHJ4Aqg",
         "title": "🔴 Live Webcam Paris - La Seine et Notre Dame Ambiance en direct du bateau \"Le Son de la Terre\""
@@ -3612,7 +3641,12 @@
     "id": "UC8p1N6NQkCnUukz3fkwb9Rw",
     "handle": "@Taimaz.B",
     "name": "Taimaz",
-    "videos": []
+    "videos": [
+      {
+        "id": "1jIuUY9qTkI",
+        "title": "Calgary Live Webcam |  Downtown | Canada"
+      }
+    ]
   },
   {
     "id": "UC8qCc7sF9hSjP-U0TiaO5Tw",
@@ -3662,7 +3696,24 @@
     "id": "UC9Ljd016Si9rv3KS-5CbpGg",
     "handle": "@VanillaISP",
     "name": "Vanilla",
-    "videos": []
+    "videos": [
+      {
+        "id": "0Igczg6-Yvs",
+        "title": "Vanilla Live Stream Table Mountain - brought to you by vanilla.co.za"
+      },
+      {
+        "id": "-Qi7IXhSScA",
+        "title": "Vanilla live stream Signal Hill"
+      },
+      {
+        "id": "8xvFxAPpEtc",
+        "title": "Vanilla live stream Signal Hill and Cape Town CBD"
+      },
+      {
+        "id": "4Zu64CmAjMo",
+        "title": "View of  Sea Point and Lions Head - brought to you by vanilla.co.za"
+      }
+    ]
   },
   {
     "id": "UC9PfqU54WV-eb4Uk14De2wA",
@@ -4254,7 +4305,12 @@
     "id": "UCB-zCeE3hpdWcnVaZePAwFQ",
     "handle": "@RigaZOO",
     "name": "RigaZOO",
-    "videos": []
+    "videos": [
+      {
+        "id": "2mX7821HC90",
+        "title": "Rīga ZOO sliņķi"
+      }
+    ]
   },
   {
     "id": "UCB1PUu8IJKnIsMSKMOgT8tw",
@@ -5004,7 +5060,7 @@
     "name": "Ruta Fiscal PN Puentes internacionales I y II",
     "videos": [
       {
-        "id": "QPi84VhEZN0",
+        "id": "q8eKj2f3eVg",
         "title": "Transmisión en vivo de ruta fiscal Piedras Negras Puente Internacional 2"
       }
     ]
@@ -5264,12 +5320,7 @@
     "id": "UCEBeDPgugykNr0t3LvMAGXg",
     "handle": "@LocoMediaGroep",
     "name": "Loco Media Groep",
-    "videos": [
-      {
-        "id": "JkKEupWWhdM",
-        "title": "LocoMediaGroep.nl | Webcam Haven Elburg"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCED0EjiTpphqDS4GnLimLyQ",
@@ -5419,62 +5470,6 @@
       {
         "id": "Ob642-kNnQU",
         "title": "Hoback River Jackson Hole Wyoming - SeeJH.com"
-      },
-      {
-        "id": "ryl9x2g1TF4",
-        "title": "The Deck @ The Bird - SeeJH.com"
-      },
-      {
-        "id": "JVknJ-Ui8xQ",
-        "title": "Gather | Jackson Hole Restaurant + Bar Near Town Square - SeeJH.com"
-      },
-      {
-        "id": "55_I1irt_QI",
-        "title": "Dave Hansen Whitewater & Scenic Floats - SeeJH.com"
-      },
-      {
-        "id": "vj9YZyLRzZU",
-        "title": "South Fork River - The Lodge at Palisades Creek - SeeJH.com"
-      },
-      {
-        "id": "pUQf75fPvzE",
-        "title": "Hatchet Resort in Moran, WY near GTNP - SeeJH.com"
-      },
-      {
-        "id": "FmoclK_hKz8",
-        "title": "Jackson Town Square Cache Street @ Roadhouse Pub"
-      },
-      {
-        "id": "DoUOrTJbIu4",
-        "title": "Live from Jackson’s Famous Town Square – Don’t Miss This View - SeeJH.ai"
-      },
-      {
-        "id": "_2rvoH5oDcg",
-        "title": "National Museum of Wildlife Art - Live Elk Refuge"
-      },
-      {
-        "id": "WeeDyqRKqVI",
-        "title": "Turpin Meadow Ranch - Near Grand Teton Park"
-      },
-      {
-        "id": "L6vwrxDc3TA",
-        "title": "Rustic Inn @ Jackson Hole"
-      },
-      {
-        "id": "DyvzXyJ_fVg",
-        "title": "Togwotee Mountain Lodge - SeeJH.com"
-      },
-      {
-        "id": "qi6QKB-sJRI",
-        "title": "Grand Targhee Driggs Habitat - SeeJH.com"
-      },
-      {
-        "id": "3mE_mpsx_nU",
-        "title": "Jackson Hole Golf & Tennis Live Cam -  SeeJH.com"
-      },
-      {
-        "id": "1EiC9bvVGnk",
-        "title": "Jackson Hole Town Square Live Webcam Stream – See the Action Now"
       }
     ]
   },
@@ -6390,6 +6385,10 @@
     "handle": "@leavenworthcountykansas9566",
     "name": "Leavenworth County Kansas",
     "videos": [
+      {
+        "id": "m1qdv-qck2k",
+        "title": "LV COUNTY KS 2026-03-18"
+      },
       {
         "id": "wdl24JBMMis",
         "title": "Leavenworth County Kansas Live View"
@@ -7546,12 +7545,7 @@
     "id": "UCLwUcA69lv5tns6ct-ipiHA",
     "handle": "@BoathouseatNorthLanding",
     "name": "Boathouse at North Landing ",
-    "videos": [
-      {
-        "id": "mT1NbEJExvc",
-        "title": "North Landing Weather Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCM0qV6ZHBkjxBokQepECyFg",
@@ -7801,12 +7795,7 @@
     "id": "UCNNQSsm60OvzlbDu-duyS4A",
     "handle": "@mpcmunchmeyerpetersenitser7862",
     "name": "MPC Münchmeyer Petersen IT Services GmbH",
-    "videos": [
-      {
-        "id": "P1A1b3R3Se4",
-        "title": "MPC Group: Hamburg Hafen"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCNOXlPIEg4nNvCqlInpKcXw",
@@ -7894,7 +7883,7 @@
     "name": "SBGR LIVE",
     "videos": [
       {
-        "id": "5pxEsRKJjlM",
+        "id": "kjqsWLFZ1Jw",
         "title": "SBGR LIVE 4K - Aeroporto Internacional de Guarulhos AO VIVO - GRU Airport"
       }
     ]
@@ -8101,7 +8090,12 @@
     "id": "UCOjscjEL-lGZVP-2uooEuCA",
     "handle": "@libraryvideos",
     "name": "East Hampton Library",
-    "videos": []
+    "videos": [
+      {
+        "id": "BeVW_H0FDiM",
+        "title": "East Hampton Library Main Street Webcam"
+      }
+    ]
   },
   {
     "id": "UCOkHmC8gMrifs24PrPmTumg",
@@ -9094,6 +9088,10 @@
     "name": "SHOWME Caribbean",
     "videos": [
       {
+        "id": "GP5mQ0b6BE0",
+        "title": "LIVE SXM Airport March 18 ✈️ -  Maho Beach Sint Maarten"
+      },
+      {
         "id": "moDtOKxWCxo",
         "title": "🌴Best Caribbean Beach Resorts LIVE | Curaçao • Sint Maarten • Aruba • Bonaire"
       },
@@ -9613,39 +9611,13 @@
     "id": "UCUaLy1_4rsLo4HyCLCPlD4g",
     "handle": "@LanzaroteWebcam",
     "name": "LanzaroteWebcam",
-    "videos": [
-      {
-        "id": "AfD16cDYBbE",
-        "title": "🔴  LIVE WEBCAM from PUERTO del CARMEN BEACH - Storm Therese (Lanzarote, Canary Islands, Spain)"
-      },
-      {
-        "id": "BRXBUNi2J78",
-        "title": "🔴 LIVE WEBCAM from FUERTEVENTURA AIRPORT - Tracking Storm Therese (Canary Islands, Spain)"
-      },
-      {
-        "id": "yrx0fvj-4QI",
-        "title": "⛈️ LIVE WEBCAM from TENERIFE AIRPORT - Storm Therese  (Canary Islands, Spain)"
-      },
-      {
-        "id": "JMFFi4Ma5M4",
-        "title": "🔴 LIVE WEBCAM from FUERTEVENTURA AIRPORT (Canary Islands, Spain)"
-      },
-      {
-        "id": "AAlo3eCPVbk",
-        "title": "🔴 LIVE WEBCAM from LANZAROTE AIRPORT - Storm Therese (Canary Islands, Spain)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCUmvxPTUfflU3v_mcRNGAeg",
     "handle": "@Sv.Uspenska-Pochaevska-Lavra",
     "name": "† Свято-Успенская Почаевская Лавра",
-    "videos": [
-      {
-        "id": "eVZvJN_HRA4",
-        "title": "Пряма трансляція богослужіння † Свято-Успенська Почаївська Лавра"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCUpFHGasL2cNAo2w70vwrSQ",
@@ -9663,10 +9635,6 @@
     "handle": "@VacationMB",
     "name": "Vacation Myrtle Beach",
     "videos": [
-      {
-        "id": "uyd5gTs2C0E",
-        "title": "Myrtle Beach Sunrise 03/18/2026"
-      },
       {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
@@ -9701,6 +9669,10 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
+      {
+        "id": "2NS10IuTXFQ",
+        "title": "SafariLIVE Sunset - 18 March 2026"
+      },
       {
         "id": "OwjHV9Lby3w",
         "title": "Jaci’s Dam Cam"
@@ -9942,7 +9914,7 @@
     "name": "Djuma Cam",
     "videos": [
       {
-        "id": "wd10gf5RBGE",
+        "id": "4eoL0V87eTg",
         "title": "Djuma Cam Live Stream"
       },
       {
@@ -10111,6 +10083,22 @@
       {
         "id": "uZDLl8Ft5vM",
         "title": "PDX Airport Hotels"
+      },
+      {
+        "id": "wCcZLPdpinA",
+        "title": "Chinook Winds Casino Resort in Lincoln City, OR"
+      },
+      {
+        "id": "ZCO4pVIKyzQ",
+        "title": "ilani Hotel in Ridgefield, Washington"
+      },
+      {
+        "id": "X7cYmyWful0",
+        "title": "Oregon Coast Aquarium"
+      },
+      {
+        "id": "DMRhJGfxfo0",
+        "title": "Oregon's Mt. Hood Territory"
       }
     ]
   },
@@ -10464,6 +10452,10 @@
     "name": "WebcamEgmond",
     "videos": [
       {
+        "id": "3BRkEpf9prs",
+        "title": "🔴 Egmond aan Zee LIVE Weerstation – Wind & Temp Nu"
+      },
+      {
         "id": "0GfmTfi10tE",
         "title": "🔴 Live Webcam & Weer – Egmond aan Zee | Actuele beelden van het strand en weerstation 🌊☀️"
       },
@@ -10553,7 +10545,12 @@
     "id": "UC_9dsRFZiS87yepdO4Qc9Ng",
     "handle": "@MiamiRiverCam",
     "name": "Miami River Camera ",
-    "videos": []
+    "videos": [
+      {
+        "id": "7wHgYc_kN98",
+        "title": "Miami River Camera"
+      }
+    ]
   },
   {
     "id": "UC_B1lpgj2DH_wO8T1jJnSYA",
@@ -10722,6 +10719,22 @@
     "handle": "@SOT",
     "name": "STREETS OF THAILAND",
     "videos": [
+      {
+        "id": "oyGHEnCrQ-o",
+        "title": "Annie Sweetery & Eatery | Taling Nam | Koh Samui | Thailand"
+      },
+      {
+        "id": "Kush_ZxTy2c",
+        "title": "Black Pearl | Lamai beach | Koh Samui | Thailand"
+      },
+      {
+        "id": "xU-jVYfA9x0",
+        "title": "Ida B Domain | Lipa Noi | Koh Samui | Thailand"
+      },
+      {
+        "id": "Wi9dZmunD2o",
+        "title": "Munchies Pizza & Kebab 🔴 Chaweng beach | Koh Samui | Thailand"
+      },
       {
         "id": "Sm9y8G0TLXI",
         "title": "No Stress Restaurant | Lamai | Koh Samui | Thailand | Livecam on the beach"
@@ -11305,7 +11318,12 @@
     "id": "UCcCXppxPeV4-xBKIwZXCQMQ",
     "handle": "@wahoobaypompano",
     "name": "Wahoo Bay",
-    "videos": []
+    "videos": [
+      {
+        "id": "oBTGY6Ax870",
+        "title": "Wahoo Bay Underwater Camera"
+      }
+    ]
   },
   {
     "id": "UCcDDEzMRly4_FRH3LxOpDNQ",
@@ -11478,10 +11496,6 @@
       {
         "id": "3ICTZJlyr2U",
         "title": "MEDview: Varbergs Motorklubb"
-      },
-      {
-        "id": "-J0TMQA6_6M",
-        "title": "MEDview: Flottsbro, Huddinge"
       },
       {
         "id": "AqkYfZl4vkA",
@@ -11746,12 +11760,7 @@
     "id": "UCefcZWd7iNbBwydSPCOlOTw",
     "handle": "@portlandheadlight",
     "name": "Portland Head Light and Fort Williams Park",
-    "videos": [
-      {
-        "id": "rArvNLNmhOo",
-        "title": "Portland Head Light - View of Casco Bay Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCegzBUd6-PYoO_v7gjJgufg",
@@ -11806,7 +11815,12 @@
     "id": "UCeunW_050lqjYtDwGatMFvw",
     "handle": "@waterstreetinn3792",
     "name": "Water Street Inn",
-    "videos": []
+    "videos": [
+      {
+        "id": "tK3_Rw4QJI0",
+        "title": "Lift Bridge over the St. Croix River - Stillwater, Minnesota USA"
+      }
+    ]
   },
   {
     "id": "UCey3hahtkbKG9VrXTSotZoQ",
@@ -12576,7 +12590,12 @@
     "id": "UCgSfKSkVb9izyct6Ima8P3A",
     "handle": "@deanmitchell9010",
     "name": "Dean Mitchell",
-    "videos": []
+    "videos": [
+      {
+        "id": "nxJWX1HPHXY",
+        "title": "NWR Weather Live Cam"
+      }
+    ]
   },
   {
     "id": "UCgWmWt_zIBk-X4sCk8fgANA",
@@ -12684,16 +12703,8 @@
     "name": "CGTN",
     "videos": [
       {
-        "id": "ti5EeCiNyFs",
-        "title": "Live: The Hype – Decoding the OpenClaw mania in China"
-      },
-      {
         "id": "2x8meS9VnNA",
         "title": "Live of Beirut skyline."
-      },
-      {
-        "id": "v7TTBFMNwZ4",
-        "title": "Live: Latest on Middle East tensions after Iran's retaliation against US-Israel attacks"
       },
       {
         "id": "cJfF8XfEON4",
@@ -12917,7 +12928,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "52446qnlHDE",
+        "id": "d7BCPIyDHhw",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -13236,8 +13247,8 @@
     "name": "CGTN Europe",
     "videos": [
       {
-        "id": "W7m82v3ZVvo",
-        "title": "Live from Kabul for a funeral of those killed following a strike on a hospital Tuesday"
+        "id": "kWZxBBSjdNQ",
+        "title": "WATCH LIVE: Funeral procession for Iranian security chief Ali Larijani"
       },
       {
         "id": "2GDWDHrky6I",
@@ -14222,7 +14233,7 @@
     "videos": [
       {
         "id": "dC2DUuHmExQ",
-        "title": "Birmingham Airport Live ✈️ BHX R15 Ops 18.03.26"
+        "title": "Birmingham Airport Live ✈️ Boeing 747 Arrival ETA 16:17"
       }
     ]
   },
@@ -14957,12 +14968,7 @@
     "id": "UCoS1S0V-QdSl_xe29G8mKcQ",
     "handle": "@大丸有まちづくり協議会-b5v",
     "name": "大丸有まちづくり協議会",
-    "videos": [
-      {
-        "id": "ZN4gh5IOowM",
-        "title": "東京駅丸の内口ライブカメラ"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCoaT_geZ6GwRscQgOlchh_w",
@@ -15201,16 +15207,8 @@
         "title": "Cabo San Lucas Medano Este"
       },
       {
-        "id": "VRHXuIdA5jY",
-        "title": "Rancho La Onza. Criadero"
-      },
-      {
         "id": "EaBdl4I887c",
         "title": "Centro de la Alcaldía Tlalpan en vivo"
-      },
-      {
-        "id": "x5Xwonlh_ac",
-        "title": "Rancho La Onza. Criadero"
       },
       {
         "id": "96_pwUmE_lM",
@@ -15447,7 +15445,16 @@
     "id": "UCp1ojgNJ8mNWdMDsdcMRA2Q",
     "handle": "@StGeorgeTower",
     "name": "St. George Tower",
-    "videos": []
+    "videos": [
+      {
+        "id": "gKF1tTMubuM",
+        "title": "Live NYC Brooklyn Bridge & Manhattan cam"
+      },
+      {
+        "id": "fJLVeqeTiso",
+        "title": "Live NYC Lower Manhattan & New York Harbor Cam"
+      }
+    ]
   },
   {
     "id": "UCp2wwvvhIxKlh44p7tH-s_w",
@@ -15690,7 +15697,12 @@
     "id": "UCpcQw8euHeDXiI7yJAvNzpQ",
     "handle": "@carronfarm",
     "name": "Carron Farm",
-    "videos": []
+    "videos": [
+      {
+        "id": "vKnO8qTj6Vw",
+        "title": "Higher Town Quay"
+      }
+    ]
   },
   {
     "id": "UCpkcJlssp52fP6xHFUYT9ag",
@@ -17346,7 +17358,7 @@
       },
       {
         "id": "O81gItg_Jco",
-        "title": "Nkorho: Live Stream in the Sabi Sand, South Africa"
+        "title": "Live Safari from Nkorho Bush Lodge | 24/7 Wildlife in Sabi Sand, South Africa"
       },
       {
         "id": "QGvjAPzImR8",
@@ -17418,7 +17430,7 @@
       },
       {
         "id": "C9hjksOtngo",
-        "title": "Live Wildlife Stream at Roy’s Dam | Sabi Sand, South Africa"
+        "title": "Roy’s Dam LIVE Cam | Big 5 Wildlife in Sabi Sand, South Africa"
       },
       {
         "id": "8J9USywkGmw",
@@ -17486,7 +17498,7 @@
       },
       {
         "id": "jH3e5w4BWGA",
-        "title": "Live from Tembo Plains | Elephants & Wildlife on the Zambezi"
+        "title": "LIVE from the Zambezi River | Tembo Plains Safari Cam"
       },
       {
         "id": "Cq2qCph6Lx8",
@@ -18150,12 +18162,7 @@
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
     "handle": "@wightwildlifecam",
     "name": "Wight Wildlife Cam",
-    "videos": [
-      {
-        "id": "43O5fG0SuDs",
-        "title": "BIRD FEEDERS ISLE OF WIGHT *LIVE 24/7*"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxovy5qTcwjsyl3ETKAOgdg",
