@@ -5159,10 +5159,6 @@
     "name": "City of Bettendorf, Iowa",
     "videos": [
       {
-        "id": "nzXfw8KNSXw",
-        "title": "March 18, 2026 Planning and Zoning Commission Meeting"
-      },
-      {
         "id": "8Rp5JRSQOvk",
         "title": "Bettendorf View of the I-74 Mississippi River Bridge"
       },
@@ -5226,8 +5222,8 @@
     "name": "Khao Lak Land Discovery",
     "videos": [
       {
-        "id": "BYcfAXCqpHs",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 19-Mar-2026 02:33"
+        "id": "bSSIpOzmSYI",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 19-Mar-2026 06:15"
       }
     ]
   },
@@ -5701,12 +5697,7 @@
     "id": "UCFGn2LwKSNr1t51FuxZE3nw",
     "handle": "@DimasPrasetyoHerdiyanto",
     "name": "Dimas Prasetyo Herdiyanto",
-    "videos": [
-      {
-        "id": "QG-zvYgMJF0",
-        "title": "🔴Live: DI.Panjaitan East Jakarta"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCFHiC0LXThenL-CEHmf5Q2A",
@@ -6314,10 +6305,6 @@
       {
         "id": "KUnIxGXKox0",
         "title": "LIVE: Forum Machico Webcam, Madeira, Portugal | Madeira-Web"
-      },
-      {
-        "id": "_Q-e0NlqzY8",
-        "title": "LIVE: CR7 Museum PTZ Webcam Funchal, Madeira Island @MadeiraWebLive"
       },
       {
         "id": "7a39w34ruGM",
@@ -13337,10 +13324,6 @@
         "title": "LIVE: NASA astronauts conduct a planned six‑and‑a‑half‑hour spacewalk"
       },
       {
-        "id": "nLeSAVoBrLk",
-        "title": "WATCH LIVE: Macron visits construction site of new aircraft carrier"
-      },
-      {
         "id": "2GDWDHrky6I",
         "title": "WATCH LIVE: View of Beirut skyline"
       },
@@ -14330,7 +14313,12 @@
     "id": "UCmEC5XS9Ol-6jqBaKpzqehQ",
     "handle": "@techandtrains101",
     "name": "Techandtrains101",
-    "videos": []
+    "videos": [
+      {
+        "id": "gzV7uUxwgwI",
+        "title": "🔴 London Underground First Person Journey 24/7 Livestream! 🚇"
+      }
+    ]
   },
   {
     "id": "UCmGJrhK3VM4BSOGF6g5pmZw",
