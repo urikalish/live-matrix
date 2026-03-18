@@ -183,7 +183,7 @@
     "name": "مركز الوارث للإنتاج الفني",
     "videos": [
       {
-        "id": "gW6Lws-6O0o",
+        "id": "oCQNocwhH6w",
         "title": "البث المباشر من العتبتين المقدستين الحسينية  والعباسية |  كربلاء المقدسة الان Karbala live"
       }
     ]
@@ -313,6 +313,10 @@
     "handle": "@RyukyushimpoJp",
     "name": "琉球新報",
     "videos": [
+      {
+        "id": "XO3Ip031sCQ",
+        "title": "【2026年3月18日(水)】琉球新報社から生配信！ニュースペーBar 泉崎コメディクラブ"
+      },
       {
         "id": "nU41kpfKLJM",
         "title": "【LIVE】きょうの沖縄・那覇市役所前交差点ライブカメラ【琉球新報社から】"
@@ -1694,10 +1698,6 @@
       {
         "id": "mwi1Vesi5X4",
         "title": "Puentes Internacionales de Piedras Negras, Coahuila y Eagle Pass, Texas."
-      },
-      {
-        "id": "86Sj48OPkn4",
-        "title": "Puente Internacional 2: Piedras Negras, Coahuila y Eagle Pass, Texas | VISTA ADICIONAL"
       }
     ]
   },
@@ -1850,6 +1850,10 @@
     "handle": "@AssociatedPress",
     "name": "Associated Press",
     "videos": [
+      {
+        "id": "l-cuf1D3-JU",
+        "title": "LIVE: UN maritime body meets on Iran war shipping risks"
+      },
       {
         "id": "Cc0I5wgG-YY",
         "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
@@ -2904,10 +2908,6 @@
     "handle": "@LeSanctuaireNotreDamedeLourdes",
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
-      {
-        "id": "V22IcZwZ4XI",
-        "title": "Messe depuis la Grotte de Lourdes - 18/03/2026"
-      },
       {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
@@ -4016,7 +4016,12 @@
     "id": "UCALmdjIUxpKqyUTxg5QOSMQ",
     "handle": "@marginalwaypreservationfun2285",
     "name": "Marginal Way Preservation Fund",
-    "videos": []
+    "videos": [
+      {
+        "id": "RLIRtD89O7g",
+        "title": "Marginal Way Ogunquit Maine Live View"
+      }
+    ]
   },
   {
     "id": "UCARB8y6PuoOBjZXJKIG-LDw",
@@ -5545,7 +5550,12 @@
     "id": "UCEuJE0FEa-cTwGdyTwL7gEA",
     "handle": "@jordanriverbaptismyardenit2223",
     "name": "Jordan River Baptism | Yardenit | Jardenit",
-    "videos": []
+    "videos": [
+      {
+        "id": "Ts3iu4djX3A",
+        "title": "שידור חי של Jordan River Baptism | Yardenit | Jardenit"
+      }
+    ]
   },
   {
     "id": "UCEuNOh-fPCXEkMJmfkV6JgQ",
@@ -6237,6 +6247,10 @@
     "handle": "@MadeiraWebLive",
     "name": "Madeira-Web",
     "videos": [
+      {
+        "id": "n5z4uxlus8k",
+        "title": "LIVE: Paul do Mar WebCam 24/7 | O Precipício, Fajã da Ovelha | Madeira-Web"
+      },
       {
         "id": "Q3-4IwXgHU0",
         "title": "LIVE: Port of Machico HD Webcam, Madeira Island  | Madeira-Web"
@@ -7305,6 +7319,10 @@
     "name": "NASA",
     "videos": [
       {
+        "id": "VlB_ZtDLAOQ",
+        "title": "U.S. Spacewalk 94"
+      },
+      {
         "id": "sWasdbDVNvc",
         "title": "Live Video from the International Space Station (Official NASA Stream)"
       },
@@ -8337,7 +8355,12 @@
     "id": "UCPSR2Sz1xSlh3vVeCUWeUDg",
     "handle": "@evanstonbeach1885",
     "name": "Evanston Beach",
-    "videos": []
+    "videos": [
+      {
+        "id": "49QkkHxySXo",
+        "title": "City of Evanston - Dempster Street Boat Launch Camera"
+      }
+    ]
   },
   {
     "id": "UCPSSgJVH-ppHUfmdHXm55rQ",
@@ -8836,7 +8859,28 @@
     "id": "UCRZMs9s1P6o0b1nGibmtkJA",
     "handle": "@fl5vf9kr5b",
     "name": "共同通信LiveCamera",
-    "videos": []
+    "videos": [
+      {
+        "id": "VM18f-IIUTw",
+        "title": "[4K Live] 東京・汐留 ライブカメラ live stream of Shimbashi,Tokyo"
+      },
+      {
+        "id": "Bv6pTaelhyk",
+        "title": "[4K Live]  和歌山県白浜町 ライブカメラ Live Stream of Shirahama beach"
+      },
+      {
+        "id": "W0V8-6WrgBY",
+        "title": "[Live] 東京・浜松町駅 ライブカメラ  Live Stream of Hamamatsu-cho  railway tracks Tokyo"
+      },
+      {
+        "id": "NfR1Y-mYEtg",
+        "title": "[4K Live] 桜島 ライブカメラ 鹿児島県 垂水市 Sakurajima Living Volcano Kagoshima Japan"
+      },
+      {
+        "id": "ViHMZfmURiw",
+        "title": "[4K Live] 富士山 ライブカメラ 静岡県富士市から  Mt.Fuji Live Camera"
+      }
+    ]
   },
   {
     "id": "UCRZplV8vE67bgCI6_3sm3mQ",
@@ -9263,12 +9307,7 @@
     "id": "UCSFrrg7k1zpt5JvQ96KjRqg",
     "handle": "@SnooksBaysideKeyLargo",
     "name": "Snook&#39;s Bayside Restaurant &amp; Grand Tiki",
-    "videos": [
-      {
-        "id": "tIYUOWF1N4s",
-        "title": "🔴 LIVE Snook's Bayside Key Largo Florida"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCSGpRUfc4CaBpZlaXA6tr0w",
@@ -9622,7 +9661,7 @@
       },
       {
         "id": "yrx0fvj-4QI",
-        "title": "🔴 LIVE WEBCAM from TENERIFE AIRPORT - Storm Therese Arrival (Canary Islands, Spain)"
+        "title": "⛈️ LIVE WEBCAM from TENERIFE AIRPORT - Storm Therese  (Canary Islands, Spain)"
       },
       {
         "id": "JMFFi4Ma5M4",
@@ -9728,7 +9767,16 @@
     "id": "UCVK-LGmxFkjQEe6eV1NvQ2w",
     "handle": "@mestocervenykostelec4400",
     "name": "Město Červený Kostelec",
-    "videos": []
+    "videos": [
+      {
+        "id": "157dafHkVVs",
+        "title": "Webová kamera Červený Kostelec"
+      },
+      {
+        "id": "3Bilgoaz6is",
+        "title": "Sportovní hala Červený Kostelec"
+      }
+    ]
   },
   {
     "id": "UCVKqVweZASGMJ1BpiATUCIw",
@@ -10172,7 +10220,12 @@
     "id": "UCXtGlMSjKYfGoPggHcAZYbQ",
     "handle": "@ScottishWildlifeTrustvideos",
     "name": "Scottish Wildlife Trust",
-    "videos": []
+    "videos": [
+      {
+        "id": "bod12rMVvO0",
+        "title": "Live osprey nest camera at Loch of the Lowes Wildlife Reserve"
+      }
+    ]
   },
   {
     "id": "UCXtzCdsTkuBWIrOSuMNvANQ",
@@ -10811,12 +10864,7 @@
     "id": "UC_uoRuoMCFudYHHg9SlWbQw",
     "handle": "@ATCCommunications",
     "name": "ATCCommunications",
-    "videos": [
-      {
-        "id": "uM-oftYVFGA",
-        "title": "Pomerelle Mountain Ski Resort Webcam - Hosted by ATC Communications Fiber Internet"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCa1XvGj-yhiLLC5fVFKfXJQ",
@@ -11350,12 +11398,7 @@
     "id": "UCcDDEzMRly4_FRH3LxOpDNQ",
     "handle": "@cityofreno-cityplazacamera9918",
     "name": "City of Reno - City Plaza Camera",
-    "videos": [
-      {
-        "id": "Aea4taIIVPE",
-        "title": "Live City Plaza Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCcGI_kXwKl_QhyW9jK_8gIA",
@@ -12237,6 +12280,14 @@
     "name": "Norway Live",
     "videos": [
       {
+        "id": "TPBIHbObzC0",
+        "title": "Fyr til Fyr LIVE"
+      },
+      {
+        "id": "LAbQT5zTXso",
+        "title": "Kirkerudbakken LIVE"
+      },
+      {
         "id": "YbI2SU4uTn0",
         "title": "Kongsberg Skimore LIVE"
       },
@@ -12335,10 +12386,6 @@
       {
         "id": "cA2K5ZjxQK8",
         "title": "Rauland LIVE"
-      },
-      {
-        "id": "EVsVXkhoTBA",
-        "title": "Kirkerudbakken LIVE"
       },
       {
         "id": "6LiukKeHyBc",
@@ -12727,6 +12774,10 @@
     "name": "CGTN",
     "videos": [
       {
+        "id": "2x8meS9VnNA",
+        "title": "Live of Beirut skyline."
+      },
+      {
         "id": "v7TTBFMNwZ4",
         "title": "Live: Latest on Middle East tensions after Iran's retaliation against US-Israel attacks"
       },
@@ -12947,7 +12998,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "DEunTBDd_kw",
+        "id": "52446qnlHDE",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -13266,12 +13317,12 @@
     "name": "CGTN Europe",
     "videos": [
       {
-        "id": "mCBSIMCKIgg",
-        "title": "WATCH: Live from Baghdad where blasts have been reported"
+        "id": "2GDWDHrky6I",
+        "title": "WATCH LIVE: View of Beirut skyline"
       },
       {
         "id": "cO0Senzgzpc",
-        "title": "WATCH LIVE: View of Beirut skyline as Israeli military strikes Hezbollah across Lebanon"
+        "title": "WATCH LIVE: Aftermath of Israeli strikes which hit Beirut's Bachoura"
       },
       {
         "id": "Ad210DlxTlY",
@@ -14073,7 +14124,36 @@
     "id": "UCkZ-Wllch8bWLe-6dSNRsfQ",
     "handle": "@ixyzih",
     "name": "Ixtapa y Zihuatanejo",
-    "videos": []
+    "videos": [
+      {
+        "id": "xtDn22DB7wY",
+        "title": "🔴  Ixtapa - En vivo Playa Linda"
+      },
+      {
+        "id": "q2AQWA5lgXc",
+        "title": "🔴  Zihuatanejo - En vivo Playa La Madera II"
+      },
+      {
+        "id": "e756N1tufY8",
+        "title": "🔴  Zihuatanejo - En vivo Playa La Ropa"
+      },
+      {
+        "id": "zmT7fuaKSws",
+        "title": "🔴  Zihuatanejo - En vivo Playa Principal"
+      },
+      {
+        "id": "lknG7R3fDas",
+        "title": "🔴  Zihuatanejo  -  En vivo Estación Meteorológica ☀️🌴"
+      },
+      {
+        "id": "WXi5sp4hZ0k",
+        "title": "🔴   Zihuatanejo - En vivo Muelle Principal"
+      },
+      {
+        "id": "btSfGGIn_Eo",
+        "title": "🔴  Zihuatanejo - En vivo Playa La Madera"
+      }
+    ]
   },
   {
     "id": "UCkiqDO1CTcCyxlsGXnC8WvA",
@@ -15682,12 +15762,7 @@
     "id": "UCpcQw8euHeDXiI7yJAvNzpQ",
     "handle": "@carronfarm",
     "name": "Carron Farm",
-    "videos": [
-      {
-        "id": "yzeeU32rd5k",
-        "title": "Higher Town Quay"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCpkcJlssp52fP6xHFUYT9ag",
@@ -16079,110 +16154,6 @@
       {
         "id": "fMiU3FyyRRE",
         "title": "🔴[LIVE CCTV]  PEREMPATAN TERMINAL DEMAK [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "5nw3G2jtWaU",
-        "title": "🔴[LIVE CCTV] PERTIGAAN JEMBATAN KRACAAN DEMAK [00] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "7c4CsGkmBu8",
-        "title": "🔴[LIVE CCTV] JL. DEMAK - KUDUS PASAR KARANGANYAR [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "Uj2odXw3eZM",
-        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. PANTURA JEBOR DEMAK [03] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "29LdiJuD3NU",
-        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT PERSIMPANGAN TRENGGULI DEMAK [03] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "9za_0iJt81s",
-        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT PERSIMPANGAN TRENGGULI DEMAK [02] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "AZdFpz_ST_k",
-        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT PERSIMPANGAN TRENGGULI DEMAK [00] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "Rh8duQUsR1Y",
-        "title": "🔴[LIVE CCTV] EXIT TOL JL. LINGKAR DEMAK [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "WnfAwUH1m6g",
-        "title": "🔴[LIVE CCTV]  ALUN - ALUN DEMAK [02] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "Tmn6cpvyAoc",
-        "title": "🔴[LIVE CCTV] PERTIGAAN JEMBATAN KRACAAN DEMAK [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "aboCZ7gkclk",
-        "title": "🔴[LIVE CCTV]  ALUN - ALUN DEMAK [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "LcCa-Uk_nAc",
-        "title": "🔴[LIVE CCTV]  PERBATASAN MIJEN DEMAK - WELAHAN JEPARA [02] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "1NcjULBBjRA",
-        "title": "🔴[LIVE CCTV] JL. PENGAPON DEMAK - DEMPET [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "2_fsxZ8q5Ys",
-        "title": "🔴[LIVE CCTV] JL. DEMAK - KUDUS PASAR KARANGANYAR [PTZ] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "lqqJ9xURi8w",
-        "title": "🔴[LIVE CCTV] PEREMPATAN PASAR KARANGAWEN [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "EN5ofP4ToJE",
-        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. PANTURA JEBOR DEMAK [02] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "qfOXNxnPGE0",
-        "title": "🔴[LIVE CCTV] JL. PANTURA DEPAN PASAR BUYARAN DEMAK [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "-wkGZkefT1M",
-        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. SULTAN FATAH (SMP N 1) DEMAK [00] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "4JEkF3qN2jY",
-        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. SULTAN FATAH BOGORAME DEMAK [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "1v3p94yVVIs",
-        "title": "🔴[LIVE CCTV]  GAPURA PARKIR TEMBIRING DEMAK [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "_vb1ukf_pVY",
-        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. SULTAN FATAH (SMP N 1) DEMAK [02] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "UtD-Ve_oaPA",
-        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. SULTAN FATAH (SMP N 1) DEMAK [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "IojQ4gZB4rw",
-        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. PANTURA JEBOR DEMAK [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "8ZaS9q767p0",
-        "title": "🔴[LIVE CCTV]  PERBATASAN MIJEN DEMAK - WELAHAN JEPARA [01] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "1zpmNaOOBJw",
-        "title": "🔴[LIVE CCTV]  JL. PENGAPON DEMAK - DEMPET [02] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "vcUdVJfyvF8",
-        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. LINGKAR BOTOREJO DEMAK [02] by DISHUB KAB. DEMAK"
-      },
-      {
-        "id": "Rm-UJ5BXomw",
-        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. SULTAN FATAH (SMP N 1) DEMAK [03] by DISHUB KAB. DEMAK"
       }
     ]
   },
@@ -16946,12 +16917,7 @@
     "id": "UCtnuAOh7DrspJt9K7bzXQOw",
     "handle": "@ti.skyglasscanela",
     "name": "TI - Skyglass Canela",
-    "videos": [
-      {
-        "id": "so8-dKXmM50",
-        "title": "Skyglass Canela [AOVIVO]"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtrwK-DOZGcQo9p1VwIkDZw",
@@ -17137,12 +17103,7 @@
     "id": "UCuSeVCzI21lPeKnIzZehFPQ",
     "handle": "@SantuárioNacionaldeAparecida",
     "name": "Santuário Nacional de Aparecida",
-    "videos": [
-      {
-        "id": "juUt-rN5CVo",
-        "title": "Santuário Nacional AO VIVO - Você em constante Oração na Casa da Mãe"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCuTaHTWV4TjZE9r8Vjcfaog",
@@ -17868,12 +17829,7 @@
     "id": "UCx6ra-kP4Z2kZQfu5zTX1vA",
     "handle": "@VillaRenaissanceTCI",
     "name": "Strata Plan No 43 | Villa Renaissance",
-    "videos": [
-      {
-        "id": "shNgEojhTK4",
-        "title": "Villa Renaissance | Turks & Caicos Is | LiveCam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCx8ILP7mQxM0nBv9bwTmTRQ",
@@ -18110,7 +18066,12 @@
     "id": "UCxa_M0Vj_IKiYeQ98NMZweg",
     "handle": "@LesKarellisStationDeSavoie",
     "name": "Les Karellis Station de Savoie",
-    "videos": []
+    "videos": [
+      {
+        "id": "vVdepOnLGWg",
+        "title": "Live Les Karellis - Front de Neige"
+      }
+    ]
   },
   {
     "id": "UCxd6_Ql2p4OoSXbKZGP0bmg",
