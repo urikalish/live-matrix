@@ -1860,6 +1860,10 @@
     "name": "Associated Press",
     "videos": [
       {
+        "id": "1MbVeFc5FQA",
+        "title": "LIVE: US vs. Venezuela WBC championship watch party in Caracas"
+      },
+      {
         "id": "Q6oDNZ7Whm4",
         "title": "LIVE: Republicans debate a voting bill on the Senate floor"
       },
@@ -4341,12 +4345,7 @@
     "id": "UCB-zCeE3hpdWcnVaZePAwFQ",
     "handle": "@RigaZOO",
     "name": "RigaZOO",
-    "videos": [
-      {
-        "id": "n3sM1NnaC6U",
-        "title": "Rīga ZOO sliņķi"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCB1PUu8IJKnIsMSKMOgT8tw",
@@ -4989,8 +4988,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "H9-OOPyR9Rc",
-        "title": "【 Archive】 2026-03-18『06:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "FL8dBoTemQ0",
+        "title": "【 Archive】 2026-03-18『09:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -5068,7 +5067,12 @@
     "id": "UCCp1rWY4KFh0t3fKILlPiUQ",
     "handle": "@ToyoComtecLiveChannel",
     "name": "ToyoComtecLiveChannel",
-    "videos": []
+    "videos": [
+      {
+        "id": "FyEaYH_tiZ4",
+        "title": "【 LIVE 】東京都 墨田区 スカイツリー 24時間 ライブ / Tokyo Skytree Live"
+      }
+    ]
   },
   {
     "id": "UCD-Hv0aJkZz0isAwOtFErVg",
@@ -5170,6 +5174,10 @@
     "name": "City of Bettendorf, Iowa",
     "videos": [
       {
+        "id": "Kujpv2ftzHU",
+        "title": "March 17, 2026 City Council Meeting"
+      },
+      {
         "id": "8Rp5JRSQOvk",
         "title": "Bettendorf View of the I-74 Mississippi River Bridge"
       },
@@ -5231,7 +5239,12 @@
     "id": "UCDQ9-OMttGoiRHzLrg-xKRA",
     "handle": "@KhaoLakLandDiscovery",
     "name": "Khao Lak Land Discovery",
-    "videos": []
+    "videos": [
+      {
+        "id": "sv6LYwrEkf0",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 18-Mar-2026 06:15"
+      }
+    ]
   },
   {
     "id": "UCDUMVSw1K-ejDIoMe1fvF2Q",
@@ -5379,7 +5392,12 @@
     "id": "UCEZakpc_Sk9v4PU-LqzLXOA",
     "handle": "@SpinlockHQ",
     "name": "Spinlock",
-    "videos": []
+    "videos": [
+      {
+        "id": "PvFIAuYnLnU",
+        "title": "Spinlock"
+      }
+    ]
   },
   {
     "id": "UCEloGRn_GCcr-I_6f5MYJPw",
@@ -6182,24 +6200,7 @@
     "id": "UCH9JbKmqTI6gwhA4ghl32FQ",
     "handle": "@AmzLive",
     "name": "AmzLive Cams",
-    "videos": [
-      {
-        "id": "uJb4u4WdLwY",
-        "title": "Encontro das Águas - Manaus, Amazonas"
-      },
-      {
-        "id": "-rPArMYXJm8",
-        "title": "Vieiralves Ao Vivo - Amzlive.com.br - LiveCam Manaus"
-      },
-      {
-        "id": "2HGGG7Dr03g",
-        "title": "Teatro Amazonas ao Vivo 24h - Manaus - Amz.Live Jazz & Lo-fi Radio"
-      },
-      {
-        "id": "ICAxjegbHnU",
-        "title": "Ponta Negra ao Vivo 24h - Manaus - AmzLive.com.br"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCHK0N8yzh1DR1NWo7sXoxRg",
@@ -7173,26 +7174,6 @@
     "name": "DIRECTO NATURA",
     "videos": [
       {
-        "id": "AoFJmKv2qLk",
-        "title": "Cernicalo en nido 🔴 DIRECTO (Cámara 69 | Ávila) LAGUNA de EL OSO"
-      },
-      {
-        "id": "WjD0YiP2qhQ",
-        "title": "Aves acuáticas 🔴 DIRECTO (Cámara 3 | Ávila) LAGUNA de EL OSO"
-      },
-      {
-        "id": "4NxGPD9feLE",
-        "title": "🦆 Vida salvaje 🔴 DIRECTO (Cámara 4 | Ávila) | LAGUNA de EL OSO"
-      },
-      {
-        "id": "aZ16Pr8pB9A",
-        "title": "🦆 Humedal LAGUNA de EL OSO (Cámara 1 | Ávila) 🔴 DIRECTO"
-      },
-      {
-        "id": "hcTPnVQVgeQ",
-        "title": "💚 LAGUNA de EL OSO 🔴 DIRECTO (Cámara 2 | Ávila)"
-      },
-      {
         "id": "q5-Kk-_ef-Q",
         "title": "Nido alimoche 🔴 DIRECTO (Cámara 63 | PN Alto Tajo, Guadalajara)"
       },
@@ -7527,7 +7508,24 @@
     "id": "UCLaxio5CTbT1gl5i8FB2-yw",
     "handle": "@TableMountainLiveStream",
     "name": "Table Mountain Live Stream",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZfiGeTowMWU",
+        "title": "Brass Bell Surf Cam | Kalk Bay Live Stream South Africa | 24/7 Ocean & Surf Camera"
+      },
+      {
+        "id": "jOqASqt3vVI",
+        "title": "Table Mountain Live Stream | Cape Town Webcam | South Africa"
+      },
+      {
+        "id": "YfwTcW1IkN4",
+        "title": "LIVE Table Mountain & Bloubergstrand Beach Camera | 24/7 Cape Town South Africa Live Stream"
+      },
+      {
+        "id": "Hhc6vesmrNk",
+        "title": "LIVE Langebaan Lagoon Camera | Pearly’s Restaurant | 24/7 South Africa Live Stream"
+      }
+    ]
   },
   {
     "id": "UCLdB_nQzuawWis5zdOCtx6Q",
@@ -7567,12 +7565,7 @@
     "id": "UCLm4NMiRgEwOAwY-tapTQag",
     "handle": "@kozylemorne6102",
     "name": "Kozy Le Morne",
-    "videos": [
-      {
-        "id": "aTBV56cSjvU",
-        "title": "🔴 Île Maurice / Mauritius - At Kozy Le Morne"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCLmvtLuqca56l68QCETk1QQ",
@@ -7646,16 +7639,7 @@
     "id": "UCM54h2kw7FsKMNPGDWPLy7w",
     "handle": "@kaparkonaoriginal",
     "name": "Kap Arkona",
-    "videos": [
-      {
-        "id": "eIqNzB2Mz9I",
-        "title": "Livecam Kap Arkona Testbetrieb"
-      },
-      {
-        "id": "6G4_xtIDgy8",
-        "title": "Livecam | Kap Arkona | Insel Rügen"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCMBWDPHTwn0NTN-a4imOrIA",
@@ -7832,7 +7816,12 @@
     "id": "UCMtmjdcTIEvVkhQbSlBKJ-A",
     "handle": "@ausablecenter",
     "name": "Ausable Freshwater Center",
-    "videos": []
+    "videos": [
+      {
+        "id": "jB4Iwn2GJS4",
+        "title": "Mirror Lake Livestream (Sponsored by Golden Arrow)"
+      }
+    ]
   },
   {
     "id": "UCMvAap1Jacyg-4bqYKDlmtw",
@@ -7935,12 +7924,7 @@
     "id": "UCNYdL7-9PEk0rhCHzquQP8Q",
     "handle": "@trinidadharborlivewebcam582",
     "name": "Trinidad Harbor Live Webcam",
-    "videos": [
-      {
-        "id": "dkJoCyEm9Dk",
-        "title": "Trinidad Harbor Webcam Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCNZCKDhAVtbh7sddChTxI7w",
@@ -8018,10 +8002,6 @@
     "handle": "@villageofgreendalewi",
     "name": "Village of Greendale, Wisconsin",
     "videos": [
-      {
-        "id": "p1WBQWOrOK4",
-        "title": "BOT Meeting 03-17-26"
-      },
       {
         "id": "ADsY4BQWZOU",
         "title": "Broad Street Live Stream"
@@ -8181,7 +8161,24 @@
     "id": "UCOlB4c8jh9f2T6u3A08T9mA",
     "handle": "@southdakotaminescameras",
     "name": "South Dakota Mines Cameras",
-    "videos": []
+    "videos": [
+      {
+        "id": "BXIlwGtLPTc",
+        "title": "South Dakota Mines Quad Cam"
+      },
+      {
+        "id": "0so_l_Vhtb4",
+        "title": "South Dakota School of Mines and Technology (SDSM&T) Campus Overview Camera"
+      },
+      {
+        "id": "qKyyGjW0Duk",
+        "title": "South Dakota Mines Nucor Mineral Industries Building - North Side View"
+      },
+      {
+        "id": "6lYoPExcOwg",
+        "title": "South Dakota School of Mines and Technology's (SDSM&T) Dino Cam"
+      }
+    ]
   },
   {
     "id": "UCOmgpmAnXKSPVEWWK_5Cd-Q",
@@ -8643,12 +8640,7 @@
     "id": "UCQc7Ol2itgbnMXPjZmPdRRQ",
     "handle": "@AaronPreslin",
     "name": "Aaron Preslin",
-    "videos": [
-      {
-        "id": "OEHt98ZDU3M",
-        "title": "Cincinnati Skyline, Ohio River, Brent Spence Bridge - Livestream from Covington, Kentucky"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCQmlVF-VRx75AflM-9gJytg",
@@ -9543,7 +9535,24 @@
     "id": "UCTkxSTO0A1d5_6_Nc4sVYtg",
     "handle": "@UDriveTechLIVEStreaming",
     "name": "UDrive Tech LIVE Streaming",
-    "videos": []
+    "videos": [
+      {
+        "id": "jEX3IqH6Cis",
+        "title": "Live View of Lazelle St in Sturgis SD from Sturgis Liquor"
+      },
+      {
+        "id": "3UHlTcL3L_Y",
+        "title": "Live View of Junction & Main St from Sturgis Motorcycle Museum"
+      },
+      {
+        "id": "uu82CI54eJU",
+        "title": "Live View from Hotel Sturgis on Main St. and Harley-Davidson Way in Sturgis SD"
+      },
+      {
+        "id": "O2bCoZSQTuo",
+        "title": "Live View of Lazelle from Sturgis Motorsports"
+      }
+    ]
   },
   {
     "id": "UCTlY00NCf0nKyldwBys3mrA",
@@ -9551,7 +9560,7 @@
     "name": "Serra do Rio do Rastro ao Vivo",
     "videos": [
       {
-        "id": "e41R1SFcvqc",
+        "id": "AtuJNG9Sbto",
         "title": "Serra do Rio do Rastro em Lauro Müller ao vivo!"
       }
     ]
@@ -9686,10 +9695,6 @@
     "handle": "@VacationMB",
     "name": "Vacation Myrtle Beach",
     "videos": [
-      {
-        "id": "4albHSr0jaY",
-        "title": "Ocean Creek Resort Myrtle Beach Sunset 03/17/2026"
-      },
       {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
@@ -10405,55 +10410,13 @@
     "id": "UCYUbNjkuE4lsr2v1Id2O1oA",
     "handle": "@abc7news",
     "name": "ABC7 News Bay Area",
-    "videos": [
-      {
-        "id": "_VqvVJfmyfs",
-        "title": "Treasure Island, California Live Cam | 24/7 Stream"
-      },
-      {
-        "id": "Lk0Z5ExUWL0",
-        "title": "Lake Tahoe, Nevada Live Cam | 24/7 Stream"
-      },
-      {
-        "id": "G8RIAgPxaMc",
-        "title": "San Francisco Live Camera | 24/7 Stream"
-      },
-      {
-        "id": "FLoSUN_Vrz4",
-        "title": "Vollmer Peak, California Live Camera | 24/7 Stream"
-      },
-      {
-        "id": "CHh_xNESvUg",
-        "title": "Emeryville, California Live Camera | 24/7 Stream"
-      },
-      {
-        "id": "CXYr04BWvmc",
-        "title": "San Francisco-Oakland Bay Bridge Live Camera | 24/7 Stream"
-      },
-      {
-        "id": "YUJl2vWNsWU",
-        "title": "LIVE: ABC7 News"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCYWJbeYvOMDm6avN5GaRa3Q",
     "handle": "@RadioCentreTC",
     "name": "Radio Centre",
-    "videos": [
-      {
-        "id": "2ETj1sUmEmU",
-        "title": "LIVE | Traverse City, MI | West Bay Camera"
-      },
-      {
-        "id": "8-V9uEqFLwE",
-        "title": "LIVE | Traverse City, MI | Downtown Camera |"
-      },
-      {
-        "id": "FS9Iz-EJW5Y",
-        "title": "LIVE | Alpena, MI | Thunder Bay Marina Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCYqyaXiOKAxUcgZ159wXG-A",
@@ -10601,7 +10564,12 @@
     "id": "UC_9dsRFZiS87yepdO4Qc9Ng",
     "handle": "@MiamiRiverCam",
     "name": "Miami River Camera ",
-    "videos": []
+    "videos": [
+      {
+        "id": "7wHgYc_kN98",
+        "title": "Miami River Camera"
+      }
+    ]
   },
   {
     "id": "UC_B1lpgj2DH_wO8T1jJnSYA",
@@ -11214,24 +11182,7 @@
     "id": "UCbXiHnFTVZmnp2IspH2OPTw",
     "handle": "@randomlyentertained6482",
     "name": "Randomly Entertained",
-    "videos": [
-      {
-        "id": "cVjFBY1_8Yg",
-        "title": "Soi Buakhao, Pattaya, Thailand | Live Camera Stream"
-      },
-      {
-        "id": "WSm_r0eNl1E",
-        "title": "Nanai Road, Patong, Phuket, Thailand | Landmark Bar | Live Camera Stream"
-      },
-      {
-        "id": "IVa59mpPJTg",
-        "title": "Sainamyen Road, Patong, Phuket, Thailand | Nida Massage | Live Camera Stream"
-      },
-      {
-        "id": "8JCk5M_xrBs",
-        "title": "Walworth Road, London, England | Live Camera Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCbbfor2m620lTQd3jOk5ggQ",
@@ -11763,16 +11714,7 @@
     "id": "UCeL2LSl91k2VccR7XEh5IKg",
     "handle": "@TinyKittens",
     "name": "TinyKittens HQ",
-    "videos": [
-      {
-        "id": "CLDRylX38mw",
-        "title": "Miracle kittens Tross, Rachel and Miss Meowy! 🐾🥰"
-      },
-      {
-        "id": "L64D5vZVUl4",
-        "title": "Cloverly is BACK! Plus, Hellga TNR has begun!"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCeLJJTWDzN1dYjtJVO0lNfA",
@@ -12015,40 +11957,7 @@
     "id": "UCfS5_X4LiZJV5vq6z7itypA",
     "handle": "@SeeJamaica",
     "name": "See Jamaica ",
-    "videos": [
-      {
-        "id": "XF9fcTdr6MQ",
-        "title": "🟢 Barbican St Andrew LIVE 24/7 – Kingston Jamaica Street Cam 🇯🇲"
-      },
-      {
-        "id": "hKcBA8XS5ZA",
-        "title": "🟢 Downtown May Pen LIVE – Watch Jamaica in Motion 24/7"
-      },
-      {
-        "id": "cVpdwCQ7LEc",
-        "title": "🟢 Downtown Kingston LIVE 24/7 – West Parade Jamaica Street View"
-      },
-      {
-        "id": "x396CVeU74Q",
-        "title": "🟢 Half Way Tree LIVE – Jamaica’s Busiest Transport Centre 24/7"
-      },
-      {
-        "id": "pwlA66hgV3M",
-        "title": "🟢 Kingston Harbour LIVE 24/7 – Jamaica Waterfront View 🇯🇲"
-      },
-      {
-        "id": "fNmFje4SG4o",
-        "title": "🟢Half Way Tree Clock LIVE 24/7 – Kingston Jamaica Street Cam"
-      },
-      {
-        "id": "Sd9ZD8Vt8tQ",
-        "title": "🟢 Devon House Kingston LIVE 24/7 – From YCMA  🇯🇲"
-      },
-      {
-        "id": "4X9dtsZmSw8",
-        "title": "🟢 Ocho Rios Live Camera 24/7, St Ann Jamaica, Town Centre View"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCfYlFRRwaw3aS230U7Zz5qA",
@@ -12485,7 +12394,12 @@
     "id": "UCgDSg8kDhdOO3xwAJ_svtaA",
     "handle": "@friendsofmidwayatollnwr8166",
     "name": "Friends of Midway Atoll NWR",
-    "videos": []
+    "videos": [
+      {
+        "id": "L3iKvwoXZ38",
+        "title": "Midway Atoll NWR Wildlife Live Camera"
+      }
+    ]
   },
   {
     "id": "UCgEQLYeJz2EZNQ9jWzNxfng",
@@ -12707,7 +12621,60 @@
     "id": "UCgorAQVJpb1Zf3S0gk_2gsA",
     "handle": "@FloridaKeysWebcams",
     "name": "Florida Keys Webcams",
-    "videos": []
+    "videos": [
+      {
+        "id": "yNpciG0zc1Q",
+        "title": "Sloppy Crowd Cam"
+      },
+      {
+        "id": "g8yMaHH8m34",
+        "title": "Cheeca Lodge, Islamorada"
+      },
+      {
+        "id": "RDlvQ1G-lwY",
+        "title": "Key West Bight Live From The Galleon Resort"
+      },
+      {
+        "id": "1PzbWAff8NA",
+        "title": "Parrot Key"
+      },
+      {
+        "id": "S9skdvGJW8k",
+        "title": "Ocean Home Rentals"
+      },
+      {
+        "id": "sk7jojKGefM",
+        "title": "Tranquility Bay Resort, Marathon"
+      },
+      {
+        "id": "1eN-V7r_l6I",
+        "title": "Oceans Edge Resort, Key West"
+      },
+      {
+        "id": "OKh2Dhyc3-c",
+        "title": "Southernmost Point, Key West"
+      },
+      {
+        "id": "Q0216ncex58",
+        "title": "Southernmost Beach Resorts: Shores Pool, Key West"
+      },
+      {
+        "id": "nrlgx7A-MNs",
+        "title": "Southernmost Beach Resorts: Pineapple Pool"
+      },
+      {
+        "id": "f9pMVLoJfyE",
+        "title": "Mallory Square 4K, Key West"
+      },
+      {
+        "id": "1Gn9gG9U2iM",
+        "title": "Key West Sunset Cam, Ocean Key Resort"
+      },
+      {
+        "id": "iuW7Cdqjop4",
+        "title": "Southernmost Beach Resorts: Pier"
+      }
+    ]
   },
   {
     "id": "UCgrNz-aDmcr2uuto8_DL2jg",
@@ -13069,12 +13036,7 @@
     "id": "UCiV1SWx0DV0y9Id-Vjd4JEA",
     "handle": "@meteoestrela",
     "name": "Meteoestrela Serra da Estrela",
-    "videos": [
-      {
-        "id": "LXRpDKoL82s",
-        "title": "Webcam Serra da Estrela em direto | MeteoEstrela.pt"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCiVxzgxfn4OhuDygv5o5-mg",
@@ -13402,56 +13364,7 @@
     "id": "UCjcMmty0tdO8cq8rPPGqTBQ",
     "handle": "@pud3liveroadconditions",
     "name": "PUD 3 Live Road Conditions",
-    "videos": [
-      {
-        "id": "UTjs792lZPk",
-        "title": "Matlock Grange - Road Conditions"
-      },
-      {
-        "id": "PfA1fCC7qT8",
-        "title": "Highway 106 - South Shore Hood Canal - Road Conditions"
-      },
-      {
-        "id": "1hsxaZcjANM",
-        "title": "Downtown Shelton - Road Conditions"
-      },
-      {
-        "id": "k5IRvRFST3U",
-        "title": "Tahuya Fire Station"
-      },
-      {
-        "id": "8fNTSQ1gQho",
-        "title": "Dewatto - Road Conditions"
-      },
-      {
-        "id": "ZzGg3JSnQoU",
-        "title": "Sand Hill - Road Conditions"
-      },
-      {
-        "id": "WURExPjZ3nE",
-        "title": "Trails End - Road Conditions"
-      },
-      {
-        "id": "ljBlVs62BJ8",
-        "title": "Grapeview Loop - Road Conditions"
-      },
-      {
-        "id": "wHM7u1GCD7M",
-        "title": "Mason Lake Road - Boat Launch"
-      },
-      {
-        "id": "v3w89sjHt30",
-        "title": "Latimers Landing - Road Conditions"
-      },
-      {
-        "id": "vr-SSpbr-z8",
-        "title": "Schafer State Park Bridge - Road Conditions"
-      },
-      {
-        "id": "lUj5Ez5v42A",
-        "title": "Hillcrest - Road Conditions"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCjeImUhRB1SLqN-svqDRJJw",
@@ -14218,7 +14131,12 @@
     "id": "UCm8DGdhRoGe-GPCXfCT65og",
     "handle": "@YokohamaLive",
     "name": "横浜港ライブカメラ",
-    "videos": []
+    "videos": [
+      {
+        "id": "mg5rgKyKO2A",
+        "title": "ライブカメラ　みなとみらい、ベイブリッジ、横浜港：Yokohama Port Live Camera"
+      }
+    ]
   },
   {
     "id": "UCm9zLeJlfz7jRT_6vff70_w",
@@ -14311,7 +14229,12 @@
     "id": "UCmM8fJ5uDl8pqu8nnd8Ixlg",
     "handle": "@mooreequipmentltd.3428",
     "name": "Moore Equipment Ltd.",
-    "videos": []
+    "videos": [
+      {
+        "id": "nNcfuDt4Xbs",
+        "title": "LIVE Montreal Trudeau Airport CYUL 24/7 Webcam Runway 24R"
+      }
+    ]
   },
   {
     "id": "UCmP2ra7DF80Yb1cy0HW3gxg",
@@ -15060,20 +14983,12 @@
         "title": "#Zócalo | La cancha esta lista para el partido ⚽️ #Zócalo #EnVivo"
       },
       {
-        "id": "-LasEvfv9_s",
-        "title": "🏆 #CDMX | 15 MARZO Cancha gigante para romper #RecordGuinness. #Zócalo #EnVivo"
-      },
-      {
         "id": "dVL4tFZOn3U",
         "title": "💃 #CDMX | Danzantes alegrando al #Zócalo. #EnVivo"
       },
       {
         "id": "ssEfxbGgBmw",
         "title": "#Garibaldi | La plaza comienza con fiesta #envivo"
-      },
-      {
-        "id": "6H5EzgH1CR4",
-        "title": "⚠️ #CDMX ((PRECAUCIÓN)) | #ContingenciaAmbiental  Fase 1. La capital #EnVivo"
       },
       {
         "id": "NxgYarQp-s0",
@@ -15638,12 +15553,7 @@
     "id": "UCpJ4goz4R_g2GqQHfixq3Xw",
     "handle": "@daniabeachpier",
     "name": "City of Dania Beach Pier Cam",
-    "videos": [
-      {
-        "id": "o1eTLR7Degs",
-        "title": "Dania Beach Pier Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCpWU25qIleNLmUEF9VwBdMA",
@@ -16240,12 +16150,7 @@
     "id": "UCqM2TLKtIJlAPiWk46zyjNw",
     "handle": "@xraymarklive",
     "name": "xraymarklive",
-    "videos": [
-      {
-        "id": "iTERvpzmxI0",
-        "title": "Blackpool Airport Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCqMKJRBR8K3tfxY1a0IUm4g",
@@ -16275,7 +16180,7 @@
     "name": "Hawick TV",
     "videos": [
       {
-        "id": "84Bp9RFIajs",
+        "id": "fFGcttW1FRI",
         "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
       }
     ]
@@ -16838,36 +16743,7 @@
     "id": "UCt6LB-BvEmDm-oWbe_TO7mw",
     "handle": "@habmigochannel",
     "name": "北陸朝日放送公式チャンネル",
-    "videos": [
-      {
-        "id": "wd2riidtMm0",
-        "title": "【ライブカメラ】美しい夕日の千里浜サンセット（石川県）  　　Chirihama Sunset LIVE camera"
-      },
-      {
-        "id": "e9y2rfhbR-Q",
-        "title": "ライブカメラ　北陸朝日放送（金沢市）本社前 HAB LIVE camera"
-      },
-      {
-        "id": "7F8qXg_QQdQ",
-        "title": "ライブカメラ　能登珠洲（石川県） Noto-Suzu LIVE camera"
-      },
-      {
-        "id": "Mr7aXbVkhxY",
-        "title": "【ライブカメラ】バイク・車で走れる砂浜・能登千里浜レストハウス（石川県） Noto-Chirihama LIVE camera"
-      },
-      {
-        "id": "ZSR-rgjG1Ok",
-        "title": "ライブカメラ　石川県庁　Ishikawa Prefectural Office LIVE camera"
-      },
-      {
-        "id": "dKsq-4NWyjs",
-        "title": "ライブカメラ　能登輪島（石川県） Noto-Wajima LIVE camera"
-      },
-      {
-        "id": "81-mJdCDK7M",
-        "title": "北陸新幹線 金沢駅　ライブカメラ　 Kanazawa Station Live Webcam  Ishikawa, Japan"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtOEBEqkaQJWdgox91Cdzcg",
@@ -17075,7 +16951,12 @@
     "id": "UCtzYRypg21-R2suTVCetlbg",
     "handle": "@VivaTheKeys",
     "name": "Viva The Keys",
-    "videos": []
+    "videos": [
+      {
+        "id": "qi0mY6zVQnY",
+        "title": "Live Cam in The Lower Keys"
+      }
+    ]
   },
   {
     "id": "UCu1Dd875bgWL61e6sJ7HMbg",
@@ -17208,12 +17089,7 @@
     "id": "UCuZpFoR29hw2aw_crGm6zzg",
     "handle": "@LongBeachLodge",
     "name": "Long Beach Lodge Resort",
-    "videos": [
-      {
-        "id": "JZ3UV60ykqc",
-        "title": "Live From Long Beach Lodge Tofino"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCuaFFNhZkcEg2JjEPvzjzzw",
@@ -18170,12 +18046,7 @@
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
     "handle": "@wightwildlifecam",
     "name": "Wight Wildlife Cam",
-    "videos": [
-      {
-        "id": "43O5fG0SuDs",
-        "title": "BIRD FEEDERS ISLE OF WIGHT *LIVE 24/7*"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxovy5qTcwjsyl3ETKAOgdg",
@@ -18513,12 +18384,7 @@
     "id": "UCzc4Ysia7rrHYyuuw5Q6xCQ",
     "handle": "@alpenhausamkitzbuhelerhorn1670",
     "name": "Alpenhaus am Kitzbüheler Horn",
-    "videos": [
-      {
-        "id": "dJgPrHRw-sQ",
-        "title": "Alpenhaus Kitzbüheler Horn - Live Stream Panorama"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCzg0KOwc3ZgoHxirtFTHFpw",
