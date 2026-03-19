@@ -968,7 +968,12 @@
     "id": "UC2B9wVYer0S_P8e2mAb3MXQ",
     "handle": "@itascastatepark-mississipp6440",
     "name": "Itasca State Park - Mississippi River Headwaters",
-    "videos": []
+    "videos": [
+      {
+        "id": "adBfWH1q25k",
+        "title": "Itasca State Park - Mississippi River Headwaters Live Stream"
+      }
+    ]
   },
   {
     "id": "UC2FGmqUsOm8pXc-w9GB_ntQ",
@@ -1875,10 +1880,6 @@
         "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
       },
       {
-        "id": "sy78U3MBwlE",
-        "title": "LIVE: Pete Hegseth holds Pentagon briefing as war with Iran intensifies"
-      },
-      {
         "id": "-c3EooJQvaE",
         "title": "LIVE: Tulsi Gabbard and Kash Patel hearing on Iran war and worldwide threats"
       }
@@ -2371,16 +2372,16 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
+        "id": "LgrkqgxrkSk",
+        "title": "【まもなく日米首脳会談】高市総理の出国からアメリカ到着までを一連で【リプレイ】"
+      },
+      {
         "id": "yUShsJRBc9Q",
         "title": "【LIVE】最新ニュースまとめ（Japan News Digest）（3月19日）｜TBS NEWS DIG"
       },
       {
         "id": "z-UUt3btOpE",
         "title": "【イラン最新情報まとめ】イラン“世界最大”ガス田にイスラエルが空爆/トランプ大統領「全く知らなかった」/高市総理がアメリカに到着 日米首脳会談へ/「イラン情報相を殺害」イスラエルが発表　など"
-      },
-      {
-        "id": "HANbFs_qaDU",
-        "title": "【日米首脳会談 20日未明に】高市総理の出発からアメリカ到着までを一連で【リプレイ】"
       },
       {
         "id": "8PG-4pYVfy8",
@@ -3361,6 +3362,10 @@
     "handle": "@BostonAndMaineLive",
     "name": "Boston and Maine Live",
     "videos": [
+      {
+        "id": "wJH6BMrG2o4",
+        "title": "Gloucester, Massachusetts US - Annisquam Yacht Club"
+      },
       {
         "id": "hZJLS6Fu1JE",
         "title": "McAdam Railway Station, NB Canada - Live Cam"
@@ -6009,12 +6014,7 @@
     "id": "UCGWcQnqDci9aHo7-YQ_-big",
     "handle": "@rajyoginidadigulzar",
     "name": "Rajyogini Dadi Gulzar",
-    "videos": [
-      {
-        "id": "JWo4Tte6A4c",
-        "title": "मधुबन से शांतिस्तम्भ LIVE 24X7 (Tower Of Peace)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCGb_c0j3vHX1cJNYhhiAKYA",
@@ -7081,7 +7081,12 @@
     "id": "UCKCzGw8r-dQWkxWTaLvj2qg",
     "handle": "@portst-laurent-du-varyci3661",
     "name": "PORT ST-LAURENT-DU-VAR YCI",
-    "videos": []
+    "videos": [
+      {
+        "id": "2Ex7AsQWcD0",
+        "title": "Diffusion  en direct de PORT SAINT LAURENT DU VAR Yci"
+      }
+    ]
   },
   {
     "id": "UCKGyGK964U4Yd71WqBkvImA",
@@ -7300,7 +7305,12 @@
     "id": "UCKrTulUx22nWscKWpQarAOQ",
     "handle": "@LakefrontLive",
     "name": "Lakefront Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "NpEdVW3RTRA",
+        "title": "4K Chicago Lakefront 24/7 Live | Playpen, LSD, Traffic, Boats, O'Hare Flight Path, Runners & Skyline"
+      }
+    ]
   },
   {
     "id": "UCKtFn0R-NGm6cocqdoGAQTA",
@@ -7479,12 +7489,7 @@
     "id": "UCLTYXg2LkraaBZyd431pF7g",
     "handle": "@bonnyhillsbeachhouse",
     "name": "Bonny Hills Beach House",
-    "videos": [
-      {
-        "id": "LSlaMWJCCdk",
-        "title": "Bonny Hills Beach House BEACHCAM Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCL_Pe20HICTxJsTB5O5g8Yg",
@@ -7611,7 +7616,12 @@
     "id": "UCLwUcA69lv5tns6ct-ipiHA",
     "handle": "@BoathouseatNorthLanding",
     "name": "Boathouse at North Landing ",
-    "videos": []
+    "videos": [
+      {
+        "id": "6M0f9f5YIv8",
+        "title": "North Landing Weather Cam"
+      }
+    ]
   },
   {
     "id": "UCM0qV6ZHBkjxBokQepECyFg",
@@ -7950,7 +7960,7 @@
     "name": "SBGR LIVE",
     "videos": [
       {
-        "id": "q-STUGYWxlA",
+        "id": "i_OQyzupQEU",
         "title": "SBGR LIVE 4K - Aeroporto Internacional de Guarulhos AO VIVO - GRU Airport"
       }
     ]
@@ -8388,7 +8398,7 @@
     "videos": [
       {
         "id": "xqAZJTY2q-Y",
-        "title": "LIVE St. Patty's Parade Cam from The Beach Bar on St. John USVI"
+        "title": "Bay Street live webcam in Cruz Bay, St. John US Virgin Islands"
       },
       {
         "id": "nSJxrl07Gyg",
@@ -9158,6 +9168,10 @@
     "name": "SHOWME Caribbean",
     "videos": [
       {
+        "id": "R26v4_GMpfA",
+        "title": "🌴Best Caribbean Beach Resorts LIVE | Curaçao • Sint Maarten • Aruba • Bonaire"
+      },
+      {
         "id": "EWF5FhA_Sy0",
         "title": "LIVE SXM Airport March 19 ✈️ -  Maho Beach Sint Maarten"
       },
@@ -9585,7 +9599,12 @@
     "id": "UCTlY00NCf0nKyldwBys3mrA",
     "handle": "@SerradoRiodoRastroaoVivo",
     "name": "Serra do Rio do Rastro ao Vivo",
-    "videos": []
+    "videos": [
+      {
+        "id": "5al9cCyppSY",
+        "title": "Serra do Rio do Rastro em Lauro Müller ao vivo!"
+      }
+    ]
   },
   {
     "id": "UCToP9T8yl8FzL-G9J3ONJ0g",
@@ -9925,30 +9944,9 @@
   },
   {
     "id": "UCW3Vc0gEOccJrQC-a25nGdg",
-    "handle": "@WSMV4",
-    "name": "WSMV 4 Nashville",
-    "videos": [
-      {
-        "id": "jDZSTsuyzoc",
-        "title": "Nolensville"
-      },
-      {
-        "id": "802ZoL3nrg8",
-        "title": "West Nashville"
-      },
-      {
-        "id": "ATbtGvbExP4",
-        "title": "Downtown from Nissan Stadium"
-      },
-      {
-        "id": "s3ObT04gzlo",
-        "title": "Downtown South View"
-      },
-      {
-        "id": "Gw0FXKfyBno",
-        "title": "Downtown Northeast View"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCW8Dk5-ahwqP1-4fk0pqHCw",
@@ -10894,14 +10892,9 @@
   },
   {
     "id": "UCa1XvGj-yhiLLC5fVFKfXJQ",
-    "handle": "@BeachcomberStAugustine",
-    "name": "The Beachcomber Restaurant St. Augustine",
-    "videos": [
-      {
-        "id": "n4H5Lz46K7w",
-        "title": "The Beachcomber Restaurant St. Augustine Live Stream"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCa6JQgXH9u3ce7UNMv9d-ig",
@@ -12808,6 +12801,10 @@
     "name": "CGTN",
     "videos": [
       {
+        "id": "z6iAZgkJvFA",
+        "title": "Trump administration intelligence officials testify to House"
+      },
+      {
         "id": "hwxU3wbkSdY",
         "title": "Live ship tracking map showing the Strait of Hormuz"
       },
@@ -13356,6 +13353,10 @@
     "name": "CGTN Europe",
     "videos": [
       {
+        "id": "GEkVEqYPwrs",
+        "title": "Trump administration intelligence officials testify to House"
+      },
+      {
         "id": "RfwYj1YFtrg",
         "title": "LIVE: EU leaders meet in Brussels for a two-day summit"
       },
@@ -13431,6 +13432,10 @@
     "handle": "@sanmarcostrafficcameras5045",
     "name": "San Marcos, TX Traffic Cameras",
     "videos": [
+      {
+        "id": "8NrddOWEf1k",
+        "title": "Wonder World Drive @ Hunter Road"
+      },
       {
         "id": "qRYILPnsOns",
         "title": "Hopkins@Charles Austin"
@@ -15132,6 +15137,14 @@
       {
         "id": "3nDkkj5idJM",
         "title": "🗻 #POPOCATÉPETL | Nevado y espectácular. El #Volcán #EnVivo"
+      },
+      {
+        "id": "G51QB2KeiPE",
+        "title": "Vista en vivo de Plaza Cuitláhuac, Iztapalapa"
+      },
+      {
+        "id": "sYoTQ4VIot8",
+        "title": "Amealco, Querétaro Pueblo Mágico En Vivo | Vista de la Plaza Constitución"
       },
       {
         "id": "VIzY2XSeNK8",
