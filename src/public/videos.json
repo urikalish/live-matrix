@@ -987,7 +987,7 @@
     "name": "SISE Argentina®",
     "videos": [
       {
-        "id": "UBvY3QnKkUg",
+        "id": "TyBToGg4_fQ",
         "title": "Camaras en Vivo Puente General Belgrano - SISE Argentina®"
       }
     ]
@@ -1207,14 +1207,6 @@
         "title": "CAMBORIÚ SC AO VIVO | AV. SANTA CATARINA – POINT FILM – SENTIDO CENTRO | CONEXÃODCTV"
       },
       {
-        "id": "xdYIs_I2mF0",
-        "title": "ITAJAÍ SC AO VIVO | QUIOSQUE ESTRELA DO MAR – PRAIA BRAVA | CONEXÃODCTV"
-      },
-      {
-        "id": "MLv8Avp7Hv4",
-        "title": "ITAJAÍ SC AO VIVO | AV. JOSÉ MEDEIROS VIEIRA – PRAIA BRAVA – ESTRELA DO MAR | CONEXÃODCTV"
-      },
-      {
         "id": "OU798IQCO50",
         "title": "GOV. CELSO RAMOS SC AO VIVO | PRAIA DE PALMAS – QUIOSQUE DA JÚ | CONEXÃODCTV"
       },
@@ -1225,10 +1217,6 @@
       {
         "id": "W50zoSXZBi4",
         "title": "CABO FRIO AO VIVO 24H 🇧🇷 | TOUR PELAS CÂMERAS DA CIDADE DE CABO FRIO | PARCERIA NOVA COSTA TELECOM"
-      },
-      {
-        "id": "zKGH4eav60M",
-        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | AV. DO ESTADO – CACAU SHOW | CONEXÃODCTV"
       },
       {
         "id": "zseEQZ-hUbw",
@@ -1859,6 +1847,10 @@
     "handle": "@AssociatedPress",
     "name": "Associated Press",
     "videos": [
+      {
+        "id": "eqsWU6zoCPA",
+        "title": "LIVE: Trump hosts dinner with Japan’s Prime Minister Sanae Takaichi"
+      },
       {
         "id": "ggJeoqAbHwc",
         "title": "LIVE: Senate debates the SAVE Act"
@@ -5252,7 +5244,12 @@
     "id": "UCDQ9-OMttGoiRHzLrg-xKRA",
     "handle": "@KhaoLakLandDiscovery",
     "name": "Khao Lak Land Discovery",
-    "videos": []
+    "videos": [
+      {
+        "id": "_AvzDH0w8Wk",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 20-Mar-2026 00:12"
+      }
+    ]
   },
   {
     "id": "UCDUMVSw1K-ejDIoMe1fvF2Q",
@@ -6517,6 +6514,10 @@
     "handle": "@steelhighwayrailcams",
     "name": "Steel Highway Railcams",
     "videos": [
+      {
+        "id": "p1XQ4h4zkis",
+        "title": "Richville, MN, USA | Train Cam LIVE NOW | CPKC Detroit Lakes Sub |  #steelhighway   | MP 186.14"
+      },
       {
         "id": "S5y2IGFZAEE",
         "title": "Lewis County Historical Museum Live Railcam (Static) - Chehalis, WA  #steelhighway"
@@ -15278,10 +15279,6 @@
       {
         "id": "UoYO-kLdfmY",
         "title": "Isla Mujeres, Quintana Roo Pueblo Mágico En Vivo | Vista Panorámica de Playa Norte"
-      },
-      {
-        "id": "qvNvXoW53Z0",
-        "title": "Laguna de Bacalar en vivo desde Amainah Hotel"
       },
       {
         "id": "phCEwa8Dss0",
