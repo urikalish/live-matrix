@@ -951,12 +951,7 @@
     "id": "UC2B9wVYer0S_P8e2mAb3MXQ",
     "handle": "@itascastatepark-mississipp6440",
     "name": "Itasca State Park - Mississippi River Headwaters",
-    "videos": [
-      {
-        "id": "CIyePDzACeE",
-        "title": "Itasca State Park - Mississippi River Headwaters Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC2FGmqUsOm8pXc-w9GB_ntQ",
@@ -1921,12 +1916,7 @@
     "id": "UC5PNUCvYkt6PxAmgvAV8x8g",
     "handle": "@CaliPlanes",
     "name": "Cali Planes",
-    "videos": [
-      {
-        "id": "ZZ6EnSIdSNE",
-        "title": "KSFO LIVE | LUFTHANSA 100 YEAR 747 & a380 SAN FRANCISCO INT AIRPORT PLANES LIVE IRL"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC5UwWocd9b4F-GdEyJ4SKxA",
@@ -2351,12 +2341,16 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "gzJfvk3zPl8",
-        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月19日）｜TBS NEWS DIG"
+        "id": "ijrGMS3_Y2A",
+        "title": "【リプレイ】東京の桜「開花発表」へ　靖国神社の標本木を気象庁職員が確認（2026年3月19日午後1時50分～ LIVE配信）｜TBS NEWS DIG"
       },
       {
-        "id": "S5lkfQEPQhs",
-        "title": "【国会中継・リプレイ】参議院・予算委員会　一般質疑（2026年3月19日午前10時～LIVE配信）｜TBS NEWS DIG"
+        "id": "IYwwoR10iS8",
+        "title": "【国会中継・ライブ】参議院・予算委員会　一般質疑（2026年3月19日午後1時～LIVE配信）｜TBS NEWS DIG"
+      },
+      {
+        "id": "gzJfvk3zPl8",
+        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月19日）｜TBS NEWS DIG"
       },
       {
         "id": "8PG-4pYVfy8",
@@ -2824,12 +2818,7 @@
     "id": "UC7WAqB7dyv1t8jKunD-8krA",
     "handle": "@L.A.FLIGHTS",
     "name": "L.A FLIGHTS",
-    "videos": [
-      {
-        "id": "ezsduXzZwWY",
-        "title": "🔴LIVE SFO! SAN FRANCISCO AIRPORT PLANE SPOTTING | March 18, 2026"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC7Z6yfD0LKxSftKxOLrbPeQ",
@@ -3506,10 +3495,6 @@
         "title": "Cozy Cove Cabins, Jackman, Maine US - Live cam"
       },
       {
-        "id": "lG6DOM82GbQ",
-        "title": "Gloucester, Massachusetts US - Annisquam Yacht Club"
-      },
-      {
         "id": "McUEIgZLHxI",
         "title": "Big Moose Mountain, Maine US - Live Ski Cam"
       },
@@ -4183,12 +4168,7 @@
     "id": "UCAphsmhYyvZDI7s67XM5l0A",
     "handle": "@RioWorldLiveCam",
     "name": "Rio World Live Cam",
-    "videos": [
-      {
-        "id": "0M9ldmGfIbY",
-        "title": "Acompanhe Copacabana Ao Vivo 18/03"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCArs3YQib0gUuv5SVrjjtCQ",
@@ -7560,7 +7540,7 @@
     "name": "Kozy Le Morne",
     "videos": [
       {
-        "id": "QdcY3i0G_XE",
+        "id": "ld-3euOEp9w",
         "title": "🔴 Île Maurice / Mauritius - At Kozy Le Morne"
       }
     ]
@@ -10109,12 +10089,7 @@
     "id": "UCXCRtOlf5p2fQnaWCrKigTA",
     "handle": "@viviendasvacacionalescante8718",
     "name": "Viviendas Vacacionales Canteras Vista Playa",
-    "videos": [
-      {
-        "id": "wei_iEV17F4",
-        "title": "Viviendas vacacionales Canteras Vista Playa"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXN7rPhZK6Rp8lMhvpSri_Q",
@@ -12995,7 +12970,12 @@
     "id": "UCi9wnYP7UBrl7Tnfi3LLkpw",
     "handle": "@yiannisakkos",
     "name": "Yianni&#39;s Channel",
-    "videos": []
+    "videos": [
+      {
+        "id": "NiwVJcYRB40",
+        "title": "Corfu / Kerkyra, Greece LIVE"
+      }
+    ]
   },
   {
     "id": "UCiGOIXjFqy5_mUNxQNOMfHw",
@@ -15686,10 +15666,6 @@
       {
         "id": "UZFC2ujJzZc",
         "title": "LIVE 24/7 - SEA-TAC Airport (SEA)"
-      },
-      {
-        "id": "IXv0CiDetvc",
-        "title": "LIVE 24/7 - DFW Airport (EAST side camera with East or West Tower ATC)"
       },
       {
         "id": "4wOvgo27Cks",
