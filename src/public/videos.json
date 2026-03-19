@@ -1195,6 +1195,18 @@
     "name": "ConexãoDCTV - Balneário Camboriú Ao Vivo",
     "videos": [
       {
+        "id": "bDQlv3GaVwQ",
+        "title": "BLUMENAU SC AO VIVO | PANORÂMICA DA CIDADE – INDAIÁ EVENTOS | CONEXÃODCTV"
+      },
+      {
+        "id": "sYdDIhR_v4E",
+        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | AV. DO ESTADO – CACAU SHOW | CONEXÃODCTV"
+      },
+      {
+        "id": "lF5s-3RhjJE",
+        "title": "AO VIVO AGORA - RUA BIGUAÇU + PARTE INTERNA DO BIG LANCHES"
+      },
+      {
         "id": "BWIF6NW0wUs",
         "title": "📡 CÂMERA AO VIVO | MIRANTE DA LAGOA DA CONCEIÇÃO - FLORIANÓPOLIS SC | PARCERIA INDAIÁ EVENTOS"
       },
@@ -1847,10 +1859,6 @@
     "handle": "@AssociatedPress",
     "name": "Associated Press",
     "videos": [
-      {
-        "id": "eqsWU6zoCPA",
-        "title": "LIVE: Trump hosts dinner with Japan’s Prime Minister Sanae Takaichi"
-      },
       {
         "id": "ggJeoqAbHwc",
         "title": "LIVE: Senate debates the SAVE Act"
@@ -4204,12 +4212,7 @@
     "id": "UCAphsmhYyvZDI7s67XM5l0A",
     "handle": "@RioWorldLiveCam",
     "name": "Rio World Live Cam",
-    "videos": [
-      {
-        "id": "aeloIuFIQQ0",
-        "title": "Acompanhe Copacabana Ao Vivo 19/03"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCArs3YQib0gUuv5SVrjjtCQ",
@@ -9781,10 +9784,6 @@
     "name": "Vacation Myrtle Beach",
     "videos": [
       {
-        "id": "O8DXyH9ao4k",
-        "title": "Ocean Creek Resort Myrtle Beach Sunset 03/19/2026"
-      },
-      {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
       },
@@ -10479,6 +10478,10 @@
     "handle": "@abc7news",
     "name": "ABC7 News Bay Area",
     "videos": [
+      {
+        "id": "URTznU-OeHM",
+        "title": "LIVE: 2 whales spotted swimming in San Francisco Bay"
+      },
       {
         "id": "_VqvVJfmyfs",
         "title": "Treasure Island, California Live Cam | 24/7 Stream"
