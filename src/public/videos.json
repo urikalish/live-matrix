@@ -939,6 +939,10 @@
     "name": "Webcamtaxi",
     "videos": [
       {
+        "id": "yE6qOeUbvOQ",
+        "title": "LIVE: Sunset Terrace Bar Centromar Webcam Praia Formosa Funchal | Madeira-Web"
+      },
+      {
         "id": "I0KTkT8ZhX4",
         "title": "LIVE Porto Webcam Ribeira and Vila Nova de Gaia – Oporto, Portugal"
       },
@@ -1621,6 +1625,10 @@
     "name": "Val Fiorentina Dolomites Italy",
     "videos": [
       {
+        "id": "i2gwvlRyWEU",
+        "title": "Webcam Monte Fertazza Dolomiti - Ristoro Belvedere - Selva di Cadore - Italy"
+      },
+      {
         "id": "0006zDOzcPM",
         "title": "LiveCam Val Fiorentina - Ski Civetta - Selva di Cadore - Dolomiti Italy"
       }
@@ -1850,10 +1858,6 @@
     "handle": "@AssociatedPress",
     "name": "Associated Press",
     "videos": [
-      {
-        "id": "ABqJoyrvvZo",
-        "title": "LIVE: European Union leaders hold summit for talks on Iran war and Ukraine"
-      },
       {
         "id": "CI4uKzLpxfQ",
         "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
@@ -2361,10 +2365,6 @@
       {
         "id": "HANbFs_qaDU",
         "title": "【日米首脳会談 20日未明に】高市総理の出発からアメリカ到着までを一連で【リプレイ】"
-      },
-      {
-        "id": "IYwwoR10iS8",
-        "title": "【国会中継・リプレイ】参議院・予算委員会　一般質疑（2026年3月19日午後1時～LIVE配信）｜TBS NEWS DIG"
       },
       {
         "id": "8PG-4pYVfy8",
@@ -5665,10 +5665,6 @@
     "name": "MRO北陸放送公式チャンネル",
     "videos": [
       {
-        "id": "JL9r3FculVo",
-        "title": "【3月18日 石川県内ニュースまとめ】統合で閉校の門前東・西小 最後の卒業式／ガソリン191円で過去最高値／PFAS問題 2市12井戸で指針値超／喜びの春 公立高校で合格発表／リハ栄養の今に迫る…など"
-      },
-      {
         "id": "CgmxirNHFgI",
         "title": "ライブカメラ　珠洲市（石川県）Suzu , Ishikawa , Japan - Live Camera #珠洲市 #珠洲 #石川県"
       },
@@ -6264,10 +6260,6 @@
         "title": "LIVE: Porto Moniz Webcam, Madeira Island  | Madeira-Web"
       },
       {
-        "id": "2d6QBQrxeXQ",
-        "title": "LIVE Cam: Doca do Cavacas Pools by Frente MarFunchal | Madeira-Web"
-      },
-      {
         "id": "sTAWMDWmRf0",
         "title": "LIVE: Fortim/Jardim do Lido PTZ Cam by Frente MarFunchal | Madeira-Web"
       },
@@ -6405,12 +6397,7 @@
     "id": "UCIQVWkOilfxoQSFcban_d-A",
     "handle": "@mauilivecam7143",
     "name": "Maui Live Cam",
-    "videos": [
-      {
-        "id": "VMz165U1f-Q",
-        "title": "🐳  LIVE 24/7  🌊  4K MAUI LIVE CAM  * WHALE WATCH CAM *  www.WhalerCondo.net"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCISmkFSH-melI4eancXEF8A",
@@ -6460,7 +6447,12 @@
     "id": "UCIsPPwu9VefxZZ9tPYcQMmQ",
     "handle": "@shipm8",
     "name": "SHIPM8",
-    "videos": []
+    "videos": [
+      {
+        "id": "N3sX_1w0wsI",
+        "title": "Mijn Uitzending"
+      }
+    ]
   },
   {
     "id": "UCJ0y2sG32CqI5P-YMt_FCXg",
@@ -7156,6 +7148,18 @@
     "handle": "@DirectoNatura",
     "name": "DIRECTO NATURA",
     "videos": [
+      {
+        "id": "NkEum39i-8k",
+        "title": "🦆 Humedal LAGUNA de EL OSO (Cámara 1 | Ávila) 🔴 DIRECTO"
+      },
+      {
+        "id": "qIFG1w1DeMk",
+        "title": "🦆 Vida salvaje 🔴 DIRECTO (Cámara 4 | Ávila) | LAGUNA de EL OSO"
+      },
+      {
+        "id": "INfmg-WI9xc",
+        "title": "Aves acuáticas 🔴 DIRECTO (Cámara 3 | Ávila) LAGUNA de EL OSO"
+      },
       {
         "id": "q5-Kk-_ef-Q",
         "title": "Nido alimoche 🔴 DIRECTO (Cámara 63 | PN Alto Tajo, Guadalajara)"
@@ -8527,12 +8531,7 @@
     "id": "UCQJE3qm7Sjc5-JXAYjAfkrw",
     "handle": "@-ishigakiisland-2224",
     "name": "石垣島ライブカメラ -ishigaki island-",
-    "videos": [
-      {
-        "id": "gcglPa_q7-o",
-        "title": "石垣島７３０交差点ＬＩＶＥカメラ"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCQKQTgZJo3PlxA-9V1Z51XA",
@@ -13002,6 +13001,10 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
+        "id": "ZYeGkMFJIf4",
+        "title": "Corfu / Kerkyra, Greece LIVE"
+      },
+      {
         "id": "XWOGBanAJDM",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
@@ -13315,6 +13318,10 @@
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
     "videos": [
+      {
+        "id": "RfwYj1YFtrg",
+        "title": "LIVE: EU leaders meet in Brussels for a two-day summit"
+      },
       {
         "id": "2GDWDHrky6I",
         "title": "WATCH LIVE: View of Beirut skyline"
