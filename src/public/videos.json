@@ -318,12 +318,7 @@
     "id": "UC-omrowFhBZ_gzNLhX8Hq4w",
     "handle": "@paulbunyanandbabetheblueox3329",
     "name": "Paul Bunyan and Babe the Blue Ox",
-    "videos": [
-      {
-        "id": "Fwx-2yF2bic",
-        "title": "Paul Bunyan and Babe the Blue Ox Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC029bcZGqxOsRkvWrZLhgKQ",
@@ -415,8 +410,8 @@
     "name": "AVIATION TV",
     "videos": [
       {
-        "id": "EUPO2tHC_ws",
-        "title": "🔴 LIVE 24/7 Lisbon Airport 18.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
+        "id": "q6Usv_p8bf8",
+        "title": "🔴 LIVE 24/7 Lisbon Airport 19.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
       }
     ]
   },
@@ -751,6 +746,10 @@
     "name": "Char Dham Yatra Live",
     "videos": [
       {
+        "id": "0QsjDalS-DI",
+        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
+      },
+      {
         "id": "PJ-29Q_DT2w",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
@@ -760,10 +759,6 @@
       },
       {
         "id": "yauFyX1zuvI",
-        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
-      },
-      {
-        "id": "PV2ck61VIS0",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
       {
@@ -1193,6 +1188,14 @@
     "handle": "@ConexaoDCTV",
     "name": "ConexãoDCTV - Balneário Camboriú Ao Vivo",
     "videos": [
+      {
+        "id": "Pvp3VIndFiE",
+        "title": "CAMBORIÚ SC AO VIVO | AV. SANTA CATARINA – POINT FILM – SENTIDO MUNICÍPIOS | CONEXÃODCTV"
+      },
+      {
+        "id": "PoHm8XjC93s",
+        "title": "CAMBORIÚ SC AO VIVO | AV. SANTA CATARINA – POINT FILM – SENTIDO CENTRO | CONEXÃODCTV"
+      },
       {
         "id": "xdYIs_I2mF0",
         "title": "ITAJAÍ SC AO VIVO | QUIOSQUE ESTRELA DO MAR – PRAIA BRAVA | CONEXÃODCTV"
@@ -1853,10 +1856,6 @@
       {
         "id": "ZIyTybQgcro",
         "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
-      },
-      {
-        "id": "hBtp_FDrP3A",
-        "title": "LIVE: Republicans debate a voting bill on the Senate floor"
       }
     ]
   },
@@ -2352,16 +2351,12 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
+        "id": "gzJfvk3zPl8",
+        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月19日）｜TBS NEWS DIG"
+      },
+      {
         "id": "S5lkfQEPQhs",
-        "title": "【国会中継・ライブ】参議院・予算委員会　一般質疑（2026年3月19日午前10時～LIVE配信）｜TBS NEWS DIG"
-      },
-      {
-        "id": "jeS8R_aSvGM",
-        "title": "【LIVE】朝のニュース（Japan News Digest Live）最新情報など｜TBS NEWS DIG（3月19日）"
-      },
-      {
-        "id": "evjOmfHV3fY",
-        "title": "【イラン情勢まとめ】トランプ氏「支援は必要ない」不満あらわ/政権幹部辞任で“攻撃の根拠”疑問視する声/高市総理「できないことはできないと」/約80兆円の対米投資も議論か/モジタバ師 停戦拒否　など"
+        "title": "【国会中継・リプレイ】参議院・予算委員会　一般質疑（2026年3月19日午前10時～LIVE配信）｜TBS NEWS DIG"
       },
       {
         "id": "8PG-4pYVfy8",
@@ -4981,8 +4976,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "zzcjvPVeCdY",
-        "title": "【 Archive】 2026-03-19『09:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "WB-HeP7wDv0",
+        "title": "【 Archive】 2026-03-19『12:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -7095,7 +7090,12 @@
     "id": "UCKO7Og-r4lviwFcaXUNDNLA",
     "handle": "@Crelosavideos",
     "name": "Crelosa",
-    "videos": []
+    "videos": [
+      {
+        "id": "J8lpzPp1aQI",
+        "title": "Transmisión en directo  Crelosa Volcán De Fuego GT"
+      }
+    ]
   },
   {
     "id": "UCK_2jzTMkgBMalwh49VFh1Q",
@@ -7558,7 +7558,12 @@
     "id": "UCLm4NMiRgEwOAwY-tapTQag",
     "handle": "@kozylemorne6102",
     "name": "Kozy Le Morne",
-    "videos": []
+    "videos": [
+      {
+        "id": "QdcY3i0G_XE",
+        "title": "🔴 Île Maurice / Mauritius - At Kozy Le Morne"
+      }
+    ]
   },
   {
     "id": "UCLmvtLuqca56l68QCETk1QQ",
@@ -7934,7 +7939,7 @@
     "name": "SBGR LIVE",
     "videos": [
       {
-        "id": "kjqsWLFZ1Jw",
+        "id": "q-STUGYWxlA",
         "title": "SBGR LIVE 4K - Aeroporto Internacional de Guarulhos AO VIVO - GRU Airport"
       }
     ]
@@ -8096,12 +8101,7 @@
     "id": "UCODo53NEfcGzaUkCJ_spvuA",
     "handle": "@cityofsouthhaven",
     "name": "City of South Haven",
-    "videos": [
-      {
-        "id": "t2dvwvHd-no",
-        "title": "Live South Beach Camera - City of South Haven on Lake Michigan"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCOGzru-qFCrrpRUStnnCjfg",
@@ -9144,10 +9144,6 @@
     "name": "SHOWME Caribbean",
     "videos": [
       {
-        "id": "GP5mQ0b6BE0",
-        "title": "LIVE SXM Airport March 18 ✈️ -  Maho Beach Sint Maarten"
-      },
-      {
         "id": "moDtOKxWCxo",
         "title": "🌴Best Caribbean Beach Resorts LIVE | Curaçao • Sint Maarten • Aruba • Bonaire"
       },
@@ -9746,6 +9742,10 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
+      {
+        "id": "Sq4gySepwlU",
+        "title": "SafariLIVE Sunrise - 19 March 2026"
+      },
       {
         "id": "OwjHV9Lby3w",
         "title": "Jaci’s Dam Cam"
@@ -15071,6 +15071,10 @@
     "name": "webcamsdemexico",
     "videos": [
       {
+        "id": "tiEVjoZ_M58",
+        "title": "🚨 #CDMX | Continúa PLANTÓN de manifestantes del #CNTE. #Zócalo #EnVivo"
+      },
+      {
         "id": "3nDkkj5idJM",
         "title": "🗻 #POPOCATÉPETL | Nevado y espectácular. El #Volcán #EnVivo"
       },
@@ -15109,10 +15113,6 @@
       {
         "id": "qnIct_Kk2eQ",
         "title": "Grand Velas Los Cabos en vivo."
-      },
-      {
-        "id": "JTnv3iEd5AI",
-        "title": "Ixtapa, Zihuatanejo desde Park Royal Ixtapa"
       },
       {
         "id": "-I8o83MMXA0",
@@ -15413,10 +15413,6 @@
       {
         "id": "CsWJN_OgxwE",
         "title": "Panorámica en vivo de la CDMX desde la Torre Latinoamericana. Vista Oeste"
-      },
-      {
-        "id": "iS-JtEJjZmc",
-        "title": "Acapulco, Guerrero En Vivo | Vista Panorámica de Playa Condesa"
       },
       {
         "id": "dYenY2OBxSY",
@@ -16800,6 +16796,10 @@
     "handle": "@GiGAeyesLiveTV",
     "name": "GiGAeyes Live TV",
     "videos": [
+      {
+        "id": "f-77scE-PVw",
+        "title": "서울실시간 석촌호수라이브 Live Cam I Seoul, \"Seokchon Lake\", Seoul,Korea I 서울관광지 서울호수 잠실롯데몰 송리단길 잠실소피텔"
+      },
       {
         "id": "n7myxHpfPpo",
         "title": "수원실시간 광교호수공원라이브 Live Cam I \"Gwanggyo Lake Park\",  Suwon,KoreaI 수원라이브 광교호수공원 수원신도시 광교호수공원야경 광교앨리웨이"
