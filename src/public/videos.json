@@ -323,7 +323,12 @@
     "id": "UC-omrowFhBZ_gzNLhX8Hq4w",
     "handle": "@paulbunyanandbabetheblueox3329",
     "name": "Paul Bunyan and Babe the Blue Ox",
-    "videos": []
+    "videos": [
+      {
+        "id": "61DMbWLcIkE",
+        "title": "Paul Bunyan and Babe the Blue Ox Live Stream"
+      }
+    ]
   },
   {
     "id": "UC029bcZGqxOsRkvWrZLhgKQ",
@@ -415,7 +420,7 @@
     "name": "AVIATION TV",
     "videos": [
       {
-        "id": "q6Usv_p8bf8",
+        "id": "cUa3i8TQZks",
         "title": "🔴 LIVE 24/7 Lisbon Airport 19.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
       }
     ]
@@ -1211,6 +1216,10 @@
     "name": "ConexãoDCTV - Balneário Camboriú Ao Vivo",
     "videos": [
       {
+        "id": "BWIF6NW0wUs",
+        "title": "📡 CÂMERA AO VIVO | MIRANTE DA LAGOA DA CONCEIÇÃO - FLORIANÓPOLIS SC | PARCERIA INDAIÁ EVENTOS"
+      },
+      {
         "id": "Pvp3VIndFiE",
         "title": "CAMBORIÚ SC AO VIVO | AV. SANTA CATARINA – POINT FILM – SENTIDO MUNICÍPIOS | CONEXÃODCTV"
       },
@@ -1871,6 +1880,10 @@
     "handle": "@AssociatedPress",
     "name": "Associated Press",
     "videos": [
+      {
+        "id": "zpRqYzhDRcA",
+        "title": "LIVE: Trump meets Japan’s Prime Minister Sanae Takaichi at the White House"
+      },
       {
         "id": "FbIxDkz1PLI",
         "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
@@ -2930,6 +2943,10 @@
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
       {
+        "id": "09NCFo0CN1M",
+        "title": "Le Chapelet depuis la Grotte de Lourdes - 19/03/2026"
+      },
+      {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
       },
@@ -3362,6 +3379,14 @@
     "handle": "@BostonAndMaineLive",
     "name": "Boston and Maine Live",
     "videos": [
+      {
+        "id": "AiNCbGzabVo",
+        "title": "Live Cameras Around the World - Music, Timelapse, Travel"
+      },
+      {
+        "id": "x_ruIH2UmjQ",
+        "title": "New England is LIVE - Webcams, Weather, Music, Timelapse"
+      },
       {
         "id": "wJH6BMrG2o4",
         "title": "Gloucester, Massachusetts US - Annisquam Yacht Club"
@@ -6014,7 +6039,12 @@
     "id": "UCGWcQnqDci9aHo7-YQ_-big",
     "handle": "@rajyoginidadigulzar",
     "name": "Rajyogini Dadi Gulzar",
-    "videos": []
+    "videos": [
+      {
+        "id": "JWo4Tte6A4c",
+        "title": "मधुबन से शांतिस्तम्भ LIVE 24X7 (Tower Of Peace)"
+      }
+    ]
   },
   {
     "id": "UCGb_c0j3vHX1cJNYhhiAKYA",
@@ -6513,6 +6543,10 @@
     "handle": "@steelhighwayrailcams",
     "name": "Steel Highway Railcams",
     "videos": [
+      {
+        "id": "k1vwNkckSQw",
+        "title": "Dubuque Junction Live Railcam - Dubuque, IA #SteelHighway"
+      },
       {
         "id": "JP0FPrkhf14",
         "title": "Genoa, Illinois Kishwaukee Valley Heritage Society Live Railcam - Genoa, IL #steelhighway"
@@ -7658,6 +7692,10 @@
     "handle": "@kaparkonaoriginal",
     "name": "Kap Arkona",
     "videos": [
+      {
+        "id": "PYs27OKab10",
+        "title": "Livecam Kap Arkona"
+      },
       {
         "id": "6G4_xtIDgy8",
         "title": "Livecam | Kap Arkona | Insel Rügen"
@@ -9944,9 +9982,30 @@
   },
   {
     "id": "UCW3Vc0gEOccJrQC-a25nGdg",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@WSMV4",
+    "name": "WSMV 4 Nashville",
+    "videos": [
+      {
+        "id": "jDZSTsuyzoc",
+        "title": "Nolensville"
+      },
+      {
+        "id": "802ZoL3nrg8",
+        "title": "West Nashville"
+      },
+      {
+        "id": "ATbtGvbExP4",
+        "title": "Downtown from Nissan Stadium"
+      },
+      {
+        "id": "s3ObT04gzlo",
+        "title": "Downtown South View"
+      },
+      {
+        "id": "Gw0FXKfyBno",
+        "title": "Downtown Northeast View"
+      }
+    ]
   },
   {
     "id": "UCW8Dk5-ahwqP1-4fk0pqHCw",
@@ -10892,8 +10951,8 @@
   },
   {
     "id": "UCa1XvGj-yhiLLC5fVFKfXJQ",
-    "handle": "",
-    "name": "",
+    "handle": "@BeachcomberStAugustine",
+    "name": "The Beachcomber Restaurant St. Augustine",
     "videos": []
   },
   {
@@ -12801,16 +12860,12 @@
     "name": "CGTN",
     "videos": [
       {
+        "id": "bw9ZM90CiQg",
+        "title": "Qatari FM and Turkish FM hold presser after talks on Iran"
+      },
+      {
         "id": "z6iAZgkJvFA",
         "title": "Trump administration intelligence officials testify to House"
-      },
-      {
-        "id": "hwxU3wbkSdY",
-        "title": "Live ship tracking map showing the Strait of Hormuz"
-      },
-      {
-        "id": "PHX-6hJpfeI",
-        "title": "Live: Latest on Middle East conflict as Iran's retaliates against US-Israel strikes"
       },
       {
         "id": "2x8meS9VnNA",
@@ -14214,12 +14269,7 @@
     "id": "UCl5P2zJoH1gBdf38AiYALKA",
     "handle": "@portal5900vm",
     "name": "Portal 5900",
-    "videos": [
-      {
-        "id": "NryKis-cklg",
-        "title": "Cámara Meteorológica del Portal 5900 Villa Maria"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UClE5bXJOXr_QqwFPTfnialA",
@@ -15131,6 +15181,10 @@
     "name": "webcamsdemexico",
     "videos": [
       {
+        "id": "EdbXvaNHjV4",
+        "title": "📌 #CDMX | Segundo día de PLANTÓN, manifestantes del #CNTE. #Zócalo #EnVivo"
+      },
+      {
         "id": "tiEVjoZ_M58",
         "title": "🚨 #CDMX | Continúa PLANTÓN de manifestantes del #CNTE. #Zócalo #EnVivo"
       },
@@ -15289,10 +15343,6 @@
       {
         "id": "phCEwa8Dss0",
         "title": "Laguna de Bacalar en vivo desde Akalki Hotel"
-      },
-      {
-        "id": "nSeoQ9aMR-8",
-        "title": "⚠️ #CDMX ((AHORA)) | ¡#SHAKIRA en concierto! #Zócalo #EnVivo"
       },
       {
         "id": "j0ezJCBziQI",
