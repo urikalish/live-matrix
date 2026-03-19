@@ -20,10 +20,6 @@
     "name": "Explore Live Nature Cams",
     "videos": [
       {
-        "id": "ObR7SBKrkXc",
-        "title": "Mesmerizing Jellyfish Cam at Aquarium of the Pacific. Play on large screen TV!"
-      },
-      {
         "id": "Fz6sl9YJZE0",
         "title": "Underwater Manatee Cam At Homosassa Springs | Fall in love with the beloved sea cows! | explore.org"
       },
@@ -7517,7 +7513,12 @@
     "id": "UCLTYXg2LkraaBZyd431pF7g",
     "handle": "@bonnyhillsbeachhouse",
     "name": "Bonny Hills Beach House",
-    "videos": []
+    "videos": [
+      {
+        "id": "PGmyGMAb-f4",
+        "title": "Bonny Hills Beach House BEACHCAM Live Stream"
+      }
+    ]
   },
   {
     "id": "UCL_Pe20HICTxJsTB5O5g8Yg",
@@ -13054,7 +13055,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "sgVUxzTLLwo",
+        "id": "l98grLkGkr0",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -16386,12 +16387,7 @@
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
     "handle": "@HawickTV",
     "name": "Hawick TV",
-    "videos": [
-      {
-        "id": "xoXeBq1vnAY",
-        "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCqaZDUY_3goAaCsMLqVyJPw",
