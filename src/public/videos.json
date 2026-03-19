@@ -262,10 +262,6 @@
         "title": "[LIVE] Hogfish Bar & Grill - Safe Harbor Cam"
       },
       {
-        "id": "rChuffzu_Cc",
-        "title": "[LIVE] Sparky's Landing Live Webcam - Marathon, Florida Keys"
-      },
-      {
         "id": "Vs0eliTSu-A",
         "title": "[LIVE] La Trattoria Oceanside Cam"
       }
@@ -2295,6 +2291,10 @@
     "handle": "@Sondelaterre",
     "name": "Le Son de la terre",
     "videos": [
+      {
+        "id": "V1i6dR-bOmg",
+        "title": "Ma diffusion"
+      },
       {
         "id": "k3DZKHJ4Aqg",
         "title": "🔴 Live Webcam Paris - La Seine et Notre Dame Ambiance en direct du bateau \"Le Son de la Terre\""
@@ -5271,12 +5271,7 @@
     "id": "UCDQ9-OMttGoiRHzLrg-xKRA",
     "handle": "@KhaoLakLandDiscovery",
     "name": "Khao Lak Land Discovery",
-    "videos": [
-      {
-        "id": "ZiwiqT1FOe0",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 19-Mar-2026 18:15"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDUMVSw1K-ejDIoMe1fvF2Q",
@@ -13380,10 +13375,6 @@
     "name": "CGTN Europe",
     "videos": [
       {
-        "id": "RfwYj1YFtrg",
-        "title": "LIVE: EU leaders meet in Brussels for a two-day summit"
-      },
-      {
         "id": "2GDWDHrky6I",
         "title": "WATCH LIVE: View of Beirut skyline"
       },
@@ -14362,12 +14353,7 @@
     "id": "UCm9zLeJlfz7jRT_6vff70_w",
     "handle": "@AirportAction",
     "name": "Airport Action",
-    "videos": [
-      {
-        "id": "UOSNXh2ewt4",
-        "title": "RAF Brize Norton Live - C-17 , A400 Military Movements - 19.03.2026"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCmEC5XS9Ol-6jqBaKpzqehQ",
