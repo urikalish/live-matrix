@@ -1130,7 +1130,12 @@
     "id": "UC2vFqVSayMxRneC9WuW2t4A",
     "handle": "@-municipalitystarazagora7056",
     "name": "Община Стара Загора - Municipality Stara Zagora",
-    "videos": []
+    "videos": [
+      {
+        "id": "4uqXNzudFak",
+        "title": "Камери на живо от гр. Стара Загора / Live cams from the city of Stara Zagora"
+      }
+    ]
   },
   {
     "id": "UC30mmDZa-tMpIS-cIXoErsA",
@@ -1363,10 +1368,6 @@
       {
         "id": "o3ITfgiQf7s",
         "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | ORLA – VISTA PANORÂMICA – PARQUE UNIPRAIAS | CONEXÃODCTV"
-      },
-      {
-        "id": "VbvbR2foE4s",
-        "title": "📡 CÂMERA AO VIVO | MIRANTE DA LAGOA DA CONCEIÇÃO - FLORIANÓPOLIS SC | PARCERIA INDAIÁ EVENTOS"
       },
       {
         "id": "UqOW_HhGVUo",
@@ -1849,6 +1850,10 @@
     "handle": "@AssociatedPress",
     "name": "Associated Press",
     "videos": [
+      {
+        "id": "ABqJoyrvvZo",
+        "title": "LIVE: European Union leaders hold summit for talks on Iran war and Ukraine"
+      },
       {
         "id": "CI4uKzLpxfQ",
         "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
@@ -2351,7 +2356,7 @@
       },
       {
         "id": "93wKa5jrcGI",
-        "title": "【ライブ】日銀・植田総裁会見　金融政策決定会合で利上げ見送り　据え置き決めた理由など説明へ（2026年3月19日午後3時30分～ LIVE配信）｜TBS NEWS DIG"
+        "title": "【リプレイ】日銀・植田総裁会見　金融政策決定会合で利上げ見送り　据え置き決めた理由など説明へ（2026年3月19日午後3時30分～ LIVE配信）｜TBS NEWS DIG"
       },
       {
         "id": "HANbFs_qaDU",
@@ -8905,6 +8910,10 @@
     "name": "Hasan Yayında",
     "videos": [
       {
+        "id": "S7O_EkjbqV4",
+        "title": "Kulakkaya Yaylası Canlı Yayın Hareketli Kamera"
+      },
+      {
         "id": "pkhs6Y3t1iQ",
         "title": "Bayburt Canlı Yayın"
       },
@@ -9741,10 +9750,6 @@
     "name": "WildEarth",
     "videos": [
       {
-        "id": "Sq4gySepwlU",
-        "title": "SafariLIVE Sunrise - 19 March 2026"
-      },
-      {
         "id": "OwjHV9Lby3w",
         "title": "Jaci’s Dam Cam"
       },
@@ -10517,10 +10522,6 @@
     "handle": "@egmondaanzee",
     "name": "WebcamEgmond",
     "videos": [
-      {
-        "id": "3BRkEpf9prs",
-        "title": "🔴 Egmond aan Zee LIVE Weerstation – Wind & Temp Nu"
-      },
       {
         "id": "0GfmTfi10tE",
         "title": "🔴 Live Webcam & Weer – Egmond aan Zee | Actuele beelden van het strand en weerstation 🌊☀️"
@@ -11900,7 +11901,7 @@
     "name": "Water Street Inn",
     "videos": [
       {
-        "id": "tK3_Rw4QJI0",
+        "id": "xC1ZyTinsOU",
         "title": "Lift Bridge over the St. Croix River - Stillwater, Minnesota USA"
       }
     ]
@@ -12785,6 +12786,10 @@
     "handle": "@cgtn",
     "name": "CGTN",
     "videos": [
+      {
+        "id": "PHX-6hJpfeI",
+        "title": "Live: Latest on Middle East conflict as Iran's retaliates against US-Israel strikes"
+      },
       {
         "id": "2x8meS9VnNA",
         "title": "Live of Beirut skyline."
@@ -16335,7 +16340,7 @@
     "name": "Hawick TV",
     "videos": [
       {
-        "id": "YgHpaBRzJ3w",
+        "id": "xoXeBq1vnAY",
         "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
       }
     ]
@@ -17398,12 +17403,7 @@
     "id": "UCuoENUqNd-EXgac6EmKr-Gg",
     "handle": "@vukislunj7814",
     "name": "Vuki Slunj",
-    "videos": [
-      {
-        "id": "rFzB1fvXaF0",
-        "title": "Slunj Vuki LiveCam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCuoNAKa3P0QR1Lw9QdpmoVg",
@@ -18213,7 +18213,12 @@
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
     "handle": "@flamingf.1562",
     "name": "Flaming Fire",
-    "videos": []
+    "videos": [
+      {
+        "id": "GxOtNkWcUEs",
+        "title": "Stockholm city live cam 20260319"
+      }
+    ]
   },
   {
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
