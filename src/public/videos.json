@@ -2351,6 +2351,10 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
+        "id": "Ctjd3yLjwxU",
+        "title": "【LIVE】夜のニュース（Japan News Digest Live）最新情報など（3月19日）｜TBS NEWS DIG"
+      },
+      {
         "id": "41NbWJ3Lblc",
         "title": "【イラン最新情報まとめ】イラン“世界最大”ガス田にイスラエルが空爆/トランプ大統領「全く知らなかった」/高市総理がアメリカに到着 日米首脳会談へ/「イラン情報相を殺害」イスラエルが発表　など"
       },
@@ -2361,10 +2365,6 @@
       {
         "id": "IYwwoR10iS8",
         "title": "【国会中継・リプレイ】参議院・予算委員会　一般質疑（2026年3月19日午後1時～LIVE配信）｜TBS NEWS DIG"
-      },
-      {
-        "id": "gzJfvk3zPl8",
-        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月19日）｜TBS NEWS DIG"
       },
       {
         "id": "8PG-4pYVfy8",
@@ -4322,12 +4322,7 @@
     "id": "UCB-zCeE3hpdWcnVaZePAwFQ",
     "handle": "@RigaZOO",
     "name": "RigaZOO",
-    "videos": [
-      {
-        "id": "2mX7821HC90",
-        "title": "Rīga ZOO sliņķi"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCB1PUu8IJKnIsMSKMOgT8tw",
@@ -4975,8 +4970,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "JSQE9RJrrcQ",
-        "title": "【 Archive】 2026-03-19『15:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "aeX1uKr4KoI",
+        "title": "【Archive】 2026-03-19『18:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -7275,12 +7270,7 @@
     "id": "UCKrTulUx22nWscKWpQarAOQ",
     "handle": "@LakefrontLive",
     "name": "Lakefront Live",
-    "videos": [
-      {
-        "id": "E4dp1EzsJaY",
-        "title": "4K Chicago Lakefront 24/7 Live | Playpen, LSD, Traffic, Boats, O'Hare Flight Path, Runners & Skyline"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCKtFn0R-NGm6cocqdoGAQTA",
@@ -8722,6 +8712,10 @@
     "name": "Swakopmund Flying School",
     "videos": [
       {
+        "id": "4ICYfd4wyhA",
+        "title": "Swakopmund Airport (FYSM) - Towards Runway 06"
+      },
+      {
         "id": "rcT8qzT5sbM",
         "title": "Swakopmund Airport (FYSM) - Towards Runway 024"
       },
@@ -9738,6 +9732,10 @@
     "name": "WildEarth",
     "videos": [
       {
+        "id": "KyIHyekVtvY",
+        "title": "LIVE at the waterhole - 19 March 2026"
+      },
+      {
         "id": "OwjHV9Lby3w",
         "title": "Jaci’s Dam Cam"
       },
@@ -10100,7 +10098,12 @@
     "id": "UCXCRtOlf5p2fQnaWCrKigTA",
     "handle": "@viviendasvacacionalescante8718",
     "name": "Viviendas Vacacionales Canteras Vista Playa",
-    "videos": []
+    "videos": [
+      {
+        "id": "nrJNPd9NaDw",
+        "title": "Viviendas vacacionales Canteras Vista Playa"
+      }
+    ]
   },
   {
     "id": "UCXN7rPhZK6Rp8lMhvpSri_Q",
@@ -18000,7 +18003,12 @@
     "id": "UCxJauSv5BZA7N4dIqPHpy0w",
     "handle": "@Brian-Siu",
     "name": "Hong Kong Taxi Driver - Brian",
-    "videos": []
+    "videos": [
+      {
+        "id": "jeS36XSuzw8",
+        "title": "🔴 香港的士直播 | Hong Kong Taxi Live | 19/3/2026 🔴"
+      }
+    ]
   },
   {
     "id": "UCxXKtAvUNQw5rv9lIU0V4UQ",

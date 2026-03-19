@@ -54,12 +54,6 @@
     "date": "2026-03-16"
   },
   {
-    "id": "UCxJauSv5BZA7N4dIqPHpy0w",
-    "handle": "@Brian-Siu",
-    "name": "Hong Kong Taxi Driver - Brian",
-    "date": "2026-03-16"
-  },
-  {
     "id": "UCBWgewoUjqDBEW4kEnh78OA",
     "handle": "@CentarSarajevo",
     "name": "Općina Centar Sarajevo",
@@ -180,9 +174,21 @@
     "date": "2026-03-19"
   },
   {
+    "id": "UCB-zCeE3hpdWcnVaZePAwFQ",
+    "handle": "@RigaZOO",
+    "name": "RigaZOO",
+    "date": "2026-03-19"
+  },
+  {
     "id": "UCiV1SWx0DV0y9Id-Vjd4JEA",
     "handle": "@meteoestrela",
     "name": "Meteoestrela Serra da Estrela",
+    "date": "2026-03-19"
+  },
+  {
+    "id": "UCKrTulUx22nWscKWpQarAOQ",
+    "handle": "@LakefrontLive",
+    "name": "Lakefront Live",
     "date": "2026-03-19"
   },
   {
@@ -195,12 +201,6 @@
     "id": "UCuoENUqNd-EXgac6EmKr-Gg",
     "handle": "@vukislunj7814",
     "name": "Vuki Slunj",
-    "date": "2026-03-19"
-  },
-  {
-    "id": "UCXCRtOlf5p2fQnaWCrKigTA",
-    "handle": "@viviendasvacacionalescante8718",
-    "name": "Viviendas Vacacionales Canteras Vista Playa",
     "date": "2026-03-19"
   }
 ]
