@@ -260,9 +260,14 @@
   },
   {
     "id": "UC-YwGCdQF-0AdCXhrDF0d2Q",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@canneswebcamquailaubeuf6467",
+    "name": "Cannes webcam : Quai Laubeuf",
+    "videos": [
+      {
+        "id": "asO_10T0k2k",
+        "title": "🔴 LIVE WEBCAM CANNES - Quai Laubeuf"
+      }
+    ]
   },
   {
     "id": "UC-bEmTUibiby67vliNPscBA",
@@ -301,12 +306,7 @@
     "id": "UC-omrowFhBZ_gzNLhX8Hq4w",
     "handle": "@paulbunyanandbabetheblueox3329",
     "name": "Paul Bunyan and Babe the Blue Ox",
-    "videos": [
-      {
-        "id": "61DMbWLcIkE",
-        "title": "Paul Bunyan and Babe the Blue Ox Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC029bcZGqxOsRkvWrZLhgKQ",
@@ -951,12 +951,7 @@
     "id": "UC2B9wVYer0S_P8e2mAb3MXQ",
     "handle": "@itascastatepark-mississipp6440",
     "name": "Itasca State Park - Mississippi River Headwaters",
-    "videos": [
-      {
-        "id": "adBfWH1q25k",
-        "title": "Itasca State Park - Mississippi River Headwaters Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC2FGmqUsOm8pXc-w9GB_ntQ",
@@ -1842,10 +1837,6 @@
     "handle": "@AssociatedPress",
     "name": "Associated Press",
     "videos": [
-      {
-        "id": "y-akLH5CIMY",
-        "title": "LIVE: Senate debates the SAVE Act"
-      },
       {
         "id": "OnvtvLq9tOU",
         "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
@@ -6233,10 +6224,6 @@
     "handle": "@MadeiraWebLive",
     "name": "Madeira-Web",
     "videos": [
-      {
-        "id": "igioSn9nFwg",
-        "title": "Live: Porto da Cruz Pool Cam | Baía do Bago | Madeira-Web"
-      },
       {
         "id": "Zy12G-fkto0",
         "title": "LIVE: Praia da Alagoa Porto da Cruz HD Webcam – Madeira Island"
@@ -12784,6 +12771,10 @@
     "name": "CGTN",
     "videos": [
       {
+        "id": "X4zjhzW1R2c",
+        "title": "Live ship tracking map showing the Strait of Hormuz"
+      },
+      {
         "id": "2x8meS9VnNA",
         "title": "Live of Beirut skyline."
       },
@@ -13301,6 +13292,10 @@
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
     "videos": [
+      {
+        "id": "02OEeGDGFRk",
+        "title": "Live ship tracking map showing the Strait of Hormuz"
+      },
       {
         "id": "2GDWDHrky6I",
         "title": "WATCH LIVE: View of Beirut skyline"
@@ -15104,10 +15099,6 @@
       {
         "id": "tiEVjoZ_M58",
         "title": "🚨 #CDMX | Continúa PLANTÓN de manifestantes del #CNTE. #Zócalo #EnVivo"
-      },
-      {
-        "id": "3nDkkj5idJM",
-        "title": "🗻 #POPOCATÉPETL | Nevado y espectácular. El #Volcán #EnVivo"
       },
       {
         "id": "G51QB2KeiPE",
