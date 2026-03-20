@@ -265,14 +265,9 @@
   },
   {
     "id": "UC-YwGCdQF-0AdCXhrDF0d2Q",
-    "handle": "@canneswebcamquailaubeuf6467",
-    "name": "Cannes webcam : Quai Laubeuf",
-    "videos": [
-      {
-        "id": "asO_10T0k2k",
-        "title": "🔴 LIVE WEBCAM CANNES - Quai Laubeuf"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UC-bEmTUibiby67vliNPscBA",
@@ -1856,6 +1851,10 @@
     "handle": "@AssociatedPress",
     "name": "Associated Press",
     "videos": [
+      {
+        "id": "gRBrYCd0nH8",
+        "title": "LIVE: Seoul drone show ahead of BTS concert at Gwanghwamun Square"
+      },
       {
         "id": "OnvtvLq9tOU",
         "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
@@ -7642,12 +7641,7 @@
     "id": "UCLwUcA69lv5tns6ct-ipiHA",
     "handle": "@BoathouseatNorthLanding",
     "name": "Boathouse at North Landing ",
-    "videos": [
-      {
-        "id": "6M0f9f5YIv8",
-        "title": "North Landing Weather Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCM0qV6ZHBkjxBokQepECyFg",
@@ -11783,12 +11777,7 @@
     "id": "UCdr9cCd_WQPlLCAUjNaoACg",
     "handle": "@LVsphere",
     "name": "LV Strip Cam",
-    "videos": [
-      {
-        "id": "-6q-aEQB14E",
-        "title": "LIVE: Las Vegas Strip Live | Real-Time View Las Vegas Strip"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCdz7UmkCvw3GlZTxHRR6Pyw",
@@ -12329,6 +12318,10 @@
     "handle": "@NorwayLive",
     "name": "Norway Live",
     "videos": [
+      {
+        "id": "RIRzbxCBMto",
+        "title": "Hemsedal LIVE"
+      },
       {
         "id": "TPBIHbObzC0",
         "title": "Fyr til Fyr LIVE"
@@ -13049,7 +13042,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "UqyI5UFR1Yk",
+        "id": "J6YYsNSQEzA",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -13364,8 +13357,8 @@
     "name": "CGTN Europe",
     "videos": [
       {
-        "id": "qap-2wuRi6Q",
-        "title": "A view of Haifa skyline"
+        "id": "QtxJ5CoBGL8",
+        "title": "LIVE: Artemis II rocket is rolled out to the launch pad"
       },
       {
         "id": "2GDWDHrky6I",
@@ -18017,6 +18010,10 @@
     "handle": "@VaticanNewsEN",
     "name": "Vatican News - English",
     "videos": [
+      {
+        "id": "KFPDEwtjcqA",
+        "title": "Press Conference, March 20 2026"
+      },
       {
         "id": "EEM7a3mHMR4",
         "title": "Vatican Media Live - English"
