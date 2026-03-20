@@ -265,14 +265,9 @@
   },
   {
     "id": "UC-YwGCdQF-0AdCXhrDF0d2Q",
-    "handle": "@canneswebcamquailaubeuf6467",
-    "name": "Cannes webcam : Quai Laubeuf",
-    "videos": [
-      {
-        "id": "asO_10T0k2k",
-        "title": "🔴 LIVE WEBCAM CANNES - Quai Laubeuf"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UC-bEmTUibiby67vliNPscBA",
@@ -932,6 +927,10 @@
     "name": "Webcamtaxi",
     "videos": [
       {
+        "id": "7pV-0M_S2Vg",
+        "title": "LIVE: CR7 Museum PTZ Webcam Funchal, Madeira Island  @WebcamTaxi"
+      },
+      {
         "id": "QczpsclgMRc",
         "title": "LIVE Cam: Doca do Cavacas Pools by Frente MarFunchal | @WebcamTaxi"
       },
@@ -1200,6 +1199,10 @@
     "name": "ConexãoDCTV - Balneário Camboriú Ao Vivo",
     "videos": [
       {
+        "id": "ND-wRwnTDKg",
+        "title": "ITAPEMA SC AO VIVO | BR-101 – PRF – BLUE SEA HOTEL | CONEXÃODCTV"
+      },
+      {
         "id": "TjrQXu1vnoA",
         "title": "AO VIVO AGORA - RUA BIGUAÇU + PARTE INTERNA DO BIG LANCHES"
       },
@@ -1336,10 +1339,6 @@
         "title": "ITAJAÍ SC AO VIVO | PRAIA BRAVA – QUIOSQUE ESTRELA DO MAR | CONEXÃODCTV"
       },
       {
-        "id": "cR3mDWKha8s",
-        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | PRAIA DE LARANJEIRAS – CASA DO CAMARÃO | CONEXÃODCTV"
-      },
-      {
         "id": "Hk7eyeFuK-k",
         "title": "IMBITUBA SC AO VIVO | AV. MANOEL FLORENTINO MACHADO – FABRICIO AUTO CENTER | CONEXÃODCTV"
       },
@@ -1374,10 +1373,6 @@
       {
         "id": "o3ITfgiQf7s",
         "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | ORLA – VISTA PANORÂMICA – PARQUE UNIPRAIAS | CONEXÃODCTV"
-      },
-      {
-        "id": "RF8-qVsKsD0",
-        "title": "ITAPEMA SC AO VIVO | BR-101 – PRF – BLUE SEA HOTEL | CONEXÃODCTV"
       },
       {
         "id": "J3Ryjw2eawE",
@@ -1854,8 +1849,12 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "sCRaTVc0BBM",
-        "title": "LIVE: Trump participates in the Commander in Chief Trophy presentation"
+        "id": "y-akLH5CIMY",
+        "title": "LIVE: Senate debates the SAVE Act"
+      },
+      {
+        "id": "DpqKB47uScA",
+        "title": "LIVE: Muslims gather for prayers on the first day of Eid al-Fitr in Mecca"
       },
       {
         "id": "OnvtvLq9tOU",
@@ -2272,8 +2271,8 @@
     "name": "Le Son de la terre",
     "videos": [
       {
-        "id": "V1i6dR-bOmg",
-        "title": "Ma diffusion"
+        "id": "N4M6nll2Q8U",
+        "title": "TV"
       },
       {
         "id": "k3DZKHJ4Aqg",
@@ -2915,10 +2914,6 @@
     "handle": "@LeSanctuaireNotreDamedeLourdes",
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
-      {
-        "id": "pXFNgc6NhQY",
-        "title": "Rosario desde Lourdes - 20/03/2026"
-      },
       {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
@@ -16340,9 +16335,14 @@
   },
   {
     "id": "UCqXHHT3ybdTRXMEWuDmtamQ",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@TownofApexGov",
+    "name": "Town of Apex",
+    "videos": [
+      {
+        "id": "-MWn7E2O-_o",
+        "title": "Town of Apex Downtown Camera"
+      }
+    ]
   },
   {
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
@@ -17341,14 +17341,9 @@
   },
   {
     "id": "UCuhsRQCfzo3UUiPTwDmRDrQ",
-    "handle": "@PortlandDowntown",
-    "name": "Portland Downtown",
-    "videos": [
-      {
-        "id": "NxuzhLeRuyQ",
-        "title": "Monument Square Tree Cam Presented By Hood® Eggnog"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCuiHrLHm5n38Rzl_2y8mYOw",
@@ -18315,7 +18310,12 @@
     "id": "UCy8rlPU5XOFxn2nk5VUpaeA",
     "handle": "@confederationbridge5244",
     "name": "Confederation Bridge",
-    "videos": []
+    "videos": [
+      {
+        "id": "eOfVG8zT7IU",
+        "title": "Confederation Bridge Live Stream"
+      }
+    ]
   },
   {
     "id": "UCy9ww22FuUlXd0c6B8INJVQ",
