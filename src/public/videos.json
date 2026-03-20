@@ -1195,16 +1195,16 @@
     "name": "ConexãoDCTV - Balneário Camboriú Ao Vivo",
     "videos": [
       {
+        "id": "TjrQXu1vnoA",
+        "title": "AO VIVO AGORA - RUA BIGUAÇU + PARTE INTERNA DO BIG LANCHES"
+      },
+      {
         "id": "bDQlv3GaVwQ",
         "title": "BLUMENAU SC AO VIVO | PANORÂMICA DA CIDADE – INDAIÁ EVENTOS | CONEXÃODCTV"
       },
       {
         "id": "sYdDIhR_v4E",
         "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | AV. DO ESTADO – CACAU SHOW | CONEXÃODCTV"
-      },
-      {
-        "id": "lF5s-3RhjJE",
-        "title": "AO VIVO AGORA - RUA BIGUAÇU + PARTE INTERNA DO BIG LANCHES"
       },
       {
         "id": "BWIF6NW0wUs",
@@ -1860,8 +1860,8 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "ggJeoqAbHwc",
-        "title": "LIVE: Senate debates the SAVE Act"
+        "id": "X-exnIM-h84",
+        "title": "LIVE: NASA’s Artemis II moon rocket is rolled out to the launch pad"
       },
       {
         "id": "FbIxDkz1PLI",
@@ -2364,8 +2364,8 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "8V-NTP_uI60",
-        "title": "【LIVE】朝のニュース（Japan News Digest Live）最新情報など｜TBS NEWS DIG（3月20日）"
+        "id": "W_e5Hj7S7lY",
+        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月20日）｜TBS NEWS DIG"
       },
       {
         "id": "WxtHyAi8wSg",
@@ -2842,12 +2842,7 @@
     "id": "UC7WAqB7dyv1t8jKunD-8krA",
     "handle": "@L.A.FLIGHTS",
     "name": "L.A FLIGHTS",
-    "videos": [
-      {
-        "id": "AJATa2YFFbs",
-        "title": "🔴LIVE SFO! SAN FRANCISCO AIRPORT PLANE SPOTTING | March 19, 2026"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC7Z6yfD0LKxSftKxOLrbPeQ",
@@ -3343,7 +3338,12 @@
     "id": "UC8fK-SBpN1jaSGDV7a8gdLw",
     "handle": "@VisitFallingwater",
     "name": "Fallingwater",
-    "videos": []
+    "videos": [
+      {
+        "id": "7ucskwkESko",
+        "title": "Live Stream of the Iconic View of Fallingwater"
+      }
+    ]
   },
   {
     "id": "UC8gbWbcNNyb5-NIXvFklkOA",
@@ -4199,7 +4199,12 @@
     "id": "UCAphsmhYyvZDI7s67XM5l0A",
     "handle": "@RioWorldLiveCam",
     "name": "Rio World Live Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "coC3dx9fnEs",
+        "title": "Acompanhe Copacabana Ao Vivo 19/03"
+      }
+    ]
   },
   {
     "id": "UCArs3YQib0gUuv5SVrjjtCQ",
@@ -6414,7 +6419,12 @@
     "id": "UCIQVWkOilfxoQSFcban_d-A",
     "handle": "@mauilivecam7143",
     "name": "Maui Live Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZdmEqSHaNzU",
+        "title": "🐳  LIVE 24/7  🌊  4K MAUI LIVE CAM  * WHALE WATCH CAM *  www.WhalerCondo.net"
+      }
+    ]
   },
   {
     "id": "UCISmkFSH-melI4eancXEF8A",
@@ -6504,6 +6514,10 @@
     "handle": "@steelhighwayrailcams",
     "name": "Steel Highway Railcams",
     "videos": [
+      {
+        "id": "9DvhBYk5u7U",
+        "title": "Grinnell Mayflower Community Live Railcam - Grinnell, IA #SteelHighway"
+      },
       {
         "id": "p1XQ4h4zkis",
         "title": "Richville, MN, USA | Train Cam LIVE NOW | CPKC Detroit Lakes Sub |  #steelhighway   | MP 186.14"
@@ -7350,6 +7364,10 @@
     "name": "NASA",
     "videos": [
       {
+        "id": "ED2nbfb3NbE",
+        "title": "NASA's Artemis II Live Views from Kennedy Space Center"
+      },
+      {
         "id": "sWasdbDVNvc",
         "title": "Live Video from the International Space Station (Official NASA Stream)"
       },
@@ -7582,7 +7600,12 @@
     "id": "UCLm4NMiRgEwOAwY-tapTQag",
     "handle": "@kozylemorne6102",
     "name": "Kozy Le Morne",
-    "videos": []
+    "videos": [
+      {
+        "id": "TBO80VDlvBo",
+        "title": "🔴 Île Maurice / Mauritius - At Kozy Le Morne"
+      }
+    ]
   },
   {
     "id": "UCLmvtLuqca56l68QCETk1QQ",
@@ -7963,7 +7986,7 @@
     "name": "SBGR LIVE",
     "videos": [
       {
-        "id": "i_OQyzupQEU",
+        "id": "7ABUSQJHFzU",
         "title": "SBGR LIVE 4K - Aeroporto Internacional de Guarulhos AO VIVO - GRU Airport"
       }
     ]
@@ -8575,7 +8598,12 @@
     "id": "UCQJE3qm7Sjc5-JXAYjAfkrw",
     "handle": "@-ishigakiisland-2224",
     "name": "石垣島ライブカメラ -ishigaki island-",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZLRXjDgJTYw",
+        "title": "石垣島７３０交差点ＬＩＶＥカメラ"
+      }
+    ]
   },
   {
     "id": "UCQKQTgZJo3PlxA-9V1Z51XA",
@@ -9180,10 +9208,6 @@
         "title": "🌴Best Caribbean Beach Resorts LIVE | Curaçao • Sint Maarten • Aruba • Bonaire"
       },
       {
-        "id": "EWF5FhA_Sy0",
-        "title": "LIVE SXM Airport March 19 ✈️ -  Maho Beach Sint Maarten"
-      },
-      {
         "id": "vxHKAImxUHk",
         "title": "LIVE Cam Simpson Bay Beach Resort | Sint Maarten 🌴💦"
       },
@@ -9283,10 +9307,6 @@
     "handle": "@KBCnewsCH",
     "name": "KBC NEWS in JAPAN",
     "videos": [
-      {
-        "id": "uuMhOREzUYA",
-        "title": "【ライブカメラ】福岡空港　Fukuoka Airport　＆他ライブカメラ"
-      },
       {
         "id": "4hpUbFP13-M",
         "title": "KBC NEWS LIVE 24～福岡・佐賀の最新ニュースを24時間配信～"
@@ -9609,7 +9629,7 @@
     "name": "Serra do Rio do Rastro ao Vivo",
     "videos": [
       {
-        "id": "Ura-LK-0Gx8",
+        "id": "qK4cBfN9aCI",
         "title": "Serra do Rio do Rastro em Lauro Müller ao vivo!"
       }
     ]
@@ -9726,12 +9746,7 @@
     "id": "UCUmvxPTUfflU3v_mcRNGAeg",
     "handle": "@Sv.Uspenska-Pochaevska-Lavra",
     "name": "† Свято-Успенская Почаевская Лавра",
-    "videos": [
-      {
-        "id": "Iot_fiYAU1o",
-        "title": "Пряма трансляція богослужіння † Свято-Успенська Почаївська Лавра"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCUpFHGasL2cNAo2w70vwrSQ",
@@ -10444,10 +10459,6 @@
     "handle": "@abc7news",
     "name": "ABC7 News Bay Area",
     "videos": [
-      {
-        "id": "URTznU-OeHM",
-        "title": "LIVE: 2 whales spotted swimming in San Francisco Bay"
-      },
       {
         "id": "_VqvVJfmyfs",
         "title": "Treasure Island, California Live Cam | 24/7 Stream"
@@ -11707,14 +11718,9 @@
   },
   {
     "id": "UCdV_1HeYSkwgNM-L4eIQ7AA",
-    "handle": "@bredbandikristianstad",
-    "name": "Bredband i Kristianstad AB",
-    "videos": [
-      {
-        "id": "v7wWIO7brSM",
-        "title": "Stora torg, Kristianstad"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCdfw60990QmqjbMWDvfddLg",
@@ -12807,6 +12813,18 @@
     "name": "CGTN",
     "videos": [
       {
+        "id": "xfmWJF3kY20",
+        "title": "Artemis II rocket is rolled out to the launch pad"
+      },
+      {
+        "id": "7ScYTE3Sndo",
+        "title": "Live ship tracking map showing the Strait of Hormuz"
+      },
+      {
+        "id": "gDW3-hHfnUI",
+        "title": "A view of Haifa skyline"
+      },
+      {
         "id": "2x8meS9VnNA",
         "title": "Live of Beirut skyline."
       },
@@ -13329,8 +13347,8 @@
     "name": "CGTN Europe",
     "videos": [
       {
-        "id": "Mx9AHPkcxjY",
-        "title": "LIVE: View of Haifa skyline"
+        "id": "qap-2wuRi6Q",
+        "title": "A view of Haifa skyline"
       },
       {
         "id": "2GDWDHrky6I",
@@ -15094,6 +15112,10 @@
     "name": "webcamsdemexico",
     "videos": [
       {
+        "id": "IUkO8SewdPQ",
+        "title": "📍 #CDMX ((#CNTE)) | Continúa plantón de manifestantes en el #Zócalo #EnVivo"
+      },
+      {
         "id": "5Mrlg5kmsno",
         "title": "🗻 #POPOCATÉPETL | Hermoso y nevado. El #Volcán #EnVivo"
       },
@@ -15168,14 +15190,6 @@
       {
         "id": "kmk7gvAC5Vs",
         "title": "⚠️ #CDMX (MAÑANA 10:00 hrs) | ¡Todo listo para romper #recordguinnes! #Zócalo #EnVivo"
-      },
-      {
-        "id": "0doCWoRLOek",
-        "title": "#Zócalo | La cancha esta lista para el partido ⚽️ #Zócalo #EnVivo"
-      },
-      {
-        "id": "dVL4tFZOn3U",
-        "title": "💃 #CDMX | Danzantes alegrando al #Zócalo. #EnVivo"
       },
       {
         "id": "ssEfxbGgBmw",
@@ -15770,7 +15784,7 @@
     "name": "Carron Farm",
     "videos": [
       {
-        "id": "iGPGPuRGyuU",
+        "id": "lEU3sfRPDh4",
         "title": "Higher Town Quay"
       }
     ]
@@ -16333,10 +16347,6 @@
     "handle": "@TownofApexGov",
     "name": "Town of Apex",
     "videos": [
-      {
-        "id": "p4fhQf9SkG0",
-        "title": "2026.03.19 Environmental Advisory Board-1"
-      },
       {
         "id": "-MWn7E2O-_o",
         "title": "Town of Apex Downtown Camera"
