@@ -177,12 +177,7 @@
     "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
     "handle": "@alwarith-center",
     "name": "مركز الوارث للإنتاج الفني",
-    "videos": [
-      {
-        "id": "CKqp84SlRFs",
-        "title": "البث المباشر من العتبة الحسينية المقدسة |  كربلاء المقدسة الان Karbala live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-KS6AGW3J43aFF-KOQ6VAw",
@@ -265,9 +260,14 @@
   },
   {
     "id": "UC-YwGCdQF-0AdCXhrDF0d2Q",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@canneswebcamquailaubeuf6467",
+    "name": "Cannes webcam : Quai Laubeuf",
+    "videos": [
+      {
+        "id": "asO_10T0k2k",
+        "title": "🔴 LIVE WEBCAM CANNES - Quai Laubeuf"
+      }
+    ]
   },
   {
     "id": "UC-bEmTUibiby67vliNPscBA",
@@ -1199,6 +1199,10 @@
     "name": "ConexãoDCTV - Balneário Camboriú Ao Vivo",
     "videos": [
       {
+        "id": "Vsm5qzRxj04",
+        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | PRAIA DE LARANJEIRAS – CASA DO CAMARÃO | CONEXÃODCTV"
+      },
+      {
         "id": "ND-wRwnTDKg",
         "title": "ITAPEMA SC AO VIVO | BR-101 – PRF – BLUE SEA HOTEL | CONEXÃODCTV"
       },
@@ -1863,10 +1867,6 @@
       {
         "id": "Zunz0ZEYE00",
         "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
-      },
-      {
-        "id": "X-exnIM-h84",
-        "title": "LIVE: NASA’s Artemis II moon rocket is rolled out to the launch pad"
       }
     ]
   },
@@ -2914,6 +2914,10 @@
     "handle": "@LeSanctuaireNotreDamedeLourdes",
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
+      {
+        "id": "HvTirRYbCCk",
+        "title": "Rosario di Lourdes - 20/03/2026"
+      },
       {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
@@ -4209,7 +4213,12 @@
     "id": "UCAphsmhYyvZDI7s67XM5l0A",
     "handle": "@RioWorldLiveCam",
     "name": "Rio World Live Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "aOgVYCUoprY",
+        "title": "Acompanhe Copacabana Ao Vivo 20/03"
+      }
+    ]
   },
   {
     "id": "UCArs3YQib0gUuv5SVrjjtCQ",
@@ -5242,8 +5251,8 @@
     "name": "Khao Lak Land Discovery",
     "videos": [
       {
-        "id": "cGVBwQq733s",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 20-Mar-2026 18:15"
+        "id": "Q0XvpKMuS_8",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 21-Mar-2026 00:01"
       }
     ]
   },
@@ -7739,6 +7748,10 @@
     "name": "I Love You Venice",
     "videos": [
       {
+        "id": "BPDwgX9GIjs",
+        "title": "🔴 Venice Live Cam - Laguna of Venice with 4K Cam PTZ 30x - Stream from Cantieri Biasin"
+      },
+      {
         "id": "7fhy-Eu8AFs",
         "title": "🔴 Bacino di San Marco from Via Garibaldi - Live View from Hotel Ca' Formenta Venezia"
       },
@@ -7841,10 +7854,6 @@
       {
         "id": "WjOGhNDX51M",
         "title": "🔴 Venezia Italia Live Webcam - Campo Santa Maria Formosa Venice - Stream from Ruzzini Palace Hotel"
-      },
-      {
-        "id": "h1h8GqED1jA",
-        "title": "🔴 Venice Live Cam - Laguna of Venice with Cam PTZ 30x - Stream from Cantieri Biasin"
       },
       {
         "id": "JqUREqYduHw",
@@ -9775,10 +9784,6 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
-      {
-        "id": "0ayO2U_Blx0",
-        "title": "SafariLIVE Sunset - 20 March 2026"
-      },
       {
         "id": "OwjHV9Lby3w",
         "title": "Jaci’s Dam Cam"
@@ -16350,7 +16355,7 @@
     "name": "Hawick TV",
     "videos": [
       {
-        "id": "hb2lZG5LzOU",
+        "id": "TlktGBx_qSI",
         "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
       }
     ]
@@ -17341,9 +17346,14 @@
   },
   {
     "id": "UCuhsRQCfzo3UUiPTwDmRDrQ",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@PortlandDowntown",
+    "name": "Portland Downtown",
+    "videos": [
+      {
+        "id": "NxuzhLeRuyQ",
+        "title": "Monument Square Tree Cam Presented By Hood® Eggnog"
+      }
+    ]
   },
   {
     "id": "UCuiHrLHm5n38Rzl_2y8mYOw",
