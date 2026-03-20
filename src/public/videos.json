@@ -260,9 +260,14 @@
   },
   {
     "id": "UC-YwGCdQF-0AdCXhrDF0d2Q",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@canneswebcamquailaubeuf6467",
+    "name": "Cannes webcam : Quai Laubeuf",
+    "videos": [
+      {
+        "id": "asO_10T0k2k",
+        "title": "🔴 LIVE WEBCAM CANNES - Quai Laubeuf"
+      }
+    ]
   },
   {
     "id": "UC-bEmTUibiby67vliNPscBA",
@@ -10126,12 +10131,7 @@
     "id": "UCXCRtOlf5p2fQnaWCrKigTA",
     "handle": "@viviendasvacacionalescante8718",
     "name": "Viviendas Vacacionales Canteras Vista Playa",
-    "videos": [
-      {
-        "id": "7gjXkeSQ9kQ",
-        "title": "Viviendas vacacionales Canteras Vista Playa"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXN7rPhZK6Rp8lMhvpSri_Q",
@@ -12785,10 +12785,6 @@
     "name": "CGTN",
     "videos": [
       {
-        "id": "73BiOlw7-Tw",
-        "title": "Artemis II rocket is rolled out to the launch pad"
-      },
-      {
         "id": "2x8meS9VnNA",
         "title": "Live of Beirut skyline."
       },
@@ -13306,10 +13302,6 @@
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
     "videos": [
-      {
-        "id": "QtxJ5CoBGL8",
-        "title": "LIVE: Artemis II rocket is rolled out to the launch pad"
-      },
       {
         "id": "2GDWDHrky6I",
         "title": "WATCH LIVE: View of Beirut skyline"
@@ -14197,18 +14189,18 @@
     "id": "UClSdxxEoPbpZHrujhfQcdow",
     "handle": "@castrostreetcam2549",
     "name": "Castro Street Cam 2",
-    "videos": [
-      {
-        "id": "qNldeCgDNhA",
-        "title": "Castro Street Cam 2 Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UClcicFOBsxXQxaQnT1RshJg",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@axis-air",
+    "name": "Axis Air",
+    "videos": [
+      {
+        "id": "MfqAgiqY4-0",
+        "title": "Live Weather Camera at Oxnard Airport (KOXR) | Axis Air FBO | Ventura County, CA"
+      }
+    ]
   },
   {
     "id": "UCliCEXR9eSmY9PDb2lXov7Q",
@@ -16379,10 +16371,6 @@
       {
         "id": "G_G8A6JU_LI",
         "title": "Camera PTZ Trang Phục biểu diễn Phương Trần Đà Nẵng"
-      },
-      {
-        "id": "jqs9BZj6i04",
-        "title": "Camera đường Hùng Vương - Tam Kỳ - Thành Phố Đà Nẵng - Xem camera trực tuyến Đà Nẵng"
       }
     ]
   },
@@ -18195,7 +18183,7 @@
     "name": "Wight Wildlife Cam",
     "videos": [
       {
-        "id": "UkVEJJ3rYfU",
+        "id": "Y_2cFW-cPIU",
         "title": "BIRD FEEDERS ISLE OF WIGHT *LIVE 24/7*"
       }
     ]
