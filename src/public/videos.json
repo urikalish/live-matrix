@@ -2357,16 +2357,16 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
+        "id": "1dkimHuITKk",
+        "title": "【日米首脳会談まとめ】「成功」評価も…トランプ大統領は“同盟国”テスト中？/高市総理から中東情勢に触れたワケ/11兆円超の対米投資は日本に還元される？/「真珠湾発言」が物議 など"
+      },
+      {
         "id": "6mWDNGxcNsI",
         "title": "【イラン最新情報まとめ】トランプ大統領「そんなことはするな」イスラエルによるイランの“ガス田”攻撃受け / 日米首脳会談 トランプ大統領の要求に高市総理は？「平和もたらせるのはドナルドだけ」　など"
       },
       {
         "id": "N0_qxWvDygw",
         "title": "【LIVE】最新ニュースまとめ（Japan News Digest）（3月20日）｜TBS NEWS DIG"
-      },
-      {
-        "id": "NlyUt7zGPGs",
-        "title": "【日米首脳会談まとめ】高市総理「平和と繁栄もたらせるのはドナルドだけ」/自衛隊派遣「きっちりと説明」/トランプ氏「日本は責任を果たそうとしている」/「対米投資」第2弾も合意」など"
       },
       {
         "id": "8PG-4pYVfy8",
@@ -2910,6 +2910,10 @@
     "handle": "@LeSanctuaireNotreDamedeLourdes",
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
+      {
+        "id": "o6zSdDUp6-k",
+        "title": "Le Chapelet depuis la Grotte de Lourdes - 20/03/2026"
+      },
       {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
@@ -9728,12 +9732,7 @@
     "id": "UCUmvxPTUfflU3v_mcRNGAeg",
     "handle": "@Sv.Uspenska-Pochaevska-Lavra",
     "name": "† Свято-Успенская Почаевская Лавра",
-    "videos": [
-      {
-        "id": "WdHVNjUBpSk",
-        "title": "Пряма трансляція богослужіння † Свято-Успенська Почаївська Лавра"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCUpFHGasL2cNAo2w70vwrSQ",
@@ -12816,16 +12815,8 @@
     "name": "CGTN",
     "videos": [
       {
-        "id": "xk-F2Su5UxE",
-        "title": "Live: Latest on Middle East as Iran retaliates after US-Israeli attacks"
-      },
-      {
-        "id": "7ScYTE3Sndo",
-        "title": "Live ship tracking map showing the Strait of Hormuz"
-      },
-      {
-        "id": "gDW3-hHfnUI",
-        "title": "A view of Haifa skyline"
+        "id": "73BiOlw7-Tw",
+        "title": "Artemis II rocket is rolled out to the launch pad"
       },
       {
         "id": "2x8meS9VnNA",
@@ -14165,12 +14156,12 @@
     "name": "Ixtapa y Zihuatanejo",
     "videos": [
       {
-        "id": "xtDn22DB7wY",
-        "title": "🔴  Ixtapa - En vivo Playa Linda"
+        "id": "lpFFvGBC41s",
+        "title": "🔴  Zihuatanejo - En vivo Bahía de Zihuatanejo"
       },
       {
-        "id": "q2AQWA5lgXc",
-        "title": "🔴  Zihuatanejo - En vivo Playa La Madera II"
+        "id": "xtDn22DB7wY",
+        "title": "🔴  Ixtapa - En vivo Playa Linda"
       },
       {
         "id": "e756N1tufY8",
@@ -18248,7 +18239,12 @@
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
     "handle": "@wightwildlifecam",
     "name": "Wight Wildlife Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "UkVEJJ3rYfU",
+        "title": "BIRD FEEDERS ISLE OF WIGHT *LIVE 24/7*"
+      }
+    ]
   },
   {
     "id": "UCxovy5qTcwjsyl3ETKAOgdg",
@@ -18333,12 +18329,7 @@
     "id": "UCy8rlPU5XOFxn2nk5VUpaeA",
     "handle": "@confederationbridge5244",
     "name": "Confederation Bridge",
-    "videos": [
-      {
-        "id": "qRp7yqBpfoA",
-        "title": "Confederation Bridge Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCy9ww22FuUlXd0c6B8INJVQ",
