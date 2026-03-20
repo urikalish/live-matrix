@@ -2500,6 +2500,10 @@
     "name": "Tehachapi Live Train Cams",
     "videos": [
       {
+        "id": "TlgQSJEkERs",
+        "title": "Tehachapi Live Train Cams at Giumarra Vineyards 🍇 in Edison CA."
+      },
+      {
         "id": "pCpkspPc-n0",
         "title": "Tehachapi Live Train Cams at the Tehachapi Loop 🚂"
       },
@@ -3062,10 +3066,6 @@
         "title": "Great Spirit Bluff Falcons powered by EXPLORE.org"
       },
       {
-        "id": "KnnRlbZf0Gg",
-        "title": "Chesapeake Conservancy Great Blue Herons powered by EXPLORE.org"
-      },
-      {
         "id": "2FdvAk95PSk",
         "title": "Great Green Macaw Nest - Sarapiquí Rainforest Reserve powered by  EXPLORE.org"
       },
@@ -3192,10 +3192,6 @@
       {
         "id": "VNhBrQYIuyo",
         "title": "Great Spirit Bluff Cliff Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "M4P_GzA6H80",
-        "title": "Alligator and Spoonbill Swamp Cam powered by EXPLORE.org"
       },
       {
         "id": "o49SYbWxWE0",
@@ -14221,14 +14217,9 @@
   },
   {
     "id": "UClcicFOBsxXQxaQnT1RshJg",
-    "handle": "@axis-air",
-    "name": "Axis Air",
-    "videos": [
-      {
-        "id": "MfqAgiqY4-0",
-        "title": "Live Weather Camera at Oxnard Airport (KOXR) | Axis Air FBO | Ventura County, CA"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCliCEXR9eSmY9PDb2lXov7Q",
@@ -17194,12 +17185,7 @@
     "id": "UCuR9Gx3rZA_eaJV9tF8l8HQ",
     "handle": "@ArielOrtizYT",
     "name": "Ariel Ortiz - Ushuaia",
-    "videos": [
-      {
-        "id": "Kr64pHyV8dY",
-        "title": "Ushuaia en vivo - Canal Beagle"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCuSeVCzI21lPeKnIzZehFPQ",
