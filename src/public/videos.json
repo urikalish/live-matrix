@@ -9731,10 +9731,6 @@
     "name": "WildEarth",
     "videos": [
       {
-        "id": "q0jqtd_EArQ",
-        "title": "SafariLIVE Sunrise - 21 March 2026"
-      },
-      {
         "id": "OwjHV9Lby3w",
         "title": "Jaci’s Dam Cam"
       },
@@ -12252,6 +12248,10 @@
     "name": "Norway Live",
     "videos": [
       {
+        "id": "aefUCQ2TH1Y",
+        "title": "Lofoten LIVE"
+      },
+      {
         "id": "RIRzbxCBMto",
         "title": "Hemsedal LIVE"
       },
@@ -12737,6 +12737,10 @@
     "handle": "@cgtn",
     "name": "CGTN",
     "videos": [
+      {
+        "id": "uBaQ9ADKUCs",
+        "title": "Live: Latest on Middle East tensions as Iran retaliates after US-Israeli attacks, Day 22"
+      },
       {
         "id": "X4zjhzW1R2c",
         "title": "Live ship tracking map showing the Strait of Hormuz"
