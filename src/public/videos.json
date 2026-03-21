@@ -1563,7 +1563,12 @@
     "id": "UC3c-pudL55WWFxl89wTH1NA",
     "handle": "@PanosBoats",
     "name": "Panos Boats",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZhTB9HwYy6I",
+        "title": "Loggos, Paxos Webcam | Live Streaming | Panos Boats & Trips"
+      }
+    ]
   },
   {
     "id": "UC3ewP9SczRIGGpDXDQvpPyQ",
@@ -2822,7 +2827,12 @@
     "id": "UC7WAqB7dyv1t8jKunD-8krA",
     "handle": "@L.A.FLIGHTS",
     "name": "L.A FLIGHTS",
-    "videos": []
+    "videos": [
+      {
+        "id": "EV9r8Ay0vAI",
+        "title": "🔴LIVE LAX! | March 21st | PLANE SPOTTING | LOS ANGELES AIRPORT PLANE SPOTTING"
+      }
+    ]
   },
   {
     "id": "UC7Z6yfD0LKxSftKxOLrbPeQ",
@@ -7111,6 +7121,10 @@
     "handle": "@kdrx106.9fm",
     "name": "Live Cam Del Rio-Acuña",
     "videos": [
+      {
+        "id": "opHQMhsb-CY",
+        "title": "Prueba de vuelo Drone"
+      },
       {
         "id": "DtztQ9IuZ08",
         "title": "🔴Macroplaza Live Cam / Live Music  ♫ Cd. Acuña, México"
