@@ -137,6 +137,10 @@
     "name": "NatureTec",
     "videos": [
       {
+        "id": "9_-C2d9Fy4w",
+        "title": "LIVE Kestrel Nest Box Cam - Recke (Germany)"
+      },
+      {
         "id": "7_oAM-g1lJ0",
         "title": "LIVE 4K Nest Box Cam - Uplengen (Lower Saxony)"
       },
@@ -961,7 +965,12 @@
     "id": "UC2B9wVYer0S_P8e2mAb3MXQ",
     "handle": "@itascastatepark-mississipp6440",
     "name": "Itasca State Park - Mississippi River Headwaters",
-    "videos": []
+    "videos": [
+      {
+        "id": "F55Bv59syss",
+        "title": "Itasca State Park - Mississippi River Headwaters Live Stream"
+      }
+    ]
   },
   {
     "id": "UC2FGmqUsOm8pXc-w9GB_ntQ",
@@ -9480,7 +9489,20 @@
     "id": "UCTHlXiRiln7-lSXPh2xFbOw",
     "handle": "@lukaszpal",
     "name": "Łukasz Paluch",
-    "videos": []
+    "videos": [
+      {
+        "id": "70QjeKRWTz0",
+        "title": "Park Muzyczny Kudowa Zdrój"
+      },
+      {
+        "id": "QNjECc8CY8I",
+        "title": "Park Zdrojowy - Pijalnia wód mineralnych Kudowa Zdrój"
+      },
+      {
+        "id": "li7-isY-kvk",
+        "title": "Park Zdrojowy Kudowa Zdrój"
+      }
+    ]
   },
   {
     "id": "UCTLF36lXVM7uiR-VolWHv0Q",
@@ -9730,10 +9752,6 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
-      {
-        "id": "iaNiwfQG-uI",
-        "title": "SafariLIVE Sunset - 21 March 2026"
-      },
       {
         "id": "OwjHV9Lby3w",
         "title": "Jaci’s Dam Cam"
@@ -12964,7 +12982,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "1ojLKAcJM7w",
+        "id": "4Dui2yVMg8c",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -13280,7 +13298,7 @@
     "videos": [
       {
         "id": "02OEeGDGFRk",
-        "title": "Live ship tracking map showing the Strait of Hormuz"
+        "title": "Live of Beirut skyline."
       },
       {
         "id": "2GDWDHrky6I",
