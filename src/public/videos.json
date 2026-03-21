@@ -181,12 +181,7 @@
     "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
     "handle": "@alwarith-center",
     "name": "مركز الوارث للإنتاج الفني",
-    "videos": [
-      {
-        "id": "SPEbydGPLBo",
-        "title": "البث المباشر من العتبة الحسينية المقدسة  | 1 شوال |  كربلاء المقدسة الان Karbala live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-KS6AGW3J43aFF-KOQ6VAw",
@@ -1000,7 +995,7 @@
     "name": "SISE Argentina®",
     "videos": [
       {
-        "id": "GRDobln2rL8",
+        "id": "7PfPbZXq_pM",
         "title": "Camaras en Vivo Puente General Belgrano - SISE Argentina®"
       }
     ]
@@ -1686,6 +1681,10 @@
     "name": "La Casa del Senador",
     "videos": [
       {
+        "id": "jLyzX_so1xk",
+        "title": "Puentes Internacionales de Piedras Negras, Coahuila y Eagle Pass, Texas."
+      },
+      {
         "id": "t78v7aq3t3w",
         "title": "Puente Internacional 2: Piedras Negras, Coahuila y Eagle Pass, Texas | VISTA ADICIONAL"
       }
@@ -1845,12 +1844,12 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "PiSXPz-9jVY",
-        "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
+        "id": "NmitJhV9l80",
+        "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
       },
       {
-        "id": "SfePG52rJ4g",
-        "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
+        "id": "lhPwZmRPEeY",
+        "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
       }
     ]
   },
@@ -2893,10 +2892,6 @@
     "handle": "@LeSanctuaireNotreDamedeLourdes",
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
-      {
-        "id": "TZQENGkaH0E",
-        "title": "Rosario di Lourdes - 21/03/2026"
-      },
       {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
