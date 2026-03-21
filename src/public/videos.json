@@ -2894,10 +2894,6 @@
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
       {
-        "id": "KzrIh9A3kOk",
-        "title": "Messe depuis la Grotte de Lourdes - 21/03/2026"
-      },
-      {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
       },
@@ -5814,6 +5810,10 @@
     "handle": "@BeachLifeCams",
     "name": "Beach Life Cams",
     "videos": [
+      {
+        "id": "-kEGYQcdeXQ",
+        "title": "Weymouth Beach / Bandstand Live @ Saltwater Shack"
+      },
       {
         "id": "kKv0tI1RYlU",
         "title": "Bowleaze Cove Beach (Weymouth, UK) Live Webcam @ Beachside Cafe"
@@ -10106,7 +10106,12 @@
     "id": "UCXCRtOlf5p2fQnaWCrKigTA",
     "handle": "@viviendasvacacionalescante8718",
     "name": "Viviendas Vacacionales Canteras Vista Playa",
-    "videos": []
+    "videos": [
+      {
+        "id": "v4JmWZRya78",
+        "title": "Viviendas vacacionales Canteras Vista Playa"
+      }
+    ]
   },
   {
     "id": "UCXN7rPhZK6Rp8lMhvpSri_Q",
@@ -10862,7 +10867,12 @@
     "id": "UCa1XvGj-yhiLLC5fVFKfXJQ",
     "handle": "@BeachcomberStAugustine",
     "name": "The Beachcomber Restaurant St. Augustine",
-    "videos": []
+    "videos": [
+      {
+        "id": "Gxvah4WP9gE",
+        "title": "The Beachcomber Restaurant St. Augustine Live Stream"
+      }
+    ]
   },
   {
     "id": "UCa6JQgXH9u3ce7UNMv9d-ig",
@@ -11171,6 +11181,10 @@
     "handle": "@HubbardsMarina",
     "name": "Hubbard&#39;s Marina",
     "videos": [
+      {
+        "id": "BN4ygErdpwg",
+        "title": "Bartow Ford Reel Animals Radio show | 6a-8a Saturdays  | https://ReelAnimals.com"
+      },
       {
         "id": "uaivpT7T0A4",
         "title": "John's Pass Camera | Hubbard's Marina | www.HubbardsMarina.com"
@@ -16305,12 +16319,7 @@
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
     "handle": "@HawickTV",
     "name": "Hawick TV",
-    "videos": [
-      {
-        "id": "Aaii4tTaXVE",
-        "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCqaZDUY_3goAaCsMLqVyJPw",
@@ -17955,7 +17964,12 @@
     "id": "UCxXKtAvUNQw5rv9lIU0V4UQ",
     "handle": "@ViracoposaoVivo",
     "name": "Viracopos ao Vivo",
-    "videos": []
+    "videos": [
+      {
+        "id": "kc2eqzOGJjI",
+        "title": "AO VIVO - AEROPORTO INTERNACIONAL DE VIRACOPOS EM CAMPINAS - SÃO PAULO"
+      }
+    ]
   },
   {
     "id": "UCxaKME3e34j3aTESZZ3h7Sg",
