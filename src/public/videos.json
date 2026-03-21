@@ -9735,10 +9735,6 @@
     "name": "WildEarth",
     "videos": [
       {
-        "id": "WGY0sahLdRA",
-        "title": "LIVE at the waterhole - 21 March 2026"
-      },
-      {
         "id": "OwjHV9Lby3w",
         "title": "Jaci’s Dam Cam"
       },
@@ -15143,10 +15139,6 @@
         "title": "#BellasArtes | Se vinieron fuertes las lluvias #envivo"
       },
       {
-        "id": "-I8o83MMXA0",
-        "title": "Acapulco, Guerrero En Vivo | Vista Panorámica de la Bahía de Santa Lucía"
-      },
-      {
         "id": "pVyBqT-T0q0",
         "title": "⛈️ #CDMX | Lluvias al Sur de la ciudad. La capital #EnVivo"
       },
@@ -16319,7 +16311,12 @@
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
     "handle": "@HawickTV",
     "name": "Hawick TV",
-    "videos": []
+    "videos": [
+      {
+        "id": "HqrP66FjxF8",
+        "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
+      }
+    ]
   },
   {
     "id": "UCqaZDUY_3goAaCsMLqVyJPw",
