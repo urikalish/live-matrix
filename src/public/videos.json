@@ -2885,10 +2885,6 @@
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
       {
-        "id": "macmMwF-i0Q",
-        "title": "Le Chapelet depuis la Grotte de Lourdes - 21/03/2026"
-      },
-      {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
       },
@@ -10876,12 +10872,7 @@
     "id": "UCa1XvGj-yhiLLC5fVFKfXJQ",
     "handle": "@BeachcomberStAugustine",
     "name": "The Beachcomber Restaurant St. Augustine",
-    "videos": [
-      {
-        "id": "Gxvah4WP9gE",
-        "title": "The Beachcomber Restaurant St. Augustine Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCa6JQgXH9u3ce7UNMv9d-ig",
@@ -17373,7 +17364,12 @@
     "id": "UCuoENUqNd-EXgac6EmKr-Gg",
     "handle": "@vukislunj7814",
     "name": "Vuki Slunj",
-    "videos": []
+    "videos": [
+      {
+        "id": "u78vs8naITU",
+        "title": "Slunj Vuki LiveCam"
+      }
+    ]
   },
   {
     "id": "UCuoNAKa3P0QR1Lw9QdpmoVg",
