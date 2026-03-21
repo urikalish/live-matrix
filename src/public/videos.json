@@ -9480,20 +9480,7 @@
     "id": "UCTHlXiRiln7-lSXPh2xFbOw",
     "handle": "@lukaszpal",
     "name": "Łukasz Paluch",
-    "videos": [
-      {
-        "id": "70QjeKRWTz0",
-        "title": "Park Muzyczny Kudowa Zdrój"
-      },
-      {
-        "id": "QNjECc8CY8I",
-        "title": "Park Zdrojowy - Pijalnia wód mineralnych Kudowa Zdrój"
-      },
-      {
-        "id": "li7-isY-kvk",
-        "title": "Park Zdrojowy Kudowa Zdrój"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCTLF36lXVM7uiR-VolWHv0Q",
@@ -15773,6 +15760,10 @@
     "handle": "@sanantonioimagen",
     "name": "sanantonioimagen",
     "videos": [
+      {
+        "id": "oVeSCn_sWhY",
+        "title": "Avenida Barros Luco"
+      },
       {
         "id": "i80f0HlybSg",
         "title": "EL QUISCO EN VIVO"
