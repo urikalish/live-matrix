@@ -70,9 +70,18 @@
   },
   {
     "id": "UC-5CVLXN0tBhGsqv-DMcHuw",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@santospilotsoficial",
+    "name": "Praticagem de São Paulo - Canal Oficial",
+    "videos": [
+      {
+        "id": "tMYtrEBNVAU",
+        "title": "Porto ao Vivo - Entrada no Canal do Porto de Santos"
+      },
+      {
+        "id": "AX74XKJZdJM",
+        "title": "Porto ao Vivo - Vista Panorâmica (4K)"
+      }
+    ]
   },
   {
     "id": "UC-8U3VCeOEqdPJd2D77RqKw",
@@ -1550,12 +1559,7 @@
     "id": "UC3c-pudL55WWFxl89wTH1NA",
     "handle": "@PanosBoats",
     "name": "Panos Boats",
-    "videos": [
-      {
-        "id": "ZhTB9HwYy6I",
-        "title": "Loggos, Paxos Webcam | Live Streaming | Panos Boats & Trips"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC3ewP9SczRIGGpDXDQvpPyQ",
@@ -1724,7 +1728,12 @@
     "id": "UC4Wd3aS1XKA39dCveZExSkg",
     "handle": "@oneandmoreaviation",
     "name": "One and More Aviation ",
-    "videos": []
+    "videos": [
+      {
+        "id": "zEqnmVQC-tM",
+        "title": "🔴Live Sunday Arrivals Frankfurt Airport 07L 🛬 Planespotting"
+      }
+    ]
   },
   {
     "id": "UC4WyazHccYZmCf-rLpAYXtg",
@@ -3660,7 +3669,7 @@
     "name": "Cliff House Live",
     "videos": [
       {
-        "id": "Ynsx4AWfSZ0",
+        "id": "b_-gaqdFoSE",
         "title": "EL FRONTÓN, PUNTA DE GÁLDAR, GRAN CANARIA,  PAISAJE SONORO"
       }
     ]
@@ -6149,9 +6158,26 @@
   },
   {
     "id": "UCH9JbKmqTI6gwhA4ghl32FQ",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@AmzLive",
+    "name": "AmzLive Cams",
+    "videos": [
+      {
+        "id": "uJb4u4WdLwY",
+        "title": "Encontro das Águas - Manaus, Amazonas"
+      },
+      {
+        "id": "-rPArMYXJm8",
+        "title": "Vieiralves Ao Vivo - Amzlive.com.br - LiveCam Manaus"
+      },
+      {
+        "id": "2HGGG7Dr03g",
+        "title": "Teatro Amazonas ao Vivo 24h - Manaus - Amz.Live Jazz & Lo-fi Radio"
+      },
+      {
+        "id": "ICAxjegbHnU",
+        "title": "Ponta Negra ao Vivo 24h - Manaus - AmzLive.com.br"
+      }
+    ]
   },
   {
     "id": "UCHK0N8yzh1DR1NWo7sXoxRg",
@@ -9667,12 +9693,7 @@
     "id": "UCUpFHGasL2cNAo2w70vwrSQ",
     "handle": "@SiestaCam",
     "name": "Siesta Cam",
-    "videos": [
-      {
-        "id": "l18N9haGbjM",
-        "title": "Siesta Key Live - Relaxing Sounds of Calm Waves and Island Life"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCUqP3f8JxvTVfAv-2L5NE6g",
@@ -11752,9 +11773,14 @@
   },
   {
     "id": "UCeNktV2RfYebcfLWKe1FgYg",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@moneglialivelevante6125",
+    "name": "Moneglia Live Levante",
+    "videos": [
+      {
+        "id": "Mw2R0FV7FP8",
+        "title": "Live streaming di Moneglia Live Levante"
+      }
+    ]
   },
   {
     "id": "UCeYgipfMsfisw0XxXVzbyOA",
@@ -16252,7 +16278,12 @@
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
     "handle": "@HawickTV",
     "name": "Hawick TV",
-    "videos": []
+    "videos": [
+      {
+        "id": "SPNZ-uyrEog",
+        "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
+      }
+    ]
   },
   {
     "id": "UCqaZDUY_3goAaCsMLqVyJPw",
@@ -16281,6 +16312,10 @@
     "handle": "@0511.VietNam",
     "name": "Phát Triển Đà Nẵng",
     "videos": [
+      {
+        "id": "oif_zZFIfB4",
+        "title": "Camera cổng Sau bệnh viện C Đà Nẵng"
+      },
       {
         "id": "5wLzH_GrRl8",
         "title": "Camera nút giao thông tây Cầu Rồng Đà Nẵng"
