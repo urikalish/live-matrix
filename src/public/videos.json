@@ -4964,6 +4964,10 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
+        "id": "vrqxIrtkPGI",
+        "title": "【 Archive】 2026-03-22『15:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+      },
+      {
         "id": "DjdUEyjx8GM",
         "title": "【 LIVE 】東京都 新宿 歌舞伎町 24時間 ライブ / Tokyo Shinjuku Kabukicho Live"
       }
@@ -9694,12 +9698,7 @@
     "id": "UCUpFHGasL2cNAo2w70vwrSQ",
     "handle": "@SiestaCam",
     "name": "Siesta Cam",
-    "videos": [
-      {
-        "id": "nE3Iqxls3Z4",
-        "title": "Siesta Key Live - Relaxing Sounds of Calm Waves and Island Life"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCUqP3f8JxvTVfAv-2L5NE6g",
@@ -10203,14 +10202,6 @@
     "handle": "@livefromireland",
     "name": "LivefromIreland - Live Streaming Webcams",
     "videos": [
-      {
-        "id": "2FsNf3Vt4ns",
-        "title": "Live Webcam Cabra Dublin Ireland (Facing Nth West)"
-      },
-      {
-        "id": "yTEzjx_33UE",
-        "title": "Live Webcam Cabra Road Dublin Ireland  (Facing East)"
-      },
       {
         "id": "Im21t0JkJ1U",
         "title": "The Paddocks Riding Centre Live Webcam Dublin Ireland."
@@ -11793,7 +11784,12 @@
     "id": "UCef_Yfk6baScsTCcDxzXE5Q",
     "handle": "@Reef-SA",
     "name": "REEF SOUTH AFRICA",
-    "videos": []
+    "videos": [
+      {
+        "id": "5UqVSW_VASU",
+        "title": "Muizenberg Beach Live Webcam | REEF South Africa  @Reef-SA"
+      }
+    ]
   },
   {
     "id": "UCefcZWd7iNbBwydSPCOlOTw",
@@ -12259,10 +12255,6 @@
       {
         "id": "LAbQT5zTXso",
         "title": "Kirkerudbakken LIVE"
-      },
-      {
-        "id": "YbI2SU4uTn0",
-        "title": "Kongsberg Skimore LIVE"
       },
       {
         "id": "5PtA4b6A2po",
@@ -12739,14 +12731,6 @@
         "title": "Live ship tracking map showing the Strait of Hormuz"
       },
       {
-        "id": "2x8meS9VnNA",
-        "title": "Live of Beirut skyline."
-      },
-      {
-        "id": "I7k1CBXMt6g",
-        "title": "View of Jerusalem & Tel Aviv skylines"
-      },
-      {
         "id": "BOy2xDU1LC8",
         "title": "🔴 Watch CGTN LIVE 24/7 #CGTNLIVE"
       }
@@ -12951,7 +12935,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "YhVWSgUzkMw",
+        "id": "5K_EQaV8Na0",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -13268,14 +13252,6 @@
       {
         "id": "02OEeGDGFRk",
         "title": "Live of Beirut skyline."
-      },
-      {
-        "id": "2GDWDHrky6I",
-        "title": "WATCH LIVE: View of Beirut skyline"
-      },
-      {
-        "id": "Ad210DlxTlY",
-        "title": "WATCH Live: View of Tel Aviv skyline"
       },
       {
         "id": "_6dRRfnYJws",
@@ -16316,7 +16292,12 @@
     "id": "UCqhDq_fKTSgc8LZCa2gGMEg",
     "handle": "@GavinBHeffernan",
     "name": "Gavin Heffernan Timelapse Travel ",
-    "videos": []
+    "videos": [
+      {
+        "id": "V2VIfzZbeIo",
+        "title": "🌲 Yosemite Live Webcams | Half Dome, El Capitan,  High Sierra 🌄 Relaxing Nature Escape"
+      }
+    ]
   },
   {
     "id": "UCr5Z4Oi3UFwkM6sLPFDC6QA",
