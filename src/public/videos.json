@@ -1243,10 +1243,6 @@
         "title": "Porto Belo Ao Vivo – Pista do Aeródromo Costa Esmeralda Ao Vivo"
       },
       {
-        "id": "pxSgjY2_RwE",
-        "title": "CORREIA PINTO SC AO VIVO | PANORÂMICA DA CIDADE – BAR DO MAICO | CONEXÃODCTV"
-      },
-      {
         "id": "u8dqZrNtl8E",
         "title": "GOV. CELSO RAMOS SC AO VIVO | PRAIA DE CALHEIROS – RESTAURANTE BELA VISTA | CONEXÃODCTV"
       },
@@ -1269,10 +1265,6 @@
       {
         "id": "ZAdpIIzbarE",
         "title": "ITAJAÍ SC AO VIVO | PRAIA BRAVA – SUBIDA DA RAINHA – UNIFIQUE | CONEXÃODCTV"
-      },
-      {
-        "id": "vuFAt-wKPm4",
-        "title": "CORREIA PINTO SC AO VIVO | RUA JUVENAL ALVES DA SILVA – W.SOM CELULARES | CONEXÃODCTV"
       },
       {
         "id": "hwg8NBMKJIo",
@@ -2341,8 +2333,8 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "TM44aGTgSY0",
-        "title": "【LIVE】夜のニュース（Japan News Digest Live）最新情報など（3月22日）｜TBS NEWS DIG"
+        "id": "cUPXIEopjMg",
+        "title": "【LIVE】最新ニュースまとめ（Japan News Digest）（3月22日）｜TBS NEWS DIG"
       },
       {
         "id": "1ALrrxliNbU",
@@ -13530,7 +13522,12 @@
     "id": "UCjvpBcOLMBqktt0KJxjtJCg",
     "handle": "@BANTV",
     "name": "BANTV",
-    "videos": []
+    "videos": [
+      {
+        "id": "bZHusX-v7NI",
+        "title": "現在の大津港の様子 ライブカメラ　【生配信】【裏】 滋賀県 琵琶湖 【LIVE CAMERA】【琵琶湖花噴水】"
+      }
+    ]
   },
   {
     "id": "UCjvtkjWwpnhgGv2nutFFr-A",
