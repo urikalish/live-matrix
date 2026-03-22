@@ -315,12 +315,7 @@
     "id": "UC-omrowFhBZ_gzNLhX8Hq4w",
     "handle": "@paulbunyanandbabetheblueox3329",
     "name": "Paul Bunyan and Babe the Blue Ox",
-    "videos": [
-      {
-        "id": "4ECMt_DWVyE",
-        "title": "Paul Bunyan and Babe the Blue Ox Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC029bcZGqxOsRkvWrZLhgKQ",
@@ -410,7 +405,12 @@
     "id": "UC0R-K3crhMX9jzswbmfIORw",
     "handle": "@AVIAÇÃOTV",
     "name": "AVIATION TV",
-    "videos": []
+    "videos": [
+      {
+        "id": "oHAL7tz981Y",
+        "title": "🔴 LIVE 24/7 Lisbon Airport 22.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
+      }
+    ]
   },
   {
     "id": "UC0aRRZkVrO_0nqfuXYaL_Cg",
@@ -9691,12 +9691,7 @@
     "id": "UCUmvxPTUfflU3v_mcRNGAeg",
     "handle": "@Sv.Uspenska-Pochaevska-Lavra",
     "name": "† Свято-Успенская Почаевская Лавра",
-    "videos": [
-      {
-        "id": "JiO-y08t74g",
-        "title": "Пряма трансляція богослужіння † Свято-Успенська Почаївська Лавра"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCUpFHGasL2cNAo2w70vwrSQ",
@@ -10207,6 +10202,18 @@
     "handle": "@livefromireland",
     "name": "LivefromIreland - Live Streaming Webcams",
     "videos": [
+      {
+        "id": "0vySIQcfBRI",
+        "title": "Live Webcam Rathmines Dublin Ireland. 6 different webcam views."
+      },
+      {
+        "id": "GVdzGoWknWg",
+        "title": "Live Webcam Cabra Road Dublin Ireland  (Facing East)"
+      },
+      {
+        "id": "SzLISutsDTs",
+        "title": "Live Webcam Cabra Dublin Ireland (Facing Nth West)"
+      },
       {
         "id": "Im21t0JkJ1U",
         "title": "The Paddocks Riding Centre Live Webcam Dublin Ireland."
@@ -16339,7 +16346,7 @@
     "name": "Live Trento H24 - Piazza Duomo",
     "videos": [
       {
-        "id": "HcuMMgUDQEI",
+        "id": "SvP1xgxFYVA",
         "title": "Trento live cam - centro città (Piazza Duomo)"
       }
     ]
@@ -18164,12 +18171,7 @@
     "id": "UCxu_O8hfgSrtssrjTgwoETA",
     "handle": "@polanownet",
     "name": "polanow.net",
-    "videos": [
-      {
-        "id": "iT-RXa8eDoY",
-        "title": "Rondo w Polanowie na żywo"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxvYxKbb_9mUNxuLpJQgu5A",
