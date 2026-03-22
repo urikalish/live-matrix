@@ -2890,6 +2890,10 @@
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
       {
+        "id": "UMMZkG6hO5I",
+        "title": "Rosario desde Lourdes - 22/03/2026"
+      },
+      {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
       },
@@ -9696,7 +9700,12 @@
     "id": "UCUmvxPTUfflU3v_mcRNGAeg",
     "handle": "@Sv.Uspenska-Pochaevska-Lavra",
     "name": "† Свято-Успенская Почаевская Лавра",
-    "videos": []
+    "videos": [
+      {
+        "id": "y9jNRLcjXpU",
+        "title": "Пряма трансляція богослужіння † Свято-Успенська Почаївська Лавра"
+      }
+    ]
   },
   {
     "id": "UCUpFHGasL2cNAo2w70vwrSQ",
@@ -11959,10 +11968,6 @@
     "name": "The First Presbyterian Church in Cleveland",
     "videos": [
       {
-        "id": "z4k2qSk1PBA",
-        "title": "The First Presbyterian Church in Cleveland, Mar22, 5th Sunday in Lent"
-      },
-      {
         "id": "9L7EhGU_YY4",
         "title": "LIVE: #TowerofPower Cam"
       }
@@ -12965,7 +12970,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "gC82ZkDiBAI",
+        "id": "WmYIEbFbFqc",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
