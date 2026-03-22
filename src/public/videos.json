@@ -1724,12 +1724,7 @@
     "id": "UC4Wd3aS1XKA39dCveZExSkg",
     "handle": "@oneandmoreaviation",
     "name": "One and More Aviation ",
-    "videos": [
-      {
-        "id": "zEqnmVQC-tM",
-        "title": "🔴Live Sunday Arrivals Frankfurt Airport 07L 🛬 Planespotting"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC4WyazHccYZmCf-rLpAYXtg",
@@ -2894,10 +2889,6 @@
     "handle": "@LeSanctuaireNotreDamedeLourdes",
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
-      {
-        "id": "vh0YZ4QYH7o",
-        "title": "Le Chapelet depuis la Grotte de Lourdes - 22/03/2026"
-      },
       {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
@@ -4181,7 +4172,12 @@
     "id": "UCAphsmhYyvZDI7s67XM5l0A",
     "handle": "@RioWorldLiveCam",
     "name": "Rio World Live Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "yQZCVQnWPlo",
+        "title": "Acompanhe Copacabana Ao Vivo 22/03"
+      }
+    ]
   },
   {
     "id": "UCArs3YQib0gUuv5SVrjjtCQ",
@@ -4964,8 +4960,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "P97J7Z4AKhE",
-        "title": "【 Archive】 2026-03-22『21:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "C25SuKapYmY",
+        "title": "【 Archive】 2026-03-23『00:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -9581,7 +9577,12 @@
     "id": "UCTlY00NCf0nKyldwBys3mrA",
     "handle": "@SerradoRiodoRastroaoVivo",
     "name": "Serra do Rio do Rastro ao Vivo",
-    "videos": []
+    "videos": [
+      {
+        "id": "wPmBLBU8QTI",
+        "title": "Serra do Rio do Rastro em Lauro Müller ao vivo!"
+      }
+    ]
   },
   {
     "id": "UCToP9T8yl8FzL-G9J3ONJ0g",
@@ -12964,7 +12965,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "Ye9g7E_u_R0",
+        "id": "gC82ZkDiBAI",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -14198,10 +14199,6 @@
     "handle": "@GramadoTV",
     "name": "Gramado TV",
     "videos": [
-      {
-        "id": "ns2EpbGwGf8",
-        "title": "Santa Missa Paróquia São Pedro - Gramado, 22/03/2026"
-      },
       {
         "id": "Busyb4PoLoo",
         "title": "Gramado ao vivo"
