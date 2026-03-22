@@ -2214,12 +2214,20 @@
         "title": "Penguin Cam Live | Pittsburgh Zoo & PPG Aquarium Webcam"
       },
       {
+        "id": "8WTFWvePutc",
+        "title": "LIVE Georgia Aquarium Cam | Ocean Voyager Cam | Whale Sharks and Rays"
+      },
+      {
         "id": "tsF00NVCjAQ",
         "title": "Georgia Aquarium Jellyfish Cam LIVE | Georgia Aquarium Jellies Exhibit"
       },
       {
         "id": "5YCajRjvWCg",
         "title": "Miami Live Webcam | Biscayne Bay North Waterfront Views 24/7 | Florida Live Cams"
+      },
+      {
+        "id": "GL_2CrLwSDA",
+        "title": "St Michael’s Mount Cornwall Live | UK Live Cams | England Scenic Coastal Webcam"
       },
       {
         "id": "dkr9F4OniqM",
@@ -11726,7 +11734,12 @@
     "id": "UCdr9cCd_WQPlLCAUjNaoACg",
     "handle": "@LVsphere",
     "name": "LV Strip Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "RYhVElX0ZKo",
+        "title": "LIVE: Las Vegas Stip Live | Real-Time View of the Strip"
+      }
+    ]
   },
   {
     "id": "UCdz7UmkCvw3GlZTxHRR6Pyw",
@@ -16354,7 +16367,7 @@
     "name": "Hawick TV",
     "videos": [
       {
-        "id": "SPNZ-uyrEog",
+        "id": "MGcg_xOvwTs",
         "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
       }
     ]
@@ -18008,12 +18021,7 @@
     "id": "UCxJauSv5BZA7N4dIqPHpy0w",
     "handle": "@Brian-Siu",
     "name": "Hong Kong Taxi Driver - Brian",
-    "videos": [
-      {
-        "id": "LRd56QcLGXA",
-        "title": "🔴 香港的士直播 | Hong Kong Taxi Live | 22/3/2026 🔴"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxXKtAvUNQw5rv9lIU0V4UQ",
