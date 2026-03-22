@@ -2320,9 +2320,14 @@
   },
   {
     "id": "UC67cHSkUieHq2AC8e3pbK0g",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@geonet4692",
+    "name": "GEONET",
+    "videos": [
+      {
+        "id": "MmlDKqnfEpY",
+        "title": "Вершины из окна. Трансляция с IP-камеры"
+      }
+    ]
   },
   {
     "id": "UC6AG81pAkf6Lbi_1VC5NmPA",
@@ -5172,9 +5177,14 @@
   },
   {
     "id": "UCDOREphwc9P-ul7YEHiBWqw",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@WebcamPort-Valais-hm4fb",
+    "name": "Webcam Port-Valais",
+    "videos": [
+      {
+        "id": "uJbHZ58ratU",
+        "title": "Port-Valais Webcam Live"
+      }
+    ]
   },
   {
     "id": "UCDPUOq2ADKZwRleMUImX-Ww",
@@ -6272,6 +6282,10 @@
       {
         "id": "hUavUKN7O4s",
         "title": "LIVE: Penha de França Mar Webcam | Madeira-Web.com"
+      },
+      {
+        "id": "0iDQDwx21Oo",
+        "title": "LIVE Planespotting Madeira Airport by Cassiano's Snack Bar | Madeira-Web"
       },
       {
         "id": "lUCDJ6cilzk",
@@ -15503,10 +15517,6 @@
     "handle": "@AirlineVideosLivePlus",
     "name": "AirlineVideosLive+",
     "videos": [
-      {
-        "id": "RVwCqo6RYb4",
-        "title": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockeys (March 22nd, 2026)"
-      },
       {
         "id": "12KqO5IBLeY",
         "title": "🔴LIVE 24/7 LAX Airport Action Runways 24L & 24R | LIVE Plane Spotting with ATC!"
