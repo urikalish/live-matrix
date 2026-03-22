@@ -179,14 +179,9 @@
   },
   {
     "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
-    "handle": "@alwarith-center",
-    "name": "مركز الوارث للإنتاج الفني",
-    "videos": [
-      {
-        "id": "CWPGzjjB1VY",
-        "title": "البث المباشر من العتبة الحسينية المقدسة  | 2 شوال الاحد |  كربلاء المقدسة الان Karbala live"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UC-KS6AGW3J43aFF-KOQ6VAw",
@@ -1225,10 +1220,6 @@
       {
         "id": "OU798IQCO50",
         "title": "GOV. CELSO RAMOS SC AO VIVO | PRAIA DE PALMAS – QUIOSQUE DA JÚ | CONEXÃODCTV"
-      },
-      {
-        "id": "rRf3hVFZBhY",
-        "title": "CORREIA PINTO SC AO VIVO | BR-116 – UNIFIQUE INTERNET | CONEXÃODCTV"
       },
       {
         "id": "W50zoSXZBi4",
@@ -2894,10 +2885,6 @@
     "handle": "@LeSanctuaireNotreDamedeLourdes",
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
-      {
-        "id": "SL2sJ_Pp-xA",
-        "title": "Messe depuis la Grotte de Lourdes - 22/03/2026"
-      },
       {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
@@ -12960,7 +12947,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "5K_EQaV8Na0",
+        "id": "Bli1ZTBO750",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -13274,6 +13261,14 @@
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
     "videos": [
+      {
+        "id": "beWX2Y0-oiY",
+        "title": "WATCH LIVE: View of Beirut skyline"
+      },
+      {
+        "id": "gjS6rDOHb1U",
+        "title": "WATCH LIVE: View of Tel Aviv skyline"
+      },
       {
         "id": "02OEeGDGFRk",
         "title": "Live of Beirut skyline."
