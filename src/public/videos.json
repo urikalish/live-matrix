@@ -2352,6 +2352,10 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
+        "id": "W1RAgmN4pZU",
+        "title": "【国会中継・ライブ】参議院・予算委員会　公聴会（2026年3月24日午前9時～ LIVE配信）｜TBS NEWS DIG"
+      },
+      {
         "id": "MbfcjPzHMVM",
         "title": "【LIVE】朝のニュース（Japan News Digest Live）最新情報など｜TBS NEWS DIG（3月24日）"
       },
@@ -9693,10 +9697,6 @@
     "name": "Vacation Myrtle Beach",
     "videos": [
       {
-        "id": "of0v5uDKuQ8",
-        "title": "Ocean Creek Resort Myrtle Beach Sunset 03/23/2026"
-      },
-      {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
       },
@@ -12706,6 +12706,10 @@
     "handle": "@cgtn",
     "name": "CGTN",
     "videos": [
+      {
+        "id": "U_8Zxfm9WMo",
+        "title": "Live: Latest on Middle East as Strait of Hormuz tensions rise"
+      },
       {
         "id": "v0LnKRSXIrc",
         "title": "Emergency responders on scene after a Air Canada Express regional jet collision"
@@ -18491,9 +18495,14 @@
   },
   {
     "id": "UCzMF3muEGLXPQxzqALn7Tqw",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@fmagris",
+    "name": "Magris Maniago",
+    "videos": [
+      {
+        "id": "JJ7lyxHblbQ",
+        "title": "Maniago Live Webcam by Magris Maniago"
+      }
+    ]
   },
   {
     "id": "UCzQdo4UCx-oWrJ8Gsi9ZHvQ",
