@@ -25,8 +25,8 @@
   },
   {
     "id": "UC9wAEUW3AR8dnFHYso4hCsA",
-    "handle": "@OceanFrontiersDiveCayman",
-    "name": "Ocean Frontiers Diving Adventures",
+    "handle": "@OceanFrontiersCayman",
+    "name": "Ocean Frontiers",
     "date": "2026-03-16"
   },
   {
@@ -174,18 +174,6 @@
     "date": "2026-03-22"
   },
   {
-    "id": "UCBHhwpHuJR4ZSH8gvxT0DdQ",
-    "handle": "",
-    "name": "",
-    "date": "2026-03-22"
-  },
-  {
-    "id": "UCdV_1HeYSkwgNM-L4eIQ7AA",
-    "handle": "",
-    "name": "",
-    "date": "2026-03-22"
-  },
-  {
     "id": "UChoL_UbFagRA6Fhf7K0qk5w",
     "handle": "@TimLiaoLive",
     "name": "Tim哥",
@@ -220,5 +208,23 @@
     "handle": "@ajuntamentcalongeisantanto4188",
     "name": "Ajuntament Calonge i Sant Antoni",
     "date": "2026-03-22"
+  },
+  {
+    "id": "UCi9wnYP7UBrl7Tnfi3LLkpw",
+    "handle": "@yiannisakkos",
+    "name": "Yianni&#39;s Channel",
+    "date": "2026-03-23"
+  },
+  {
+    "id": "UCLm4NMiRgEwOAwY-tapTQag",
+    "handle": "@kozylemorne6102",
+    "name": "Kozy Le Morne",
+    "date": "2026-03-23"
+  },
+  {
+    "id": "UCQc7Ol2itgbnMXPjZmPdRRQ",
+    "handle": "@AaronPreslin",
+    "name": "Aaron Preslin",
+    "date": "2026-03-23"
   }
 ]
