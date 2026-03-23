@@ -12538,14 +12538,9 @@
   },
   {
     "id": "UCgKZLRv6-2iPbILfeOwrxAw",
-    "handle": "@AbellonaInnMaine",
-    "name": "Abellona Inn Maine",
-    "videos": [
-      {
-        "id": "ZlLjUoTZiIM",
-        "title": "Old Orchard Maine Beach Cam"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCgL2EJAYMsU9ifTuiZ9wUFA",
@@ -12922,12 +12917,7 @@
     "id": "UCi9wnYP7UBrl7Tnfi3LLkpw",
     "handle": "@yiannisakkos",
     "name": "Yianni&#39;s Channel",
-    "videos": [
-      {
-        "id": "KV6C-g9Bxxk",
-        "title": "Corfu / Kerkyra, Greece LIVE"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCiGOIXjFqy5_mUNxQNOMfHw",
@@ -13112,14 +13102,9 @@
   },
   {
     "id": "UCiijK6RLOIB3FqrLs-uBphg",
-    "handle": "@catinnhotel8295",
-    "name": "Cat Inn hotel",
-    "videos": [
-      {
-        "id": "DutLvxSDR20",
-        "title": "Cat Inn hotel pro kočky"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCiizs91Obdveqoce7kSmImA",
@@ -16858,7 +16843,12 @@
     "id": "UCsyyRhCqrvBInUQYTNxL6lw",
     "handle": "@poroslivegr4994",
     "name": "POROSLIVE GR",
-    "videos": []
+    "videos": [
+      {
+        "id": "cO1k4BJCFsA",
+        "title": "Poros island Live Cam"
+      }
+    ]
   },
   {
     "id": "UCt01tczohsGmH6X6csUS6iQ",
@@ -17007,6 +16997,10 @@
     "handle": "@maaxcamaovivo",
     "name": "Maaxcam Ao Vivo",
     "videos": [
+      {
+        "id": "6cTL38YvCbg",
+        "title": "Câmera ao vivo Porto de Galinhas - Maracaipe- Pousada La Bella Luna"
+      },
       {
         "id": "G-Xx6HlQ9K0",
         "title": "Praia da Lagoinha do Norte- Florianópolis - Restaurante Canto da Lagoinha"
@@ -18778,13 +18772,8 @@
   },
   {
     "id": "UCzuzf3agOOdlGqciT4aCcJQ",
-    "handle": "@sailawaystanthony1931",
-    "name": "Sailaway St Anthony 1",
-    "videos": [
-      {
-        "id": "dlNZl8z9npE",
-        "title": "Sailaway St Anthony"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   }
 ]
