@@ -412,7 +412,7 @@
     "name": "AVIATION TV",
     "videos": [
       {
-        "id": "55GnMg8pTus",
+        "id": "Q3ApOnQhElo",
         "title": "🔴 LIVE 24/7 Lisbon Airport 23.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
       }
     ]
@@ -1871,10 +1871,6 @@
       {
         "id": "_0vPPG3UFxw",
         "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
-      },
-      {
-        "id": "hRldBbDxHJk",
-        "title": "LIVE: LaGuardia Airport after Air Canada plane collides with vehicle"
       }
     ]
   },
@@ -2923,6 +2919,10 @@
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
       {
+        "id": "vEDyKaeYklE",
+        "title": "Le Chapelet depuis la Grotte de Lourdes - 23/03/2026"
+      },
+      {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
       },
@@ -3693,7 +3693,7 @@
     "name": "Cliff House Live",
     "videos": [
       {
-        "id": "xChoK4dqumE",
+        "id": "D_tmDSm6YpM",
         "title": "EL FRONTÓN, PUNTA DE GÁLDAR, GRAN CANARIA,  PAISAJE SONORO"
       }
     ]
@@ -4207,7 +4207,7 @@
     "name": "Rio World Live Cam",
     "videos": [
       {
-        "id": "h1DJT1brMRI",
+        "id": "7QmgvPXZ2w4",
         "title": "Acompanhe Copacabana Ao Vivo 23/03"
       }
     ]
@@ -4378,7 +4378,12 @@
     "id": "UCBRQZw3k-rB1nd1_V6FjJeA",
     "handle": "@WillClancy",
     "name": "WillClancyWildlife",
-    "videos": []
+    "videos": [
+      {
+        "id": "OyIYVZq4EVM",
+        "title": "🦅Sights and sounds of wildlife Dunoon.🐿️"
+      }
+    ]
   },
   {
     "id": "UCBSkHglhgTDIPA-m_NVEN6w",
@@ -5263,9 +5268,14 @@
   },
   {
     "id": "UCDUMVSw1K-ejDIoMe1fvF2Q",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@explorehavredegrace2109",
+    "name": "Explore Havre de Grace",
+    "videos": [
+      {
+        "id": "uOC4CPHiOFM",
+        "title": "Decoy Cam - Havre de Grace Maryland"
+      }
+    ]
   },
   {
     "id": "UCDfzWJUphLWin6P9D4cUv0A",
@@ -7702,7 +7712,7 @@
     "videos": [
       {
         "id": "s5OyWNOuDQE",
-        "title": "Livecam Kap Arkona"
+        "title": "Livecam | Kap Arkona | Insel Rügen"
       },
       {
         "id": "6G4_xtIDgy8",
@@ -12832,12 +12842,8 @@
     "name": "CGTN",
     "videos": [
       {
-        "id": "nYBfxqwOcFE",
-        "title": "Live: Latest on Middle East tensions as Iran retaliates after US-Israeli attacks"
-      },
-      {
-        "id": "EoetpCHWVMg",
-        "title": "Live ship tracking map showing the Strait of Hormuz"
+        "id": "v0LnKRSXIrc",
+        "title": "Emergency responders on scene after a Air Canada Express regional jet collision"
       },
       {
         "id": "5ay01Y2iMHQ",
@@ -13371,10 +13377,6 @@
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
     "videos": [
-      {
-        "id": "lpQjRa6JjKo",
-        "title": "Live ship tracking map showing the Strait of Hormuz"
-      },
       {
         "id": "beWX2Y0-oiY",
         "title": "WATCH LIVE: View of Beirut skyline"
@@ -15148,6 +15150,10 @@
     "handle": "@webcamsdemexico",
     "name": "webcamsdemexico",
     "videos": [
+      {
+        "id": "4gDacxKE9lg",
+        "title": "🗻 #POPOCATÉPETL | ¡Nevado y con actividad! El #Volcán #EnVivo"
+      },
       {
         "id": "sQY8bDuF4Cc",
         "title": "🗻 #POPOCATÉPETL | Continúa fuerte la incandescencia. El #Volcán #EnVivo"
