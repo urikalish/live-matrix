@@ -2349,16 +2349,16 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
+        "id": "WDqZ8KhXlbc",
+        "title": "【LIVE】夜のニュース（Japan News Digest Live）最新情報など（3月23日）｜TBS NEWS DIG"
+      },
+      {
         "id": "_Y2Tcd6bJSI",
         "title": "【イラン最新情報まとめ】「ホルムズ海峡『完全封鎖』」イランが警告/トランプ大統領“48時間以内に開放なければ発電所を攻撃”/茂木外務大臣“停戦後 機雷掃海で検討の可能性” など"
       },
       {
         "id": "sgU6jbRKE2U",
         "title": "【国会中継・リプレイ】高市総理らが出席 参議院・本会議　所得税法改正案など審議入り 野党が片山財務大臣や林総務大臣らに質疑（2026年3月23日午後1時～ LIVE配信）｜TBS NEWS DIG"
-      },
-      {
-        "id": "rTYOHSE945Q",
-        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月23日）｜TBS NEWS DIG"
       },
       {
         "id": "8PG-4pYVfy8",
@@ -4995,8 +4995,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "Sn-s5J0qZMM",
-        "title": "【 Archive】 2026-03-23『15:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "xvfvbaZmlsc",
+        "title": "【Archive】 2026-03-23『18:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -9801,6 +9801,10 @@
     "name": "WildEarth",
     "videos": [
       {
+        "id": "ztyeg4lemYs",
+        "title": "LIVE at the waterhole - 23 March 2026"
+      },
+      {
         "id": "boND21qM1ek",
         "title": "WildEarth Channel - AD FREE"
       }
@@ -10155,7 +10159,12 @@
     "id": "UCXCRtOlf5p2fQnaWCrKigTA",
     "handle": "@viviendasvacacionalescante8718",
     "name": "Viviendas Vacacionales Canteras Vista Playa",
-    "videos": []
+    "videos": [
+      {
+        "id": "KzMMVBLN238",
+        "title": "Viviendas vacacionales Canteras Vista Playa"
+      }
+    ]
   },
   {
     "id": "UCXN7rPhZK6Rp8lMhvpSri_Q",
@@ -11551,12 +11560,7 @@
     "id": "UCd0Aa89g9hbSQC-APdXWNNg",
     "handle": "@ismannen",
     "name": "ole petter løbak (ice_baby)",
-    "videos": [
-      {
-        "id": "TX5pm8z4QAQ",
-        "title": "Soi Buakhao, Pattaya Live, Thailand"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCd2vrRsPAJNJzQ-Vo-KfItA",
@@ -15828,7 +15832,7 @@
     "name": "Carron Farm",
     "videos": [
       {
-        "id": "SwlxGFpb-x4",
+        "id": "hufAy4T7bN0",
         "title": "Higher Town Quay"
       }
     ]
@@ -17703,9 +17707,18 @@
   },
   {
     "id": "UCv7_krlrre3GQi79d4guxHQ",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@ytv_news",
+    "name": "YOMIURI TELECASTING CORPORATION NEWS CHANNEL",
+    "videos": [
+      {
+        "id": "1V-rE4Z1ZZQ",
+        "title": "【ライブカメラ】神戸空港（UKB）　飛行機の離着陸とお天気（読売テレビ）/ Live Camera Kobe Airport"
+      },
+      {
+        "id": "kCE6T3p8AZ4",
+        "title": "🔴【ライブカメラ】閉幕後の万博会場　大屋根リング／EXPO2025 The Grand Ring Live Camera"
+      }
+    ]
   },
   {
     "id": "UCv9D0xATZ18lnDzhWVEtnIA",
