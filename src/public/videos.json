@@ -3097,10 +3097,6 @@
         "title": "Panama Hummingbird Feeder at Canopy Tower powered by EXPLORE.org"
       },
       {
-        "id": "Kp0A6MYVKp0",
-        "title": "Osprey & Canada Goose | Rogers Place Nest Camera powered by Explore.org"
-      },
-      {
         "id": "wfuqjSNXZ14",
         "title": "West End Bald Eagle Nest Low Cam powered by EXPLORE.org"
       },
@@ -3195,14 +3191,6 @@
       {
         "id": "VOFTpk2O-8U",
         "title": "Big Sur Condors powered by EXPLORE.org"
-      },
-      {
-        "id": "K380RGUXHsw",
-        "title": "Audubon Boat House Osprey Nest powered by EXPLORE.org"
-      },
-      {
-        "id": "gYkci0rH8Ac",
-        "title": "Charlo Montana Osprey Nest powered by EXPLORE.org"
       },
       {
         "id": "O6Ir_sMsTtc",
@@ -4329,12 +4317,7 @@
     "id": "UCBRQZw3k-rB1nd1_V6FjJeA",
     "handle": "@WillClancy",
     "name": "WillClancyWildlife",
-    "videos": [
-      {
-        "id": "OyIYVZq4EVM",
-        "title": "🦅Sights and sounds of wildlife Dunoon.🐿️"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCBSkHglhgTDIPA-m_NVEN6w",
@@ -5210,7 +5193,12 @@
     "id": "UCDQ9-OMttGoiRHzLrg-xKRA",
     "handle": "@KhaoLakLandDiscovery",
     "name": "Khao Lak Land Discovery",
-    "videos": []
+    "videos": [
+      {
+        "id": "nYBVdAcImGs",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 24-Mar-2026 01:41"
+      }
+    ]
   },
   {
     "id": "UCDUMVSw1K-ejDIoMe1fvF2Q",
@@ -7161,6 +7149,14 @@
     "name": "DIRECTO NATURA",
     "videos": [
       {
+        "id": "tQndDaJYc8A",
+        "title": "Nido Águila Pescadora 🔴 DIRECTO (Cámara 76 | Parc Natural de la Península de Llevant, Mallorca)"
+      },
+      {
+        "id": "bkL7i8RXGc0",
+        "title": "Peñafiel. Nido cigüeñas 🔴 DIRECTO (Cámara 72 | Peñafiel, Valladolid)"
+      },
+      {
         "id": "4boLD5eL3y8",
         "title": "Comedero de AVES y Ardillas 🔴 DIRECTO 4K (Cámara 58 | Liérganes, Cantabria)"
       },
@@ -7233,10 +7229,6 @@
         "title": "Lince ibérico (Lynx pardinus) 🔴 DIRECTO Sierra Morena (Cámara 40 | Jaén)"
       },
       {
-        "id": "O7wR2pUZV6k",
-        "title": "Peñafiel. Nido cigüeñas 🔴 DIRECTO (Cámara 72 | Peñafiel, Valladolid)"
-      },
-      {
         "id": "i4eT0w6zy0U",
         "title": "Bebedero de aves 🔴 DIRECTO (Cámara 22 | Sierra Madrid)"
       },
@@ -7259,10 +7251,6 @@
       {
         "id": "ZQL57TRH0Fw",
         "title": "Fauna subacuática 🔴EN DIRECTO (Cámara 71 | Ávila)"
-      },
-      {
-        "id": "wyEaJr_BxqI",
-        "title": "Nido Águila Pescadora 🔴 DIRECTO (Cámara 76 | Parc Natural de la Península de Llevant, Mallorca)"
       },
       {
         "id": "HD5C92DoOiU",
@@ -17063,6 +17051,10 @@
     "handle": "@maaxcamaovivo",
     "name": "Maaxcam Ao Vivo",
     "videos": [
+      {
+        "id": "G-Xx6HlQ9K0",
+        "title": "Praia da Lagoinha do Norte- Florianópolis - Restaurante Canto da Lagoinha"
+      },
       {
         "id": "nqZ4s5dK0G0",
         "title": "Praia Mole  Ao VIVO - Florianópolis - Bar do Boni"
