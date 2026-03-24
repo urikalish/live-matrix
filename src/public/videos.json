@@ -1191,6 +1191,14 @@
     "name": "ConexãoDCTV - Balneário Camboriú Ao Vivo",
     "videos": [
       {
+        "id": "wmKinTm3gQE",
+        "title": "CORREIA PINTO SC AO VIVO | PANORÂMICA DA CIDADE – BAR DO MAICO | CONEXÃODCTV"
+      },
+      {
+        "id": "a-pzrZYVXfM",
+        "title": "CORREIA PINTO SC AO VIVO | RUA JUVENAL ALVES DA SILVA – W.SOM CELULARES | CONEXÃODCTV"
+      },
+      {
         "id": "otBXx7YzlMQ",
         "title": "ITAPEMA SC AO VIVO | MEIA PRAIA – RÁDIO CIDADE 104.1 FM | CONEXÃODCTV"
       },
@@ -1213,10 +1221,6 @@
       {
         "id": "jz_jzJ1fTqU",
         "title": "BLUMENAU SC AO VIVO | PANORÂMICA DA CIDADE – INDAIÁ EVENTOS | CONEXÃODCTV"
-      },
-      {
-        "id": "AgIzzmSCSOA",
-        "title": "CORREIA PINTO SC AO VIVO | RUA JUVENAL ALVES DA SILVA – W.SOM CELULARES | CONEXÃODCTV"
       },
       {
         "id": "Vsm5qzRxj04",
@@ -5244,16 +5248,7 @@
     "id": "UCE7o7gjNuTgEZgZVZSUiuCw",
     "handle": "@lzn7694",
     "name": "馬祖航空站-南竿機場LZN",
-    "videos": [
-      {
-        "id": "o1k0wrJPuqA",
-        "title": "南竿航空站到站動態直播"
-      },
-      {
-        "id": "HwUzhqm259g",
-        "title": "南竿航空站外候機室動態直播(畫面如有中斷，請電0836-26503查修)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCEBeDPgugykNr0t3LvMAGXg",
@@ -13184,10 +13179,6 @@
     "name": "CGTN Europe",
     "videos": [
       {
-        "id": "Eu94fIWKDOc",
-        "title": "LIVE: After Air Canada Express jet collision"
-      },
-      {
         "id": "beWX2Y0-oiY",
         "title": "WATCH LIVE: View of Beirut skyline"
       },
@@ -13406,7 +13397,12 @@
     "id": "UCjgiKi29C--6aW3pgn0l5JA",
     "handle": "@PARISTVCOM",
     "name": "PARIS TV",
-    "videos": []
+    "videos": [
+      {
+        "id": "lNAhqd8JLtw",
+        "title": "Le Sacré-Coeur de Montmartre - PARIS TV - Live Webcam - En Direct 24/7"
+      }
+    ]
   },
   {
     "id": "UCjpE7UdNq6oK5mOBKGjpjgA",
@@ -14146,7 +14142,12 @@
     "id": "UCm8DGdhRoGe-GPCXfCT65og",
     "handle": "@YokohamaLive",
     "name": "横浜港ライブカメラ",
-    "videos": []
+    "videos": [
+      {
+        "id": "75f-s5NLddw",
+        "title": "ライブカメラ　みなとみらい、ベイブリッジ、横浜港：Yokohama Port Live Camera"
+      }
+    ]
   },
   {
     "id": "UCm9zLeJlfz7jRT_6vff70_w",
