@@ -932,14 +932,6 @@
     "name": "Webcamtaxi",
     "videos": [
       {
-        "id": "u1JQX8hZLBE",
-        "title": "LIVE Cam: Doca do Cavacas Pools by Frente MarFunchal | @WebcamTaxi"
-      },
-      {
-        "id": "5StypmtJEKI",
-        "title": "LIVE Cam: Lido Bathing Complex - Piscinas do Lido by Frente MarFunchal | Webcamtaxi"
-      },
-      {
         "id": "N9jTBOvyLI0",
         "title": "Live: Porto da Cruz Pool Cam | Baía do Bago | Webcamtaxi"
       },
@@ -2361,12 +2353,12 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "MyllCJLleJM",
-        "title": "【LIVE】夜のニュース（Japan News Digest Live）最新情報など（3月24日）｜TBS NEWS DIG"
+        "id": "FiG68oG3IJQ",
+        "title": "【イラン最新情報まとめ】トランプ大統領「生産的な協議」もイラン否定/専門家「おそらくどちらも実態と違う」/今週中にも両国協議の可能性/石油の国家備蓄 26日から順次放出へ　など"
       },
       {
-        "id": "_thggkvw4i8",
-        "title": "【イラン最新情報まとめ】アメリカとイラン今週中にも協議か / “戦闘終結の交渉の有無”で双方に食い違い / トランプ氏「発電所攻撃を5日間延期」/茂木外務大臣“停戦後 自衛隊派遣検討も”など"
+        "id": "MyllCJLleJM",
+        "title": "【LIVE】夜のニュース（Japan News Digest Live）最新情報など（3月24日）｜TBS NEWS DIG"
       },
       {
         "id": "8PG-4pYVfy8",
@@ -7261,10 +7253,6 @@
     "name": "NASA",
     "videos": [
       {
-        "id": "sNX0GKOkr_s",
-        "title": "NASA's Artemis II Live Views from Kennedy Space Center"
-      },
-      {
         "id": "sWasdbDVNvc",
         "title": "Live Video from the International Space Station (Official NASA Stream)"
       },
@@ -7510,16 +7498,20 @@
     "name": "Fredericton Caméra Web Cameras",
     "videos": [
       {
+        "id": "Od_ANMurmO4",
+        "title": "Fredericton, NB - Westmorland Street Bridge Facing North // Pont de la rue Westmorland face au nord"
+      },
+      {
+        "id": "ARQAPJWrfxA",
+        "title": "Fredericton, NB - Westmorland Street Bridge Facing South // Pont de la rue Westmorland face au sud"
+      },
+      {
         "id": "II2EmWoa6iY",
         "title": "Fredericton, NB - City Hall // Hôtel de ville"
       },
       {
         "id": "Ol-3G0Ka8Ro",
         "title": "Fredericton, NB - Officers' Square // Place des Officiersville"
-      },
-      {
-        "id": "mDxgwhI_SMA",
-        "title": "Fredericton, NB - Westmorland Street Bridge Facing North // Pont de la rue Westmorland face au nord"
       },
       {
         "id": "v8bsqo7pScU",
@@ -8725,10 +8717,6 @@
     "name": "قناة السنة النبوية",
     "videos": [
       {
-        "id": "_XKTQFrEGUI",
-        "title": "البث المباشر لقناة السنة النبوية"
-      },
-      {
         "id": "9A1S0xAPVIs",
         "title": "بث مباشر | قناة السنة النبوية"
       }
@@ -9087,6 +9075,10 @@
     "handle": "@SHOWMECaribbean",
     "name": "SHOWME Caribbean",
     "videos": [
+      {
+        "id": "KYwuB9vhuyI",
+        "title": "🌴Best Caribbean Beach Resorts LIVE | Curaçao • Sint Maarten • Aruba • Bonaire | March 24, 2026"
+      },
       {
         "id": "vxHKAImxUHk",
         "title": "LIVE Cam Simpson Bay Beach Resort | Saint Martin  🌴💦"
@@ -15731,12 +15723,7 @@
     "id": "UCpkcJlssp52fP6xHFUYT9ag",
     "handle": "@mbl_is",
     "name": "mbl.is",
-    "videos": [
-      {
-        "id": "L8i9G8jhWao",
-        "title": "LIVE from Hagafell - Close up - Iceland volcano eruption"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCprCdxrg_u9E9hhc-MZDk5A",
@@ -17959,10 +17946,6 @@
     "name": "Vatican News - English",
     "videos": [
       {
-        "id": "EtjwbA8-fWc",
-        "title": "Press Conference, March 24 2026"
-      },
-      {
         "id": "EEM7a3mHMR4",
         "title": "Vatican Media Live - English"
       }
@@ -18274,9 +18257,14 @@
   },
   {
     "id": "UCy7ycbTd1HFIFtM66u4A0lA",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@sharxdemo8085",
+    "name": "Sharx Demo",
+    "videos": [
+      {
+        "id": "UWkwZ2hj84I",
+        "title": "Sharx Security Demo Live Cam: rotary traffic circle Derry NH USA"
+      }
+    ]
   },
   {
     "id": "UCy8rlPU5XOFxn2nk5VUpaeA",
