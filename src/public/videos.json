@@ -406,12 +406,7 @@
     "id": "UC0R-K3crhMX9jzswbmfIORw",
     "handle": "@AVIAÇÃOTV",
     "name": "AVIATION TV",
-    "videos": [
-      {
-        "id": "Q3ApOnQhElo",
-        "title": "🔴 LIVE 24/7 Lisbon Airport 23.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC0aRRZkVrO_0nqfuXYaL_Cg",
@@ -2360,16 +2355,16 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
+        "id": "MyllCJLleJM",
+        "title": "【LIVE】夜のニュース（Japan News Digest Live）最新情報など（3月24日）｜TBS NEWS DIG"
+      },
+      {
         "id": "_thggkvw4i8",
         "title": "【イラン最新情報まとめ】アメリカとイラン今週中にも協議か / “戦闘終結の交渉の有無”で双方に食い違い / トランプ氏「発電所攻撃を5日間延期」/茂木外務大臣“停戦後 自衛隊派遣検討も”など"
       },
       {
         "id": "RIsQea0PYjg",
         "title": "【国会中継・リプレイ】参議院・予算委員会　公聴会（2026年3月24日午後2時～ LIVE配信）｜TBS NEWS DIG"
-      },
-      {
-        "id": "ChLMCzGJAso",
-        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月24日）｜TBS NEWS DIG"
       },
       {
         "id": "8PG-4pYVfy8",
@@ -2921,6 +2916,10 @@
     "handle": "@LeSanctuaireNotreDamedeLourdes",
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
+      {
+        "id": "MKTuHxRPSSk",
+        "title": "Messe depuis la Grotte de Lourdes - 24/03/2026"
+      },
       {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
@@ -4913,8 +4912,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "to_E0uR13kg",
-        "title": "【 Archive】 2026-03-24『15:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "egffCL_WInA",
+        "title": "【Archive】 2026-03-24『18:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -5691,6 +5690,10 @@
     "handle": "@DMOKYOTO",
     "name": "京都市観光協会Kyoto City Tourism Association",
     "videos": [
+      {
+        "id": "wKJPw4eZ5t0",
+        "title": "【春の観光シーズン／Spring Season】長楽館／Hotel Chourakukan"
+      },
       {
         "id": "QUwTM_Unfnw",
         "title": "【LIVE】烏丸口タクシー乗り場（京都市観光協会公式）／Kyoto Station,Karasuma Exit Taxi Stand, Kyoto Live camera"
@@ -9702,6 +9705,10 @@
     "name": "WildEarth",
     "videos": [
       {
+        "id": "MlaLonO1tlA",
+        "title": "LIVE at the waterhole - 24 March 2026"
+      },
+      {
         "id": "boND21qM1ek",
         "title": "WildEarth Channel - AD FREE"
       }
@@ -11098,7 +11105,12 @@
     "id": "UCayE6-RHoYoIcnqp36o4Rjg",
     "handle": "@sebinkarahisarbelediyesi9536",
     "name": "Sebinkarahisar Belediyesi",
-    "videos": []
+    "videos": [
+      {
+        "id": "uN2iuxAgZ-o",
+        "title": "Şebinkarahisar Belediyesi-  Meydan Canlı Yayın"
+      }
+    ]
   },
   {
     "id": "UCb7muRFDUn2QtNMbBVpdKRw",
@@ -11214,98 +11226,9 @@
   },
   {
     "id": "UCbn5eHDjwmPC2K9RG8P0i_A",
-    "handle": "@kusatsumachi",
-    "name": "草津町公式YouTubeチャンネル",
-    "videos": [
-      {
-        "id": "WB4jllqVRCc",
-        "title": "「LIVECAMERA」国道292号 草津前口"
-      },
-      {
-        "id": "OZqaznSUQ8o",
-        "title": "「LIVECAMERA 」西の河原露天風呂入り口"
-      },
-      {
-        "id": "eX7vAL4Jtfk",
-        "title": "「LIVECAMERA」草津温泉スキー場　天狗山山麓エリア"
-      },
-      {
-        "id": "J3zIOmIrSzM",
-        "title": "「LIVECAMERA」草津運動茶屋公園 道の駅"
-      },
-      {
-        "id": "rHuoK_TWOnA",
-        "title": "「LIVECAMERA」国道292号 草津温泉入口"
-      },
-      {
-        "id": "hN8mxz3-1pg",
-        "title": "「LIVE CAMERA」草津温泉スキー場　天狗山山頂エリア"
-      },
-      {
-        "id": "ybOa_LRzp_I",
-        "title": "「LIVECAMERA」裏草津地蔵 源泉広場"
-      },
-      {
-        "id": "h-OR7t33mPo",
-        "title": "[LIVE CAMERA]交通状況&駐車場状況"
-      },
-      {
-        "id": "ZFhzy9-sy3U",
-        "title": "「LIVECAMERA 」草津温泉・温泉門観光バス専用駐車場"
-      },
-      {
-        "id": "gL7YgPM0Jvk",
-        "title": "「LIVECAMERA 」草津温泉・白根山ライブカメラ（固定式）"
-      },
-      {
-        "id": "yMm2Q3zLXKI",
-        "title": "「LIVECAMERA 」草津温泉・白根山ライブカメラ（移動式）"
-      },
-      {
-        "id": "_Z1UzjJ6o2E",
-        "title": "「LIVECAMERA」草津温泉・本白根山ライブカメラ（移動式）"
-      },
-      {
-        "id": "qdws9fzE4Cs",
-        "title": "「LIVE CAMERA」草津温泉バスターミナル"
-      },
-      {
-        "id": "0ACRdNv3D9w",
-        "title": "「LIVECAMERA」裏草津地蔵 漫画堂 カフェ月の貌"
-      },
-      {
-        "id": "Xr781EeLdqs",
-        "title": "「LIVE CAMERA」草津温泉・温泉門"
-      },
-      {
-        "id": "VnRb8aFDK2M",
-        "title": "「LIVECAMERA」天狗山 第一駐車場"
-      },
-      {
-        "id": "UdOAbyzxKto",
-        "title": "「LIVECAMERA 」草津温泉・西の河原公園駐車場"
-      },
-      {
-        "id": "B_Sc1v1qR-g",
-        "title": "「LIVECAMERA」草津温泉「湯畑」（移動式ライブカメラ）"
-      },
-      {
-        "id": "VZ7UthXFfTw",
-        "title": "「LIVECAMERA 」草津温泉・本白根山ライブカメラ（固定式）"
-      },
-      {
-        "id": "_1PfF1v9GJc",
-        "title": "「LIVECAMERA 」草津温泉・温泉門無料駐車場"
-      },
-      {
-        "id": "GrEEoEmmrKs",
-        "title": "「LIVECAMERA」　草津温泉「湯畑」湯滝前"
-      },
-      {
-        "id": "RT_yg_qsK_M",
-        "title": "「LIVECAMERA」草津温泉 西の河原・湯川LIVE"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCc45_PGazFuEQHoSsaQdwCQ",
@@ -14054,14 +13977,9 @@
   },
   {
     "id": "UCkiqDO1CTcCyxlsGXnC8WvA",
-    "handle": "@campidlewoodlive",
-    "name": "Camp Idlewood Live Cam",
-    "videos": [
-      {
-        "id": "RjVZXgl_PdE",
-        "title": "Camp Idlewood Live Webcam"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCl5P2zJoH1gBdf38AiYALKA",
@@ -18538,7 +18456,12 @@
     "id": "UCzjR7slpURQjzqxPP5FVowQ",
     "handle": "@sightsailinglive6405",
     "name": "Sightsailing Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "HlK9G6PdIUo",
+        "title": "Sightsailing - Newport, Rhode Island USA"
+      }
+    ]
   },
   {
     "id": "UCzkaQrI9-nSv373EvK5p0SQ",
