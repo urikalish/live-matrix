@@ -144,12 +144,6 @@
     "date": "2026-03-23"
   },
   {
-    "id": "UCxdkv0StDfmn1dXWStAt2tw",
-    "handle": "@flamingf.1562",
-    "name": "Flaming Fire",
-    "date": "2026-03-23"
-  },
-  {
     "id": "UCxJauSv5BZA7N4dIqPHpy0w",
     "handle": "@Brian-Siu",
     "name": "Hong Kong Taxi Driver - Brian",
@@ -162,15 +156,21 @@
     "date": "2026-03-23"
   },
   {
-    "id": "UC-HQ-oPvL148RmDxpV4jzlQ",
-    "handle": "@NatureTec",
-    "name": "NatureTec",
-    "date": "2026-03-24"
-  },
-  {
     "id": "UC2B9wVYer0S_P8e2mAb3MXQ",
     "handle": "@itascastatepark-mississipp6440",
     "name": "Itasca State Park - Mississippi River Headwaters",
+    "date": "2026-03-24"
+  },
+  {
+    "id": "UCaEdUtLbgjtDdfZfDYCllXQ",
+    "handle": "@PraiaItanhaem",
+    "name": "Itanhaém Praia",
+    "date": "2026-03-24"
+  },
+  {
+    "id": "UCBjzM0ZW12Z8bggEORo8oBQ",
+    "handle": "@cityofheraklion",
+    "name": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
     "date": "2026-03-24"
   },
   {
@@ -189,6 +189,18 @@
     "id": "UCNYMuETXWtm6Nh1R4wGESIQ",
     "handle": "@DukhNivaran",
     "name": "Dukh Nivaran",
+    "date": "2026-03-24"
+  },
+  {
+    "id": "UCqaZDUY_3goAaCsMLqVyJPw",
+    "handle": "",
+    "name": "",
+    "date": "2026-03-24"
+  },
+  {
+    "id": "UCy8rlPU5XOFxn2nk5VUpaeA",
+    "handle": "@confederationbridge5244",
+    "name": "Confederation Bridge",
     "date": "2026-03-24"
   }
 ]

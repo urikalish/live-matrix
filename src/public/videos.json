@@ -135,7 +135,32 @@
     "id": "UC-HQ-oPvL148RmDxpV4jzlQ",
     "handle": "@NatureTec",
     "name": "NatureTec",
-    "videos": []
+    "videos": [
+      {
+        "id": "9_-C2d9Fy4w",
+        "title": "LIVE Kestrel Nest Box Cam - Recke (Germany)"
+      },
+      {
+        "id": "7_oAM-g1lJ0",
+        "title": "LIVE 4K Nest Box Cam - Uplengen (Lower Saxony)"
+      },
+      {
+        "id": "Cxqx17Xr9zk",
+        "title": "LIVE 4K Nest Box Cam - Recke (NRW)"
+      },
+      {
+        "id": "l0nT3wSnxEo",
+        "title": "LIVE Bird Feeder Cam (day time) & Hedgehog Feeder Cam (at night) - Uplengen"
+      },
+      {
+        "id": "t20fPDAZxCA",
+        "title": "LIVE Bird Bath Cam (Day) + Hedgehog Feeder Cam (Night)"
+      },
+      {
+        "id": "4kRzwJXaeIM",
+        "title": "LIVE 4K 60fps Bird Feeder Cam - Hedgehog & Bird Watching (3D Audio) ASMR HQ"
+      }
+    ]
   },
   {
     "id": "UC-I6QXW30NLYkW2GOMtHxew",
@@ -2336,7 +2361,7 @@
       },
       {
         "id": "RIsQea0PYjg",
-        "title": "【国会中継・ライブ】参議院・予算委員会　公聴会（2026年3月24日午後2時～ LIVE配信）｜TBS NEWS DIG"
+        "title": "【国会中継・リプレイ】参議院・予算委員会　公聴会（2026年3月24日午後2時～ LIVE配信）｜TBS NEWS DIG"
       },
       {
         "id": "ChLMCzGJAso",
@@ -4813,12 +4838,7 @@
     "id": "UCBjzM0ZW12Z8bggEORo8oBQ",
     "handle": "@cityofheraklion",
     "name": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
-    "videos": [
-      {
-        "id": "Mik1C-ms9IU",
-        "title": "Live webcam - Πλατεία Ελ.Βενιζέλου Ηράκλειο"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCBr4hy5JyHbSlRBYw57GzVA",
@@ -8845,10 +8865,6 @@
     "name": "Hasan Yayında",
     "videos": [
       {
-        "id": "MpYHUoKXp4E",
-        "title": "Hasan Yayında İşler Rayında Canlı Yayın"
-      },
-      {
         "id": "dGyP4smfrQg",
         "title": "KULAKKAYA YAYLASI CANLI YAYIN CAMERA 4"
       },
@@ -9685,14 +9701,6 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
-      {
-        "id": "ARh1Iy2k3Ek",
-        "title": "SafariLIVE Sunrise - Repeat - 24 March 2026"
-      },
-      {
-        "id": "2JZqRTkJDhE",
-        "title": "SafariLIVE Sunrise - 24 March 2026 - Members Only"
-      },
       {
         "id": "boND21qM1ek",
         "title": "WildEarth Channel - AD FREE"
@@ -10827,12 +10835,7 @@
     "id": "UCaEdUtLbgjtDdfZfDYCllXQ",
     "handle": "@PraiaItanhaem",
     "name": "Itanhaém Praia",
-    "videos": [
-      {
-        "id": "Ft1yxRM6_5Y",
-        "title": "Praia dos sonhos - Itanhaém SP.       PRAIA AO VIVO"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCaHr0a1x8zmQ1dxanCeuesA",
@@ -16282,14 +16285,9 @@
   },
   {
     "id": "UCqaZDUY_3goAaCsMLqVyJPw",
-    "handle": "@erwinsoolsma",
-    "name": "erwin soolsma",
-    "videos": [
-      {
-        "id": "6BnkGdKdBD4",
-        "title": "Hotel Zeezicht Vlieland: zicht op de Veerboot"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCqhDq_fKTSgc8LZCa2gGMEg",
@@ -18160,7 +18158,12 @@
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
     "handle": "@flamingf.1562",
     "name": "Flaming Fire",
-    "videos": []
+    "videos": [
+      {
+        "id": "4K0_ODVx0og",
+        "title": "Stockholm city live cam 20260324"
+      }
+    ]
   },
   {
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
@@ -18256,12 +18259,7 @@
     "id": "UCy8rlPU5XOFxn2nk5VUpaeA",
     "handle": "@confederationbridge5244",
     "name": "Confederation Bridge",
-    "videos": [
-      {
-        "id": "eOfVG8zT7IU",
-        "title": "Confederation Bridge Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCy9ww22FuUlXd0c6B8INJVQ",
