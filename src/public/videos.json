@@ -2351,12 +2351,12 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "ChLMCzGJAso",
-        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月24日）｜TBS NEWS DIG"
+        "id": "RIsQea0PYjg",
+        "title": "【国会中継・ライブ】参議院・予算委員会　公聴会（2026年3月24日午後2時～ LIVE配信）｜TBS NEWS DIG"
       },
       {
-        "id": "W1RAgmN4pZU",
-        "title": "【国会中継・ライブ】参議院・予算委員会　公聴会（2026年3月24日午前9時～ LIVE配信）｜TBS NEWS DIG"
+        "id": "ChLMCzGJAso",
+        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月24日）｜TBS NEWS DIG"
       },
       {
         "id": "_Y2Tcd6bJSI",
@@ -4102,7 +4102,12 @@
     "id": "UCAphsmhYyvZDI7s67XM5l0A",
     "handle": "@RioWorldLiveCam",
     "name": "Rio World Live Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "PDp-3vO6bZE",
+        "title": "Acompanhe Copacabana Ao Vivo 24/03"
+      }
+    ]
   },
   {
     "id": "UCArs3YQib0gUuv5SVrjjtCQ",
@@ -7503,7 +7508,7 @@
     "name": "Kozy Le Morne",
     "videos": [
       {
-        "id": "oHeXFdVEk40",
+        "id": "qQrw0btjeBg",
         "title": "🔴 Île Maurice / Mauritius - At Kozy Le Morne"
       }
     ]
@@ -8860,6 +8865,10 @@
     "name": "Hasan Yayında",
     "videos": [
       {
+        "id": "MpYHUoKXp4E",
+        "title": "Hasan Yayında İşler Rayında Canlı Yayın"
+      },
+      {
         "id": "dGyP4smfrQg",
         "title": "KULAKKAYA YAYLASI CANLI YAYIN CAMERA 4"
       },
@@ -9100,10 +9109,6 @@
     "handle": "@SHOWMECaribbean",
     "name": "SHOWME Caribbean",
     "videos": [
-      {
-        "id": "o4aFA2E08KI",
-        "title": "🌴Best Caribbean Beach Resorts LIVE | Curacao • Saint Martin • Aruba • Bonaire | March 23, 2026"
-      },
       {
         "id": "vxHKAImxUHk",
         "title": "LIVE Cam Simpson Bay Beach Resort | Saint Martin  🌴💦"
@@ -12690,10 +12695,6 @@
     "name": "CGTN",
     "videos": [
       {
-        "id": "bD0gHE6w8a0",
-        "title": "Live: Spectacular views at Hainan's Wuzhizhou Island destination – Ep. 2"
-      },
-      {
         "id": "U_8Zxfm9WMo",
         "title": "Live: Latest on Middle East as Strait of Hormuz tensions rise"
       },
@@ -14110,12 +14111,7 @@
     "id": "UClSdxxEoPbpZHrujhfQcdow",
     "handle": "@castrostreetcam2549",
     "name": "Castro Street Cam 2",
-    "videos": [
-      {
-        "id": "j9QXzSwCy_s",
-        "title": "Castro Street Cam 2 Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UClcicFOBsxXQxaQnT1RshJg",
