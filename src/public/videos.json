@@ -406,7 +406,12 @@
     "id": "UC0R-K3crhMX9jzswbmfIORw",
     "handle": "@AVIAÇÃOTV",
     "name": "AVIATION TV",
-    "videos": []
+    "videos": [
+      {
+        "id": "GO9F2Z3AVj0",
+        "title": "🔴 LIVE 24/7 Lisbon Airport 24.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
+      }
+    ]
   },
   {
     "id": "UC0aRRZkVrO_0nqfuXYaL_Cg",
@@ -2361,10 +2366,6 @@
       {
         "id": "_thggkvw4i8",
         "title": "【イラン最新情報まとめ】アメリカとイラン今週中にも協議か / “戦闘終結の交渉の有無”で双方に食い違い / トランプ氏「発電所攻撃を5日間延期」/茂木外務大臣“停戦後 自衛隊派遣検討も”など"
-      },
-      {
-        "id": "RIsQea0PYjg",
-        "title": "【国会中継・リプレイ】参議院・予算委員会　公聴会（2026年3月24日午後2時～ LIVE配信）｜TBS NEWS DIG"
       },
       {
         "id": "8PG-4pYVfy8",
@@ -5161,8 +5162,8 @@
     "name": "Khao Lak Land Discovery",
     "videos": [
       {
-        "id": "4FrwlXyQXYk",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 24-Mar-2026 04:42"
+        "id": "SDsALvXTtP4",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 24-Mar-2026 16:34"
       }
     ]
   },
@@ -6978,12 +6979,7 @@
     "id": "UCJk1ArOmeKdyMyvONIWPMfw",
     "handle": "@DeltaYacht",
     "name": "Delta Yacht",
-    "videos": [
-      {
-        "id": "gblOBA6aNao",
-        "title": "Delta Yacht Colijnsplaat Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCJruZ-KPJM2oJgQgEyHOS_A",
@@ -11226,9 +11222,98 @@
   },
   {
     "id": "UCbn5eHDjwmPC2K9RG8P0i_A",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@kusatsumachi",
+    "name": "草津町公式YouTubeチャンネル",
+    "videos": [
+      {
+        "id": "WB4jllqVRCc",
+        "title": "「LIVECAMERA」国道292号 草津前口"
+      },
+      {
+        "id": "OZqaznSUQ8o",
+        "title": "「LIVECAMERA 」西の河原露天風呂入り口"
+      },
+      {
+        "id": "eX7vAL4Jtfk",
+        "title": "「LIVECAMERA」草津温泉スキー場　天狗山山麓エリア"
+      },
+      {
+        "id": "J3zIOmIrSzM",
+        "title": "「LIVECAMERA」草津運動茶屋公園 道の駅"
+      },
+      {
+        "id": "rHuoK_TWOnA",
+        "title": "「LIVECAMERA」国道292号 草津温泉入口"
+      },
+      {
+        "id": "hN8mxz3-1pg",
+        "title": "「LIVE CAMERA」草津温泉スキー場　天狗山山頂エリア"
+      },
+      {
+        "id": "ybOa_LRzp_I",
+        "title": "「LIVECAMERA」裏草津地蔵 源泉広場"
+      },
+      {
+        "id": "h-OR7t33mPo",
+        "title": "[LIVE CAMERA]交通状況&駐車場状況"
+      },
+      {
+        "id": "ZFhzy9-sy3U",
+        "title": "「LIVECAMERA 」草津温泉・温泉門観光バス専用駐車場"
+      },
+      {
+        "id": "gL7YgPM0Jvk",
+        "title": "「LIVECAMERA 」草津温泉・白根山ライブカメラ（固定式）"
+      },
+      {
+        "id": "yMm2Q3zLXKI",
+        "title": "「LIVECAMERA 」草津温泉・白根山ライブカメラ（移動式）"
+      },
+      {
+        "id": "_Z1UzjJ6o2E",
+        "title": "「LIVECAMERA」草津温泉・本白根山ライブカメラ（移動式）"
+      },
+      {
+        "id": "qdws9fzE4Cs",
+        "title": "「LIVE CAMERA」草津温泉バスターミナル"
+      },
+      {
+        "id": "0ACRdNv3D9w",
+        "title": "「LIVECAMERA」裏草津地蔵 漫画堂 カフェ月の貌"
+      },
+      {
+        "id": "Xr781EeLdqs",
+        "title": "「LIVE CAMERA」草津温泉・温泉門"
+      },
+      {
+        "id": "VnRb8aFDK2M",
+        "title": "「LIVECAMERA」天狗山 第一駐車場"
+      },
+      {
+        "id": "UdOAbyzxKto",
+        "title": "「LIVECAMERA 」草津温泉・西の河原公園駐車場"
+      },
+      {
+        "id": "B_Sc1v1qR-g",
+        "title": "「LIVECAMERA」草津温泉「湯畑」（移動式ライブカメラ）"
+      },
+      {
+        "id": "VZ7UthXFfTw",
+        "title": "「LIVECAMERA 」草津温泉・本白根山ライブカメラ（固定式）"
+      },
+      {
+        "id": "_1PfF1v9GJc",
+        "title": "「LIVECAMERA 」草津温泉・温泉門無料駐車場"
+      },
+      {
+        "id": "GrEEoEmmrKs",
+        "title": "「LIVECAMERA」　草津温泉「湯畑」湯滝前"
+      },
+      {
+        "id": "RT_yg_qsK_M",
+        "title": "「LIVECAMERA」草津温泉 西の河原・湯川LIVE"
+      }
+    ]
   },
   {
     "id": "UCc45_PGazFuEQHoSsaQdwCQ",
@@ -12822,7 +12907,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "EO-YSWcLOxA",
+        "id": "7bO3t34IlwA",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -13136,6 +13221,10 @@
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
     "videos": [
+      {
+        "id": "xOarNC8zp8Q",
+        "title": "LIVE: Aftermath of strikes in Tel Aviv"
+      },
       {
         "id": "2non5X3__JE",
         "title": "Aftermath of missile strike in Tel Aviv"
@@ -13977,9 +14066,14 @@
   },
   {
     "id": "UCkiqDO1CTcCyxlsGXnC8WvA",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@campidlewoodlive",
+    "name": "Camp Idlewood Live Cam",
+    "videos": [
+      {
+        "id": "RjVZXgl_PdE",
+        "title": "Camp Idlewood Live Webcam"
+      }
+    ]
   },
   {
     "id": "UCl5P2zJoH1gBdf38AiYALKA",
@@ -16892,12 +16986,7 @@
     "id": "UCtnuAOh7DrspJt9K7bzXQOw",
     "handle": "@ti.skyglasscanela",
     "name": "TI - Skyglass Canela",
-    "videos": [
-      {
-        "id": "z6t5neHZRV0",
-        "title": "Skyglass Canela [AOVIVO]"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtrwK-DOZGcQo9p1VwIkDZw",
@@ -16979,10 +17068,6 @@
       {
         "id": "I2Z8CE0o4F0",
         "title": "SBFL Live ATC - Aeroporto Internacional de Florianópolis Ao vivo - Com Fonia - CTMEBOX Academia"
-      },
-      {
-        "id": "fV9AQHMJN0U",
-        "title": "Câmera ao Vivo Florianópolis - Canal da Barra da Lagoa - Hostel Farol da Barrra"
       },
       {
         "id": "k9dpUbaMxVc",
