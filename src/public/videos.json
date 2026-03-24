@@ -1295,10 +1295,6 @@
         "title": "ITAJAÍ SC AO VIVO | PRAIA BRAVA – SUBIDA DA RAINHA – UNIFIQUE | CONEXÃODCTV"
       },
       {
-        "id": "hwg8NBMKJIo",
-        "title": "CORREIA PINTO SC AO VIVO | TREVO DE ACESSO – I E J VIDRAÇARIA | CONEXÃODCTV"
-      },
-      {
         "id": "ornz_la7wAg",
         "title": "ILHOTA SC AO VIVO | SC-412 / PRAÇA CENTRAL – JARDINS RESTAURANTE | CONEXÃODCTV"
       },
@@ -1856,11 +1852,11 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "4cx4YQb8KXI",
-        "title": "LIVE: Trump participates in Markwayne Mullin’s swearing-in ceremony"
+        "id": "TdcrT5OcS9c",
+        "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
       },
       {
-        "id": "x5yFEoV7r-8",
+        "id": "53G-Oy4r6M4",
         "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
       }
     ]
@@ -1927,7 +1923,12 @@
     "id": "UC5PNUCvYkt6PxAmgvAV8x8g",
     "handle": "@CaliPlanes",
     "name": "Cali Planes",
-    "videos": []
+    "videos": [
+      {
+        "id": "EgG2qa69Aog",
+        "title": "KLAX LIVE | LOS ANGELES INT AIRPORT LIVE PLANES IRL- MARCH 24, 2026"
+      }
+    ]
   },
   {
     "id": "UC5UwWocd9b4F-GdEyJ4SKxA",
@@ -3083,10 +3084,6 @@
       {
         "id": "2FdvAk95PSk",
         "title": "Great Green Macaw Nest - Sarapiquí Rainforest Reserve powered by  EXPLORE.org"
-      },
-      {
-        "id": "nKWmgsIuXOc",
-        "title": "Imperial Cormorant Colony - Isla Tovita powered by EXPLORE.org"
       },
       {
         "id": "D3W18F2xCZs",
@@ -10097,6 +10094,10 @@
     "name": "KOIN 6",
     "videos": [
       {
+        "id": "Ks65KNQK73Q",
+        "title": "ilani in Ridgefield"
+      },
+      {
         "id": "-CXU5UhysBE",
         "title": "Oregon's Mt. Hood Territory"
       },
@@ -10119,10 +10120,6 @@
       {
         "id": "Nw-3ukCSobw",
         "title": "Oregon Coast Aquarium"
-      },
-      {
-        "id": "7sLWShLCQgk",
-        "title": "ilani in Ridgefield"
       },
       {
         "id": "fE0T5Lbx1Uk",
@@ -10956,10 +10953,6 @@
     "handle": "@como_cam",
     "name": "Como Cam",
     "videos": [
-      {
-        "id": "7Cm17us4HPY",
-        "title": "Chiesa di S. Stefano - Menaggio LIVE HD - Lake Como - Italy"
-      },
       {
         "id": "tttUK6YK48U",
         "title": "Rifugio Menaggio dal vivo - Bellagio - Lake Como - Italy"
@@ -16823,12 +16816,7 @@
     "id": "UCsyyRhCqrvBInUQYTNxL6lw",
     "handle": "@poroslivegr4994",
     "name": "POROSLIVE GR",
-    "videos": [
-      {
-        "id": "cO1k4BJCFsA",
-        "title": "Poros island Live Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCt01tczohsGmH6X6csUS6iQ",
@@ -17950,12 +17938,7 @@
     "id": "UCxJauSv5BZA7N4dIqPHpy0w",
     "handle": "@Brian-Siu",
     "name": "Hong Kong Taxi Driver - Brian",
-    "videos": [
-      {
-        "id": "d19qN4jBL6A",
-        "title": "🔴 香港的士直播 | Hong Kong Taxi Live | 24/3/2026 🔴"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxXKtAvUNQw5rv9lIU0V4UQ",
