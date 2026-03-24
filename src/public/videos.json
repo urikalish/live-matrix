@@ -1860,6 +1860,10 @@
     "name": "Associated Press",
     "videos": [
       {
+        "id": "3f2fA6_wZls",
+        "title": "LIVE: CERN scientists transport volatile antimatter for the first time"
+      },
+      {
         "id": "x5yFEoV7r-8",
         "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
       },
@@ -5687,10 +5691,6 @@
     "handle": "@DMOKYOTO",
     "name": "京都市観光協会Kyoto City Tourism Association",
     "videos": [
-      {
-        "id": "wKJPw4eZ5t0",
-        "title": "【春の観光シーズン／Spring Season】長楽館／Hotel Chourakukan"
-      },
       {
         "id": "QUwTM_Unfnw",
         "title": "【LIVE】烏丸口タクシー乗り場（京都市観光協会公式）／Kyoto Station,Karasuma Exit Taxi Stand, Kyoto Live camera"
@@ -10835,7 +10835,12 @@
     "id": "UCaEdUtLbgjtDdfZfDYCllXQ",
     "handle": "@PraiaItanhaem",
     "name": "Itanhaém Praia",
-    "videos": []
+    "videos": [
+      {
+        "id": "Ft1yxRM6_5Y",
+        "title": "Praia dos sonhos - Itanhaém SP.       PRAIA AO VIVO"
+      }
+    ]
   },
   {
     "id": "UCaHr0a1x8zmQ1dxanCeuesA",
@@ -12894,7 +12899,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "Pbg25xDFwyk",
+        "id": "EO-YSWcLOxA",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -13030,7 +13035,7 @@
     "name": "Meteoestrela Serra da Estrela",
     "videos": [
       {
-        "id": "eq8mLypmMBk",
+        "id": "7aLeY2pEp1A",
         "title": "Webcam Serra da Estrela em direto | MeteoEstrela.pt"
       }
     ]
@@ -13208,6 +13213,10 @@
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
     "videos": [
+      {
+        "id": "2non5X3__JE",
+        "title": "Aftermath of missile strike in Tel Aviv"
+      },
       {
         "id": "beWX2Y0-oiY",
         "title": "WATCH LIVE: View of Beirut skyline"
@@ -16278,16 +16287,21 @@
     "name": "Hawick TV",
     "videos": [
       {
-        "id": "Dfpa0bf_CeU",
+        "id": "ICE3-joeaRY",
         "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
       }
     ]
   },
   {
     "id": "UCqaZDUY_3goAaCsMLqVyJPw",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@erwinsoolsma",
+    "name": "erwin soolsma",
+    "videos": [
+      {
+        "id": "6BnkGdKdBD4",
+        "title": "Hotel Zeezicht Vlieland: zicht op de Veerboot"
+      }
+    ]
   },
   {
     "id": "UCqhDq_fKTSgc8LZCa2gGMEg",
@@ -18524,12 +18538,7 @@
     "id": "UCzjR7slpURQjzqxPP5FVowQ",
     "handle": "@sightsailinglive6405",
     "name": "Sightsailing Live",
-    "videos": [
-      {
-        "id": "HlK9G6PdIUo",
-        "title": "Sightsailing - Newport, Rhode Island USA"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCzkaQrI9-nSv373EvK5p0SQ",
