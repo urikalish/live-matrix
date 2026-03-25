@@ -302,10 +302,6 @@
     "name": "琉球新報",
     "videos": [
       {
-        "id": "DIODBUmluqw",
-        "title": "【2026年3月25日(水)】琉球新報社から生配信！ニュースペーBar 泉崎コメディクラブ"
-      },
-      {
         "id": "nU41kpfKLJM",
         "title": "【LIVE】きょうの沖縄・那覇市役所前交差点ライブカメラ【琉球新報社から】"
       }
@@ -743,15 +739,15 @@
     "name": "Char Dham Yatra Live",
     "videos": [
       {
+        "id": "wMGq5C-99ow",
+        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
+      },
+      {
         "id": "nYYaXlhl7Jg",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
       {
         "id": "_sbcPZEg2lE",
-        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
-      },
-      {
-        "id": "-lBw1Kfil40",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
       {
@@ -2267,10 +2263,6 @@
     "name": "Le Son de la terre",
     "videos": [
       {
-        "id": "N4M6nll2Q8U",
-        "title": "TV"
-      },
-      {
         "id": "k3DZKHJ4Aqg",
         "title": "🔴 Live Webcam Paris - La Seine et Notre Dame Ambiance en direct du bateau \"Le Son de la Terre\""
       }
@@ -2374,10 +2366,6 @@
       {
         "id": "BBs_xeeGsTA",
         "title": "【イラン最新情報まとめ】「大きなプレゼントあった」ホルムズ海峡めぐりトランプ氏/「1月停戦＋15項目協議」構想浮上も/条件に高いハードル/イラン徹底抗戦で世界経済も“道連れ”？　など"
-      },
-      {
-        "id": "lc1VFsXAc28",
-        "title": "【国会中継・リプレイ】参議院・予算委員会　高市総理が出席　日米首脳会談など予定（2026年3月25日午後1時～ LIVE配信）｜TBS NEWS DIG"
       },
       {
         "id": "8PG-4pYVfy8",
@@ -6193,10 +6181,6 @@
         "title": "LIVE: Porto Moniz Webcam, Madeira Island  | Madeira-Web"
       },
       {
-        "id": "sTAWMDWmRf0",
-        "title": "LIVE: Fortim/Jardim do Lido PTZ Cam by Frente MarFunchal | Madeira-Web"
-      },
-      {
         "id": "afyrMxe0qjg",
         "title": "LIVE: Barreirinha Beach Cam, Funchal Centre Madeira, Portugal  | Madeira-Web"
       },
@@ -9128,6 +9112,10 @@
     "name": "SHOWME Caribbean",
     "videos": [
       {
+        "id": "a376RHIDFrU",
+        "title": "🌴Best Caribbean Beach Resorts LIVE | Curaçao • Sint Maarten • Aruba • Bonaire | March 25, 2026"
+      },
+      {
         "id": "vxHKAImxUHk",
         "title": "LIVE Cam Simpson Bay Beach Resort | Saint Martin  🌴💦"
       },
@@ -9442,12 +9430,7 @@
     "id": "UCT7oADZixDIEzbUtWFNA-QA",
     "handle": "@webcamvetruse2915",
     "name": "Webcam Větruše",
-    "videos": [
-      {
-        "id": "-c0j8lBTFl0",
-        "title": "Webcam Větruše – živé vysílání"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCTGhjtFloAPlbLy4_yrkoWg",
@@ -9553,7 +9536,7 @@
     "name": "Serra do Rio do Rastro ao Vivo",
     "videos": [
       {
-        "id": "lPdWV1Whdpc",
+        "id": "COETLyohT_M",
         "title": "Serra do Rio do Rastro em Lauro Müller ao vivo!"
       }
     ]
@@ -9723,12 +9706,7 @@
     "id": "UCUtI5pIKfGoRlKRxVeUwI5A",
     "handle": "@PortGavrio",
     "name": "Port Gavrio",
-    "videos": [
-      {
-        "id": "DrE7KjlEw1o",
-        "title": "Port Gavrio Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCV6HJBZD_hZcIX9JVJ3dCXQ",
@@ -14223,7 +14201,12 @@
     "id": "UCm9zLeJlfz7jRT_6vff70_w",
     "handle": "@AirportAction",
     "name": "Airport Action",
-    "videos": []
+    "videos": [
+      {
+        "id": "ed8kP23TKPs",
+        "title": "Birmingham Airport Live ✈️ Windy Plane Spotting 25.03.26"
+      }
+    ]
   },
   {
     "id": "UCmEC5XS9Ol-6jqBaKpzqehQ",
@@ -16308,12 +16291,7 @@
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
     "handle": "@HawickTV",
     "name": "Hawick TV",
-    "videos": [
-      {
-        "id": "LtokT_mgsV4",
-        "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCqaZDUY_3goAaCsMLqVyJPw",
@@ -17330,40 +17308,7 @@
     "id": "UCuiHrLHm5n38Rzl_2y8mYOw",
     "handle": "@StreambirdPro",
     "name": "Streambird Pro",
-    "videos": [
-      {
-        "id": "qzbIOLZIwwM",
-        "title": "Quad cam - Baron Blue - White Tailed Eagles Nest Live"
-      },
-      {
-        "id": "IOeqKMF2FKE",
-        "title": "Eagle Cam #2 - Baron Blue - White Tailed Eagles Nest Live"
-      },
-      {
-        "id": "FWCLo1ykPT4",
-        "title": "Eagle Cam #3 - Baron Blue - White Tailed Eagles Nest Live"
-      },
-      {
-        "id": "ZRsOb3nXT7w",
-        "title": "Eagle Cam #4 - Baron Blue - White Tailed Eagles Nest Live"
-      },
-      {
-        "id": "PqVGqiN8p2g",
-        "title": "Eagle Cam #5 - Baron Blue - White Tailed Eagles Nest Live"
-      },
-      {
-        "id": "OEHJwXVAAoY",
-        "title": "LIVE: Kristiansund sentrum"
-      },
-      {
-        "id": "ssYnZk2EJck",
-        "title": "Eagle Cam #1 - Baron Blue - White Tailed Eagles Nest Live"
-      },
-      {
-        "id": "JJuaHGhd8g8",
-        "title": "Livecam Kristiansund N"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCujqw4iys19UVg2JYVfVsYA",
@@ -17638,6 +17583,10 @@
     "handle": "@cityofcoldwatermi6619",
     "name": "City of Coldwater MI",
     "videos": [
+      {
+        "id": "B1j06mNv5b8",
+        "title": "Downtown Development Authority (DDA)"
+      },
       {
         "id": "yJefbf6d2Vk",
         "title": "Rotary Park"
