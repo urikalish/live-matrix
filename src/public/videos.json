@@ -5512,7 +5512,7 @@
     "name": "Martigny-Bourg Live Streaming",
     "videos": [
       {
-        "id": "BEhpotVCzr4",
+        "id": "2WTaIlCagBI",
         "title": "Martigny Bourg Valais webcam live"
       }
     ]
@@ -5598,8 +5598,8 @@
     "name": "MRO北陸放送公式チャンネル",
     "videos": [
       {
-        "id": "FaIY6LPkK_k",
-        "title": "【3月24日 能登半島地震まとめ】4月から学校再編 輪島市の小中学校閉校式／輪島の寺院は今／山野新知事に聞く副知事人選／日銀金沢支店跡選考利用へ初会合／ガソリン高騰の中奮闘するキッチンカー…など"
+        "id": "kabEOW5CQl0",
+        "title": "【3月25日 能登半島地震まとめ】平成19年能登半島地震から19年 手書き新聞で紡ぐ絆／輪島港係留施設が一部復旧工事完了／「おもてなし日本一」加賀屋の挑戦／大けが乗り越え 3年ぶり炎鵬が十両復帰…など"
       },
       {
         "id": "CgmxirNHFgI",
@@ -6969,7 +6969,12 @@
     "id": "UCJk1ArOmeKdyMyvONIWPMfw",
     "handle": "@DeltaYacht",
     "name": "Delta Yacht",
-    "videos": []
+    "videos": [
+      {
+        "id": "dfjkuCg_uQY",
+        "title": "Delta Yacht Colijnsplaat Live"
+      }
+    ]
   },
   {
     "id": "UCJruZ-KPJM2oJgQgEyHOS_A",
@@ -9693,6 +9698,10 @@
     "name": "Vacation Myrtle Beach",
     "videos": [
       {
+        "id": "dtl5WnDDW1o",
+        "title": "Myrtle Beach Sunrise 03/25/2026"
+      },
+      {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
       },
@@ -9726,10 +9735,6 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
-      {
-        "id": "TrRMYF9xcLs",
-        "title": "LIVE at the waterhole - 25 March 2026"
-      },
       {
         "id": "boND21qM1ek",
         "title": "WildEarth Channel - AD FREE"
@@ -10456,12 +10461,7 @@
     "id": "UCZ63kVFT7hf1K-Mx82MxFnQ",
     "handle": "@HigginsBeach",
     "name": "Higgins Beach",
-    "videos": [
-      {
-        "id": "mTSjDliwoPQ",
-        "title": "SteveSeabury HigginsBeachProperties"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCZ974tQkAeV7_l_opPHCcdg",
@@ -12775,7 +12775,12 @@
     "id": "UChDKyKQ59fYz3JO2fl0Z6sg",
     "handle": "@TODAY",
     "name": "TODAY",
-    "videos": []
+    "videos": [
+      {
+        "id": "wd-FssXY6DQ",
+        "title": "Watch celebrity interviews, entertaining tips and TODAY Show exclusives | TODAY All Day - March 25"
+      }
+    ]
   },
   {
     "id": "UChFbxcSq9iCfdbu-twIfGuw",
@@ -13235,6 +13240,10 @@
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
     "videos": [
+      {
+        "id": "HqCGenmAsDs",
+        "title": "WATCH Live from southern Lebanon"
+      },
       {
         "id": "a8OwjJ7hXAY",
         "title": "LIVE: The Human Rights Council holds an emergency debate on Iran"
@@ -16310,7 +16319,12 @@
     "id": "UCqaZDUY_3goAaCsMLqVyJPw",
     "handle": "@erwinsoolsma",
     "name": "erwin soolsma",
-    "videos": []
+    "videos": [
+      {
+        "id": "6BnkGdKdBD4",
+        "title": "Hotel Zeezicht Vlieland: zicht op de Veerboot"
+      }
+    ]
   },
   {
     "id": "UCqhDq_fKTSgc8LZCa2gGMEg",
@@ -16983,12 +16997,7 @@
     "id": "UCtnuAOh7DrspJt9K7bzXQOw",
     "handle": "@ti.skyglasscanela",
     "name": "TI - Skyglass Canela",
-    "videos": [
-      {
-        "id": "z6t5neHZRV0",
-        "title": "Skyglass Canela [AOVIVO]"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtrwK-DOZGcQo9p1VwIkDZw",
@@ -18180,12 +18189,7 @@
     "id": "UCxd6_Ql2p4OoSXbKZGP0bmg",
     "handle": "@grit805",
     "name": "GRIT",
-    "videos": [
-      {
-        "id": "2IGOIKZJ8tA",
-        "title": "Campus Point Surf Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
