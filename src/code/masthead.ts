@@ -1,4 +1,4 @@
-import * as settings from './settings';
+﻿import * as settings from './settings';
 import * as videos from './videos';
 import type { Video } from './videos';
 
@@ -46,12 +46,27 @@ function clearSearchResults(resultsElm: HTMLDivElement) {
   resultsElm.classList.remove('is-visible');
 }
 
-function createSearchResultButton(video: Video): HTMLButtonElement {
+function getDisplayedVideoIds(): Set<string> {
+  const displayed = new Set<string>();
+  document
+    .querySelectorAll<HTMLDivElement>('#matrix-container .matrix-cell[data-video-id]')
+    .forEach(cellElm => {
+      const videoId = cellElm.dataset.videoId;
+      if (videoId) displayed.add(videoId);
+    });
+  return displayed;
+}
+
+function createSearchResultButton(video: Video, displayedVideoIds: Set<string>): HTMLButtonElement {
   const resultElm = document.createElement('button');
   resultElm.type = 'button';
   resultElm.classList.add('masthead-search-result');
   resultElm.setAttribute('role', 'option');
   resultElm.dataset.videoId = video.id;
+  if (displayedVideoIds.has(video.id)) {
+    resultElm.disabled = true;
+    resultElm.classList.add('is-displayed');
+  }
 
   const titleElm = document.createElement('div');
   titleElm.classList.add('masthead-search-result-channel-name');
@@ -78,8 +93,9 @@ function renderSearchResults(resultsElm: HTMLDivElement, matches: Video[]) {
     return;
   }
 
+  const displayedVideoIds = getDisplayedVideoIds();
   matches.forEach(video => {
-    resultsElm.appendChild(createSearchResultButton(video));
+    resultsElm.appendChild(createSearchResultButton(video, displayedVideoIds));
   });
   resultsElm.classList.add('is-visible');
 }
@@ -127,8 +143,8 @@ function attachSearchHandlers() {
     }
 
     if (event.key === 'Enter') {
-      const firstResult = results.querySelector('.masthead-search-result');
-      if (!(firstResult instanceof HTMLButtonElement)) return;
+      const firstResult = results.querySelector<HTMLButtonElement>('.masthead-search-result:not(:disabled)');
+      if (!firstResult) return;
       event.preventDefault();
       firstResult.click();
     }

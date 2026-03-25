@@ -125,6 +125,14 @@ body {
     outline: none;
 }
 
+.masthead-search-result:disabled,
+.masthead-search-result:disabled:hover,
+.masthead-search-result:disabled:focus {
+    opacity: 0.4;
+    cursor: default;
+    background-color: transparent;
+}
+
 .masthead-search-result-channel-name {
     font-size: 0.72rem;
     font-weight: 700;
