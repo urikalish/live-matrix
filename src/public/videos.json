@@ -1839,10 +1839,6 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "CGiXhw7ODRk",
-        "title": "LIVE: White House press briefing with Karoline Leavitt"
-      },
-      {
         "id": "8NoKF2Uq-w0",
         "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
       },
@@ -5620,12 +5616,7 @@
     "id": "UCFZO10OCD0gGxRGa1N0ePYQ",
     "handle": "@ashehighcountryrealty",
     "name": "Ashe High Country Realty",
-    "videos": [
-      {
-        "id": "B4viL7ecY94",
-        "title": "Ashe High Country Realty Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCFbCFCIy44FvzHecRZnzHww",
@@ -10079,12 +10070,7 @@
     "id": "UCXCRtOlf5p2fQnaWCrKigTA",
     "handle": "@viviendasvacacionalescante8718",
     "name": "Viviendas Vacacionales Canteras Vista Playa",
-    "videos": [
-      {
-        "id": "KzMMVBLN238",
-        "title": "Viviendas vacacionales Canteras Vista Playa"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXN7rPhZK6Rp8lMhvpSri_Q",
@@ -10314,12 +10300,12 @@
     "name": "LAS Vegas Airport LIVE",
     "videos": [
       {
-        "id": "fvB5KefOAM0",
-        "title": "NEW CAMERA LAS Vegas Airport LIVE"
+        "id": "euH5-K8dzZ0",
+        "title": "NEW LAS Vegas Airport LIVE 24/7 FEED"
       },
       {
-        "id": "3a4dRftiJ9Y",
-        "title": "LAS Vegas Airport LIVE 24/7"
+        "id": "fvB5KefOAM0",
+        "title": "NEW CAMERA LAS Vegas Airport LIVE"
       }
     ]
   },
@@ -17962,7 +17948,7 @@
     "name": "Viracopos ao Vivo",
     "videos": [
       {
-        "id": "2POxMlJQMJA",
+        "id": "nEJNPWArDgc",
         "title": "AO VIVO - AEROPORTO INTERNACIONAL DE VIRACOPOS EM CAMPINAS - SÃO PAULO"
       }
     ]
