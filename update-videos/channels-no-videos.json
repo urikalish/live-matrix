@@ -114,6 +114,12 @@
     "date": "2026-03-24"
   },
   {
+    "id": "UC-CrxJnHPaM4tm2haTibUZA",
+    "handle": "@SoggyDollar",
+    "name": "Soggy Dollar",
+    "date": "2026-03-25"
+  },
+  {
     "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
     "handle": "@alwarith-center",
     "name": "مركز الوارث للإنتاج الفني",
@@ -129,12 +135,6 @@
     "id": "UC4Wd3aS1XKA39dCveZExSkg",
     "handle": "@oneandmoreaviation",
     "name": "One and More Aviation ",
-    "date": "2026-03-25"
-  },
-  {
-    "id": "UC5_UEwpA9D5p5TjbfI5Ys6w",
-    "handle": "@TriangelSecurityAS",
-    "name": "Triangel Security AS",
     "date": "2026-03-25"
   },
   {
@@ -168,18 +168,6 @@
     "date": "2026-03-25"
   },
   {
-    "id": "UCKO7Og-r4lviwFcaXUNDNLA",
-    "handle": "@Crelosavideos",
-    "name": "Crelosa",
-    "date": "2026-03-25"
-  },
-  {
-    "id": "UCL_Pe20HICTxJsTB5O5g8Yg",
-    "handle": "@StuartWebCam",
-    "name": "Stuart WebCam",
-    "date": "2026-03-25"
-  },
-  {
     "id": "UCm9zLeJlfz7jRT_6vff70_w",
     "handle": "@AirportAction",
     "name": "Airport Action",
@@ -201,6 +189,12 @@
     "id": "UCXCRtOlf5p2fQnaWCrKigTA",
     "handle": "@viviendasvacacionalescante8718",
     "name": "Viviendas Vacacionales Canteras Vista Playa",
+    "date": "2026-03-25"
+  },
+  {
+    "id": "UCxXKtAvUNQw5rv9lIU0V4UQ",
+    "handle": "@ViracoposaoVivo",
+    "name": "Viracopos ao Vivo",
     "date": "2026-03-25"
   }
 ]
