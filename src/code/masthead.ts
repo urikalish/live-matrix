@@ -143,7 +143,9 @@ function attachSearchHandlers() {
     }
 
     if (event.key === 'Enter') {
-      const firstResult = results.querySelector<HTMLButtonElement>('.masthead-search-result:not(:disabled)');
+      const firstResult = results.querySelector<HTMLButtonElement>(
+        '.masthead-search-result:not(:disabled)',
+      );
       if (!firstResult) return;
       event.preventDefault();
       firstResult.click();
