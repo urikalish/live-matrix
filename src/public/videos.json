@@ -20,10 +20,6 @@
     "name": "Explore Live Nature Cams",
     "videos": [
       {
-        "id": "-wvmSOs_PB4",
-        "title": "Bald Eagle Play by Play with Raptor Resource Project"
-      },
-      {
         "id": "Fz6sl9YJZE0",
         "title": "Underwater Manatee Cam At Homosassa Springs | Fall in love with the beloved sea cows! | explore.org"
       },
@@ -2530,7 +2526,20 @@
     "id": "UC6RbL0ZAyA_rc__Acbqh2mw",
     "handle": "@BLCStreams",
     "name": "BLC Streams",
-    "videos": []
+    "videos": [
+      {
+        "id": "YNDiaM0zpFc",
+        "title": "🔴 LIVE Port Miami Cruise Ship Terminals"
+      },
+      {
+        "id": "8Rw-tZTeBjU",
+        "title": "🔴 LIVE Cruise Port Key West"
+      },
+      {
+        "id": "yzEPV8o_fac",
+        "title": "🔴 LIVE  Intracoastal Waterway Venice Nokomis Florida at Pop's Sunset Grill"
+      }
+    ]
   },
   {
     "id": "UC6bRB9N7EyMijsauPttAvfg",
@@ -9278,12 +9287,7 @@
     "id": "UCSFrrg7k1zpt5JvQ96KjRqg",
     "handle": "@SnooksBaysideKeyLargo",
     "name": "Snook&#39;s Bayside Restaurant &amp; Grand Tiki",
-    "videos": [
-      {
-        "id": "tIYUOWF1N4s",
-        "title": "🔴 LIVE Snook's Bayside Key Largo Florida"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCSGpRUfc4CaBpZlaXA6tr0w",
@@ -10173,10 +10177,6 @@
     "handle": "@livefromireland",
     "name": "LivefromIreland - Live Streaming Webcams",
     "videos": [
-      {
-        "id": "0vySIQcfBRI",
-        "title": "Live Webcam Rathmines Dublin Ireland. 6 different webcam views."
-      },
       {
         "id": "GVdzGoWknWg",
         "title": "Live Webcam Cabra Road Dublin Ireland  (Facing East)"
@@ -14090,7 +14090,12 @@
     "id": "UClSdxxEoPbpZHrujhfQcdow",
     "handle": "@castrostreetcam2549",
     "name": "Castro Street Cam 2",
-    "videos": []
+    "videos": [
+      {
+        "id": "-GXFp7nedi8",
+        "title": "Castro Street Cam 2 Live Stream"
+      }
+    ]
   },
   {
     "id": "UClcicFOBsxXQxaQnT1RshJg",
@@ -14975,6 +14980,14 @@
     "name": "webcamsdemexico",
     "videos": [
       {
+        "id": "Krnp4btm4nY",
+        "title": "#BellasArtes | La ciudad luce bastante tranquila #envivo"
+      },
+      {
+        "id": "t-7T0Kp2WpA",
+        "title": "#Zócalo | Desmontan todo en la explanada #envivo"
+      },
+      {
         "id": "0X0A5iXevYk",
         "title": "Ixtapa, Zihuatanejo desde Park Royal Ixtapa"
       },
@@ -15827,6 +15840,126 @@
     "handle": "@cctvdishubdemak",
     "name": "CCTV DISHUB KAB. DEMAK",
     "videos": [
+      {
+        "id": "Poe-SFqJudU",
+        "title": "🔴[LIVE CCTV] JL. PANTURA ONGGORAWE JEMBATAN [1] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "TeIF-19D2fc",
+        "title": "🔴[LIVE CCTV] JL. PANTURA SAYUNG DEMAK [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "juwNAQvciCY",
+        "title": "🔴[LIVE CCTV] JL. PANTURA SAYUNG DEMAK [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "Sifo6OUl9EQ",
+        "title": "🔴[LIVE CCTV]  EXIT TOL JL. LINGKAR DEMAK [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "UBpyrHqLs6M",
+        "title": "🔴[LIVE CCTV] DEPAN KANTOR DINAS PERHUBUNGAN KABUPATEN DEMAK [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "Y_CXDmoV_AM",
+        "title": "🔴[LIVE CCTV] PEREMPATAN PASAR MRANGGEN FIX [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "J2t_IbF2aT4",
+        "title": "🔴[LIVE CCTV] PEREMPATAN PASAR MRANGGEN PTZ [00] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "Uk5C3QtwY14",
+        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. LINGKAR JOGOLOYO DEMAK [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "C9WiZN5sayI",
+        "title": "🔴[LIVE CCTV] PERTIGAAN MINTRENG KEBONAGUNG [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "9WnxYFnRYwc",
+        "title": "🔴[LIVE CCTV] PERTIGAAN MINTRENG KEBONAGUNG [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "NzFphxcoWI0",
+        "title": "🔴[LIVE CCTV] SIMPANG DEGEGA MIJEN [03] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "zOhQIws_ThU",
+        "title": "🔴[LIVE CCTV] SIMPANG DEGEGA MIJEN [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "ivwhtTVLt4A",
+        "title": "🔴[LIVE CCTV] SIMPANG DEGEGA MIJEN [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "Ryi-DaEXRWs",
+        "title": "🔴[LIVE CCTV] PEREMPATAN TUGU PAMONGAN GUNTUR [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "nJNY-x2m4kE",
+        "title": "🔴[LIVE CCTV] PEREMPATAN TUGU PAMONGAN GUNTUR [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "WSLIJBOnrkI",
+        "title": "🔴[LIVE CCTV] PERBATASAN DEMAK GROBOGAN (GODONG) [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "gU4yTTuEBsE",
+        "title": "🔴[LIVE CCTV] PERBATASAN DEMAK GROBOGAN (GODONG) [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "RmnedCk-tM0",
+        "title": "🔴[LIVE CCTV] JEMBATAN TUGU KEDUNGMUTIH [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "UR8hKST_KDI",
+        "title": "🔴[LIVE CCTV] JEMBATAN TUGU KEDUNGMUTIH [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "CaWTQtL6UYw",
+        "title": "🔴[LIVE CCTV] SIMPANG 6 ALUN-ALUN PARKIRAN TIC [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "iJpV38xhxbE",
+        "title": "🔴[LIVE CCTV] SIMPANG 6 ALUN-ALUN PARKIRAN TIC [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "Uwklt46Y1Io",
+        "title": "🔴[LIVE] JL. PANTURA DEPAN PUSKESMAS GAJAH [2] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "YMZD2yaRevA",
+        "title": "🔴[LIVE] JL. PANTURA DEPAN PUSKESMAS GAJAH [1] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "6CgkZNkyX9s",
+        "title": "🔴[LIVE] PEREMPATAN DESA BUNGO TEMPEL [3] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "jITTvLxkKqY",
+        "title": "🔴[LIVE] PEREMPATAN DESA BUNGO TEMPEL [2] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "eCqlWszEOAo",
+        "title": "🔴[LIVE] PEREMPATAN DESA BUNGO TEMPEL [1] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "BD30mgC9OZM",
+        "title": "🔴[LIVE CCTV] PERTIGAAN GENENG MIJEN [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "uWIXcEuVf7c",
+        "title": "🔴[LIVE CCTV] PERTIGAAN GENENG MIJEN [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "RNCO4rRTZJo",
+        "title": "🔴[LIVE CCTV] JL. PANTURA DEPAN SMP KARANGTENGAH [2] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "iskg6Qs2VWs",
+        "title": "🔴[LIVE CCTV] JL. PANTURA DEPAN SMP KARANGTENGAH [1] by DISHUB KAB. DEMAK"
+      },
       {
         "id": "HvM2dCwvOSw",
         "title": "🔴[LIVE CCTV] SIMPANG MAKAM PAHLAWAN [03] by DISHUB KAB. DEMAK"
