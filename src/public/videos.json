@@ -860,12 +860,7 @@
     "id": "UC1YsvhwhmQV5kfVMRpTVx-A",
     "handle": "@神戸ウォーターフロント開発機",
     "name": "神戸ウォーターフロント開発機構",
-    "videos": [
-      {
-        "id": "AU_2zfM4m68",
-        "title": "【LIVE】神戸ウォーターフロント  ＃メリケンパーク＃神戸ポートタワー"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC1dvZq_0NLxBTrYp4bWKeCQ",
@@ -3241,7 +3236,24 @@
     "id": "UC8V1W5qNE8s3vgQWEQHpsKQ",
     "handle": "@KranjskaGoraSi",
     "name": "Kranjska Gora",
-    "videos": []
+    "videos": [
+      {
+        "id": "77yKd4QyWR4",
+        "title": "Jezero Jasna / Lake Jasna Live Camera"
+      },
+      {
+        "id": "8AMmuoTUNRw",
+        "title": "Ski Arena - Kranjska Gora"
+      },
+      {
+        "id": "-Huu1iNTpfk",
+        "title": "Kranjska Gora Town Center - Live WebCam"
+      },
+      {
+        "id": "SIihW0koOZw",
+        "title": "Planica - Live WebCam"
+      }
+    ]
   },
   {
     "id": "UC8ZnDZj0IUDw1tkECARmEkA",
@@ -6390,7 +6402,12 @@
     "id": "UCJA-llhMSoLAV9tH8JOZ_LQ",
     "handle": "@crystalcovetofino",
     "name": "Crystal Cove Beach Resort - Cabins &amp; RV Camping",
-    "videos": []
+    "videos": [
+      {
+        "id": "AovvFApVnKc",
+        "title": "Beachview Cam - Crystal Cove Beach Resort, Tofino, B.C."
+      }
+    ]
   },
   {
     "id": "UCJId-kbfsO5K4kU9cKE_TqA",
@@ -9703,7 +9720,12 @@
     "id": "UCUtI5pIKfGoRlKRxVeUwI5A",
     "handle": "@PortGavrio",
     "name": "Port Gavrio",
-    "videos": []
+    "videos": [
+      {
+        "id": "DrE7KjlEw1o",
+        "title": "Port Gavrio Live Stream"
+      }
+    ]
   },
   {
     "id": "UCV6HJBZD_hZcIX9JVJ3dCXQ",
