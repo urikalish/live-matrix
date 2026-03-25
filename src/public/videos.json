@@ -1186,6 +1186,10 @@
     "name": "ConexãoDCTV - Balneário Camboriú Ao Vivo",
     "videos": [
       {
+        "id": "hZuaccrJqK0",
+        "title": "CORREIA PINTO SC AO VIVO | TREVO DE ACESSO – I E J VIDRAÇARIA | CONEXÃODCTV"
+      },
+      {
         "id": "wmKinTm3gQE",
         "title": "CORREIA PINTO SC AO VIVO | PANORÂMICA DA CIDADE – BAR DO MAICO | CONEXÃODCTV"
       },
@@ -1927,12 +1931,7 @@
     "id": "UC5_UEwpA9D5p5TjbfI5Ys6w",
     "handle": "@TriangelSecurityAS",
     "name": "Triangel Security AS",
-    "videos": [
-      {
-        "id": "m0dTtGEcPEg",
-        "title": "Molde Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC5fEp9PlxQP9llmRAWto_XQ",
@@ -2548,7 +2547,12 @@
     "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
     "handle": "@pontalnetv",
     "name": "Pontal NeTv e Internet",
-    "videos": []
+    "videos": [
+      {
+        "id": "Jpd7w36gBC0",
+        "title": "Ao Vivo - Arraial do Cabo - RJ"
+      }
+    ]
   },
   {
     "id": "UC6kdM4uR54C72vtsR_mCKHg",
@@ -7014,12 +7018,7 @@
     "id": "UCKO7Og-r4lviwFcaXUNDNLA",
     "handle": "@Crelosavideos",
     "name": "Crelosa",
-    "videos": [
-      {
-        "id": "J8lpzPp1aQI",
-        "title": "Transmisión en directo  Crelosa Volcán De Fuego GT"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCK_2jzTMkgBMalwh49VFh1Q",
@@ -7422,12 +7421,7 @@
     "id": "UCL_Pe20HICTxJsTB5O5g8Yg",
     "handle": "@StuartWebCam",
     "name": "Stuart WebCam",
-    "videos": [
-      {
-        "id": "OheDvpJEk8U",
-        "title": "A Live 24/7 Broadcast View of Haney Circle in Historic Downtown Stuart Florida"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCLav_kTu9PmAEChvGyrPbhQ",
@@ -14011,6 +14005,10 @@
     "name": "Ixtapa y Zihuatanejo",
     "videos": [
       {
+        "id": "Hc32IA80v_Q",
+        "title": "🔴  Zihuatanejo - En vivo Playa La Madera II"
+      },
+      {
         "id": "lpFFvGBC41s",
         "title": "🔴  Zihuatanejo - En vivo Bahía de Zihuatanejo"
       },
@@ -14977,16 +14975,16 @@
     "name": "webcamsdemexico",
     "videos": [
       {
+        "id": "0X0A5iXevYk",
+        "title": "Ixtapa, Zihuatanejo desde Park Royal Ixtapa"
+      },
+      {
         "id": "VWsoCk8U2-0",
         "title": "🗻 #POPOCATÉPETL | ¡Blancura que contrasta con el cielo azul! El #Volcán #EnVivo"
       },
       {
         "id": "-eM7kDiB9xU",
         "title": "🗻 #POPOCATÉPETL | Noche de incandescencia. El #Volcán #EnVivo"
-      },
-      {
-        "id": "v48FqpGXQdw",
-        "title": "⚠️ #CDMX | Manifestantes en el #Zócalo #EnVivo"
       },
       {
         "id": "Uo0W1tpA348",
@@ -15001,20 +14999,12 @@
         "title": "✝️ #IZTAPALAPA | Preparativos para representación #DomingoDeRamos #SemanaSanta #EnVivo"
       },
       {
-        "id": "yqwSmn2TxHc",
-        "title": "🗻 #POPOCATÉPETL | Fuerte incandescencia ¿Explotará? El #Volcán #EnVivo"
-      },
-      {
         "id": "uB4SUqDB3Zw",
         "title": "⚠️🌧️ #CDMX | Llueve al norte de la ciudad. La capital #EnVivo"
       },
       {
         "id": "sQY8bDuF4Cc",
         "title": "🗻 #POPOCATÉPETL | Continúa fuerte la incandescencia. El #Volcán #EnVivo"
-      },
-      {
-        "id": "KtKRZxUvrhU",
-        "title": "🌧️ #CDMX | #Lluvias esta tarde en la ciudad. La capital #EnVivo"
       },
       {
         "id": "CJ9UsNuQk-8",
@@ -15035,10 +15025,6 @@
       {
         "id": "lJ25EjGIAkc",
         "title": "🌞 #TEOTIHUACAN | ¡A cargar energía en las pirámides este 21 de marzo! #EnVivo"
-      },
-      {
-        "id": "Mv1UfcDXOFw",
-        "title": "#Garibaldi | La fiesta continua 💅🏻 #envivo"
       },
       {
         "id": "SkKj1b_lLA4",
@@ -15069,16 +15055,8 @@
         "title": "Acapulco, Guerrero En Vivo | Vista Panorámica de Playa Condesa"
       },
       {
-        "id": "IUkO8SewdPQ",
-        "title": "📍 #CDMX ((#CNTE)) | Continúa plantón de manifestantes en el #Zócalo #EnVivo"
-      },
-      {
         "id": "5Mrlg5kmsno",
         "title": "🗻 #POPOCATÉPETL | Hermoso y nevado. El #Volcán #EnVivo"
-      },
-      {
-        "id": "_Snx8bB8q90",
-        "title": "#BellasArtes | Quitaron las vallas por fin #envivo"
       },
       {
         "id": "EdbXvaNHjV4",
@@ -18143,7 +18121,12 @@
     "id": "UCxd6_Ql2p4OoSXbKZGP0bmg",
     "handle": "@grit805",
     "name": "GRIT",
-    "videos": []
+    "videos": [
+      {
+        "id": "qdky_jdbVFw",
+        "title": "Campus Point Surf Cam"
+      }
+    ]
   },
   {
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
