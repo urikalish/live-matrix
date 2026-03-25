@@ -311,12 +311,7 @@
     "id": "UC-omrowFhBZ_gzNLhX8Hq4w",
     "handle": "@paulbunyanandbabetheblueox3329",
     "name": "Paul Bunyan and Babe the Blue Ox",
-    "videos": [
-      {
-        "id": "t3nsu45cd3o",
-        "title": "Paul Bunyan and Babe the Blue Ox Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC029bcZGqxOsRkvWrZLhgKQ",
@@ -1881,48 +1876,7 @@
     "id": "UC5FiBoG6GcB5QqsiOsGe22A",
     "handle": "@eastcoastnsa0501",
     "name": "東部海岸國家風景區管理處",
-    "videos": [
-      {
-        "id": "fv1yFousBvc",
-        "title": "【Live Cam】東海岸即時影像 - 綠島帆船鼻｜Fanchuanbi Grassland in Green Island｜緑島帆船鼻の大草原 2160p"
-      },
-      {
-        "id": "a8nJQr5rBGs",
-        "title": "【4K Live Cam】Chaikou Snorkeling Area in Green Island, Taitung | Explore East Coast of Taiwan"
-      },
-      {
-        "id": "mXnigLvIL0Q",
-        "title": "【4K Live Cam】Shitiping | East Coast National Scenia Area in Taiwan"
-      },
-      {
-        "id": "JnD8Rk3o0BM",
-        "title": "【4K Live Cam】Changhong Bridge | Explore East Coast of Taiwan"
-      },
-      {
-        "id": "JkoXcXI04Qk",
-        "title": "【4K Live Cam】Dashshibi Hill | Explore East Coast of Taiwan"
-      },
-      {
-        "id": "AKl3F6cAY2Q",
-        "title": "【4K Live Cam】Jialulan Recreation Area | Explore East Coast of Taiwan"
-      },
-      {
-        "id": "JhQuR77AR7U",
-        "title": "【4K Live Cam】Torik Visitor Center | Explore East Coast of Taiwan"
-      },
-      {
-        "id": "dQ7Sd6PGLdA",
-        "title": "【4K Live Cam】Sanxiantai | Explore East Coast of Taiwan"
-      },
-      {
-        "id": "ZdqHgQwvZOw",
-        "title": "【4K Live Cam】Jinzun | Explore East Coast of Taiwan"
-      },
-      {
-        "id": "wTHhv7M0vCI",
-        "title": "【4K Live Cam】Taitung Green Island Nanliao Fishing Harbor | Explore East Coast of Taiwan"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC5PNUCvYkt6PxAmgvAV8x8g",
@@ -2364,11 +2318,7 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "3ZvhBc1LDXI",
-        "title": "【ライブ】経済同友会・山口明夫 代表幹事　記者会見　イラン情勢、株価・原油価格などについて（2026年3月25日午後3時～）｜TBS NEWS DIG"
-      },
-      {
-        "id": "Fpwm1x95ftg",
+        "id": "BBs_xeeGsTA",
         "title": "【イラン最新情報まとめ】「大きなプレゼントあった」ホルムズ海峡めぐりトランプ氏/「1月停戦＋15項目協議」構想浮上も/条件に高いハードル/イラン徹底抗戦で世界経済も“道連れ”？　など"
       },
       {
@@ -3810,14 +3760,9 @@
   },
   {
     "id": "UC9uLh_yOzgtsoOEUUeYmzcA",
-    "handle": "@champlainmarina6590",
-    "name": "Champlain Marina",
-    "videos": [
-      {
-        "id": "WYgjhPHIw1k",
-        "title": "Champlain Marina LIVE WEBCam"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UC9vjLpH4MYgIUTyQT6SnSQQ",
@@ -5651,7 +5596,12 @@
     "id": "UCFbCFCIy44FvzHecRZnzHww",
     "handle": "@KohChangLiveCamera",
     "name": "Koh Chang Live Camera",
-    "videos": []
+    "videos": [
+      {
+        "id": "BR6h3B2NFhY",
+        "title": "Koh Chang Webcam - Live Stream from Koh Chang by Coco Dee Bo"
+      }
+    ]
   },
   {
     "id": "UCFbd69s_b63mA7qvpnG6U8Q",
@@ -8859,10 +8809,6 @@
     "name": "Hasan Yayında",
     "videos": [
       {
-        "id": "3bv4kfu1hkc",
-        "title": "Hasan Yayında İşler Rayında Canlı Yayın"
-      },
-      {
         "id": "dGyP4smfrQg",
         "title": "KULAKKAYA YAYLASI CANLI YAYIN CAMERA 4"
       },
@@ -9416,7 +9362,7 @@
     "name": "Webcam Větruše",
     "videos": [
       {
-        "id": "1rbOJdnW2g4",
+        "id": "-c0j8lBTFl0",
         "title": "Webcam Větruše – živé vysílání"
       }
     ]
@@ -9704,10 +9650,6 @@
     "name": "WildEarth",
     "videos": [
       {
-        "id": "TuE5Li7BI14",
-        "title": "SafariLIVE Sunrise - 25 March 2026"
-      },
-      {
         "id": "boND21qM1ek",
         "title": "WildEarth Channel - AD FREE"
       }
@@ -9944,10 +9886,6 @@
     "handle": "@djumacam",
     "name": "Djuma Cam",
     "videos": [
-      {
-        "id": "MJiXozaYkgk",
-        "title": "Djuma Cam Live Stream"
-      },
       {
         "id": "Yhi6KPL4Lmk",
         "title": "Djuma Ad Free Members Stream"
@@ -10735,6 +10673,10 @@
     "name": "STREETS OF THAILAND",
     "videos": [
       {
+        "id": "cnJri1YXJUI",
+        "title": "Banyan Food Market 🔴 Koh Samui | Thailand | Live Street cam"
+      },
+      {
         "id": "UJpFtzKug7M",
         "title": "Royal Muang Samui Villas 🔴 Choeng Mon beach in Koh Samui - Livestream on the beach"
       },
@@ -11380,18 +11322,9 @@
   },
   {
     "id": "UCcbzs8WNAZ_UOp21fJzSHfA",
-    "handle": "@CityofAuburnAL",
-    "name": "CityofAuburnAL",
-    "videos": [
-      {
-        "id": "qG-86nZmZqU",
-        "title": "City of Auburn Toomer's Corner Quad Cam"
-      },
-      {
-        "id": "5WN2PJ_Qxjs",
-        "title": "City of Auburn Toomer's Corner Webcam"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCccBBYDmDWnVWpWcfSfKA6w",
@@ -12196,6 +12129,10 @@
     "name": "Norway Live",
     "videos": [
       {
+        "id": "-WkH_DfA8Q4",
+        "title": "Kongsberg Skimore LIVE"
+      },
+      {
         "id": "aefUCQ2TH1Y",
         "title": "Lofoten LIVE"
       },
@@ -12910,7 +12847,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "C2HkG0a52_w",
+        "id": "rz7mJJkLUFs",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -13532,7 +13469,7 @@
       },
       {
         "id": "qNQMsASjQWc",
-        "title": "LIVE PEMANTAUAN CCTV PINTU MASUK PANTAI  JJLS 1"
+        "title": "LIVE PEMANTAUAN CCTV TPR PANTAI JJLS 1"
       },
       {
         "id": "B96LfyFCk64",
@@ -14123,10 +14060,6 @@
       {
         "id": "Busyb4PoLoo",
         "title": "Gramado ao vivo"
-      },
-      {
-        "id": "C3ckf10sAYw",
-        "title": "Acompanhe a Gramado TV 24 horas"
       },
       {
         "id": "75m4Ry69IQA",
@@ -16333,7 +16266,7 @@
     "name": "Live Trento H24 - Piazza Duomo",
     "videos": [
       {
-        "id": "NN8EjBC3tSk",
+        "id": "NNsiinhO7YE",
         "title": "Trento live cam - centro città (Piazza Duomo)"
       }
     ]
@@ -17148,12 +17081,7 @@
     "id": "UCuSeVCzI21lPeKnIzZehFPQ",
     "handle": "@SantuárioNacionaldeAparecida",
     "name": "Santuário Nacional de Aparecida",
-    "videos": [
-      {
-        "id": "juUt-rN5CVo",
-        "title": "Santuário Nacional AO VIVO - Você em constante Oração na Casa da Mãe"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCuTaHTWV4TjZE9r8Vjcfaog",
