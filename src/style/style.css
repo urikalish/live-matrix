@@ -57,6 +57,7 @@ body {
     color: #f0f0f0;
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
     white-space: nowrap;
+    -webkit-user-select: none;
     user-select: none;
 }
 .masthead--right-side {
@@ -158,6 +159,7 @@ body {
     border: 1px solid #5a5a5a;
     border-radius: 6px;
     cursor: pointer;
+    -webkit-user-select: none;
     user-select: none;
     transition:
         background 0.2s ease,
@@ -221,6 +223,7 @@ body {
     z-index: 0;
     opacity: 1;
     transition: opacity 0.2s ease;
+    -webkit-user-select: none;
     user-select: none;
 }
 
@@ -271,6 +274,7 @@ body {
     justify-content: center;
     opacity: 0;
     pointer-events: none;
+    -webkit-user-select: none;
     user-select: none;
     transition:
         background-color 0.15s ease,
@@ -293,8 +297,7 @@ body {
 .cell-overlay-details {
     position: absolute;
     inset-inline: 8px;
-    bottom: 8px;
-    pointer-events: none;
+    bottom: 8px;    
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.85);
     opacity: 0;
     transition: opacity 0.15s ease;

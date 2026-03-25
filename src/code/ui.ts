@@ -87,13 +87,18 @@ function updateOverlayDetails(cellElm: HTMLDivElement) {
 
   const channelNameElm = overlay.querySelector('.cell-overlay-channel');
   const videoTitleElm = overlay.querySelector('.cell-overlay-title');
-  if (!(channelNameElm instanceof HTMLDivElement) || !(videoTitleElm instanceof HTMLDivElement)) {
+  if (
+    !(channelNameElm instanceof HTMLAnchorElement) ||
+    !(videoTitleElm instanceof HTMLDivElement)
+  ) {
     return;
   }
 
   const channelName = cellElm.dataset.channelName ?? '';
+  const channelHandle = cellElm.dataset.channelHandle ?? '';
   const videoTitle = cellElm.dataset.videoTitle ?? '';
   channelNameElm.textContent = channelName;
+  channelNameElm.href = `https://www.youtube.com/${channelHandle}`;
   videoTitleElm.textContent = videoTitle;
   channelNameElm.title = channelName;
   videoTitleElm.title = videoTitle;
@@ -164,8 +169,10 @@ function createOverlay(): HTMLDivElement {
   const detailsElm = document.createElement('div');
   detailsElm.classList.add('cell-overlay-details');
 
-  const channelNameElm = document.createElement('div');
+  const channelNameElm = document.createElement('a');
   channelNameElm.classList.add('cell-overlay-channel');
+  channelNameElm.target = '_blank';
+  channelNameElm.rel = 'noopener noreferrer';
 
   const videoTitleElm = document.createElement('div');
   videoTitleElm.classList.add('cell-overlay-title');
