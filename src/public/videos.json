@@ -1843,10 +1843,6 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "Dfv0KM0W4Cg",
-        "title": "LIVE: Yankees and Giants workout ahead of MLB opening day 2026"
-      },
-      {
         "id": "8NoKF2Uq-w0",
         "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
       },
@@ -3420,16 +3416,8 @@
         "title": "King Pine Summit Cam, New Hampshire USA"
       },
       {
-        "id": "6YuIquNmb2E",
-        "title": "Live Outdoor Skating Rink - Rinkside Cam from Portsmouth, New Hampshire - Strawbery Banke"
-      },
-      {
         "id": "PoZ1Hy7PQig",
         "title": "Live Outdoor Skating Rink - Patio Cam 1 from Portsmouth, New Hampshire - Strawbery Banke"
-      },
-      {
-        "id": "8hNS4PRbKFM",
-        "title": "Live Outdoor Skating Rink - Patio Cam 2 from Portsmouth, New Hampshire - Strawbery Banke"
       },
       {
         "id": "DTlS71DA-es",
@@ -8863,7 +8851,12 @@
     "id": "UCRZplV8vE67bgCI6_3sm3mQ",
     "handle": "@TANUKIYA",
     "name": "たぬきやLIVE",
-    "videos": []
+    "videos": [
+      {
+        "id": "goxtB53PqrY",
+        "title": "［LIVE CAMERA］札幌 狸小路 ライブカメラ（４丁目） Tanukikoji Shopping Street in Sapporo, Hokkaido, Japan."
+      }
+    ]
   },
   {
     "id": "UCRaLemo6M0haUrwGWTQoM1A",
@@ -9287,7 +9280,12 @@
     "id": "UCSFrrg7k1zpt5JvQ96KjRqg",
     "handle": "@SnooksBaysideKeyLargo",
     "name": "Snook&#39;s Bayside Restaurant &amp; Grand Tiki",
-    "videos": []
+    "videos": [
+      {
+        "id": "tIYUOWF1N4s",
+        "title": "🔴 LIVE Snook's Bayside Key Largo Florida"
+      }
+    ]
   },
   {
     "id": "UCSGpRUfc4CaBpZlaXA6tr0w",
@@ -9478,10 +9476,6 @@
     "name": "starysacz.info",
     "videos": [
       {
-        "id": "BKMLDB3Kjww",
-        "title": "Kościół św. Elżbiety Węgierskiej w Starym Sączu - Transmisja LIVE - Na Żywo"
-      },
-      {
         "id": "HKQcCa_iMtA",
         "title": "Stary Sącz Rynek na żywo - Restauracja Marysieńka - LIVE 4K - www.starysacz.info"
       },
@@ -9561,12 +9555,7 @@
     "id": "UCTswPwHj4IbS0iyIewMjbnQ",
     "handle": "@mehamnnet",
     "name": "Mehamn net",
-    "videos": [
-      {
-        "id": "2D8hhRDEzwY",
-        "title": "Mehamn.net Webkamera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCTxbcyVwno_EieQpV_fsyCw",
@@ -10809,12 +10798,7 @@
     "id": "UC_uoRuoMCFudYHHg9SlWbQw",
     "handle": "@ATCCommunications",
     "name": "ATCCommunications",
-    "videos": [
-      {
-        "id": "uM-oftYVFGA",
-        "title": "Pomerelle Mountain Ski Resort Webcam - Hosted by ATC Communications Fiber Internet"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCa1XvGj-yhiLLC5fVFKfXJQ",
@@ -12801,10 +12785,6 @@
         "title": "Bullwheel Live Webcam"
       },
       {
-        "id": "S3hpb7nnoFI",
-        "title": "East Summit Live Webcam"
-      },
-      {
         "id": "YcQT1a6K1Mo",
         "title": "West Base Live Webcam"
       },
@@ -13175,12 +13155,7 @@
     "id": "UCj-Xm8j6WBgKY8OG7s9r2vQ",
     "handle": "@RailCowGirl",
     "name": "RailCowGirl",
-    "videos": [
-      {
-        "id": "tAWFO8_O_7M",
-        "title": "The Best Of Norway's Railway WINTER Cab Views"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCj0TppyxzQWm9JbMg3CP8Rg",
@@ -15430,16 +15405,7 @@
     "id": "UCp1ojgNJ8mNWdMDsdcMRA2Q",
     "handle": "@StGeorgeTower",
     "name": "St. George Tower",
-    "videos": [
-      {
-        "id": "gKF1tTMubuM",
-        "title": "Live NYC Brooklyn Bridge & Manhattan cam"
-      },
-      {
-        "id": "fJLVeqeTiso",
-        "title": "Live NYC Lower Manhattan & New York Harbor Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCp2wwvvhIxKlh44p7tH-s_w",
@@ -17678,10 +17644,6 @@
     "handle": "@FSTNET-ro9cc",
     "name": "F.S.T. NET",
     "videos": [
-      {
-        "id": "QebZJ1rNm3I",
-        "title": "大阪ライブカメラ  大阪・泉北郡忠岡町【LIVE】海上レストラン／Grill Cafe Excellent ＆ エクセロンマリン｜海・桟橋・マリーナの様子を24時間ライブ配信"
-      },
       {
         "id": "aVAO2wSUsPo",
         "title": "大阪ライブカメラ　【LIVE】大阪・心斎橋　（長堀通り交差）新橋交差点　F.S.T.NET提供　高感度・高画質ライブカメラ"
