@@ -102,12 +102,6 @@
     "date": "2026-03-23"
   },
   {
-    "id": "UCAphsmhYyvZDI7s67XM5l0A",
-    "handle": "@RioWorldLiveCam",
-    "name": "Rio World Live Cam",
-    "date": "2026-03-24"
-  },
-  {
     "id": "UCBjzM0ZW12Z8bggEORo8oBQ",
     "handle": "@cityofheraklion",
     "name": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
@@ -118,18 +112,6 @@
     "handle": "@castrostreetcam2549",
     "name": "Castro Street Cam 2",
     "date": "2026-03-24"
-  },
-  {
-    "id": "UCy8rlPU5XOFxn2nk5VUpaeA",
-    "handle": "@confederationbridge5244",
-    "name": "Confederation Bridge",
-    "date": "2026-03-24"
-  },
-  {
-    "id": "UC2ne-RCxu_3zf0DrW4uWP9w",
-    "handle": "@milhouse23",
-    "name": "mil_house23 (mil_house23)",
-    "date": "2026-03-25"
   },
   {
     "id": "UC4Wd3aS1XKA39dCveZExSkg",
@@ -162,9 +144,21 @@
     "date": "2026-03-25"
   },
   {
-    "id": "UCEv-PRGxCqlI71jTUrou9uw",
-    "handle": "@Martigny-Bourg.webcams",
-    "name": "Martigny-Bourg Live Streaming",
+    "id": "UCiV1SWx0DV0y9Id-Vjd4JEA",
+    "handle": "@meteoestrela",
+    "name": "Meteoestrela Serra da Estrela",
+    "date": "2026-03-25"
+  },
+  {
+    "id": "UCm9zLeJlfz7jRT_6vff70_w",
+    "handle": "@AirportAction",
+    "name": "Airport Action",
+    "date": "2026-03-25"
+  },
+  {
+    "id": "UCoGAnM2Ek-KVDEQiyuN_XGg",
+    "handle": "@Bouwwebcam",
+    "name": "Bouwwebcam.nl - WebcamPro BV",
     "date": "2026-03-25"
   },
   {
