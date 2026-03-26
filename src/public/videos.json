@@ -1840,6 +1840,10 @@
     "name": "Associated Press",
     "videos": [
       {
+        "id": "6McyjCn_oSo",
+        "title": "LIVE: Trump delivers remarks at Greek Independence Day celebration"
+      },
+      {
         "id": "n5HlqOKGEwU",
         "title": "LIVE: Rep. Sheila Cherfilus-McCormick faces rare public hearing on ethics charges"
       },
@@ -2583,6 +2587,10 @@
     "handle": "@earthcam",
     "name": "EarthCam",
     "videos": [
+      {
+        "id": "58Lx2eLT1ig",
+        "title": "EarthCam Live:  Wildwoods Cam (Wildwood, NJ)"
+      },
       {
         "id": "QHUNW6pVNIk",
         "title": "EarthCam Live:  Wrigley Field Opening Day (Chicago, IL)"
@@ -3639,7 +3647,12 @@
     "id": "UC8t7FI3O7_NV9ucGWKz2D4Q",
     "handle": "@finescape9925",
     "name": "FineScape",
-    "videos": []
+    "videos": [
+      {
+        "id": "n3B8fp-Henc",
+        "title": "Tokyo Odaiba Live Camera 東京 お台場 ライブカメラ 配信"
+      }
+    ]
   },
   {
     "id": "UC99NqD52qM484Bsu40UuBgQ",
@@ -4905,10 +4918,6 @@
       {
         "id": "teXDTql4PEg",
         "title": "Webcam Monheim am Rhein 40789 Monheim Mitte"
-      },
-      {
-        "id": "lSCDyUCDuv0",
-        "title": "Webcam Monheim am Rhein 40789 Monheim Mitte"
       }
     ]
   },
@@ -5038,12 +5047,7 @@
     "id": "UCDAHA3f1RMYenm_lFgqjDXQ",
     "handle": "@fort-mahonplage-lawebcam1332",
     "name": "Fort-Mahon plage - La webcam",
-    "videos": [
-      {
-        "id": "dLLHgCHpY6E",
-        "title": "Fort-Mahon Plage - Webcam en direct 4K"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDB_gbIJPzzT7xg__hSfqSw",
@@ -5076,7 +5080,16 @@
     "id": "UCDDsYIl-_S2mtI1wlVU1VFw",
     "handle": "@CityofBettendorfIowa",
     "name": "City of Bettendorf, Iowa",
-    "videos": []
+    "videos": [
+      {
+        "id": "8Rp5JRSQOvk",
+        "title": "Bettendorf View of the I-74 Mississippi River Bridge"
+      },
+      {
+        "id": "OcJm3FjEeMY",
+        "title": "Bettendorf Duck Creek Web Camera"
+      }
+    ]
   },
   {
     "id": "UCDKFXJj-c-CL7dLBbLBs4ew",
@@ -5637,7 +5650,12 @@
     "id": "UCFbd69s_b63mA7qvpnG6U8Q",
     "handle": "@news8nowcitycam282",
     "name": "News 8 Now City Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "Jbx6mvYR7A4",
+        "title": "News 8 Now City Cam Live Stream"
+      }
+    ]
   },
   {
     "id": "UCFxb1RXdYBFqM7a_8GlfxMQ",
@@ -7056,7 +7074,7 @@
     "name": "Live Cam Del Rio-Acuña",
     "videos": [
       {
-        "id": "DtztQ9IuZ08",
+        "id": "h_fd0SiTZlM",
         "title": "🔴Macroplaza Live Cam / Live Music  ♫ Cd. Acuña, México"
       },
       {
@@ -7868,7 +7886,12 @@
     "id": "UCNZCKDhAVtbh7sddChTxI7w",
     "handle": "@SBGRLIVE",
     "name": "SBGR LIVE",
-    "videos": []
+    "videos": [
+      {
+        "id": "EM-qcDCOmbU",
+        "title": "SBGR LIVE 4K - Aeroporto Internacional de Guarulhos AO VIVO - GRU Airport"
+      }
+    ]
   },
   {
     "id": "UCNfSLmqoe1-kVs0aIsw13fg",
@@ -9842,10 +9865,6 @@
     "name": "WSMV 4 Nashville",
     "videos": [
       {
-        "id": "ABh0QNfnICc",
-        "title": "First Alert Weather: Record heat, National Weather Service and modern tech"
-      },
-      {
         "id": "jDZSTsuyzoc",
         "title": "Nolensville"
       },
@@ -10153,40 +10172,7 @@
     "id": "UCXtzCdsTkuBWIrOSuMNvANQ",
     "handle": "@livefromireland",
     "name": "LivefromIreland - Live Streaming Webcams",
-    "videos": [
-      {
-        "id": "GVdzGoWknWg",
-        "title": "Live Webcam Cabra Road Dublin Ireland  (Facing East)"
-      },
-      {
-        "id": "SzLISutsDTs",
-        "title": "Live Webcam Cabra Dublin Ireland (Facing Nth West)"
-      },
-      {
-        "id": "Im21t0JkJ1U",
-        "title": "The Paddocks Riding Centre Live Webcam Dublin Ireland."
-      },
-      {
-        "id": "h5rt6oSZOak",
-        "title": "Mountjoy Street Live Webcam Dublin Ireland"
-      },
-      {
-        "id": "g1r59JJqY60",
-        "title": "Live Webcam Collins Avenue Dublin Ireland"
-      },
-      {
-        "id": "hG9WevRhP_s",
-        "title": "The Brian Boru Pub Live Webcam Glasnevin Dublin Ireland"
-      },
-      {
-        "id": "KpZ8vteYNOw",
-        "title": "North Circular Road Live Webcam (Facing North West)"
-      },
-      {
-        "id": "Fbm5c19rg7I",
-        "title": "The Brian Boru Pub Live Webcam Glasnevin Dublin Ireland"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCY8S0Pa6lQKzvlrY87ki6sQ",
@@ -10284,7 +10270,12 @@
     "id": "UCYIDC8uaWwWoYTgrSWP-_GA",
     "handle": "@SatelliteBeachLive",
     "name": "SatelliteBeachLive",
-    "videos": []
+    "videos": [
+      {
+        "id": "0bv7YxPWRdw",
+        "title": "🔴 LIVE Florida Cams | Satellite Beach Grand Canal  #satellitebeach #livestream  #florida"
+      }
+    ]
   },
   {
     "id": "UCYIYTY6_2jB145WxIYdyR1A",
@@ -10570,68 +10561,7 @@
     "id": "UC_FuR9GFVJE2A8H02sQmHWw",
     "handle": "@UmbriaWebcam",
     "name": "Umbria Webcam",
-    "videos": [
-      {
-        "id": "Nrbz5ZkFL6U",
-        "title": "🔴Todi Live Webcam"
-      },
-      {
-        "id": "Bc_bgHNApZ8",
-        "title": "🔴Gualdo Tadino Live Webcam"
-      },
-      {
-        "id": "qxdMeCFIW6c",
-        "title": "🔴Bastia Umbra Live Webcam"
-      },
-      {
-        "id": "tVAcccd0vVo",
-        "title": "🔴Lago Trasimeno Live Webcam"
-      },
-      {
-        "id": "mBs2lOPdkMo",
-        "title": "🔴Montefalco Live Webcam"
-      },
-      {
-        "id": "1Ho6SNEiOlk",
-        "title": "🔴Assisi Live Webcam Città"
-      },
-      {
-        "id": "4cqPDoX6uws",
-        "title": "🔴Assisi Live Webcam Piazza San Rufino"
-      },
-      {
-        "id": "8TZ8YRt9nYc",
-        "title": "🔴Perugia Live Webcam"
-      },
-      {
-        "id": "70IILKHbPQI",
-        "title": "🔴Spello Live Webcam"
-      },
-      {
-        "id": "FeAZyuvghVY",
-        "title": "🔴Lago di Piediluco Live Webcam"
-      },
-      {
-        "id": "CkNeltsc5ps",
-        "title": "🔴Assisi Live Webcam Piazza del Comune"
-      },
-      {
-        "id": "tUPmbZqrC6I",
-        "title": "🔴Gubbio Live Webcam"
-      },
-      {
-        "id": "5ka3YhVZgME",
-        "title": "🔴Assisi Live Webcam Basilica di San Francesco"
-      },
-      {
-        "id": "PfBPe5Jfzxo",
-        "title": "🔴Bevagna Live Webcam"
-      },
-      {
-        "id": "y7QcpQwxHrA",
-        "title": "🔴Orvieto Live Webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC_JkC_sNaRfTrbRw9_b2QoA",
@@ -11533,7 +11463,20 @@
     "id": "UCdEfImN2pVE1bfdiC1Dy0hw",
     "handle": "@jubileeyachtclub5669",
     "name": "Jubilee Yacht Club",
-    "videos": []
+    "videos": [
+      {
+        "id": "DI9laE9ufAM",
+        "title": "Jubilee Yacht Club Webcam South East"
+      },
+      {
+        "id": "5Vf5cSVHtQA",
+        "title": "Jubilee Yacht Club Dockside South"
+      },
+      {
+        "id": "ZlmEdBfHqsM",
+        "title": "Jubilee Yacht Club Webcam Southwest"
+      }
+    ]
   },
   {
     "id": "UCdHxsCH18XWh4RMt9oDHMyg",
@@ -13214,7 +13157,76 @@
     "id": "UCjasbMOPUeXxvKeqzTmq6SA",
     "handle": "@sanmarcostrafficcameras5045",
     "name": "San Marcos, TX Traffic Cameras",
-    "videos": []
+    "videos": [
+      {
+        "id": "8NrddOWEf1k",
+        "title": "Wonder World Drive @ Hunter Road"
+      },
+      {
+        "id": "qRYILPnsOns",
+        "title": "Hopkins@Charles Austin"
+      },
+      {
+        "id": "tDFokEet4Ys",
+        "title": "Hopkins@LBJ"
+      },
+      {
+        "id": "0hhjsyXRHGA",
+        "title": "Post @ Uhland"
+      },
+      {
+        "id": "Qj6osxu6XVI",
+        "title": "Hopkins Street @ Moore Street"
+      },
+      {
+        "id": "MUQJubAnBmI",
+        "title": "SH123@Broadway"
+      },
+      {
+        "id": "v6USKejtl_k",
+        "title": "Thorpe @ Robbie"
+      },
+      {
+        "id": "bYd6ChdCblg",
+        "title": "Aquarena Springs @Thorpe"
+      },
+      {
+        "id": "fiUqVsMR8z4",
+        "title": "Aquarena Spring @ Charles Austin"
+      },
+      {
+        "id": "MYNXvJGw0NE",
+        "title": "Aquarena Springs Drive @ Post Road"
+      },
+      {
+        "id": "xdWLJzOlMUI",
+        "title": "Hopkins_Thorpe"
+      },
+      {
+        "id": "wMsY4Sj9ljg",
+        "title": "Sessom @ Comanche"
+      },
+      {
+        "id": "N26hFIoFUx0",
+        "title": "Centerpoint Road @ Outlet Mall"
+      },
+      {
+        "id": "xaWNXMnrNcw",
+        "title": "IH 35 @ Centerpoint Road"
+      },
+      {
+        "id": "4Uwmss-8J5I",
+        "title": "IH 35 @ Wonder World Drive"
+      },
+      {
+        "id": "S_o0_F9BiuY",
+        "title": "Aquarena Springs Drive @ Sessom Drive"
+      },
+      {
+        "id": "E8LsKcVpL5A",
+        "title": "Hopkins Street @ Guadalupe Street"
+      }
+    ]
   },
   {
     "id": "UCjc3XanPPTV1Ar1ec6ElXTg",
@@ -13286,7 +13298,12 @@
     "id": "UCjeImUhRB1SLqN-svqDRJJw",
     "handle": "@radiopowertv",
     "name": "Power Pinamar",
-    "videos": []
+    "videos": [
+      {
+        "id": "q3aVOvYAfdg",
+        "title": "PINAMAR PLAYA EN VIVO: Cámaras Pinamar - Valeria del Mar - Carilo - BUENOS AIRES - ARGENTINA AHORA"
+      }
+    ]
   },
   {
     "id": "UCjgiKi29C--6aW3pgn0l5JA",
@@ -14210,12 +14227,7 @@
     "id": "UCmXB98lpzelFrlryV2llXUQ",
     "handle": "@OxMartinSchool",
     "name": "Oxford Martin School",
-    "videos": [
-      {
-        "id": "-FguEt6H91s",
-        "title": "Oxford Martin School Webcam - Broad Street, Oxford"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCmYXN0dWONiJXXleAGV3qnA",
@@ -16086,7 +16098,12 @@
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
     "handle": "@HawickTV",
     "name": "Hawick TV",
-    "videos": []
+    "videos": [
+      {
+        "id": "T3CVBdkfpY8",
+        "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
+      }
+    ]
   },
   {
     "id": "UCqaZDUY_3goAaCsMLqVyJPw",
@@ -16156,12 +16173,7 @@
     "id": "UCrBd0lVRjlyT-uu0fcFihUw",
     "handle": "@LiveCamTrento-Opinione",
     "name": "Live Trento H24 - Piazza Duomo",
-    "videos": [
-      {
-        "id": "2K37L8xuHNA",
-        "title": "Trento live cam - centro città (Piazza Duomo)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCrGS8VyrgCqYwaogH5bQpxQ",
@@ -17989,12 +18001,7 @@
     "id": "UCxu_O8hfgSrtssrjTgwoETA",
     "handle": "@polanownet",
     "name": "polanow.net",
-    "videos": [
-      {
-        "id": "BiEQLXorysc",
-        "title": "Rondo w Polanowie na żywo"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxvYxKbb_9mUNxuLpJQgu5A",
