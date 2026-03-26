@@ -1840,6 +1840,10 @@
     "name": "Associated Press",
     "videos": [
       {
+        "id": "n5HlqOKGEwU",
+        "title": "LIVE: Rep. Sheila Cherfilus-McCormick faces rare public hearing on ethics charges"
+      },
+      {
         "id": "NLwA0vCnNA8",
         "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
       }
@@ -3635,12 +3639,7 @@
     "id": "UC8t7FI3O7_NV9ucGWKz2D4Q",
     "handle": "@finescape9925",
     "name": "FineScape",
-    "videos": [
-      {
-        "id": "n3B8fp-Henc",
-        "title": "Tokyo Odaiba Live Camera 東京 お台場 ライブカメラ 配信"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC99NqD52qM484Bsu40UuBgQ",
@@ -4081,7 +4080,7 @@
     "name": "Rio World Live Cam",
     "videos": [
       {
-        "id": "dGpPkNuBzE8",
+        "id": "-qId5PU7j9Y",
         "title": "Rio Live Cam - Copacabana Ao Vivo 26/03"
       }
     ]
@@ -4532,6 +4531,182 @@
       {
         "id": "lLiS9Q-plQ4",
         "title": "🔴 Santa Domenica Vittoria - Panoramica Etna nord"
+      },
+      {
+        "id": "UofEwnxqi0w",
+        "title": "🔴 Palermo live webcam - Panoramica Sferracavallo puntamento N/NW"
+      },
+      {
+        "id": "urILTTp2a1s",
+        "title": "🔴 Stretto di Messina live webcam - Panoramica da Messina sud, Larderia"
+      },
+      {
+        "id": "dCskalJHY5s",
+        "title": "🔴 Santa Domenica Vittoria live webcam - Panoramica Etna nord"
+      },
+      {
+        "id": "7wXfC6gCC1g",
+        "title": "🔴 Marina di Patti live webcam - Panoramica Isole Eolie"
+      },
+      {
+        "id": "4gsV35xdDBg",
+        "title": "🔴 Marina di Patti live webcam - Panoramica 360°"
+      },
+      {
+        "id": "VVC8nZrxEdA",
+        "title": "🔴 Piano Battaglia live webcam, Madonie - Panoramica Monte Mufara"
+      },
+      {
+        "id": "aeDFPLoCOX0",
+        "title": "🔴 Piano Battaglia live webcam, Madonie - Panoramica Battaglietta"
+      },
+      {
+        "id": "KB3f4zmkqcM",
+        "title": "🔴 Zafferana Etnea, Etna est live webcam - Panoramica da Villa Mirador"
+      },
+      {
+        "id": "-MYeXjZ5N7Q",
+        "title": "🔴 Montagna Longa live webcam - Panoramica golfo di Castellammare WNW"
+      },
+      {
+        "id": "X7K8IreZ5nw",
+        "title": "🔴 Palermo live webcam - Panoramica Cattedrale"
+      },
+      {
+        "id": "LotXKRPrxMY",
+        "title": "🔴 Patti Marina live webcam  - Panoramica sud-ovest"
+      },
+      {
+        "id": "O3-KWNc1VQw",
+        "title": "🔴 Palermo live webcam - Panoramica Teatro Massimo"
+      },
+      {
+        "id": "o7vd4LyX7N0",
+        "title": "🔴 Altavilla Milicia live webcam - Panoramica Nord-Est"
+      },
+      {
+        "id": "NpCnfkANUcc",
+        "title": "🔴 Scopello live webcam - Panoramica Tonnara/Faraglioni da Hotel Torre Bennistra"
+      },
+      {
+        "id": "PJk3kjdp1o8",
+        "title": "🔴 Altavilla Milicia live webcam - Panoramica W-NW"
+      },
+      {
+        "id": "VvNTPueYZb8",
+        "title": "🔴 Altavilla Milicia live webcam - Santuario Madonna della Milicia"
+      },
+      {
+        "id": "cyweR1Cbsyo",
+        "title": "🔴 Licata live webcam - Panoramica Paese"
+      },
+      {
+        "id": "JFApyEhaNTY",
+        "title": "🔴 Aragona live webcam - Panoramica Sud-Est"
+      },
+      {
+        "id": "8zqlKd55uUg",
+        "title": "🔴 Piano Battaglia live webcam, Madonie  - Panoramica dal Rifugio Grifone"
+      },
+      {
+        "id": "ruZnEgtF6w0",
+        "title": "🔴 Baucina live webcam - Panoramica Est"
+      },
+      {
+        "id": "RVpfju4NYLY",
+        "title": "🔴 Ciminna live webcam - Panoramica nord-est"
+      },
+      {
+        "id": "ThX2Znx9zZY",
+        "title": "🔴 Etna sud live webcam - Panoramica Piazzale Rifugio Sapienza"
+      },
+      {
+        "id": "E9cfl3pbf0s",
+        "title": "🔴 Giacalone live webcam  - Panoramica Pizzo Mirabella"
+      },
+      {
+        "id": "s33QEel5zQo",
+        "title": "🔴 Etna Nord, Piano Provenzana live webcam - Panoramica dalla Capannetta/EtnaSci"
+      },
+      {
+        "id": "E2FRMPMI6Uk",
+        "title": "🔴 Castellammare del Golfo live webcam - Panoramica porticciolo da Hotel Cala Marina"
+      },
+      {
+        "id": "PEcs1ghWkaM",
+        "title": "🔴 Capo d'Orlando live webcam - Panoramica Scafa e isole Eolie"
+      },
+      {
+        "id": "5il60X79-BU",
+        "title": "🔴 Etna Nord, Piano Provenzana live webcam - Panoramica Cratere di nord-est, Pizzi Deneri"
+      },
+      {
+        "id": "6zqCk7GNZPY",
+        "title": "🔴 Fornazzo live webcam - Panoramica Etna Est"
+      },
+      {
+        "id": "cM0BH4GFzeE",
+        "title": "🔴 Caccamo live webcam - Panoramica monte Cane e Lago Rosamarina"
+      },
+      {
+        "id": "DQWbvWOjd6E",
+        "title": "🔴 Capaci live webcam - Panoramica nord-ovest"
+      },
+      {
+        "id": "6O_DUVDtaU8",
+        "title": "🔴 Capaci live webcam  Panoramica Autostrada A29 Isola delle Femmine (N/NE)"
+      },
+      {
+        "id": "R5hM2OxYJx8",
+        "title": "🔴 Floresta live webcam -  Panoramica nord-est"
+      },
+      {
+        "id": "8HDCHNa629A",
+        "title": "🔴 Carini live webcam -  Panoramica nord"
+      },
+      {
+        "id": "Ho5zY2E-nl4",
+        "title": "🔴 Barcellona Pozzo di Gotto live webcam - Panoramica Isole Eolie"
+      },
+      {
+        "id": "Doe9FRPlCC4",
+        "title": "🔴 Isnello live webcam - Panoramica Osservatorio Astronomico Gal Hassin puntamento N-NE"
+      },
+      {
+        "id": "9b0_8qtcNas",
+        "title": "🔴 Capaci live webcam - Panoramica Torretta (Sud/Sud-ovest)"
+      },
+      {
+        "id": "zM2WfnI-RlM",
+        "title": "🔴 Palermo live webcam -  Panoramica sud-ovest"
+      },
+      {
+        "id": "2E34KkEWqGw",
+        "title": "🔴 Portella Femmina Morta live webcam, Nebrodi - Panoramica Villa Miraglia"
+      },
+      {
+        "id": "5DwHIulNcSY",
+        "title": "🔴 Termini imerese live webcam - Panoramica Madonie"
+      },
+      {
+        "id": "fp9Y6shE7vQ",
+        "title": "🔴 Termini imerese live webcam - Panoramica Monte San Calogero"
+      },
+      {
+        "id": "pO2zFFeqiMo",
+        "title": "🔴 Nunziata di Mascali live webcam - Panoramica Etna est"
+      },
+      {
+        "id": "vMFRk8l7q5E",
+        "title": "🔴 Oasi della Speranza live webcam - Panoramica Nord"
+      },
+      {
+        "id": "bN8r8sk7d4s",
+        "title": "🔴 Floresta live webcam - Panoramica Etna nord"
+      },
+      {
+        "id": "Ia2EBSG6aXQ",
+        "title": "🔴 Santo Stefano Quisquina live webcam - Panoramica Monti Sicani"
       }
     ]
   },
@@ -4713,8 +4888,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "INufraaWTmM",
-        "title": "【 Archive】 2026-03-27『00:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "7Is6_0HiCuE",
+        "title": "【 Archive】 2026-03-27『03:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -4727,6 +4902,10 @@
     "handle": "@WebcamMonheim",
     "name": "Webcam Monheim",
     "videos": [
+      {
+        "id": "teXDTql4PEg",
+        "title": "Webcam Monheim am Rhein 40789 Monheim Mitte"
+      },
       {
         "id": "lSCDyUCDuv0",
         "title": "Webcam Monheim am Rhein 40789 Monheim Mitte"
@@ -4897,16 +5076,7 @@
     "id": "UCDDsYIl-_S2mtI1wlVU1VFw",
     "handle": "@CityofBettendorfIowa",
     "name": "City of Bettendorf, Iowa",
-    "videos": [
-      {
-        "id": "8Rp5JRSQOvk",
-        "title": "Bettendorf View of the I-74 Mississippi River Bridge"
-      },
-      {
-        "id": "OcJm3FjEeMY",
-        "title": "Bettendorf Duck Creek Web Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDKFXJj-c-CL7dLBbLBs4ew",
@@ -5467,12 +5637,7 @@
     "id": "UCFbd69s_b63mA7qvpnG6U8Q",
     "handle": "@news8nowcitycam282",
     "name": "News 8 Now City Cam",
-    "videos": [
-      {
-        "id": "Jbx6mvYR7A4",
-        "title": "News 8 Now City Cam Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCFxb1RXdYBFqM7a_8GlfxMQ",
@@ -5950,7 +6115,12 @@
     "id": "UCHLcaDrJQkesqdu2IpwGRoA",
     "handle": "@TheKOCup",
     "name": "The KO Cup",
-    "videos": []
+    "videos": [
+      {
+        "id": "iervJNUO4eE",
+        "title": "Live Boxing Training and Sparring in support of Help for Heroes"
+      }
+    ]
   },
   {
     "id": "UCHZoP1Jy-g_h3sqzScrOEwQ",
@@ -7393,7 +7563,16 @@
     "id": "UCM54h2kw7FsKMNPGDWPLy7w",
     "handle": "@kaparkonaoriginal",
     "name": "Kap Arkona",
-    "videos": []
+    "videos": [
+      {
+        "id": "s5OyWNOuDQE",
+        "title": "Livecam 2 | Kap Arkona | Insel Rügen"
+      },
+      {
+        "id": "6G4_xtIDgy8",
+        "title": "Livecam 1 | Kap Arkona | Insel Rügen"
+      }
+    ]
   },
   {
     "id": "UCMBWDPHTwn0NTN-a4imOrIA",
@@ -7689,12 +7868,7 @@
     "id": "UCNZCKDhAVtbh7sddChTxI7w",
     "handle": "@SBGRLIVE",
     "name": "SBGR LIVE",
-    "videos": [
-      {
-        "id": "EM-qcDCOmbU",
-        "title": "SBGR LIVE 4K - Aeroporto Internacional de Guarulhos AO VIVO - GRU Airport"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCNfSLmqoe1-kVs0aIsw13fg",
@@ -7950,7 +8124,12 @@
     "id": "UCOsw8Of0n0JFV-nbnAmDizw",
     "handle": "@fukuoka-airport-live",
     "name": "Fukuoka Airport Live Camera",
-    "videos": []
+    "videos": [
+      {
+        "id": "cTD7nITGhE0",
+        "title": "【LIVE】✈️福岡空港ライブカメラ Fukuoka Airport Live Camera 24/7"
+      }
+    ]
   },
   {
     "id": "UCOuon1wAskHRf0z-MiU3auw",
@@ -8234,7 +8413,12 @@
     "id": "UCPdDNVBL_WBd6X2Wt8DuIDA",
     "handle": "@LazyDaysIslamorada",
     "name": "Lazy Days Islamorada",
-    "videos": []
+    "videos": [
+      {
+        "id": "Bxy3g5WfYbg",
+        "title": "🔴 LIVE Lazy Days Islamorada Florida"
+      }
+    ]
   },
   {
     "id": "UCPp3S_agEGIvcEe9NynOjPw",
@@ -8306,7 +8490,16 @@
     "id": "UCQLT4LXXR7FZM0J6u62hwyQ",
     "handle": "@yllasskisouth",
     "name": "Ylläs Ski Resort, Ylläsjärvi",
-    "videos": []
+    "videos": [
+      {
+        "id": "5Oda5wfGpvw",
+        "title": "Ylläs Ski Resort – Huippukamera LIVE"
+      },
+      {
+        "id": "PeLTbbI2i6U",
+        "title": "Ylläs Ski Resort | Gondolin ala-asema"
+      }
+    ]
   },
   {
     "id": "UCQVre66peaZxhdvfIE1Ahxw",
@@ -9649,6 +9842,10 @@
     "name": "WSMV 4 Nashville",
     "videos": [
       {
+        "id": "ABh0QNfnICc",
+        "title": "First Alert Weather: Record heat, National Weather Service and modern tech"
+      },
+      {
         "id": "jDZSTsuyzoc",
         "title": "Nolensville"
       },
@@ -9843,7 +10040,12 @@
     "id": "UCXCRtOlf5p2fQnaWCrKigTA",
     "handle": "@viviendasvacacionalescante8718",
     "name": "Viviendas Vacacionales Canteras Vista Playa",
-    "videos": []
+    "videos": [
+      {
+        "id": "hMmMXFIw-7c",
+        "title": "Viviendas vacacionales Canteras Vista Playa"
+      }
+    ]
   },
   {
     "id": "UCXN7rPhZK6Rp8lMhvpSri_Q",
@@ -10082,12 +10284,7 @@
     "id": "UCYIDC8uaWwWoYTgrSWP-_GA",
     "handle": "@SatelliteBeachLive",
     "name": "SatelliteBeachLive",
-    "videos": [
-      {
-        "id": "0bv7YxPWRdw",
-        "title": "🔴 LIVE Florida Cams | Satellite Beach Grand Canal  #satellitebeach #livestream  #florida"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCYIYTY6_2jB145WxIYdyR1A",
@@ -10237,10 +10434,6 @@
     "handle": "@egmondaanzee",
     "name": "WebcamEgmond",
     "videos": [
-      {
-        "id": "KD2qKlHkQFA",
-        "title": "🔴 Egmond aan Zee LIVE Weerstation – Wind & Temp Nu"
-      },
       {
         "id": "KkwkJse_63A",
         "title": "🔴 Live Webcam & Weer – Egmond aan Zee | Actuele beelden van het strand en weerstation 🌊☀️"
@@ -10856,7 +11049,16 @@
     "id": "UCaw1OHjIhEgo2yaraJb4nWg",
     "handle": "@systemnorge",
     "name": "System Norge AS",
-    "videos": []
+    "videos": [
+      {
+        "id": "kEIRLz4DXng",
+        "title": "Koløys Hytteutleie - Live fra Halsnøy"
+      },
+      {
+        "id": "G84oDxGqoPQ",
+        "title": "Fjordferie - Live from Sæbøvik"
+      }
+    ]
   },
   {
     "id": "UCayE6-RHoYoIcnqp36o4Rjg",
@@ -11331,26 +11533,22 @@
     "id": "UCdEfImN2pVE1bfdiC1Dy0hw",
     "handle": "@jubileeyachtclub5669",
     "name": "Jubilee Yacht Club",
-    "videos": [
-      {
-        "id": "DI9laE9ufAM",
-        "title": "Jubilee Yacht Club Webcam South East"
-      },
-      {
-        "id": "5Vf5cSVHtQA",
-        "title": "Jubilee Yacht Club Dockside South"
-      },
-      {
-        "id": "ZlmEdBfHqsM",
-        "title": "Jubilee Yacht Club Webcam Southwest"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCdHxsCH18XWh4RMt9oDHMyg",
     "handle": "@KevinLandsbergen",
     "name": "Kevin Landsbergen",
-    "videos": []
+    "videos": [
+      {
+        "id": "whlnez2Mmpg",
+        "title": "Renesse aan Zee | Haven van Renesse"
+      },
+      {
+        "id": "EH6GNSEvmQE",
+        "title": "Renesse aan Zee | Zuid Zuid West"
+      }
+    ]
   },
   {
     "id": "UCdLE2nyW8fg3hh9Pogq824g",
@@ -11833,10 +12031,6 @@
     "name": "Town of Hanover, Massachusetts",
     "videos": [
       {
-        "id": "kYoKpFFlDF4",
-        "title": "Live: Hanover Middle School 2026 Science Fair Awards 3/26/26"
-      },
-      {
         "id": "yXfcL7DqlR4",
         "title": "Hanover, Massachusetts Town Center Live Cam"
       }
@@ -12155,7 +12349,12 @@
     "id": "UCgDSg8kDhdOO3xwAJ_svtaA",
     "handle": "@friendsofmidwayatollnwr8166",
     "name": "Friends of Midway Atoll NWR",
-    "videos": []
+    "videos": [
+      {
+        "id": "L3iKvwoXZ38",
+        "title": "Midway Atoll NWR Wildlife Live Camera"
+      }
+    ]
   },
   {
     "id": "UCgEQLYeJz2EZNQ9jWzNxfng",
@@ -12937,6 +13136,10 @@
     "name": "CGTN Europe",
     "videos": [
       {
+        "id": "Bzlxb-o88zU",
+        "title": "LIVE: Washington D.C.'s famed cherry blossoms approach peak bloom"
+      },
+      {
         "id": "ptMxGBPc61E",
         "title": "LIVE: Rescue teams in northern Germany work to refloat a humpback whale stranded"
       },
@@ -13011,76 +13214,7 @@
     "id": "UCjasbMOPUeXxvKeqzTmq6SA",
     "handle": "@sanmarcostrafficcameras5045",
     "name": "San Marcos, TX Traffic Cameras",
-    "videos": [
-      {
-        "id": "8NrddOWEf1k",
-        "title": "Wonder World Drive @ Hunter Road"
-      },
-      {
-        "id": "qRYILPnsOns",
-        "title": "Hopkins@Charles Austin"
-      },
-      {
-        "id": "tDFokEet4Ys",
-        "title": "Hopkins@LBJ"
-      },
-      {
-        "id": "0hhjsyXRHGA",
-        "title": "Post @ Uhland"
-      },
-      {
-        "id": "Qj6osxu6XVI",
-        "title": "Hopkins Street @ Moore Street"
-      },
-      {
-        "id": "MUQJubAnBmI",
-        "title": "SH123@Broadway"
-      },
-      {
-        "id": "v6USKejtl_k",
-        "title": "Thorpe @ Robbie"
-      },
-      {
-        "id": "bYd6ChdCblg",
-        "title": "Aquarena Springs @Thorpe"
-      },
-      {
-        "id": "fiUqVsMR8z4",
-        "title": "Aquarena Spring @ Charles Austin"
-      },
-      {
-        "id": "MYNXvJGw0NE",
-        "title": "Aquarena Springs Drive @ Post Road"
-      },
-      {
-        "id": "xdWLJzOlMUI",
-        "title": "Hopkins_Thorpe"
-      },
-      {
-        "id": "wMsY4Sj9ljg",
-        "title": "Sessom @ Comanche"
-      },
-      {
-        "id": "N26hFIoFUx0",
-        "title": "Centerpoint Road @ Outlet Mall"
-      },
-      {
-        "id": "xaWNXMnrNcw",
-        "title": "IH 35 @ Centerpoint Road"
-      },
-      {
-        "id": "4Uwmss-8J5I",
-        "title": "IH 35 @ Wonder World Drive"
-      },
-      {
-        "id": "S_o0_F9BiuY",
-        "title": "Aquarena Springs Drive @ Sessom Drive"
-      },
-      {
-        "id": "E8LsKcVpL5A",
-        "title": "Hopkins Street @ Guadalupe Street"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCjc3XanPPTV1Ar1ec6ElXTg",
@@ -13152,12 +13286,7 @@
     "id": "UCjeImUhRB1SLqN-svqDRJJw",
     "handle": "@radiopowertv",
     "name": "Power Pinamar",
-    "videos": [
-      {
-        "id": "q3aVOvYAfdg",
-        "title": "PINAMAR PLAYA EN VIVO: Cámaras Pinamar - Valeria del Mar - Carilo - BUENOS AIRES - ARGENTINA AHORA"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCjgiKi29C--6aW3pgn0l5JA",
@@ -14421,7 +14550,12 @@
     "id": "UCncqAXYYeVTwM2KwynoGJmg",
     "handle": "@DurangoMe",
     "name": "Durango Dot Me",
-    "videos": []
+    "videos": [
+      {
+        "id": "PnuW0CYMq3o",
+        "title": "Live Siesta Motel Cactus Cam"
+      }
+    ]
   },
   {
     "id": "UCne6b1whLLhDRJ-IXWNWZbQ",
@@ -15952,12 +16086,7 @@
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
     "handle": "@HawickTV",
     "name": "Hawick TV",
-    "videos": [
-      {
-        "id": "wJoHU7atvlk",
-        "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCqaZDUY_3goAaCsMLqVyJPw",
@@ -17956,8 +18085,8 @@
     "name": "HANS NATURE CHANNEL",
     "videos": [
       {
-        "id": "UQgaDnX7FHU",
-        "title": "🦉 Tawny Owl Day Live | All 3 Chicks Here! 🐥 Did Dad Owl Deliver Last Night? YES, Huge Prey Stockpile"
+        "id": "2o9G0mHTM2U",
+        "title": "🦉 Tawny Owl Night Live | 3 Chicks to Feed! 🐥🐥 Will Dad Owl Hunt Enough Prey Tonight?"
       },
       {
         "id": "xLU1BuqezkA",
@@ -18360,7 +18489,12 @@
     "id": "UCzofN-7yLDKoPmh37yqMpiA",
     "handle": "@geovision3356",
     "name": "GeoVision Demonstration",
-    "videos": []
+    "videos": [
+      {
+        "id": "SfPJLSMuCQE",
+        "title": "[ Taiwan ] Live view demonstration : GV-BX2802"
+      }
+    ]
   },
   {
     "id": "UCzq2rnoZ4iC-30wYZkqRrGw",
