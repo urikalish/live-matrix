@@ -18,7 +18,44 @@
     "id": "UC-2KSeUU5SMCX6XLRD-AEvw",
     "handle": "@ExploreLiveNatureCams",
     "name": "Explore Live Nature Cams",
-    "videos": []
+    "videos": [
+      {
+        "id": "Fz6sl9YJZE0",
+        "title": "Underwater Manatee Cam At Homosassa Springs | Fall in love with the beloved sea cows! | explore.org"
+      },
+      {
+        "id": "GGIE1E-kaMQ",
+        "title": "Decorah Eagles - North Nest - 4k powered by EXPLORE.org"
+      },
+      {
+        "id": "Jng6h2xYapk",
+        "title": "Texas Wildlife in an Austin Backyard powered by EXPLORE.org"
+      },
+      {
+        "id": "g_L1Ay8P244",
+        "title": "Sloth TV powered by EXPLORE.org"
+      },
+      {
+        "id": "5e4lsEe4Vew",
+        "title": "International Wolf Center North Camera powered by EXPLORE.org"
+      },
+      {
+        "id": "DRxYSIoBusQ",
+        "title": "International Wolf Center South Camera powered by EXPLORE.org"
+      },
+      {
+        "id": "DHUnz4dyb54",
+        "title": "Tropical Reef Camera powered by EXPLORE.org"
+      },
+      {
+        "id": "-m_nQT62B4Y",
+        "title": "Kitten Rescue Cat Cam powered by EXPLORE.org"
+      },
+      {
+        "id": "RmmAzrAkKqI",
+        "title": "West End Bald Eagle Cam powered by EXPLORE.org"
+      }
+    ]
   },
   {
     "id": "UC-4gGSlTkiM77ZaSgk-e4_w",
@@ -251,12 +288,7 @@
     "id": "UC-dGHuK8OcC_WIWvNzxysag",
     "handle": "@LiveCamNatal",
     "name": "WebcamNatal",
-    "videos": [
-      {
-        "id": "AN3MIroAVuU",
-        "title": "PRAIA DE PONTA NEGRA AO VIVO! NATAL-RN / BRASIL - LIVE CAM NATAL"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-jBJkLN89AlQp6eeCNnnWg",
@@ -960,7 +992,12 @@
     "id": "UC2RkL2eATR1V6H8g4eNfA5Q",
     "handle": "@SISEArgentina",
     "name": "SISE Argentina®",
-    "videos": []
+    "videos": [
+      {
+        "id": "XAMrn080pEU",
+        "title": "Camaras en Vivo Puente General Belgrano - SISE Argentina®"
+      }
+    ]
   },
   {
     "id": "UC2Sk0aXLq3ADkH_USGPKT_Q",
@@ -1798,16 +1835,20 @@
     "name": "Associated Press",
     "videos": [
       {
+        "id": "NAIdtb8WTl8",
+        "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
+      },
+      {
+        "id": "WOXiwMdorss",
+        "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
+      },
+      {
         "id": "ptb_CEePeGs",
         "title": "iHeartRadio Music Awards 2026: LIVE from the red carpet"
       },
       {
         "id": "n5HlqOKGEwU",
         "title": "LIVE: Sheila Cherfilus-McCormick faces public hearing on ethics charges"
-      },
-      {
-        "id": "NLwA0vCnNA8",
-        "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
       }
     ]
   },
@@ -2533,12 +2574,7 @@
     "id": "UC6q_hfBThkGdmQ5Vb4kWjWA",
     "handle": "@FlightFocus365",
     "name": "Flight Focus 365",
-    "videos": [
-      {
-        "id": "kO0pA_5cOBw",
-        "title": "Heathrow Airport Live - Thursday 26th March 2026"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC6qrG3W8SMK0jior2olka3g",
@@ -2899,7 +2935,12 @@
     "id": "UC882xzhvQ53Cva8vym_RCRA",
     "handle": "@webcamhafenwestseite3594",
     "name": "Webcam Hafenwestseite #3",
-    "videos": []
+    "videos": [
+      {
+        "id": "I2Z2AJrR1xo",
+        "title": "Livestream Webcam aus Neustadt in Holstein - Hafenwestseite"
+      }
+    ]
   },
   {
     "id": "UC8HLYEGSvHBroUqZMcGaSHg",
@@ -4250,10 +4291,6 @@
       {
         "id": "4N3TdmffIMk",
         "title": "Općina Centar Sarajevo / Municipality Centar Sarajevo"
-      },
-      {
-        "id": "B_fNHrI2A-g",
-        "title": "Općina Centar Sarajevo / Municipality Centar Sarajevo"
       }
     ]
   },
@@ -4782,12 +4819,7 @@
     "id": "UCBjzM0ZW12Z8bggEORo8oBQ",
     "handle": "@cityofheraklion",
     "name": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
-    "videos": [
-      {
-        "id": "_Tt6PtrdDVs",
-        "title": "Live webcam - Πλατεία Ελ.Βενιζέλου - Ηράκλειο"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCBr4hy5JyHbSlRBYw57GzVA",
@@ -6335,7 +6367,12 @@
     "id": "UCIsPPwu9VefxZZ9tPYcQMmQ",
     "handle": "@shipm8",
     "name": "SHIPM8",
-    "videos": []
+    "videos": [
+      {
+        "id": "N3sX_1w0wsI",
+        "title": "Mijn Uitzending"
+      }
+    ]
   },
   {
     "id": "UCJ0y2sG32CqI5P-YMt_FCXg",
@@ -6929,16 +6966,7 @@
     "id": "UCJruZ-KPJM2oJgQgEyHOS_A",
     "handle": "@belleimagery2202",
     "name": "Belle Imagery",
-    "videos": [
-      {
-        "id": "FV6FjrNDfXI",
-        "title": "HM Novelties Cruise Ship Cam - Barbados Port - (24 HR Live)"
-      },
-      {
-        "id": "T7jHPxgz46M",
-        "title": "Barbados Live Airport Stream (BGI) - 24 HR"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCK7jUXn_Od2JaML2geUj65A",
@@ -9312,48 +9340,7 @@
     "id": "UCT4jEYvUdpdN9oUALaypGfQ",
     "handle": "@taitungamazing7249",
     "name": "Amazing Taitung 台東就醬玩",
-    "videos": [
-      {
-        "id": "BUJJaW0vkJs",
-        "title": "【4K】台東鯉魚山即時影像 Taitung Liyu (Carp) Mountain Live Camera"
-      },
-      {
-        "id": "LSkq-wHMxQY",
-        "title": "【4K】台東南橫埡口即時影像 Taitung Southern Cross-Island Yakou Live Camera"
-      },
-      {
-        "id": "6kUEK3LVrro",
-        "title": "【4K】台東池上天堂路即時影像 Taitung Chihshang Live Camera"
-      },
-      {
-        "id": "9QqBz3kNHis",
-        "title": "【4K】台東金崙大橋即時影像 Taitung Jinlun Bridge Live Camera"
-      },
-      {
-        "id": "TY4qQElcUrA",
-        "title": "【4K】台東華源曙光觀景台即時影像 Taitung Huayuan Live Camera"
-      },
-      {
-        "id": "D945F_dauls",
-        "title": "【4K】台東富岡漁港即時影像 Taitung Fugang Fishing Port Live Camera"
-      },
-      {
-        "id": "VqS_Y8ZCj6M",
-        "title": "【4K】台東杉原灣即時影像 Taitung Shanyuan Bay Live Camera"
-      },
-      {
-        "id": "Rsq95SQ26bY",
-        "title": "【4K】台東富山即時影像 Taitung Fushan Area Live Camera"
-      },
-      {
-        "id": "q3KJt-SZc2s",
-        "title": "【4K】Taitung Jinzun Live Camera in Taiwan | Realtime Sea/Surf Conditions | Surfing"
-      },
-      {
-        "id": "UCG1aXVO8H8",
-        "title": "【4K】Duoliang Train Station Live Camera in Taitung, Taiwan"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCT7oADZixDIEzbUtWFNA-QA",
@@ -9740,6 +9727,10 @@
       {
         "id": "2esxbRlwPJM",
         "title": "ABS秋田放送　お天気カメラ　秋田駅前（ABS's Weather Live Cameras in Akita station square ）"
+      },
+      {
+        "id": "gSlQ0ZQxVU8",
+        "title": "ABS秋田放送　お天気カメラ　秋田港（ABS's Weather Live Camera in the Akita Port of Akita city）"
       },
       {
         "id": "9g7-n8UaE1s",
@@ -10773,12 +10764,7 @@
     "id": "UCaEdUtLbgjtDdfZfDYCllXQ",
     "handle": "@PraiaItanhaem",
     "name": "Itanhaém Praia",
-    "videos": [
-      {
-        "id": "Ft1yxRM6_5Y",
-        "title": "Praia dos sonhos - Itanhaém SP.       PRAIA AO VIVO"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCaHr0a1x8zmQ1dxanCeuesA",
@@ -11626,20 +11612,7 @@
     "id": "UCeLJJTWDzN1dYjtJVO0lNfA",
     "handle": "@grancanarialive",
     "name": "Gran Canaria Live",
-    "videos": [
-      {
-        "id": "xWlZip2pwjU",
-        "title": "GranCanaria.live | MiniGolf.com | Yumbo Center - Playa de Inglés - Gran Canaria."
-      },
-      {
-        "id": "Ea48y09PuNc",
-        "title": "GranCanaria.live | MiniGolf.com | Yumbo Center - Playa del Inglés - Gran Canaria. (4K)"
-      },
-      {
-        "id": "o09siXxJw9A",
-        "title": "GranCanaria.live | MiniGolf.com | Atlantico - Irish Center - Playa de Inglés - Gran Canaria. (4K)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCeNktV2RfYebcfLWKe1FgYg",
@@ -12010,12 +11983,7 @@
     "id": "UCfx69ax61ifs_UZD3R-lJSw",
     "handle": "@hanovermassachusetts",
     "name": "Town of Hanover, Massachusetts",
-    "videos": [
-      {
-        "id": "yXfcL7DqlR4",
-        "title": "Hanover, Massachusetts Town Center Live Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCg2SeSF9iIsLdc84jXl_bTg",
@@ -12666,12 +12634,7 @@
     "id": "UChFbxcSq9iCfdbu-twIfGuw",
     "handle": "@martijnrietveld",
     "name": "Martijn Rietveld",
-    "videos": [
-      {
-        "id": "9NRBCI8bkfo",
-        "title": "🤙 Live Hoek van Holland ~ Sterker door strand"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UChI_8BTUHgCBT4nI0Yqo6fA",
@@ -12704,7 +12667,12 @@
     "id": "UChL5PWTYzB3CNEm4FpgaAMQ",
     "handle": "@Harbourvillagebonaire",
     "name": "Harbour Village Bonaire",
-    "videos": []
+    "videos": [
+      {
+        "id": "W8mRMe2CDDc",
+        "title": "Harbour Village Bonaire Coral Reef"
+      }
+    ]
   },
   {
     "id": "UChP_bnv9cDFZWfVKw3iBwRQ",
@@ -15330,6 +15298,126 @@
     "name": "Hamptons. com",
     "videos": [
       {
+        "id": "XqdamoJMS4k",
+        "title": "Hamptons.com - LIVE! 39A, Southampton Village, New York"
+      },
+      {
+        "id": "8pNEYzf9Jlg",
+        "title": "LIVE HAMPTONS.COM WEATHER w/ Lo-fi 🎶🔊 - All Cams (Hampton Bays, Southampton, East Hampton, Montauk)"
+      },
+      {
+        "id": "9TIaqcWLu34",
+        "title": "Hamptons.com - LIVE! Gin Beach & Inlet, Montauk, New York (SUNSET CAM)"
+      },
+      {
+        "id": "OjmrEFIXzpw",
+        "title": "Hamptons.com - LIVE! Main Street (North), Southampton, New York"
+      },
+      {
+        "id": "QmRpHNklGxE",
+        "title": "Hamptons.com - LIVE! 4K Sunset Beach & Inlet, Montauk, New York"
+      },
+      {
+        "id": "uvqfv-BWpe4",
+        "title": "Hamptons.com  - LIVE! South Ferry, Shelter Island, New York"
+      },
+      {
+        "id": "RJj4ypCpJkQ",
+        "title": "Hamptons.com - LIVE! 4K LARS SIMENSON SKATEPARK, Montauk, New York"
+      },
+      {
+        "id": "gwwWASIH_N0",
+        "title": "Hamptons.com - LIVE! Pike's Beach, Westhampton , New York"
+      },
+      {
+        "id": "X0i4arU8I9s",
+        "title": "Hamptons.com - LIVE! Bay Street, Sag Harbor Village, New York"
+      },
+      {
+        "id": "sxZxz0OPoh0",
+        "title": "Hamptons.com - LIVE! 4K Main Street, Sag Harbor Village, New York"
+      },
+      {
+        "id": "ajENBvLbUH4",
+        "title": "Hamptons.com - LIVE! PENGUIN CAM w/ Calming Spa & Meditation Music, put your mind at ease : )"
+      },
+      {
+        "id": "CT0TuBi8Rys",
+        "title": "Hamptons.com - LIVE! CORAL REEF CAM w/ Calming Spa & Meditation Music, put your mind at ease : )"
+      },
+      {
+        "id": "Kw8uKR1q7y4",
+        "title": "Hamptons.com - LIVE! Relaxing Shark Cam w/ Music, Long Island Aquarium, New York"
+      },
+      {
+        "id": "LL6HrtRsR3o",
+        "title": "Hamptons.com - LIVE! 4K Downtown Circle, Montauk, New York"
+      },
+      {
+        "id": "XL4p6oiP9zs",
+        "title": "Hamptons.com - LIVE SURF CAM! Ponquogue Beach Pavilion, Hampton Bays, New York"
+      },
+      {
+        "id": "gHLBmktamUE",
+        "title": "Hamptons.com - LIVE! Shinnecock Fishing Dock, Hampton Bays, New York"
+      },
+      {
+        "id": "bfB8mnrgXxE",
+        "title": "Hamptons.com - LIVE! Main Street (East), Westhampton Beach Village and Theater"
+      },
+      {
+        "id": "bBNay8b8Q74",
+        "title": "Hamptons.com - LIVE! Long Wharf, Sag Harbor, New York (HARBOR CAM)"
+      },
+      {
+        "id": "l1A96hXsrCU",
+        "title": "Hamptons.com - LIVE! Windmill Bay & Beach, Sag Harbor, New York | K Pasa Restaurant"
+      },
+      {
+        "id": "vGLm--kTC50",
+        "title": "Hamptons.com - LIVE! Sag Harbor Bay, Sag Harbor, New York (BAY CAM)"
+      },
+      {
+        "id": "AuBqYRfDNVc",
+        "title": "Hamptons.com - LIVE! Ponquogue Bridge, Hampton Bays, New York"
+      },
+      {
+        "id": "63Bi7YXdUAY",
+        "title": "Hamptons.com - LIVE! Tiana Beach, Hampton Bays, New York"
+      },
+      {
+        "id": "yLU8DNeXXmc",
+        "title": "Hamptons.com - LIVE! 4K Main Beach, East Hampton Village, New York - Hamptons Surf Report"
+      },
+      {
+        "id": "oWKwLIixxjE",
+        "title": "Hamptons.com - LIVE! Rogers Beach, Westhampton, New York"
+      },
+      {
+        "id": "Dsxz6grtO8g",
+        "title": "Hamptons.com - LIVE! Main Street, East Hampton, New York"
+      },
+      {
+        "id": "4cDBr4IZznY",
+        "title": "Hamptons.com - LIVE! Coopers Beach, Southampton Village, New York - Rated #2 Beach In the Country !"
+      },
+      {
+        "id": "c_eunWfoDJc",
+        "title": "Hamptons.com - LIVE! Atlantic Avenue Beach, Amagansett, New York"
+      },
+      {
+        "id": "UTcbW8NIAMs",
+        "title": "Hamptons.com - LIVE! Newtown Lane, East Hampton, New York"
+      },
+      {
+        "id": "T94KUK8V66I",
+        "title": "Hamptons.com - LIVE! Main Street (Hildreth's Home Goods), Southampton Village, New York"
+      },
+      {
+        "id": "vNSlOyebvP0",
+        "title": "Hamptons.com - LIVE! 4K West Scott Cameron Beach, Bridgehampton, New York"
+      },
+      {
         "id": "IO_10C_VNTM",
         "title": "Hamptons.com LIVE! SAGG MAIN BEACH, Sagaponack, New York"
       },
@@ -16079,7 +16167,12 @@
     "id": "UCr7GtOadmMI2KMfei9yElxQ",
     "handle": "@Billyforce",
     "name": "Billyforce Entertainment",
-    "videos": []
+    "videos": [
+      {
+        "id": "PGSDGBiUvg0",
+        "title": "BC Place, Vancouver Live Cam - Jazz Background Music"
+      }
+    ]
   },
   {
     "id": "UCrBd0lVRjlyT-uu0fcFihUw",
@@ -16672,12 +16765,7 @@
     "id": "UCtllXAWa3EcfcsL5tvpqGSw",
     "handle": "@CoralMorphologic",
     "name": "Coral Morphologic",
-    "videos": [
-      {
-        "id": "7i8ARjIeM2k",
-        "title": "Coral City Camera (Miami's Free-Range Aquarium Underwater Livestream)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtnqriRBvQH4Bzbr23Q_kZg",
@@ -17677,12 +17765,7 @@
     "id": "UCxXKtAvUNQw5rv9lIU0V4UQ",
     "handle": "@ViracoposaoVivo",
     "name": "Viracopos ao Vivo",
-    "videos": [
-      {
-        "id": "4-n-E9u1HYE",
-        "title": "AO VIVO - AEROPORTO INTERNACIONAL DE VIRACOPOS EM CAMPINAS - SÃO PAULO"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxaKME3e34j3aTESZZ3h7Sg",
