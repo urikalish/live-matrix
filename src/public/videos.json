@@ -914,16 +914,7 @@
     "id": "UC1sRvHkvcwUkVipMpCv2mjQ",
     "handle": "@salisburybeachpavilioncameras",
     "name": "Salisbury Beach Pavilion Cameras",
-    "videos": [
-      {
-        "id": "by7PwZvV_CU",
-        "title": "Salisbury Beach Camera South"
-      },
-      {
-        "id": "870YJO-cr_w",
-        "title": "Salisbury Beach Camera North"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC1tBnbs03VJ34oLD8cmJSVw",
@@ -1840,12 +1831,8 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "6McyjCn_oSo",
-        "title": "LIVE: Trump delivers remarks at Greek Independence Day celebration"
-      },
-      {
         "id": "n5HlqOKGEwU",
-        "title": "LIVE: Rep. Sheila Cherfilus-McCormick faces rare public hearing on ethics charges"
+        "title": "LIVE: Sheila Cherfilus-McCormick faces public hearing on ethics charges"
       },
       {
         "id": "NLwA0vCnNA8",
@@ -3201,7 +3188,32 @@
     "id": "UC8QVKeVwpzWhfp9kgk_xk9Q",
     "handle": "@cpadelfinuherskybrod5448",
     "name": "CPA Delfín | Uherský Brod",
-    "videos": []
+    "videos": [
+      {
+        "id": "4p_t8IGEn5c",
+        "title": "Zimní stadion"
+      },
+      {
+        "id": "HCuba7AuAVc",
+        "title": "Letní venkovní areál"
+      },
+      {
+        "id": "3X_BYb9ws9Q",
+        "title": "Zábavní bazén"
+      },
+      {
+        "id": "MUhMpHkc-oQ",
+        "title": "Dojezdový bazének"
+      },
+      {
+        "id": "nvB53fb2URw",
+        "title": "Plavecký bazén"
+      },
+      {
+        "id": "b3EyocTVv_E",
+        "title": "Stadion Lapač"
+      }
+    ]
   },
   {
     "id": "UC8V1W5qNE8s3vgQWEQHpsKQ",
@@ -3611,12 +3623,7 @@
     "id": "UC8sXqdHFnwpVoOuOZmx1-kw",
     "handle": "@TICJezersko",
     "name": "TIC Jezersko",
-    "videos": [
-      {
-        "id": "z-zfvszDEvo",
-        "title": "Panoramska kamera Jezersko"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC8t7FI3O7_NV9ucGWKz2D4Q",
@@ -11643,16 +11650,7 @@
     "id": "UCeL2LSl91k2VccR7XEh5IKg",
     "handle": "@TinyKittens",
     "name": "TinyKittens HQ",
-    "videos": [
-      {
-        "id": "CLDRylX38mw",
-        "title": "Miracle kittens Tross, Rachel and Miss Meowy! 🐾🥰"
-      },
-      {
-        "id": "L64D5vZVUl4",
-        "title": "Cloverly is BACK! Plus, Hellga TNR has begun!"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCeLJJTWDzN1dYjtJVO0lNfA",
@@ -12288,12 +12286,7 @@
     "id": "UCgBwodddPsSwg5nfUqH4-jA",
     "handle": "@StrandcampingGroede",
     "name": "Strandcamping Groede",
-    "videos": [
-      {
-        "id": "bE546Hg7Ij0",
-        "title": "Strandcam Groede live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgDKPUQWlxzaqPm6tOFrInw",
@@ -12856,12 +12849,7 @@
     "id": "UCi9wnYP7UBrl7Tnfi3LLkpw",
     "handle": "@yiannisakkos",
     "name": "Yianni&#39;s Channel",
-    "videos": [
-      {
-        "id": "5ufSC_EGRgc",
-        "title": "Corfu / Kerkyra, Greece LIVE"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCiGOIXjFqy5_mUNxQNOMfHw",
@@ -13147,7 +13135,32 @@
     "id": "UCj0TppyxzQWm9JbMg3CP8Rg",
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
-    "videos": []
+    "videos": [
+      {
+        "id": "Bzlxb-o88zU",
+        "title": "LIVE: Washington D.C.'s famed cherry blossoms approach peak bloom"
+      },
+      {
+        "id": "ptMxGBPc61E",
+        "title": "LIVE: Rescue teams in northern Germany work to refloat a humpback whale stranded"
+      },
+      {
+        "id": "yH3115kY62Q",
+        "title": "LIVE: Live from southern Lebanon where Israeli forced thousands to flee"
+      },
+      {
+        "id": "SEq8P8wg4Sk",
+        "title": "LIVE: View of Beirut skyline"
+      },
+      {
+        "id": "gjS6rDOHb1U",
+        "title": "WATCH LIVE: View of Tel Aviv skyline"
+      },
+      {
+        "id": "_6dRRfnYJws",
+        "title": "Watch CGTN Europe News LIVE 24/7"
+      }
+    ]
   },
   {
     "id": "UCjBTdlFa28vCjI6m9kIM7gA",
@@ -13183,7 +13196,20 @@
     "id": "UCjVQqE5mViYlR1zF1yefd2g",
     "handle": "@uminekoshouten",
     "name": "ウミネコ商店",
-    "videos": []
+    "videos": [
+      {
+        "id": "YuwIwx8N_po",
+        "title": "外カメラ"
+      },
+      {
+        "id": "gnGwhHccEB0",
+        "title": "ウミネコ商店（外カメラ１）"
+      },
+      {
+        "id": "3o9aoRyrvAk",
+        "title": "ウミネコ商店（店内カメラ）"
+      }
+    ]
   },
   {
     "id": "UCjasbMOPUeXxvKeqzTmq6SA",
@@ -13420,6 +13446,126 @@
     "handle": "@KominfoGunungkidul",
     "name": "Kominfo Gunungkidul",
     "videos": [
+      {
+        "id": "CpeiYBljpdo",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS TPR"
+      },
+      {
+        "id": "bcjSWZBmakE",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS AREA WISATA PANTAI"
+      },
+      {
+        "id": "7Z2KB1p79hE",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS AREA WONOSARI"
+      },
+      {
+        "id": "CEdIbRrbNSg",
+        "title": "LIVE PEMANTAUAN CCTV PASAR BESOLE"
+      },
+      {
+        "id": "ROls4SLDOKc",
+        "title": "PEMANTAUAN CCTV LALULINTAS KELURAHAN REJOSARI"
+      },
+      {
+        "id": "uodIEHnwG50",
+        "title": "LIVE PEMANTAUAN CCTV SIMPANG 4 GADING"
+      },
+      {
+        "id": "sGw16JUacSk",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS KALURAHAN SAMBIREJO"
+      },
+      {
+        "id": "qNQMsASjQWc",
+        "title": "LIVE PEMANTAUAN CCTV TPR PANTAI JJLS 1"
+      },
+      {
+        "id": "B96LfyFCk64",
+        "title": "LIVE PEMANTAUAN CCTV PINTU MASUK UTAMA PANTAI 2"
+      },
+      {
+        "id": "wH-jDNXLDAI",
+        "title": "LIVE PEMANTAUAN CCTV PINTU MASUK UTAMA PANTAI 1"
+      },
+      {
+        "id": "eoBWTpVCUEE",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS KALURAHAN NGLANGGERAN SELATAN"
+      },
+      {
+        "id": "lJs5OrpqaNY",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS KALURAHAN NGLANGGERAN UTARA"
+      },
+      {
+        "id": "RsPsUMd7Wu4",
+        "title": "LIVE PEMANTAUAN CCTV PANTAI DRINI"
+      },
+      {
+        "id": "VwCSraYReJM",
+        "title": "LIVE PEMANTAUAN CCTV PASAR WOTGALIH"
+      },
+      {
+        "id": "eFJkz07KwX4",
+        "title": "LIVE PEMANTAUAN CCTV LAPANGAN PEMDA BARAT"
+      },
+      {
+        "id": "uws20PFsuKg",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS SIMPANG TIGA NGALANG BARAT"
+      },
+      {
+        "id": "XhmQkH-8_qw",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS BUNDERAN SIYONO"
+      },
+      {
+        "id": "4Ky_icZ-Ekk",
+        "title": "LIVE PEMANTAUAN CCTV PANTAI KUKUP"
+      },
+      {
+        "id": "bNTWLtbNWHg",
+        "title": "LIVE PEMANTAUAN CCTV LAPANGAN KESATRIAN"
+      },
+      {
+        "id": "QiIkBSYNZMU",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS KODIM GUNUNGKIDUL"
+      },
+      {
+        "id": "KR6HtxBedzs",
+        "title": "LIVE PEMANTAUAN CCTV EMBUNG BATARA SRITEN"
+      },
+      {
+        "id": "4xtLdfYhTmE",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS TUGU SELAMAT DATANG PATUK 2"
+      },
+      {
+        "id": "VXzA6bTXnlM",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS TUGU SELAMAT DATANG PATUK"
+      },
+      {
+        "id": "AeZCyuf3k5g",
+        "title": "LIVE PEMANTAUAN PANTAI SEPANJANG FIX"
+      },
+      {
+        "id": "yFFab-zqrRs",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS KALURAHAN GETAS"
+      },
+      {
+        "id": "uW351scprt4",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS SIMPANG EMPAT KARANGMOJO UTARA"
+      },
+      {
+        "id": "sy_Xw6vEhsE",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS SMP N 1 PLAYEN"
+      },
+      {
+        "id": "Op3mK4TEV4M",
+        "title": "LIVE PEMANTAUAN CCTV GOR SIYONO"
+      },
+      {
+        "id": "CIRkC_VR55E",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS SIMPANG TIGA DPRD"
+      },
+      {
+        "id": "-CKOX3WYbh4",
+        "title": "LIVE PEMANTAUAN CCTV LALULINTAS SMP N 3 WONOSARI"
+      },
       {
         "id": "0-DuMi_brhQ",
         "title": "PEMANTAUAN CCTV LALULINTAS PUSKESMAS GEDANGSARI II"
@@ -13758,7 +13904,12 @@
     "id": "UCkM6bT22N_Rgl5Y6Sv2JPUg",
     "handle": "@belemaovivo",
     "name": "Belém-PA ao vivo em 4K",
-    "videos": []
+    "videos": [
+      {
+        "id": "ecFzywPadgU",
+        "title": "Belém - Amazonia - ao vivo"
+      }
+    ]
   },
   {
     "id": "UCkOCNLYCrkvyL6l04mzycjw",
@@ -14156,84 +14307,7 @@
     "id": "UCmYyJaUxYiF5IbLx-0jFXHQ",
     "handle": "@TheRealSamuiWebcam",
     "name": "The Real Samui Webcam",
-    "videos": [
-      {
-        "id": "LGNYKz4yziE",
-        "title": "🔴 LIVE Crystal Bay Yacht Club Lamai | Koh Samui Beach Panoramic Webcam | Thailand 24/7 | 2160p 4K"
-      },
-      {
-        "id": "3N3ZwIB_X4Y",
-        "title": "🔴 LIVE Crystal Bay Yacht Club Lamai | Koh Samui Beach Webcam | Thailand 24/7 | 2160p 4K"
-      },
-      {
-        "id": "OBJ5Q0lWbqk",
-        "title": "🔴 Tropical Murphy's Irish Pub | Live Webcam Stream | Chaweng | Koh Samui | Thailand | 2160p UHD 4K"
-      },
-      {
-        "id": "x73IEW0fOo0",
-        "title": "🔴 Live Camera Stream | Floating Lotus | Big Buddha | Koh Samui | Thailand | 2160p 4K"
-      },
-      {
-        "id": "UNbOvsRAx9U",
-        "title": "🔴 SIN Punch Machine | Soi Green Mango | Chaweng | Koh Samui | Thailand | Live Street Webcam"
-      },
-      {
-        "id": "snH8AlZaS70",
-        "title": "🔴 Live Camera Stream | Hushbar | Soi Green Mango | Chaweng | Koh Samui | Thailand | 2160p 4K"
-      },
-      {
-        "id": "Tpj0cmMVOd0",
-        "title": "🔴 Baobab Cam | Lamai | Koh Samui | Thailand | Live Beach Webcam | 2160p 4K"
-      },
-      {
-        "id": "NTTtqzL5OWI",
-        "title": "🔴 Crystal Bay Beach Resort Panoramic | Lamai | Koh Samui | Thailand | Live Beach Webcam | 2160p 4K"
-      },
-      {
-        "id": "6MMXJrzT5c0",
-        "title": "🔴 Live Camera Stream | Henry Africa's Bar & Café | Soi Green Mango | Koh Samui | Thailand | 2160p 4K"
-      },
-      {
-        "id": "w47yvCftkWQ",
-        "title": "🔴 Live Camera Stream | Bondi Aussie Bar & Grill | Lamai | Koh Samui | Thailand | 2160p 4K"
-      },
-      {
-        "id": "UemFRPrl1hk",
-        "title": "🔴 El Gaucho | Soi 11 | Sukhumvit Road | Bangkok | Thailand | Live Street Webcam | 2160p 4K"
-      },
-      {
-        "id": "Q71sLS8h9a4",
-        "title": "🔴 El Gaucho | Soi 19 | Sukhumvit Road | Bangkok | Thailand | Live Street Webcam | 2160p 4K"
-      },
-      {
-        "id": "gEm6dAETk7E",
-        "title": "🔴 Live Camera Stream | The Green Mango | Soi Green Mango | Chaweng | Koh Samui | Thailand | 2160p 4K"
-      },
-      {
-        "id": "FyFAqPHBKiQ",
-        "title": "🔴 Live Camera Stream | El Gaucho | Fisherman's Village | Bophut | Koh Samui | Thailand | 2160p 4K"
-      },
-      {
-        "id": "e9T0L_POAOk",
-        "title": "🔴 Famous \"The Best Pancake Man\" | Chaweng | Koh Samui | Thailand | Live Street Webcam"
-      },
-      {
-        "id": "Fw9hgttWzIg",
-        "title": "🔴 Crystal Bay Beach Resort | Lamai | Koh Samui | Thailand | Live Beach Webcam | 2160p 4K"
-      },
-      {
-        "id": "yFgVmioYkys",
-        "title": "🔴 Soi Green Mango / Munchies Cam | Chaweng | Koh Samui | Thailand | Live Street Webcam"
-      },
-      {
-        "id": "DwKCna1mumk",
-        "title": "🔴 Hush Bar | Soi Green Mango | Chaweng | Koh Samui | Thailand | Live Street Webcam"
-      },
-      {
-        "id": "VR-x3HdhKLQ",
-        "title": "🔴 Live Camera Stream | Bondi Aussie Bar & Grill | Chaweng | Koh Samui | Thailand | 2160p 4K"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCmb7bNmgMb14pmlUsEd5e2Q",
@@ -15192,7 +15266,16 @@
     "id": "UCp1ojgNJ8mNWdMDsdcMRA2Q",
     "handle": "@StGeorgeTower",
     "name": "St. George Tower",
-    "videos": []
+    "videos": [
+      {
+        "id": "qzXMkyECpgc",
+        "title": "Live NYC Lower Manhattan & New York Harbor Cam"
+      },
+      {
+        "id": "E1DCn9t5FYw",
+        "title": "Live NYC Brooklyn Bridge & Manhattan cam"
+      }
+    ]
   },
   {
     "id": "UCp2wwvvhIxKlh44p7tH-s_w",
@@ -16027,12 +16110,7 @@
     "id": "UCqhDq_fKTSgc8LZCa2gGMEg",
     "handle": "@GavinBHeffernan",
     "name": "Gavin Heffernan Timelapse Travel ",
-    "videos": [
-      {
-        "id": "szFZT5koyio",
-        "title": "🌲 Yosemite Live Webcams | Half Dome, El Capitan,  High Sierra 🌄 Relaxing Nature Escape"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCr5Z4Oi3UFwkM6sLPFDC6QA",
@@ -16619,12 +16697,7 @@
     "id": "UCtUDoNuFU5NPWJlMfPHKoZw",
     "handle": "@CommanderCamera-qv3xl",
     "name": "Gateway Subaru Camera at The Commander Hotel",
-    "videos": [
-      {
-        "id": "zCEiot7sEWY",
-        "title": "Gateway Subaru Camera at The Commander Hotel"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtUyw9nTFtCCg-RPA4c8cDg",
@@ -17672,7 +17745,12 @@
     "id": "UCxXKtAvUNQw5rv9lIU0V4UQ",
     "handle": "@ViracoposaoVivo",
     "name": "Viracopos ao Vivo",
-    "videos": []
+    "videos": [
+      {
+        "id": "4-n-E9u1HYE",
+        "title": "AO VIVO - AEROPORTO INTERNACIONAL DE VIRACOPOS EM CAMPINAS - SÃO PAULO"
+      }
+    ]
   },
   {
     "id": "UCxaKME3e34j3aTESZZ3h7Sg",
@@ -17908,7 +17986,12 @@
     "id": "UCxu_O8hfgSrtssrjTgwoETA",
     "handle": "@polanownet",
     "name": "polanow.net",
-    "videos": []
+    "videos": [
+      {
+        "id": "v_iC9HuCv7g",
+        "title": "Rondo w Polanowie na żywo"
+      }
+    ]
   },
   {
     "id": "UCxvYxKbb_9mUNxuLpJQgu5A",
@@ -18244,7 +18327,80 @@
     "id": "UCzkaQrI9-nSv373EvK5p0SQ",
     "handle": "@DuluthHarborCam1",
     "name": "Duluth Harbor Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "bBubIPZYVt0",
+        "title": "Harbor Plaza/Great Lakes Aquarium"
+      },
+      {
+        "id": "sThx7mQM3Uc",
+        "title": "Two Harbors Boat Launch"
+      },
+      {
+        "id": "mpMdJJjw59E",
+        "title": "Western Harbor Cam"
+      },
+      {
+        "id": "EbVlhVeD3jA",
+        "title": "Bayfront Cam"
+      },
+      {
+        "id": "c1kfkIoF0k0",
+        "title": "Pier B Cam"
+      },
+      {
+        "id": "HPS48TMmNag",
+        "title": "Duluth Canal Cam"
+      },
+      {
+        "id": "9EnmgL3fXW8",
+        "title": "Split Rock Lighthouse"
+      },
+      {
+        "id": "E0YlMI4P8Fw",
+        "title": "Duluth Cargo Connect"
+      },
+      {
+        "id": "05WivhRmKq4",
+        "title": "Duluth Harborcam"
+      },
+      {
+        "id": "DzJb26edNjs",
+        "title": "Duluth Hillside Cam"
+      },
+      {
+        "id": "i2rSgt5t_p4",
+        "title": "Wisconsin Point"
+      },
+      {
+        "id": "_L0u39B732I",
+        "title": "AMI (Connors Point) Cam"
+      },
+      {
+        "id": "Arf54yKFp2Y",
+        "title": "Fairlawn Cam - \"temporarily offline\""
+      },
+      {
+        "id": "rCec9HDbFwA",
+        "title": "Two Harbors Depot"
+      },
+      {
+        "id": "zTVWJ3Mc0Ag",
+        "title": "Silver Bay Marina"
+      },
+      {
+        "id": "nCf7X2cPDAY",
+        "title": "Lighthouse Cam"
+      },
+      {
+        "id": "BzwWjdZXymc",
+        "title": "Duluth Aerial Lift Bridge Cam"
+      },
+      {
+        "id": "m2wWzo9GmwY",
+        "title": "Beach Cam (Solglimt B & B)"
+      }
+    ]
   },
   {
     "id": "UCzki8JOvVr95qFXmY-pbOqw",
