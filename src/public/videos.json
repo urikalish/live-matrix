@@ -61,7 +61,12 @@
     "id": "UC-4gGSlTkiM77ZaSgk-e4_w",
     "handle": "@kambakuwildlifereserve",
     "name": "Kambaku Wildlife Reserve",
-    "videos": []
+    "videos": [
+      {
+        "id": "n0y1ZOwrDQI",
+        "title": "Namibia Waterhole Live Stream - Kambaku Wildlife Reserve"
+      }
+    ]
   },
   {
     "id": "UC-5CVLXN0tBhGsqv-DMcHuw",
@@ -427,7 +432,12 @@
     "id": "UC0aRUMUvwJ-7xx0mfNwhVZA",
     "handle": "@Akureyri_official",
     "name": "Akureyrarbær",
-    "videos": []
+    "videos": [
+      {
+        "id": "GXTycxKz_FQ",
+        "title": "Rósenborg"
+      }
+    ]
   },
   {
     "id": "UC0djAWwMXP22wzocdJR9dWw",
@@ -1628,12 +1638,7 @@
     "id": "UC3rYbSIKpTUuZJNl7GmFxqA",
     "handle": "@FairmontThePalm",
     "name": "Fairmont Palm",
-    "videos": [
-      {
-        "id": "7dE4IjDQJmE",
-        "title": "Fairmont The Palm"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC3yyv3A3atZf0d0ybFMrhbw",
@@ -3639,7 +3644,12 @@
     "id": "UC99NqD52qM484Bsu40UuBgQ",
     "handle": "@KontiolahtiBiathlon",
     "name": "KontiolahtiBiathlon",
-    "videos": []
+    "videos": [
+      {
+        "id": "O4hSj_1bUUM",
+        "title": "Kontiolahti Biathlon Finland"
+      }
+    ]
   },
   {
     "id": "UC9Ljd016Si9rv3KS-5CbpGg",
@@ -4018,16 +4028,7 @@
     "id": "UCAY-GlV3P5twjg7B9tjx_lg",
     "handle": "@Scotventure",
     "name": "Alex  Explorer - Scotventure",
-    "videos": [
-      {
-        "id": "fKb7dUCuofs",
-        "title": "🔴LIVE - Fort William Live Webcam - Scotland - Loch Linnhe & West End Car Park"
-      },
-      {
-        "id": "j9w0shEwYQA",
-        "title": "🔴LIVE - Fort William Live Webcam - Scotland - Loch Linnhe & West End Car Park"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCAfi6hcs4a9Zk1zNShCuxfA",
@@ -5535,12 +5536,7 @@
     "id": "UCF1Qy2zp3aejeLzTewzV4lA",
     "handle": "@sandiegorowingclub",
     "name": "San Diego Rowing Club",
-    "videos": [
-      {
-        "id": "QfNF1YeBQcI",
-        "title": "SDRC Mission Bay Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCF2ZhA1YhnRaf-WdCiBuIyQ",
@@ -8130,12 +8126,7 @@
     "id": "UCOvMUvionePSUD9xe_3qCHQ",
     "handle": "@wyndhamwebcam7015",
     "name": "Wyndham Webcam",
-    "videos": [
-      {
-        "id": "Byxe6MlCnBw",
-        "title": "Wyndham Harbour Web Camera - Live View"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCOx13sr_wa0ppMsHY9b0aMQ",
@@ -8430,12 +8421,7 @@
     "id": "UCPvs-mrFpJ5MYV6FeAtvc-w",
     "handle": "@wearetaiste",
     "name": "Taiste",
-    "videos": [
-      {
-        "id": "KLQLeZ9vjt4",
-        "title": "Torilive – näe Turun kauppatori livenä"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCQ67X9KtVFMo2h1a1AMGZZQ",
@@ -9148,7 +9134,20 @@
     "id": "UCS8ZQejq2CL-nZcnRWZCA5Q",
     "handle": "@KBCnewsCH",
     "name": "KBC NEWS in JAPAN",
-    "videos": []
+    "videos": [
+      {
+        "id": "uuMhOREzUYA",
+        "title": "【ライブカメラ】福岡空港　Fukuoka Airport　＆他ライブカメラ"
+      },
+      {
+        "id": "4hpUbFP13-M",
+        "title": "KBC NEWS LIVE 24～福岡・佐賀の最新ニュースを24時間配信～"
+      },
+      {
+        "id": "8RyR0J8zbbU",
+        "title": "【ライブカメラ】ＪＲ博多駅前　【福岡市】Hakata Station in FUKUOKA"
+      }
+    ]
   },
   {
     "id": "UCSAF80kTDcFOxEUrx0lsrmw",
@@ -9252,13 +9251,23 @@
     "id": "UCSlFpHBSl-eWWJlbt1gKq4Q",
     "handle": "@ShoalsMarineLab",
     "name": "Shoals Marine Laboratory",
-    "videos": []
+    "videos": [
+      {
+        "id": "CyA5V1gFVTY",
+        "title": "Appledore Island Live"
+      }
+    ]
   },
   {
     "id": "UCSn-iTElOxGzTbyPvog45oA",
     "handle": "@neptunecamlivefeed",
     "name": "NeptuneCam1 Neptune",
-    "videos": []
+    "videos": [
+      {
+        "id": "q0h0nwsJ6EY",
+        "title": "Neptune Luxury Resort  Webcamera"
+      }
+    ]
   },
   {
     "id": "UCSsQ9sUrJxJTZgsBVevamJQ",
@@ -12922,7 +12931,12 @@
     "id": "UCiV1SWx0DV0y9Id-Vjd4JEA",
     "handle": "@meteoestrela",
     "name": "Meteoestrela Serra da Estrela",
-    "videos": []
+    "videos": [
+      {
+        "id": "5coitvLVhGI",
+        "title": "Webcam Serra da Estrela em direto | MeteoEstrela.pt"
+      }
+    ]
   },
   {
     "id": "UCiVxzgxfn4OhuDygv5o5-mg",
@@ -13951,12 +13965,7 @@
     "id": "UCl5P2zJoH1gBdf38AiYALKA",
     "handle": "@portal5900vm",
     "name": "Portal 5900",
-    "videos": [
-      {
-        "id": "VqU4j9pQYNY",
-        "title": "Cámara Meteorológica del Portal 5900 Villa Maria"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UClE5bXJOXr_QqwFPTfnialA",
@@ -14010,7 +14019,12 @@
     "id": "UCliCEXR9eSmY9PDb2lXov7Q",
     "handle": "@kystverketWEB",
     "name": "kystverketWEB",
-    "videos": []
+    "videos": [
+      {
+        "id": "5SDUaXu1ZzE",
+        "title": "Saltstraumen Live"
+      }
+    ]
   },
   {
     "id": "UClkczhHdkCogS9eXg2E5s0w",
@@ -14218,7 +14232,12 @@
     "id": "UCmSsdXm7F8CWlOODXSzANsg",
     "handle": "@ZeroEight",
     "name": "ZeroEight",
-    "videos": []
+    "videos": [
+      {
+        "id": "4wAQ-0tFXf0",
+        "title": "LIVE 4K South Beach, Miami Beach  24/7 Street Cam on Collins Ave"
+      }
+    ]
   },
   {
     "id": "UCmXB98lpzelFrlryV2llXUQ",
@@ -14564,7 +14583,12 @@
     "id": "UCncqAXYYeVTwM2KwynoGJmg",
     "handle": "@DurangoMe",
     "name": "Durango Dot Me",
-    "videos": []
+    "videos": [
+      {
+        "id": "PnuW0CYMq3o",
+        "title": "Live Siesta Motel Cactus Cam"
+      }
+    ]
   },
   {
     "id": "UCne6b1whLLhDRJ-IXWNWZbQ",
@@ -14808,12 +14832,7 @@
     "id": "UCoMV7FZZNv0qhlyJO-8xqIw",
     "handle": "@cityofreno-renoarchcamera4558",
     "name": "City of Reno - Reno Arch Camera",
-    "videos": [
-      {
-        "id": "laopqyiYlxg",
-        "title": "Live Reno Arch Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCoS1S0V-QdSl_xe29G8mKcQ",
@@ -15517,12 +15536,7 @@
     "id": "UCpcQw8euHeDXiI7yJAvNzpQ",
     "handle": "@carronfarm",
     "name": "Carron Farm",
-    "videos": [
-      {
-        "id": "IRUakZpr7Kw",
-        "title": "Higher Town Quay"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCpkcJlssp52fP6xHFUYT9ag",
@@ -16115,7 +16129,7 @@
     "name": "Gavin Heffernan Timelapse Travel ",
     "videos": [
       {
-        "id": "pxuyk20zqfQ",
+        "id": "4y6hykHBvPo",
         "title": "🌲 Yosemite Live Webcams | Half Dome, El Capitan,  High Sierra 🌄 Relaxing Nature Escape"
       }
     ]
@@ -16550,7 +16564,84 @@
     "id": "UCsy6UOjk8q7Ajq9yQ7iDAbA",
     "handle": "@GiGAeyesLiveTV",
     "name": "GiGAeyes Live TV",
-    "videos": []
+    "videos": [
+      {
+        "id": "dRXKooC6tTM",
+        "title": "서울실시간 광화문대로 Live Cam I \"Gwanghwamun Boulevard\" , Seoul, Korea I 서울광화문 광화문광장 서울여행 서울라이브"
+      },
+      {
+        "id": "f-77scE-PVw",
+        "title": "서울실시간 석촌호수라이브 Live Cam I Seoul, \"Seokchon Lake\", Seoul,Korea I 서울관광지 서울호수 잠실롯데몰 송리단길 잠실소피텔"
+      },
+      {
+        "id": "n7myxHpfPpo",
+        "title": "수원실시간 광교호수공원라이브 Live Cam I \"Gwanggyo Lake Park\",  Suwon,KoreaI 수원라이브 광교호수공원 수원신도시 광교호수공원야경 광교앨리웨이"
+      },
+      {
+        "id": "pzKNbB3WjpE",
+        "title": "대전실시간 대전라이브 대전엑스포과학공원 한빛광장 LiveCam I \"ExpoSciencePark,Hanbit Square\",Daejeon,Korea I 대전관광공사 대전여행"
+      },
+      {
+        "id": "80OT9PgWG-k",
+        "title": "속초실시간 속초해수욕장 Live Cam I \"Sokcho Beach\", Gangwondo,Korea I 여름휴가 해변 밤바다 바다경치 강원도여행 오션뷰 속초아이"
+      },
+      {
+        "id": "tQ9tse8cTy4",
+        "title": "부산실시간 해운대송정해수욕장 Live Cam l \"Songjeong beach\", Busan,Korea l 서핑파도 부산파도실시간 겨울바다 해운대서핑 부산바다 부산여행 부산날씨"
+      },
+      {
+        "id": "G3392hBJzG8",
+        "title": "분당실시간 분당KT사옥뷰 라이브 Live Cam I \"KT office building\", Bundang,Korea I 분당KT사옥 성남시 분당 탄천 한강 탄천라이브"
+      },
+      {
+        "id": "2ZB99O10bIM",
+        "title": "서울실시간 DDP라이브 Live Cam I \"Dongdaemun design Plaza\", Seoul, Korea I 동대문디자인플라자 동대문사입 서울여행명소 동대문가볼만한곳"
+      },
+      {
+        "id": "hYGGGLxyB9A",
+        "title": "서울실시간 롯데월드타워라이브  Live Cam I \"LotteWorldTower\", Seoul, Korea I 잠실롯데월드타워 롯데월드타워 전망대 서울sky"
+      },
+      {
+        "id": "fWAYIe5-C4o",
+        "title": "부산실시간 광안대교 Live Cam l \"Gwangandaegyo Bridge\", Busan,Korea l 부산야경뷰 광안리해변 부산바다 바다라이브 한국바다 Oceanview"
+      },
+      {
+        "id": "009kOq0x4ZI",
+        "title": "강릉실시간 강문해변 Live Cam I \"Gangmoon beach\", Gangwondo, Korea I 강릉바다 바다실시간 여행지 강원도일출 강릉일출"
+      },
+      {
+        "id": "jTQjbPOwv24",
+        "title": "포항실시간 호미곶광장라이브 Live Cam I \"Homigot Sunrise Square\", Pohang,Korea I 포항호미곶해맞이광장 포항일출 포항바다 포항호미곶일출 상생의손"
+      },
+      {
+        "id": "DSgn-lTHJzM",
+        "title": "서울실시간 서울역광장 Live Cam I \"Seoul Station Plaza\". Seoul,Korea I 서울역 서울여행 서울광장 서울시 SeoulStation ソウル駅広場"
+      },
+      {
+        "id": "1_DTr0zhNOc",
+        "title": "서울실시간 한강라이브 서강대교 Live Cam I \"SeogangBridge\",Seoul,Korea I SeoulHanGangLive ソウル漢江ライブ 首尔汉江现场演出 한강라이브"
+      },
+      {
+        "id": "hWyByX9fY2g",
+        "title": "서울실시간 마포대교 Live Cam I \"Mapo Bridge\",Seoul,Korea I SeoulHanGangLive 서울야경SeoulNightView ソウルの夜景"
+      },
+      {
+        "id": "1AUCJbyKoMo",
+        "title": "제주도실시간 성산일출봉라이브 Live Cam I \"Seongsan Ilchulbong\", Jejudo,korea I SeongsanSunrisePark 济州岛城山日出峰 백색소음"
+      },
+      {
+        "id": "VBlN0MGqyz4",
+        "title": "서울실시간 경복궁 Live Cam I \"Gyeongbokgung\", Seoul, Korea I 광화문 궁 けいふくきゅう 景福宫 서울관광 首爾風景 한국"
+      },
+      {
+        "id": "JIQPCfb9Qs0",
+        "title": "서울실시간 롯데월드라이브 Live Cam I \"Lotte World\", Seoul,Korea I 서울라이브 乐天世界 ロッテワールド롯데월드실시간 롯데월드혼잡도 SeoulLive"
+      },
+      {
+        "id": "ZopiySgQjsc",
+        "title": "서울실시간 한강라이브 잠실대교 Live Cam I \"Jamsil Bridge\" Seoul,korea I SeoulHanGangLive ソウル漢江ライブ 首尔汉江现场演出"
+      }
+    ]
   },
   {
     "id": "UCsyyRhCqrvBInUQYTNxL6lw",
@@ -16654,7 +16745,12 @@
     "id": "UCtZEp-JUvGtQbOG6PDKDuHQ",
     "handle": "@sparebank1nordvest",
     "name": "SpareBank 1 Nordmøre",
-    "videos": []
+    "videos": [
+      {
+        "id": "feY7GCnY8KU",
+        "title": "Webkamera Kristiansund - Kongens Plass"
+      }
+    ]
   },
   {
     "id": "UCtZdd8-WlpOVxDaWbbeTmZQ",
@@ -17293,7 +17389,12 @@
     "id": "UCv0XigLGMsgxDmBVCephTlA",
     "handle": "@jicincz",
     "name": "Jičín - moje město",
-    "videos": []
+    "videos": [
+      {
+        "id": "6Zo1DczkNLU",
+        "title": "Webcam Jičín"
+      }
+    ]
   },
   {
     "id": "UCv3YkEJyYR5-RZ2BCugrodg",
@@ -17874,7 +17975,12 @@
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
     "handle": "@flamingf.1562",
     "name": "Flaming Fire",
-    "videos": []
+    "videos": [
+      {
+        "id": "AuZ8Di_PO_M",
+        "title": "Stockholm city live cam 20260326"
+      }
+    ]
   },
   {
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
