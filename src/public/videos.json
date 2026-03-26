@@ -72,7 +72,16 @@
     "id": "UC-5CVLXN0tBhGsqv-DMcHuw",
     "handle": "@santospilotsoficial",
     "name": "Praticagem de São Paulo - Canal Oficial",
-    "videos": []
+    "videos": [
+      {
+        "id": "tMYtrEBNVAU",
+        "title": "Porto ao Vivo - Entrada no Canal do Porto de Santos"
+      },
+      {
+        "id": "AX74XKJZdJM",
+        "title": "Porto ao Vivo - Vista Panorâmica (4K)"
+      }
+    ]
   },
   {
     "id": "UC-8U3VCeOEqdPJd2D77RqKw",
@@ -1863,48 +1872,7 @@
     "id": "UC5FiBoG6GcB5QqsiOsGe22A",
     "handle": "@eastcoastnsa0501",
     "name": "東部海岸國家風景區管理處",
-    "videos": [
-      {
-        "id": "fv1yFousBvc",
-        "title": "【Live Cam】東海岸即時影像 - 綠島帆船鼻｜Fanchuanbi Grassland in Green Island｜緑島帆船鼻の大草原 2160p"
-      },
-      {
-        "id": "a8nJQr5rBGs",
-        "title": "【4K Live Cam】Chaikou Snorkeling Area in Green Island, Taitung | Explore East Coast of Taiwan"
-      },
-      {
-        "id": "mXnigLvIL0Q",
-        "title": "【4K Live Cam】Shitiping | East Coast National Scenia Area in Taiwan"
-      },
-      {
-        "id": "JnD8Rk3o0BM",
-        "title": "【4K Live Cam】Changhong Bridge | Explore East Coast of Taiwan"
-      },
-      {
-        "id": "JkoXcXI04Qk",
-        "title": "【4K Live Cam】Dashshibi Hill | Explore East Coast of Taiwan"
-      },
-      {
-        "id": "AKl3F6cAY2Q",
-        "title": "【4K Live Cam】Jialulan Recreation Area | Explore East Coast of Taiwan"
-      },
-      {
-        "id": "JhQuR77AR7U",
-        "title": "【4K Live Cam】Torik Visitor Center | Explore East Coast of Taiwan"
-      },
-      {
-        "id": "dQ7Sd6PGLdA",
-        "title": "【4K Live Cam】Sanxiantai | Explore East Coast of Taiwan"
-      },
-      {
-        "id": "ZdqHgQwvZOw",
-        "title": "【4K Live Cam】Jinzun | Explore East Coast of Taiwan"
-      },
-      {
-        "id": "wTHhv7M0vCI",
-        "title": "【4K Live Cam】Taitung Green Island Nanliao Fishing Harbor | Explore East Coast of Taiwan"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC5PNUCvYkt6PxAmgvAV8x8g",
@@ -2243,16 +2211,7 @@
     "id": "UC5oMexvQVrM4qNNVFK7M7Yw",
     "handle": "@Sondelaterre",
     "name": "Le Son de la terre",
-    "videos": [
-      {
-        "id": "RPo0835X0S4",
-        "title": "Ma diffusion"
-      },
-      {
-        "id": "k3DZKHJ4Aqg",
-        "title": "🔴 Live Webcam Paris - La Seine et Notre Dame Ambiance en direct du bateau \"Le Son de la Terre\""
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC5sls141Xdq9tQdxCv4In7A",
@@ -2537,7 +2496,12 @@
     "id": "UC6bRB9N7EyMijsauPttAvfg",
     "handle": "@skarsvagbygdelaglivecam9253",
     "name": "Skarsvåg bygdelag live cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "iMqrD-HBDGo",
+        "title": "Skarsvåg Live"
+      }
+    ]
   },
   {
     "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
@@ -3621,13 +3585,23 @@
     "id": "UC8sXqdHFnwpVoOuOZmx1-kw",
     "handle": "@TICJezersko",
     "name": "TIC Jezersko",
-    "videos": []
+    "videos": [
+      {
+        "id": "z-zfvszDEvo",
+        "title": "Panoramska kamera Jezersko"
+      }
+    ]
   },
   {
     "id": "UC8t7FI3O7_NV9ucGWKz2D4Q",
     "handle": "@finescape9925",
     "name": "FineScape",
-    "videos": []
+    "videos": [
+      {
+        "id": "n3B8fp-Henc",
+        "title": "Tokyo Odaiba Live Camera 東京 お台場 ライブカメラ 配信"
+      }
+    ]
   },
   {
     "id": "UC99NqD52qM484Bsu40UuBgQ",
@@ -3678,12 +3652,7 @@
     "id": "UC9SBZ5xzzCRj5HOTcP4z1iA",
     "handle": "@HotelHecht",
     "name": "Christian Hüttenmoser",
-    "videos": [
-      {
-        "id": "jtLh8BdmHUU",
-        "title": "Hotel East West Basel"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC9UE5PYgoWAgDvIvTkD6dAg",
@@ -4280,126 +4249,6 @@
     "handle": "@WeatherItaly",
     "name": "Weather Sicily",
     "videos": [
-      {
-        "id": "eh2TYywtUyw",
-        "title": "🔴 Partinico live webcam - Panoramica Madonna del Ponte"
-      },
-      {
-        "id": "Lk8YtiFzpX0",
-        "title": "🔴 Cefalù live webcam - Panoramica Duomo"
-      },
-      {
-        "id": "9Q4S_71QFPQ",
-        "title": "🔴 Palermo Cattedrale live webcam - Panoramica Nord"
-      },
-      {
-        "id": "DgOcG9GZUrM",
-        "title": "🔴 Monte Cuccio (PA) live webcam - Palermo panoramica NW"
-      },
-      {
-        "id": "VKwVoa-RoOs",
-        "title": "🔴 Carlentini Nord live webcam – Panoramica Centro"
-      },
-      {
-        "id": "aGeigvLTqd8",
-        "title": "🔴 Palermo live webcam -  Panoramica Ponte Corleone"
-      },
-      {
-        "id": "MK9e2i2rAQQ",
-        "title": "🔴 Pace del Mela live webcam -  Panoramica Milazzo e isole Eolie"
-      },
-      {
-        "id": "Wn09_NYPtiA",
-        "title": "🔴 San Vito Lo Capo live webcam - Panoramica Monte Monaco"
-      },
-      {
-        "id": "Qqt0vGW7gY8",
-        "title": "🔴 Piano Battaglia live webcam, Madonie  - Panoramica pianoro da Chiesa Madonna delle Nevi"
-      },
-      {
-        "id": "VgCIW0Y2k1k",
-        "title": "🔴 Palermo Cattedrale live webcam - Panoramica NE"
-      },
-      {
-        "id": "SZ0UKQ0_YT0",
-        "title": "🔴 Bagheria Live Webcam (CMS) - Panoramica Nord-Ovest"
-      },
-      {
-        "id": "1gww3bvzjZM",
-        "title": "🔴 Menfi - live webcam  - Tenuta PupoRosso"
-      },
-      {
-        "id": "gQf_CfzU-JU",
-        "title": "🔴Roccafiorita live webcam - Panoramica Piazza"
-      },
-      {
-        "id": "eriKvF8s9Po",
-        "title": "🔴 San Pier Marina live webcam - Contrada Messinese"
-      },
-      {
-        "id": "qiwTPUxLrqg",
-        "title": "🔴 Golfo di Patti - Tindari - live webcam  - Panoramica est"
-      },
-      {
-        "id": "OzVfuWy9e9c",
-        "title": "🔴 Caccamo live webcam - Piazza Guglielmo Marconi"
-      },
-      {
-        "id": "K9c0sur63b0",
-        "title": "🔴 Palermo Ovest live webcam - Panoramica Nord"
-      },
-      {
-        "id": "9AGaPj5f_4Q",
-        "title": "🔴 Isola delle Femmine live webcam - Panoramica Isolotto N/NO"
-      },
-      {
-        "id": "Ky-4Zv21Rew",
-        "title": "🔴 Montagna Longa live webcam - Panoramica golfo di Carini"
-      },
-      {
-        "id": "knfTPmkliFU",
-        "title": "🔴 San Biagio Platani live webcam - Panoramica Valle del Platani e Muxaro"
-      },
-      {
-        "id": "iOR1htkbkNI",
-        "title": "🔴 Santa Venerina live webcam - Panoramica Etna"
-      },
-      {
-        "id": "ydfQCFdqSms",
-        "title": "🔴 Caccamo live webcam - Panoramica dal ristorante A' Castellana"
-      },
-      {
-        "id": "gmvV9D9tOGA",
-        "title": "🔴 Piazza Armerina live webcam - Panoramica Duomo e Castello Aragonese"
-      },
-      {
-        "id": "HacMC99wbuM",
-        "title": "🔴 Agira live webcam - Panoramica Paese/Etna"
-      },
-      {
-        "id": "rfIknGZ4VzA",
-        "title": "🔴 Sant'Angelo di Brolo live Webcam - Panoramica"
-      },
-      {
-        "id": "GtvCsjQ2tWI",
-        "title": "🔴 Mazara del Vallo live webcam (CMS) - Panoramica Sud"
-      },
-      {
-        "id": "L2UC_SlIn3Q",
-        "title": "🔴 Mazara del Vallo live webcam (CMS) - Panoramica Nord"
-      },
-      {
-        "id": "95xWpwnkzsI",
-        "title": "🔴 Poggio Rotondo live webcam - Panoramica 360°"
-      },
-      {
-        "id": "LTpgADiCpLc",
-        "title": "🔴 Poggio Rotondo live webcam - Panoramica Madonnina"
-      },
-      {
-        "id": "tVKIhFWy4zI",
-        "title": "🔴 Ragusa live webcam - Panoramica Centro"
-      },
       {
         "id": "ofZCVKTI_Tw",
         "title": "🔴 Caltanissetta live webcam - Panoramica SSE"
@@ -5260,12 +5109,7 @@
     "id": "UCEZ7PO6RObVv2kTT1D6zibQ",
     "handle": "@FitchburgTV",
     "name": "Fitchburg Access TV - FATV",
-    "videos": [
-      {
-        "id": "liNviF0C_Bc",
-        "title": "Downtown Fitchburg Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCEZakpc_Sk9v4PU-LqzLXOA",
@@ -5630,7 +5474,12 @@
     "id": "UCFbd69s_b63mA7qvpnG6U8Q",
     "handle": "@news8nowcitycam282",
     "name": "News 8 Now City Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "Jbx6mvYR7A4",
+        "title": "News 8 Now City Cam Live Stream"
+      }
+    ]
   },
   {
     "id": "UCFxb1RXdYBFqM7a_8GlfxMQ",
@@ -6097,7 +5946,12 @@
     "id": "UCHK0N8yzh1DR1NWo7sXoxRg",
     "handle": "@livestreamsjgata1425",
     "name": "Livestream Sjøgata 1",
-    "videos": []
+    "videos": [
+      {
+        "id": "04jMCyigPQM",
+        "title": "Bodø Havn - Sjøgata 1 - Live"
+      }
+    ]
   },
   {
     "id": "UCHLcaDrJQkesqdu2IpwGRoA",
@@ -8013,7 +7867,12 @@
     "id": "UCOGzru-qFCrrpRUStnnCjfg",
     "handle": "@hollandheimau8978",
     "name": "Hollandheim Au",
-    "videos": []
+    "videos": [
+      {
+        "id": "JekBM4fw5N0",
+        "title": "Webcam Hollandheim AU"
+      }
+    ]
   },
   {
     "id": "UCORHd1urdBsokSftmLlrRMg",
@@ -8544,7 +8403,12 @@
     "id": "UCQc7Ol2itgbnMXPjZmPdRRQ",
     "handle": "@AaronPreslin",
     "name": "Aaron Preslin",
-    "videos": []
+    "videos": [
+      {
+        "id": "jgVukNjt8TI",
+        "title": "Cincinnati Skyline, Ohio River, Brent Spence Bridge - Livestream from Covington, Kentucky"
+      }
+    ]
   },
   {
     "id": "UCQmlVF-VRx75AflM-9gJytg",
@@ -9315,7 +9179,48 @@
     "id": "UCT4jEYvUdpdN9oUALaypGfQ",
     "handle": "@taitungamazing7249",
     "name": "Amazing Taitung 台東就醬玩",
-    "videos": []
+    "videos": [
+      {
+        "id": "BUJJaW0vkJs",
+        "title": "【4K】台東鯉魚山即時影像 Taitung Liyu (Carp) Mountain Live Camera"
+      },
+      {
+        "id": "LSkq-wHMxQY",
+        "title": "【4K】台東南橫埡口即時影像 Taitung Southern Cross-Island Yakou Live Camera"
+      },
+      {
+        "id": "6kUEK3LVrro",
+        "title": "【4K】台東池上天堂路即時影像 Taitung Chihshang Live Camera"
+      },
+      {
+        "id": "9QqBz3kNHis",
+        "title": "【4K】台東金崙大橋即時影像 Taitung Jinlun Bridge Live Camera"
+      },
+      {
+        "id": "TY4qQElcUrA",
+        "title": "【4K】台東華源曙光觀景台即時影像 Taitung Huayuan Live Camera"
+      },
+      {
+        "id": "D945F_dauls",
+        "title": "【4K】台東富岡漁港即時影像 Taitung Fugang Fishing Port Live Camera"
+      },
+      {
+        "id": "VqS_Y8ZCj6M",
+        "title": "【4K】台東杉原灣即時影像 Taitung Shanyuan Bay Live Camera"
+      },
+      {
+        "id": "Rsq95SQ26bY",
+        "title": "【4K】台東富山即時影像 Taitung Fushan Area Live Camera"
+      },
+      {
+        "id": "q3KJt-SZc2s",
+        "title": "【4K】Taitung Jinzun Live Camera in Taiwan | Realtime Sea/Surf Conditions | Surfing"
+      },
+      {
+        "id": "UCG1aXVO8H8",
+        "title": "【4K】Duoliang Train Station Live Camera in Taitung, Taiwan"
+      }
+    ]
   },
   {
     "id": "UCT7oADZixDIEzbUtWFNA-QA",
@@ -9766,12 +9671,7 @@
     "id": "UCW1DIPA5POQZ1Jh1x_vl_uQ",
     "handle": "@wickinnbc",
     "name": "Wickaninnish Inn",
-    "videos": [
-      {
-        "id": "K40YWW7ADlU",
-        "title": "Wickaninnish Inn Live Stream [With Audio]"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCW3Vc0gEOccJrQC-a25nGdg",
@@ -12322,12 +12222,7 @@
     "id": "UCgGmACGEil_QEVQOKOBPJrg",
     "handle": "@SquirrelNestLive",
     "name": "SquirrelNest Live",
-    "videos": [
-      {
-        "id": "6Gf23W0fUb4",
-        "title": "SquirrelNest.Live 🔴24/7 200 squirrel cameras real-time live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgHSWWpejV6K7hz6Q08fJpQ",
@@ -14006,7 +13901,12 @@
     "id": "UCliCEXR9eSmY9PDb2lXov7Q",
     "handle": "@kystverketWEB",
     "name": "kystverketWEB",
-    "videos": []
+    "videos": [
+      {
+        "id": "5SDUaXu1ZzE",
+        "title": "Saltstraumen Live"
+      }
+    ]
   },
   {
     "id": "UClkczhHdkCogS9eXg2E5s0w",
@@ -14856,6 +14756,10 @@
     "name": "webcamsdemexico",
     "videos": [
       {
+        "id": "DOac8uI_UI0",
+        "title": "#BellasArtes | Asi luce el trafico en eje central #envivo"
+      },
+      {
         "id": "DTXoXblmqvI",
         "title": "#Zócalo | Ahora esta vacia la explanada #Envivo"
       },
@@ -15274,16 +15178,7 @@
     "id": "UCp1ojgNJ8mNWdMDsdcMRA2Q",
     "handle": "@StGeorgeTower",
     "name": "St. George Tower",
-    "videos": [
-      {
-        "id": "qzXMkyECpgc",
-        "title": "Live NYC Lower Manhattan & New York Harbor Cam"
-      },
-      {
-        "id": "E1DCn9t5FYw",
-        "title": "Live NYC Brooklyn Bridge & Manhattan cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCp2wwvvhIxKlh44p7tH-s_w",
@@ -16886,12 +16781,7 @@
     "id": "UCtyNVinZ7tfjgWoeApTmlkQ",
     "handle": "@flamingoland",
     "name": "Flamingo Land Resort",
-    "videos": [
-      {
-        "id": "wwXpybGNqc0",
-        "title": "Flamingo Land Resort Live Stream - Black Rhino Calf Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtzYRypg21-R2suTVCetlbg",
@@ -17337,7 +17227,12 @@
     "id": "UCusqc5EFvvYqXgBaeoIAyJw",
     "handle": "@lasraicesranch",
     "name": "Las Raices Ranch",
-    "videos": []
+    "videos": [
+      {
+        "id": "nQNqfuE7Ki0",
+        "title": "🔴24/7 Live South Texas Deer Feeder Cams"
+      }
+    ]
   },
   {
     "id": "UCuv7xqb-jo3HEFMIVLTY_CA",
@@ -18128,12 +18023,7 @@
     "id": "UCyJ_WqTXFf1Wx6YiBR9CHxw",
     "handle": "@rogerstokes3320",
     "name": "Roger Stokes",
-    "videos": [
-      {
-        "id": "Vi87V5GSFXw",
-        "title": "Woodbury webcam live!"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCycdLbuODd-iBKVR13zfPsg",
