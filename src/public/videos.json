@@ -936,6 +936,10 @@
     "name": "Webcamtaxi",
     "videos": [
       {
+        "id": "xlilwKb77k4",
+        "title": "LIVE: Caniçal HD Webcam Stream, Madeira, Portugal | Webcamtaxi"
+      },
+      {
         "id": "hy7r_OLW5I8",
         "title": "LIVE: Madalena do Mar Webcam - Bar La Fronteira | Banana Plantations, Webcamtaxi"
       },
@@ -1626,12 +1630,7 @@
     "id": "UC3rYbSIKpTUuZJNl7GmFxqA",
     "handle": "@FairmontThePalm",
     "name": "Fairmont Palm",
-    "videos": [
-      {
-        "id": "7dE4IjDQJmE",
-        "title": "Fairmont The Palm"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC3yyv3A3atZf0d0ybFMrhbw",
@@ -1724,12 +1723,7 @@
     "id": "UC4Wd3aS1XKA39dCveZExSkg",
     "handle": "@oneandmoreaviation",
     "name": "One and More Aviation ",
-    "videos": [
-      {
-        "id": "Hl5J7z6GtPM",
-        "title": "🔴Live Planespotting Frankfurt Airport Startbahn West 🌬️"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC4WyazHccYZmCf-rLpAYXtg",
@@ -1851,10 +1845,6 @@
       {
         "id": "NLwA0vCnNA8",
         "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
-      },
-      {
-        "id": "PKMeqHoiVOM",
-        "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
       }
     ]
   },
@@ -2918,10 +2908,6 @@
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
       {
-        "id": "rj3Y5GH70Lw",
-        "title": "Rosary from Lourdes - 26/03/2026"
-      },
-      {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
       },
@@ -3941,7 +3927,96 @@
     "id": "UCARB8y6PuoOBjZXJKIG-LDw",
     "handle": "@TaoyuanTravel",
     "name": "Taoyuan Travel | Taiwan",
-    "videos": []
+    "videos": [
+      {
+        "id": "3JzbzXqusDg",
+        "title": "【4K】The Baling Malun Fort Observation Deck Live Cam 巴陵馬崙砲台觀景平台即時影像"
+      },
+      {
+        "id": "44JArbF682k",
+        "title": "【4K】Xucuogang Wetland Live Cam 許厝港濕地即時影像"
+      },
+      {
+        "id": "PJWye36lEj4",
+        "title": "Xiao Wulai Panoramic Lookout Live Cam 小烏來寰宇平台即時影像"
+      },
+      {
+        "id": "0D6QgDOdI6c",
+        "title": "【2K】Taiwan Taoyuan International Airport (TPE/RCTP)｜Dual View with Flight Info｜桃園國際機場｜凱悅酒店｜動態資訊頻道"
+      },
+      {
+        "id": "68GFgzQxrXs",
+        "title": "【4K】Taiwan Taoyuan International Airport (TPE/RCTP)｜ Live Camera ｜桃園國際機場｜桃園國際機場凱悅酒店"
+      },
+      {
+        "id": "BxMeMnX6Qqw",
+        "title": "【4K】Taiwan Taoyuan International Airport (TPE/RCTP) ｜Live Camera 3｜桃園國際機場｜大古山"
+      },
+      {
+        "id": "nV-DKquUjFs",
+        "title": "Taoyuan Baling Live Cam"
+      },
+      {
+        "id": "EUOp2LchPQM",
+        "title": "Amuping Ginger Island Live Cam in Taiwan"
+      },
+      {
+        "id": "pSQ0e-ZTZ5g",
+        "title": "Cihu Memorial Sculpture Park Live Cam"
+      },
+      {
+        "id": "GUCaVR88ZFU",
+        "title": "Shihmen Reservoir Live Cam"
+      },
+      {
+        "id": "XUWjAsajKXg",
+        "title": "Taoyuan Daxi Old Street Live Cam"
+      },
+      {
+        "id": "XEbo8NzMTbQ",
+        "title": "Jiaobanshan Eco Pond Live Cam"
+      },
+      {
+        "id": "-xT1bZhWLuU",
+        "title": "Jiaobanshan Plum Orchard Live Cam"
+      },
+      {
+        "id": "yQSmajHyMhU",
+        "title": "Hutoushan Owl Forest School Live Cam"
+      },
+      {
+        "id": "oFJ6gCaBb_Q",
+        "title": "Daxi Bridge Live Cam"
+      },
+      {
+        "id": "5YDXZ1aiR5Y",
+        "title": "Three Swimming Turtles Live Cam"
+      },
+      {
+        "id": "3Za9y4z_Lzc",
+        "title": "Jiaobanshan Siqin Pavilion Live Cam 角板山思親亭即時影像"
+      },
+      {
+        "id": "neaiCec1kec",
+        "title": "Xiao Wulai Skywalk Live Cam 小烏來天空步道即時影像"
+      },
+      {
+        "id": "tu_gsIkNt-w",
+        "title": "Hutoushan Environmental Park Live Cam"
+      },
+      {
+        "id": "YkIUZjVlhv4",
+        "title": "Taoyuan Lala Mountain Live Cam"
+      },
+      {
+        "id": "91PfFoqvuUk",
+        "title": "【4K】Taiwan Taoyuan International Airport (TPE/RCTP) Live Camera 24/7"
+      },
+      {
+        "id": "tD_a03trUvE",
+        "title": "【4K】Yongan Fishing Harbor Live Cam 永安漁港即時影像"
+      }
+    ]
   },
   {
     "id": "UCAV73DI_2oWdCWCJvUerUdQ",
@@ -4018,7 +4093,28 @@
     "id": "UCArs3YQib0gUuv5SVrjjtCQ",
     "handle": "@NamibiaLifeStream",
     "name": "Namibia LifeStream",
-    "videos": []
+    "videos": [
+      {
+        "id": "U5EsLXtxSSw",
+        "title": "Namibia live stream at idyllic Zambezi Mubala Camp"
+      },
+      {
+        "id": "C6kb6vH14xY",
+        "title": "Namibia: Live Swakopmund Lighthouse stream"
+      },
+      {
+        "id": "tIkzqrljpB4",
+        "title": "Namibia: Live feed from the Zambezi River"
+      },
+      {
+        "id": "MiqjRqyla70",
+        "title": "LIVE 24/7: Swakopmund Jetty 1905 | Atlantic Ocean Views from Namibia"
+      },
+      {
+        "id": "h7yL-ltAb_M",
+        "title": "Windhoek: 24/7 Live stream in Windhoek, Namibia"
+      }
+    ]
   },
   {
     "id": "UCAupQASEG4kt6oXHe0Xwd9Q",
@@ -4796,8 +4892,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "X48khQwfr78",
-        "title": "【 Archive】 2026-03-26『21:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "INufraaWTmM",
+        "title": "【 Archive】 2026-03-27『00:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -5049,12 +5145,7 @@
     "id": "UCDUMVSw1K-ejDIoMe1fvF2Q",
     "handle": "@explorehavredegrace2109",
     "name": "Explore Havre de Grace",
-    "videos": [
-      {
-        "id": "uOC4CPHiOFM",
-        "title": "Decoy Cam - Havre de Grace Maryland"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDfzWJUphLWin6P9D4cUv0A",
@@ -6900,6 +6991,10 @@
     "name": "PAMICO CZECH, s.r.o.",
     "videos": [
       {
+        "id": "Z690-NqNs4Q",
+        "title": "Přímý přenos zasedání zastupitelstva města Turnov"
+      },
+      {
         "id": "H2ZyexyYhr0",
         "title": "Sportovní areál - Maškova zahrada, Turnov"
       },
@@ -7886,7 +7981,7 @@
     "videos": [
       {
         "id": "NjslOayX11o",
-        "title": "Webcam Live Rieti 4K – Diretta dal Centro Storico | Meteo, Notizie e Panorama in Tempo Reale"
+        "title": "Webcam Live Rieti in Diretta 4K dal Centro Storico | Meteo, Notizie e Panorama in Tempo Reale"
       }
     ]
   },
@@ -8136,24 +8231,7 @@
     "id": "UCPH1SsIWbdm59B0YVoqw8gQ",
     "handle": "@oudenaardestad",
     "name": "Stad Oudenaarde",
-    "videos": [
-      {
-        "id": "t8yfSxNO73o",
-        "title": "Live Camera Walburga"
-      },
-      {
-        "id": "TTrzSdVej30",
-        "title": "Webcam vLeeshuis Oudenaarde Markt"
-      },
-      {
-        "id": "nxf7jZWtAO8",
-        "title": "Slechtvalken Oudenaarde Walburga overzicht"
-      },
-      {
-        "id": "9vuGu8oZSGo",
-        "title": "Slechtvalken Oudenaarde Walburga"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCPPFGmTUyM4iDIgp2_zJi5g",
@@ -9160,12 +9238,7 @@
     "id": "UCSFrrg7k1zpt5JvQ96KjRqg",
     "handle": "@SnooksBaysideKeyLargo",
     "name": "Snook&#39;s Bayside Restaurant &amp; Grand Tiki",
-    "videos": [
-      {
-        "id": "tIYUOWF1N4s",
-        "title": "🔴 LIVE Snook's Bayside Key Largo Florida"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCSGpRUfc4CaBpZlaXA6tr0w",
@@ -9260,7 +9333,48 @@
     "id": "UCT4jEYvUdpdN9oUALaypGfQ",
     "handle": "@taitungamazing7249",
     "name": "Amazing Taitung 台東就醬玩",
-    "videos": []
+    "videos": [
+      {
+        "id": "BUJJaW0vkJs",
+        "title": "【4K】台東鯉魚山即時影像 Taitung Liyu (Carp) Mountain Live Camera"
+      },
+      {
+        "id": "LSkq-wHMxQY",
+        "title": "【4K】台東南橫埡口即時影像 Taitung Southern Cross-Island Yakou Live Camera"
+      },
+      {
+        "id": "6kUEK3LVrro",
+        "title": "【4K】台東池上天堂路即時影像 Taitung Chihshang Live Camera"
+      },
+      {
+        "id": "9QqBz3kNHis",
+        "title": "【4K】台東金崙大橋即時影像 Taitung Jinlun Bridge Live Camera"
+      },
+      {
+        "id": "TY4qQElcUrA",
+        "title": "【4K】台東華源曙光觀景台即時影像 Taitung Huayuan Live Camera"
+      },
+      {
+        "id": "D945F_dauls",
+        "title": "【4K】台東富岡漁港即時影像 Taitung Fugang Fishing Port Live Camera"
+      },
+      {
+        "id": "VqS_Y8ZCj6M",
+        "title": "【4K】台東杉原灣即時影像 Taitung Shanyuan Bay Live Camera"
+      },
+      {
+        "id": "Rsq95SQ26bY",
+        "title": "【4K】台東富山即時影像 Taitung Fushan Area Live Camera"
+      },
+      {
+        "id": "q3KJt-SZc2s",
+        "title": "【4K】Taitung Jinzun Live Camera in Taiwan | Realtime Sea/Surf Conditions | Surfing"
+      },
+      {
+        "id": "UCG1aXVO8H8",
+        "title": "【4K】Duoliang Train Station Live Camera in Taitung, Taiwan"
+      }
+    ]
   },
   {
     "id": "UCT7oADZixDIEzbUtWFNA-QA",
@@ -9288,7 +9402,20 @@
     "id": "UCTHlXiRiln7-lSXPh2xFbOw",
     "handle": "@lukaszpal",
     "name": "Łukasz Paluch",
-    "videos": []
+    "videos": [
+      {
+        "id": "70QjeKRWTz0",
+        "title": "Park Muzyczny Kudowa Zdrój"
+      },
+      {
+        "id": "QNjECc8CY8I",
+        "title": "Park Zdrojowy - Pijalnia wód mineralnych Kudowa Zdrój"
+      },
+      {
+        "id": "li7-isY-kvk",
+        "title": "Park Zdrojowy Kudowa Zdrój"
+      }
+    ]
   },
   {
     "id": "UCTLF36lXVM7uiR-VolWHv0Q",
@@ -9786,7 +9913,16 @@
     "id": "UCWh93l9snW90iP2ybPHikAg",
     "handle": "@djumacam",
     "name": "Djuma Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "RmAeEvZJXEY",
+        "title": "Djuma Cam Live Stream"
+      },
+      {
+        "id": "Yhi6KPL4Lmk",
+        "title": "Djuma Ad Free Members Stream"
+      }
+    ]
   },
   {
     "id": "UCWoKJ5pXD_mxTEjJ5Q6bWSA",
@@ -10934,12 +11070,7 @@
     "id": "UCayE6-RHoYoIcnqp36o4Rjg",
     "handle": "@sebinkarahisarbelediyesi9536",
     "name": "Sebinkarahisar Belediyesi",
-    "videos": [
-      {
-        "id": "uN2iuxAgZ-o",
-        "title": "Şebinkarahisar Belediyesi-  Meydan Canlı Yayın"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCb7muRFDUn2QtNMbBVpdKRw",
@@ -12562,12 +12693,7 @@
     "id": "UChDKyKQ59fYz3JO2fl0Z6sg",
     "handle": "@TODAY",
     "name": "TODAY",
-    "videos": [
-      {
-        "id": "-AX4HvCyH9Y",
-        "title": "Watch celebrity interviews, entertaining tips and TODAY Show exclusives | TODAY All Day - March 26"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UChFbxcSq9iCfdbu-twIfGuw",
@@ -12733,7 +12859,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "XgNrxInlP1Y",
+        "id": "8xWptnLVx50",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -12743,10 +12869,6 @@
     "handle": "@ExploreAfrica",
     "name": "Explore Africa",
     "videos": [
-      {
-        "id": "KsR7RrNGwmY",
-        "title": "Cats, Terrapins & Hippos | Wild Moments | March 26"
-      },
       {
         "id": "u5eVtSg2Skg",
         "title": "Lola ya Bonobo Sanctuary Nursery powered by EXPLORE.org"
@@ -12903,7 +13025,12 @@
     "id": "UCiijK6RLOIB3FqrLs-uBphg",
     "handle": "@catinnhotel8295",
     "name": "Cat Inn hotel",
-    "videos": []
+    "videos": [
+      {
+        "id": "DutLvxSDR20",
+        "title": "Cat Inn hotel pro kočky"
+      }
+    ]
   },
   {
     "id": "UCiizs91Obdveqoce7kSmImA",
@@ -15184,12 +15311,7 @@
     "id": "UCos52azQNBgW63_9uDJoPDA",
     "handle": "@SaudiQuranTv",
     "name": "The official channel of KSA Qur’an TV ",
-    "videos": [
-      {
-        "id": "Cm1v4bteXbI",
-        "title": "بث مباشر || قناة القرآن الكريم Makkah Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCox5yCEEjk4iYbhLgyj90EQ",
@@ -15375,12 +15497,7 @@
     "id": "UCpDwGh4oXSWjKJJl6-kyfHg",
     "handle": "@customshouse1897",
     "name": "Customs House 1897🇨🇦",
-    "videos": [
-      {
-        "id": "65ok_oXh1tc",
-        "title": "Tilley Cam -  24/7 Harbour Cam - Port aux Basques, Newfoundland - Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCpI9GLMAgiGTKyFnsmbptuQ",
@@ -18220,12 +18337,7 @@
     "id": "UCzMF3muEGLXPQxzqALn7Tqw",
     "handle": "@fmagris",
     "name": "Magris Maniago",
-    "videos": [
-      {
-        "id": "JJ7lyxHblbQ",
-        "title": "Maniago Live Webcam by Magris Maniago"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCzQdo4UCx-oWrJ8Gsi9ZHvQ",
