@@ -1684,12 +1684,7 @@
     "id": "UC4Wd3aS1XKA39dCveZExSkg",
     "handle": "@oneandmoreaviation",
     "name": "One and More Aviation ",
-    "videos": [
-      {
-        "id": "XakuA7IMqdc",
-        "title": "🔴LIVE Late Night Planespotting Jubiläums-Flieger im Doppelpack 🛫LH500 & LH510"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC4WyazHccYZmCf-rLpAYXtg",
@@ -1800,10 +1795,6 @@
     "handle": "@AssociatedPress",
     "name": "Associated Press",
     "videos": [
-      {
-        "id": "RfrsxBtbyLk",
-        "title": "LIVE: House Committee on Rules holds hearing on DHS funding"
-      },
       {
         "id": "MIk_Aef-vj8",
         "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
@@ -2541,12 +2532,7 @@
     "id": "UC6q_hfBThkGdmQ5Vb4kWjWA",
     "handle": "@FlightFocus365",
     "name": "Flight Focus 365",
-    "videos": [
-      {
-        "id": "dfSLffACZBg",
-        "title": "Heathrow Airport Live - Friday 27th March 2026"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC6qrG3W8SMK0jior2olka3g",
@@ -3006,7 +2992,12 @@
     "id": "UC8KzFXemTswvmHoF629Xxsg",
     "handle": "@Toren7-IT",
     "name": "Toren7 Roermond",
-    "videos": []
+    "videos": [
+      {
+        "id": "S5E4thbsGSQ",
+        "title": "Toren7 Webcam Roermond"
+      }
+    ]
   },
   {
     "id": "UC8L4JthSgl9UzC2niY2ZfIA",
@@ -3024,126 +3015,6 @@
     "handle": "@ExploreBirds",
     "name": "Explore Birds Bats Bees",
     "videos": [
-      {
-        "id": "PCarPD6ha9g",
-        "title": "Live Hummingbird Nest | Joy Hummingbird powered by EXPLORE.org"
-      },
-      {
-        "id": "PbMU7UbONbU",
-        "title": "Live Hummingbird Nest | Beatrix Hummingbird powered by EXPLORE.org"
-      },
-      {
-        "id": "2FdvAk95PSk",
-        "title": "Great Green Macaw Nest - Sarapiquí Rainforest Reserve powered by  EXPLORE.org"
-      },
-      {
-        "id": "vjpj_DXODdA",
-        "title": "Ash Canyon Bird Sanctuary Viewing Area powered by EXPLORE.org"
-      },
-      {
-        "id": "AwlpXN2QyjM",
-        "title": "Ash Canyon Bird Sanctuary, Back Porch powered by EXPLORE.org"
-      },
-      {
-        "id": "lxgZvK6vrC4",
-        "title": "Ventana Wildlife Society Condor Pen cam powered by EXPLORE.org"
-      },
-      {
-        "id": "ietpaFoB_Nc",
-        "title": "Macaw Feeder High Camera powered by EXPLORE.org"
-      },
-      {
-        "id": "vLscZvIFiLg",
-        "title": "Macaw Feeder Low Camera"
-      },
-      {
-        "id": "X5Kubf-twKw",
-        "title": "Panama Hummingbird Feeder at Canopy Tower powered by EXPLORE.org"
-      },
-      {
-        "id": "wfuqjSNXZ14",
-        "title": "West End Bald Eagle Nest Low Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "cbF00ol0glc",
-        "title": "Big Sur Condor Nest powered by EXPLORE.org"
-      },
-      {
-        "id": "QoKy-rn66og",
-        "title": "Philippine Eagles Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "OY4V_AppZ6s",
-        "title": "Fraser Point Bald Eagle Nest 2 powered by EXPLORE.org"
-      },
-      {
-        "id": "xWygD7kHTbY",
-        "title": "Long-Eared Owl powered by EXPLORE.org"
-      },
-      {
-        "id": "T1qVUbMVuU4",
-        "title": "Big Sur Condor Roost powered by EXPLORE.org"
-      },
-      {
-        "id": "ZXqeAhQDIfQ",
-        "title": "Owl Research Institute Farm Roost Camera powered by EXPLORE.org"
-      },
-      {
-        "id": "VfFfS64rtZE",
-        "title": "Panama Fruit Feeder Cam at Canopy Lodge powered by EXPLORE.org"
-      },
-      {
-        "id": "mZMEkuxAskU",
-        "title": "Toucan TV powered by EXPLORE.org"
-      },
-      {
-        "id": "wDYrRVUPWRo",
-        "title": "Audubon's Rowe Sanctuary's Crane Camera powered by EXPLORE.org"
-      },
-      {
-        "id": "IVmL3diwJuw",
-        "title": "Decorah Eagles powered by EXPLORE.org"
-      },
-      {
-        "id": "rnTsOesC6hE",
-        "title": "Sauces Bald Eagle - Channel Islands National Park Cams powered by EXPLORE.org"
-      },
-      {
-        "id": "E5T2eHM8tcI",
-        "title": "Two Harbors Bald Eagle Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "ojBaem3bwsE",
-        "title": "The Giant Flying Fox Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "zH0IM95ia5w",
-        "title": "The Mixed Species Flying Fox cam  powered by EXPLORE.org"
-      },
-      {
-        "id": "o49SYbWxWE0",
-        "title": "Honey Bee Landing Zone powered by Explore.org"
-      },
-      {
-        "id": "zpkN0ycubDs",
-        "title": "Honey Bee Hive powered by Explore.org"
-      },
-      {
-        "id": "Hkj9L-HKXJU",
-        "title": "Mississippi River Flyway Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "2yx7RKxpyzQ",
-        "title": "Two Harbors Overlook powered by EXPLORE.org"
-      },
-      {
-        "id": "DB4LDyWHawY",
-        "title": "Friends of Sacramento National Wildlife Refuge powered by EXPLORE.org"
-      },
-      {
-        "id": "1a1z4M80BXg",
-        "title": "Condor Sanctuary in San Simeon powered by EXPLORE.org"
-      },
       {
         "id": "VOFTpk2O-8U",
         "title": "Big Sur Condors powered by EXPLORE.org"
@@ -5025,7 +4896,16 @@
     "id": "UCDDsYIl-_S2mtI1wlVU1VFw",
     "handle": "@CityofBettendorfIowa",
     "name": "City of Bettendorf, Iowa",
-    "videos": []
+    "videos": [
+      {
+        "id": "8Rp5JRSQOvk",
+        "title": "Bettendorf View of the I-74 Mississippi River Bridge"
+      },
+      {
+        "id": "OcJm3FjEeMY",
+        "title": "Bettendorf Duck Creek Web Camera"
+      }
+    ]
   },
   {
     "id": "UCDKFXJj-c-CL7dLBbLBs4ew",
@@ -5489,7 +5369,12 @@
     "id": "UCF2ZhA1YhnRaf-WdCiBuIyQ",
     "handle": "@MarekHaliniak",
     "name": "Marek Haliniak",
-    "videos": []
+    "videos": [
+      {
+        "id": "JMyS6YLXwfo",
+        "title": "Rondo Osiedlowe"
+      }
+    ]
   },
   {
     "id": "UCF5te9Y8oBT7oVJNyQkhWWQ",
@@ -6872,12 +6757,7 @@
     "id": "UCJk1ArOmeKdyMyvONIWPMfw",
     "handle": "@DeltaYacht",
     "name": "Delta Yacht",
-    "videos": [
-      {
-        "id": "dfjkuCg_uQY",
-        "title": "Delta Yacht Colijnsplaat Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCJruZ-KPJM2oJgQgEyHOS_A",
@@ -7142,7 +7022,12 @@
     "id": "UCKtFn0R-NGm6cocqdoGAQTA",
     "handle": "@YokohamaLiveCam",
     "name": "Live Cam Yokohama Japan",
-    "videos": []
+    "videos": [
+      {
+        "id": "bZ1sln1VoaA",
+        "title": "🔴Live Cam Yokohama Japan :横浜汽車道ライブカメラ"
+      }
+    ]
   },
   {
     "id": "UCKyXyJMijwyBebgI9wmzFcw",
@@ -8348,12 +8233,7 @@
     "id": "UCPp3S_agEGIvcEe9NynOjPw",
     "handle": "@neoguru",
     "name": "neoguru",
-    "videos": [
-      {
-        "id": "LSPN10FbR3U",
-        "title": "Platja d'Aro Center Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCPtt04sb9jTFj02tPcDYlFQ",
@@ -8440,12 +8320,7 @@
     "id": "UCQX5vohCVn-R4Jl1DFPItuA",
     "handle": "@nycferry",
     "name": "NYC Ferry",
-    "videos": [
-      {
-        "id": "1eO17Pp5T3o",
-        "title": "New York City East 34th Street Ferry East 34th Street Ferry Landing live webcam. East River. NYC."
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCQY024kp7zb5Ejogq2dhWUg",
@@ -8969,7 +8844,20 @@
     "id": "UCRiY_FP2PZHeWWuIsMKyxGA",
     "handle": "@lesarcs",
     "name": "Les Arcs",
-    "videos": []
+    "videos": [
+      {
+        "id": "SXXHa5SoAHo",
+        "title": "Les Arcs - Livecam Vagère"
+      },
+      {
+        "id": "B0vZX9GnpxI",
+        "title": "Les Arcs - Livecam Arc 2000"
+      },
+      {
+        "id": "BuB981VNriE",
+        "title": "Les Arcs - Livecam Varet"
+      }
+    ]
   },
   {
     "id": "UCRjMuOBDCfSsCNIe2p0_tdg",
@@ -10813,24 +10701,7 @@
     "id": "UCaLNBpVCnRQ129Ow2MaMtew",
     "handle": "@como_cam",
     "name": "Como Cam",
-    "videos": [
-      {
-        "id": "tttUK6YK48U",
-        "title": "Rifugio Menaggio dal vivo - Bellagio - Lake Como - Italy"
-      },
-      {
-        "id": "B2tGMIVbGyg",
-        "title": "Menaggio - Piazza Garibaldi -"
-      },
-      {
-        "id": "LlVnKOue3-I",
-        "title": "Chiesetta degli Alpini, Croce di Menaggio. - Lake Como - Italy   Zoom"
-      },
-      {
-        "id": "DJed4o6GllY",
-        "title": "Camping La Riva - Sorico LIVE HD - Lake Como - Italy"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCaOzbC5fO6mLnc_3or3BMxg",
@@ -11433,12 +11304,7 @@
     "id": "UCdDu10MbdlkTZh6gJHw3kWg",
     "handle": "@visitblankenberge",
     "name": "Visit Blankenberge",
-    "videos": [
-      {
-        "id": "-3SMlcFv7II",
-        "title": "Webcam strand Blankenberge"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCdEfImN2pVE1bfdiC1Dy0hw",
@@ -12061,128 +11927,7 @@
     "id": "UCgAmmVZsZ4vfDH-vtWawaOg",
     "handle": "@NorwayLive",
     "name": "Norway Live",
-    "videos": [
-      {
-        "id": "-WkH_DfA8Q4",
-        "title": "Kongsberg Skimore LIVE"
-      },
-      {
-        "id": "aefUCQ2TH1Y",
-        "title": "Lofoten LIVE"
-      },
-      {
-        "id": "RIRzbxCBMto",
-        "title": "Hemsedal LIVE"
-      },
-      {
-        "id": "TPBIHbObzC0",
-        "title": "Fyr til Fyr LIVE"
-      },
-      {
-        "id": "LAbQT5zTXso",
-        "title": "Kirkerudbakken LIVE"
-      },
-      {
-        "id": "5PtA4b6A2po",
-        "title": "Norefjell LIVE"
-      },
-      {
-        "id": "6-V8dt887Fw",
-        "title": "Skimore LIVE"
-      },
-      {
-        "id": "7VXn9NpuSZk",
-        "title": "Oslo LIVE"
-      },
-      {
-        "id": "wFJzXxHqKVU",
-        "title": "Solheisen Hemsedal LIVE"
-      },
-      {
-        "id": "QTMXSlNd5k4",
-        "title": "Oppdal Skisenter LIVE"
-      },
-      {
-        "id": "OJneSeFqaaw",
-        "title": "Narvik Havn LIVE"
-      },
-      {
-        "id": "3xohetm5I7Y",
-        "title": "Marka LIVE"
-      },
-      {
-        "id": "BADzwd9b0RU",
-        "title": "Hafjell LIVE"
-      },
-      {
-        "id": "jpCcV1-Sfnw",
-        "title": "Tromsø LIVE"
-      },
-      {
-        "id": "ogH1z3eTi2Q",
-        "title": "Myrkdalen LIVE"
-      },
-      {
-        "id": "DLjrZmVE_y4",
-        "title": "Narvik LIVE"
-      },
-      {
-        "id": "6Usok3aloeU",
-        "title": "Sogndal LIVE"
-      },
-      {
-        "id": "7y-3iUYtBuU",
-        "title": "Gausta LIVE"
-      },
-      {
-        "id": "8EKxnxlagvI",
-        "title": "Beitostølen LIVE"
-      },
-      {
-        "id": "fNMABhX_1ew",
-        "title": "Nesfjellet LIVE."
-      },
-      {
-        "id": "dzvmJr3iOFg",
-        "title": "Skeikampen Live"
-      },
-      {
-        "id": "-SDV9JvXM0k",
-        "title": "Vassfjellet LIVE"
-      },
-      {
-        "id": "777orWSP718",
-        "title": "Voss LIVE"
-      },
-      {
-        "id": "ez20WljTN3k",
-        "title": "Utsikt LIVE"
-      },
-      {
-        "id": "A7mjcED5r2k",
-        "title": "SKI-TV (ALL RESORTS NORWAY) LIVE"
-      },
-      {
-        "id": "z_5NCwXPSqM",
-        "title": "Norway LIVE"
-      },
-      {
-        "id": "cA2K5ZjxQK8",
-        "title": "Rauland LIVE"
-      },
-      {
-        "id": "6LiukKeHyBc",
-        "title": "Drammen Skimore LIVE"
-      },
-      {
-        "id": "uUirqfUMK94",
-        "title": "Oslo Skimore LIVE"
-      },
-      {
-        "id": "5lWqAuytaG4",
-        "title": "Kvitfjell LIVE"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgB_8lC4ZwaYxMKhfDatXyw",
@@ -14783,7 +14528,12 @@
     "id": "UCoS1S0V-QdSl_xe29G8mKcQ",
     "handle": "@大丸有まちづくり協議会-b5v",
     "name": "大丸有まちづくり協議会",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZN4gh5IOowM",
+        "title": "東京駅丸の内口ライブカメラ"
+      }
+    ]
   },
   {
     "id": "UCoaT_geZ6GwRscQgOlchh_w",
@@ -15217,10 +14967,6 @@
     "handle": "@StGeorgeTower",
     "name": "St. George Tower",
     "videos": [
-      {
-        "id": "qzXMkyECpgc",
-        "title": "Live NYC Lower Manhattan & New York Harbor Cam"
-      },
       {
         "id": "E1DCn9t5FYw",
         "title": "Live NYC Brooklyn Bridge & Manhattan cam"
@@ -16729,96 +16475,7 @@
     "id": "UCtrwK-DOZGcQo9p1VwIkDZw",
     "handle": "@maaxcamaovivo",
     "name": "Maaxcam Ao Vivo",
-    "videos": [
-      {
-        "id": "6cTL38YvCbg",
-        "title": "Câmera ao vivo Porto de Galinhas - Maracaipe- Pousada La Bella Luna"
-      },
-      {
-        "id": "G-Xx6HlQ9K0",
-        "title": "Praia da Lagoinha do Norte- Florianópolis - Restaurante Canto da Lagoinha"
-      },
-      {
-        "id": "nqZ4s5dK0G0",
-        "title": "Praia Mole  Ao VIVO - Florianópolis - Bar do Boni"
-      },
-      {
-        "id": "CXKCXWiKgew",
-        "title": "Câmera ao Vivo Florianópolis - Praia dos Ingleses - Beach House Bistro&Lounge"
-      },
-      {
-        "id": "iVD75867Tko",
-        "title": "Câmera ao Vivo Florianópolis - Barra da lagoa"
-      },
-      {
-        "id": "v2pgkg12QIo",
-        "title": "Praia de Garopaba Ao Vivo - Kioque Côco Verde"
-      },
-      {
-        "id": "86FPHZLHYIA",
-        "title": "Câmera Ao Vivo Florianópolis - Santo Antônio de Lisboa"
-      },
-      {
-        "id": "K95WVgMOvCQ",
-        "title": "Câmera ao Vivo Florianópolis - Trapiche Beira Mar Norte"
-      },
-      {
-        "id": "vv4LDjPYHtY",
-        "title": "Câmera ao vivo em Florianópolis - Mirante Ilhalguma Lagoa da Conceição"
-      },
-      {
-        "id": "zPf2lh-ZChU",
-        "title": "Câmera ao vivo Praia do Santinho- Florianópolis - Restaurante Mar do Santinho"
-      },
-      {
-        "id": "6MteUqaYuVw",
-        "title": "Câmera ao vivo Florianópolis - Morro das pedras - Graffi Hostel & Bar"
-      },
-      {
-        "id": "TBJzToxEvmk",
-        "title": "Câmera AO VIVO Ponte Hercilio Luz - Florianópolis - Porto 1922 Cafés Especiais"
-      },
-      {
-        "id": "Dh7wdQWEZ_w",
-        "title": "Câmera ao vivo Praia de Palmas - Governador Celso Ramos SC - Pirata Pousada"
-      },
-      {
-        "id": "GO6f9JK9IGI",
-        "title": "Foz do Iguaçu ao vivo - Aduana - Estacionamento Tupy"
-      },
-      {
-        "id": "Ddq6uOSA5ug",
-        "title": "Porto de Galinhas ao vivo - Restaurante La Proa"
-      },
-      {
-        "id": "m32NqSfqjQM",
-        "title": "Câmera ao vivo São José - SC - Beira mar Gol"
-      },
-      {
-        "id": "I2Z8CE0o4F0",
-        "title": "SBFL Live ATC - Aeroporto Internacional de Florianópolis Ao vivo - Com Fonia - CTMEBOX Academia"
-      },
-      {
-        "id": "k9dpUbaMxVc",
-        "title": "Transito Ao Vivo São José/Palhoça -SC - Martelinho de Ouro Farah"
-      },
-      {
-        "id": "BFnC4he8Jnc",
-        "title": "Câmera ao vivo - Passarinhar ao vivo #cameraaovivo #passarinhar #passarinhar"
-      },
-      {
-        "id": "h47ThevafH4",
-        "title": "Paraty - Rio de Janeiro - Ao VIVO - BalacoBacco Beach Bar"
-      },
-      {
-        "id": "GFAEq2j3csQ",
-        "title": "Câmera ao Vivo Florianópolis  - Cachoeira do Bom Jesus"
-      },
-      {
-        "id": "EKIDgJrXOLQ",
-        "title": "Câmera ao vivo Jurerê Internacional - Restaurante Caravela"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtyNVinZ7tfjgWoeApTmlkQ",
