@@ -315,12 +315,7 @@
     "id": "UC-omrowFhBZ_gzNLhX8Hq4w",
     "handle": "@paulbunyanandbabetheblueox3329",
     "name": "Paul Bunyan and Babe the Blue Ox",
-    "videos": [
-      {
-        "id": "wHVsM4TQ-lA",
-        "title": "Paul Bunyan and Babe the Blue Ox Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC029bcZGqxOsRkvWrZLhgKQ",
@@ -432,12 +427,7 @@
     "id": "UC0aRUMUvwJ-7xx0mfNwhVZA",
     "handle": "@Akureyri_official",
     "name": "Akureyrarbær",
-    "videos": [
-      {
-        "id": "GXTycxKz_FQ",
-        "title": "Rósenborg"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC0djAWwMXP22wzocdJR9dWw",
@@ -752,14 +742,6 @@
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
       {
-        "id": "ko_Qs2ZxXag",
-        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
-      },
-      {
-        "id": "wMGq5C-99ow",
-        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
-      },
-      {
         "id": "JD0oBvZw4xk",
         "title": "🔴लाइव दर्शन श्री काशी विश्वनाथ धाम || Live Darshan From Shree Kashi Vishwanath Temple Varanasi"
       },
@@ -1002,12 +984,7 @@
     "id": "UC2RkL2eATR1V6H8g4eNfA5Q",
     "handle": "@SISEArgentina",
     "name": "SISE Argentina®",
-    "videos": [
-      {
-        "id": "XAMrn080pEU",
-        "title": "Camaras en Vivo Puente General Belgrano - SISE Argentina®"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC2Sk0aXLq3ADkH_USGPKT_Q",
@@ -1739,12 +1716,7 @@
     "id": "UC4WyazHccYZmCf-rLpAYXtg",
     "handle": "@rajyoginidadiratanmohini",
     "name": "Rajyogini Dadi Ratan Mohini ",
-    "videos": [
-      {
-        "id": "KmQrxaRSurQ",
-        "title": "मधुबन से Baba Room  LIVE 24X7"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC4XHkeozVrKRdkz319EzYDQ",
@@ -2352,12 +2324,12 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "4WxlDOJmtLM",
-        "title": "【イラン情勢まとめ】“最終攻撃”準備と報道/専門家“トランプ氏狙う「カーグ島」成果に戦闘停止の可能性”/トランプ氏 イラン発電所攻撃を10日間延期 など"
+        "id": "dWCx3RzmvJw",
+        "title": "【LIVE】最新ニュースまとめ（Japan News Digest）（3月27日）｜TBS NEWS DIG"
       },
       {
-        "id": "SOUx_bvXslY",
-        "title": "【LIVE】夜のニュース（Japan News Digest Live）最新情報など（3月27日）｜TBS NEWS DIG"
+        "id": "4WxlDOJmtLM",
+        "title": "【イラン情勢まとめ】“最終攻撃”準備と報道/専門家“トランプ氏狙う「カーグ島」成果に戦闘停止の可能性”/トランプ氏 イラン発電所攻撃を10日間延期 など"
       },
       {
         "id": "8PG-4pYVfy8",
@@ -4039,7 +4011,16 @@
     "id": "UCAY-GlV3P5twjg7B9tjx_lg",
     "handle": "@Scotventure",
     "name": "Alex  Explorer - Scotventure",
-    "videos": []
+    "videos": [
+      {
+        "id": "fKb7dUCuofs",
+        "title": "🔴LIVE - Fort William Live Webcam - Scotland - Loch Linnhe & West End Car Park"
+      },
+      {
+        "id": "j9w0shEwYQA",
+        "title": "🔴LIVE - Fort William Live Webcam - Scotland - Loch Linnhe & West End Car Park"
+      }
+    ]
   },
   {
     "id": "UCAfi6hcs4a9Zk1zNShCuxfA",
@@ -4702,7 +4683,84 @@
     "id": "UCBcW1jAsEnkjq9gQ7tuOhsQ",
     "handle": "@GreenlandAirports",
     "name": "Greenland Airports",
-    "videos": []
+    "videos": [
+      {
+        "id": "HVIUqiv7EmA",
+        "title": "Kangerlussuaq Airport West"
+      },
+      {
+        "id": "zjQSXHE9LwI",
+        "title": "Qaarsut Airport East"
+      },
+      {
+        "id": "YkgTXLdjGPc",
+        "title": "Qaarsut Airport West"
+      },
+      {
+        "id": "nT9QtAbaLg4",
+        "title": "Ilulissat Airport North"
+      },
+      {
+        "id": "EI27YpsNzSQ",
+        "title": "Ilulissat Airport South"
+      },
+      {
+        "id": "iHtgFGq9GNg",
+        "title": "Qaqortoq Heliport"
+      },
+      {
+        "id": "uR_XJZ6L0PI",
+        "title": "Sisimiut Airport Southeast"
+      },
+      {
+        "id": "FW417sPHDOc",
+        "title": "Sisimiut Airport Southwest"
+      },
+      {
+        "id": "MApnQlsX5AQ",
+        "title": "Nuuk Airport South"
+      },
+      {
+        "id": "hfF9bhaBuvw",
+        "title": "Tasiilaq Heliport"
+      },
+      {
+        "id": "fpaqR1d_K0g",
+        "title": "Kulusuk Airport East"
+      },
+      {
+        "id": "zlnqZxsAXOU",
+        "title": "Kulusuk Airport West"
+      },
+      {
+        "id": "H-pAdjY5MVY",
+        "title": "Narsaq Heliport"
+      },
+      {
+        "id": "JlLJ43nI9EQ",
+        "title": "Nanortalik Heliport"
+      },
+      {
+        "id": "UTUziLpJStY",
+        "title": "Uummannaq Heliport"
+      },
+      {
+        "id": "jNWh7FFUFOA",
+        "title": "Narsarsuaq Airport East"
+      },
+      {
+        "id": "8qjUhPCFA9o",
+        "title": "Narsarsuaq Airport West"
+      },
+      {
+        "id": "KWJD89He7v0",
+        "title": "Kangerlussuaq Airport East"
+      },
+      {
+        "id": "IZhDwv4dz0g",
+        "title": "Nuuk Airport North"
+      }
+    ]
   },
   {
     "id": "UCBekjy3cWsLpEjibeFYecLQ",
@@ -4799,8 +4857,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "ox3eJjMhXSI",
-        "title": "【Archive】 2026-03-27『18:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "-B5GMDJbuMQ",
+        "title": "【 Archive】 2026-03-27『21:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -7419,12 +7477,7 @@
     "id": "UCLwUcA69lv5tns6ct-ipiHA",
     "handle": "@BoathouseatNorthLanding",
     "name": "Boathouse at North Landing ",
-    "videos": [
-      {
-        "id": "KRbrYMocQ4g",
-        "title": "North Landing Weather Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCM0qV6ZHBkjxBokQepECyFg",
@@ -7954,7 +8007,12 @@
     "id": "UCOaW0M7OYKYHobYpci2HiWw",
     "handle": "@VilladelPalmarLoreto",
     "name": "VilladelPalmarLoreto",
-    "videos": []
+    "videos": [
+      {
+        "id": "0GwE1vu460k",
+        "title": "Live Cam from Villa del Palmar at the Islands of Loreto"
+      }
+    ]
   },
   {
     "id": "UCOjscjEL-lGZVP-2uooEuCA",
@@ -8086,24 +8144,7 @@
     "id": "UCPAgksFpFLJDVyMcIYsbz3A",
     "handle": "@KoksijdeOostduinkerke",
     "name": "Koksijde-Oostduinkerke",
-    "videos": [
-      {
-        "id": "ORfGhqVNNVc",
-        "title": "Webcam Sint-Idesbald"
-      },
-      {
-        "id": "UjntYig_VrQ",
-        "title": "Webcam Duinenhuis"
-      },
-      {
-        "id": "5Uqw_G_IdjE",
-        "title": "Webcam Koksijde-Bad"
-      },
-      {
-        "id": "wqWoNyCAvss",
-        "title": "Webcam Oostduinkerke-Bad"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCPH1SsIWbdm59B0YVoqw8gQ",
@@ -8305,12 +8346,7 @@
     "id": "UCPdDNVBL_WBd6X2Wt8DuIDA",
     "handle": "@LazyDaysIslamorada",
     "name": "Lazy Days Islamorada",
-    "videos": [
-      {
-        "id": "Bxy3g5WfYbg",
-        "title": "🔴 LIVE Lazy Days Islamorada Florida"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCPp3S_agEGIvcEe9NynOjPw",
@@ -8372,6 +8408,10 @@
     "handle": "@DailySeoul",
     "name": "Daily Seoul Live Camera - Hangang",
     "videos": [
+      {
+        "id": "O8hrko6UW8o",
+        "title": "데일리서울 씨티앤팝 목요라디오 #53 영화 이야기 특집"
+      },
       {
         "id": "-JhoMGoAfFc",
         "title": "[4K] Seoul Korea 24/7 Hangang Live Cam & Lofi Radio 韓国ライブカメラ (since 2020)"
@@ -8479,12 +8519,7 @@
     "id": "UCQpBNfc0tMfCAMz15fFV9bw",
     "handle": "@HolidayIsland",
     "name": "Holiday Island",
-    "videos": [
-      {
-        "id": "thJw8Rm06X4",
-        "title": "Relaxing views of the 1000 Islands Bridge Alexandria Bay, NY"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCQsD9rKnDZ7Fik7D22bI0gw",
@@ -9272,12 +9307,7 @@
     "id": "UCT7oADZixDIEzbUtWFNA-QA",
     "handle": "@webcamvetruse2915",
     "name": "Webcam Větruše",
-    "videos": [
-      {
-        "id": "8VAYKwzGmJg",
-        "title": "Webcam Větruše – živé vysílání"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCTGhjtFloAPlbLy4_yrkoWg",
@@ -10019,12 +10049,7 @@
     "id": "UCXj6ROnZkzqgq6eYeoflO6A",
     "handle": "@ultravisionconsult1433",
     "name": "ULTRAVISION CONSULT",
-    "videos": [
-      {
-        "id": "rs2be3mqryo",
-        "title": "www.ultravisionconsult.com"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXtGlMSjKYfGoPggHcAZYbQ",
@@ -10641,7 +10666,12 @@
     "id": "UC_dQTOYTn6r5Kij3z0_SP6Q",
     "handle": "@CAROSELLO3000",
     "name": "Carosello 3000 - Livigno",
-    "videos": []
+    "videos": [
+      {
+        "id": "NexNSEcu1Is",
+        "title": "Live webcam di Carosello 3000 - Livigno"
+      }
+    ]
   },
   {
     "id": "UC_h7GXlackTPlIaxMASI2_g",
@@ -12254,18 +12284,18 @@
     "id": "UCgDSg8kDhdOO3xwAJ_svtaA",
     "handle": "@friendsofmidwayatollnwr8166",
     "name": "Friends of Midway Atoll NWR",
-    "videos": []
+    "videos": [
+      {
+        "id": "L3iKvwoXZ38",
+        "title": "Midway Atoll NWR Wildlife Live Camera"
+      }
+    ]
   },
   {
     "id": "UCgEQLYeJz2EZNQ9jWzNxfng",
     "handle": "@caribbeanwebcams212",
     "name": "Caribbean Webcams",
-    "videos": [
-      {
-        "id": "SPj4hMttgJM",
-        "title": "Elvis' Beach Bar LIVE HD Webcam from Sandy Ground, Anguilla, British West Indies"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgGmACGEil_QEVQOKOBPJrg",
@@ -13265,12 +13295,7 @@
     "id": "UCjpE7UdNq6oK5mOBKGjpjgA",
     "handle": "@woodlandscam",
     "name": "Woodlands Cam",
-    "videos": [
-      {
-        "id": "q7Oiln7QlDE",
-        "title": "Live: Woodlands Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCjsinVxslvRLtiZy2Exgmmw",
@@ -14412,12 +14437,7 @@
     "id": "UCnB-Fhp5FQfCZNfdAvm27Qw",
     "handle": "@BeogradCom",
     "name": "Beograd Com",
-    "videos": [
-      {
-        "id": "gpFqI8DD9IA",
-        "title": "Beograd Com Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCnJz20oDnvQJJaWfaJGqKTw",
@@ -15471,7 +15491,12 @@
     "id": "UCpYmJpK_TSk8imQsZ8A9LNA",
     "handle": "@Bushtops",
     "name": "Bushtops Safaris",
-    "videos": []
+    "videos": [
+      {
+        "id": "xXZqU5vnEug",
+        "title": "Live Safari - Masai Mara, Kenya"
+      }
+    ]
   },
   {
     "id": "UCpcQw8euHeDXiI7yJAvNzpQ",
@@ -16036,12 +16061,7 @@
     "id": "UCqXHHT3ybdTRXMEWuDmtamQ",
     "handle": "@TownofApexGov",
     "name": "Town of Apex",
-    "videos": [
-      {
-        "id": "-MWn7E2O-_o",
-        "title": "Town of Apex Downtown Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
@@ -16049,7 +16069,7 @@
     "name": "Hawick TV",
     "videos": [
       {
-        "id": "AT5MSWdclhA",
+        "id": "nFClyZqJgqk",
         "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
       }
     ]
@@ -17465,10 +17485,6 @@
     "name": "F.S.T. NET",
     "videos": [
       {
-        "id": "KXQBBnixpPs",
-        "title": "大阪ライブカメラ  大阪・泉北郡忠岡町【LIVE】海上レストラン／Grill Cafe Excellent ＆ エクセロンマリン｜海・桟橋・マリーナの様子を24時間ライブ配信"
-      },
-      {
         "id": "aVAO2wSUsPo",
         "title": "大阪ライブカメラ　【LIVE】大阪・心斎橋　（長堀通り交差）新橋交差点　F.S.T.NET提供　高感度・高画質ライブカメラ"
       },
@@ -18289,12 +18305,7 @@
     "id": "UCzjR7slpURQjzqxPP5FVowQ",
     "handle": "@sightsailinglive6405",
     "name": "Sightsailing Live",
-    "videos": [
-      {
-        "id": "HlK9G6PdIUo",
-        "title": "Sightsailing - Newport, Rhode Island USA"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCzkaQrI9-nSv373EvK5p0SQ",
@@ -18390,12 +18401,7 @@
     "id": "UCzm6BepFi2q80--5Vk6-U5w",
     "handle": "@enzostellamaris5225",
     "name": "Enzo Stella Maris",
-    "videos": [
-      {
-        "id": "7cvAsqcfYKQ",
-        "title": "Live stream di Enzo Stella Maris"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCznXKvxj3U1dEQDprXBmlQA",
