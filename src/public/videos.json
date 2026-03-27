@@ -969,12 +969,7 @@
     "id": "UC2B9wVYer0S_P8e2mAb3MXQ",
     "handle": "@itascastatepark-mississipp6440",
     "name": "Itasca State Park - Mississippi River Headwaters",
-    "videos": [
-      {
-        "id": "LzQc7eiW9Hs",
-        "title": "Itasca State Park - Mississippi River Headwaters Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC2FGmqUsOm8pXc-w9GB_ntQ",
@@ -1570,7 +1565,40 @@
     "id": "UC3ewP9SczRIGGpDXDQvpPyQ",
     "handle": "@SlowTVLive",
     "name": "SlowTV",
-    "videos": []
+    "videos": [
+      {
+        "id": "pKbUd8n5p5Y",
+        "title": "🔴 LIVE: Planespotting at Prague Vaclav Havel Airport, Prague | 24/7 LIVE"
+      },
+      {
+        "id": "oFLvtPKBXEs",
+        "title": "🔴 LIVE: Trains at Oustecké nádraží | 24/7 LIVE"
+      },
+      {
+        "id": "CdChoUw9-VU",
+        "title": "🟢 Premium 4K Livestream: Trainspotting on Prague Main Station | 24/7 LIVE"
+      },
+      {
+        "id": "tmlE1ct0cYk",
+        "title": "🔴 4K LIVE: Trainspotting on Prague Main Station | 24/7 LIVE"
+      },
+      {
+        "id": "EHgE96uSTdk",
+        "title": "🔴 LIVE: Lužná u Rakovníka Train Station | 24/7 LIVE"
+      },
+      {
+        "id": "VnsRQvfv_g4",
+        "title": "🔴 LIVE: RIO Boat | 24/7 LIVE"
+      },
+      {
+        "id": "-8EcyiG3I3g",
+        "title": "🟢 Premium Livestream: Lužná u Rakovníka Train Station | 24/7 LIVE"
+      },
+      {
+        "id": "gvxM3fr1tWc",
+        "title": "🟢 Premium Livestream: Rio Boat | 24/7 LIVE"
+      }
+    ]
   },
   {
     "id": "UC3j2hR5zFDLw5He4n4J-BbA",
@@ -1812,8 +1840,8 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "B7ZwsHktla0",
-        "title": "LIVE: Cherry blossoms bloom in Tokyo"
+        "id": "wKRaQO8ZicM",
+        "title": "LIVE: UN Human Rights Council holds debate on school strike in Minab, Iran"
       },
       {
         "id": "NAIdtb8WTl8",
@@ -2823,7 +2851,12 @@
     "id": "UC7Z6yfD0LKxSftKxOLrbPeQ",
     "handle": "@hemmemilchuckermark8581",
     "name": "Hemme Milch Uckermark",
-    "videos": []
+    "videos": [
+      {
+        "id": "Cc-4Rq0NF_Y",
+        "title": "Livestream von Hemme Milch Uckermark"
+      }
+    ]
   },
   {
     "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
@@ -4764,16 +4797,7 @@
     "id": "UCBekjy3cWsLpEjibeFYecLQ",
     "handle": "@紅樹林有線電視-h7k",
     "name": "紅樹林有線電視",
-    "videos": [
-      {
-        "id": "9rcEL_yWMk4",
-        "title": "新北市淡水區景點(即時影像) 淡水渡船頭 直播 #淡水河 #夕陽 #觀音山 #台北港 #淡水老街河岸 #淡水渡し船乗り場  Du Chuan Tou, Tamsui"
-      },
-      {
-        "id": "yn_8QwCWsyI",
-        "title": "新北市淡水區 #即時路況 車流直播---#淡水竹圍雙向 #紅樹林往台北 #水源街二段與淡金路口"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCBjzM0ZW12Z8bggEORo8oBQ",
@@ -4790,7 +4814,12 @@
     "id": "UCBr4hy5JyHbSlRBYw57GzVA",
     "handle": "@ShephardsBeachResort",
     "name": "Shephard&#39;s Beach Resort",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZL1H-ISxKMA",
+        "title": "Shephard's Beach Resort - Live Stream"
+      }
+    ]
   },
   {
     "id": "UCBt7xuRhIZU_nAm2V2wuB8A",
@@ -5060,7 +5089,12 @@
     "id": "UCDL2IVxAgPI7wybiUlQKrWg",
     "handle": "@romafivesuites",
     "name": "Roma Five Suites",
-    "videos": []
+    "videos": [
+      {
+        "id": "3PVNKVXo6To",
+        "title": "Roma Five Suites - Piazza Venezia - Live Webcam from Rome"
+      }
+    ]
   },
   {
     "id": "UCDOREphwc9P-ul7YEHiBWqw",
@@ -7490,7 +7524,12 @@
     "id": "UCLwUcA69lv5tns6ct-ipiHA",
     "handle": "@BoathouseatNorthLanding",
     "name": "Boathouse at North Landing ",
-    "videos": []
+    "videos": [
+      {
+        "id": "KRbrYMocQ4g",
+        "title": "North Landing Weather Cam"
+      }
+    ]
   },
   {
     "id": "UCM0qV6ZHBkjxBokQepECyFg",
@@ -8741,7 +8780,12 @@
     "id": "UCRSVYu3ANXrQuSnpw5bPUBw",
     "handle": "@SundialHotelWhistler",
     "name": "Sundial Hotel",
-    "videos": []
+    "videos": [
+      {
+        "id": "Zyf8-rxl1jI",
+        "title": "Sundial Hotel Live Stream"
+      }
+    ]
   },
   {
     "id": "UCRZMs9s1P6o0b1nGibmtkJA",
@@ -9512,12 +9556,7 @@
     "id": "UCUZZJpUgv-Pg6nlO_Zxbl6g",
     "handle": "@nexsulconectividade",
     "name": "Nexsul Conectividade",
-    "videos": [
-      {
-        "id": "xQ6rIZoQ5No",
-        "title": "BR 386 - ESTRELA - LAJEADO ( Suprivale Intelbras - Nexsul )"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCU_cCugjd0QvDSaQXX3ftKQ",
@@ -10521,68 +10560,7 @@
     "id": "UC_FuR9GFVJE2A8H02sQmHWw",
     "handle": "@UmbriaWebcam",
     "name": "Umbria Webcam",
-    "videos": [
-      {
-        "id": "Nrbz5ZkFL6U",
-        "title": "🔴Todi Live Webcam"
-      },
-      {
-        "id": "Bc_bgHNApZ8",
-        "title": "🔴Gualdo Tadino Live Webcam"
-      },
-      {
-        "id": "qxdMeCFIW6c",
-        "title": "🔴Bastia Umbra Live Webcam"
-      },
-      {
-        "id": "tVAcccd0vVo",
-        "title": "🔴Lago Trasimeno Live Webcam"
-      },
-      {
-        "id": "mBs2lOPdkMo",
-        "title": "🔴Montefalco Live Webcam"
-      },
-      {
-        "id": "1Ho6SNEiOlk",
-        "title": "🔴Assisi Live Webcam Città"
-      },
-      {
-        "id": "4cqPDoX6uws",
-        "title": "🔴Assisi Live Webcam Piazza San Rufino"
-      },
-      {
-        "id": "8TZ8YRt9nYc",
-        "title": "🔴Perugia Live Webcam"
-      },
-      {
-        "id": "70IILKHbPQI",
-        "title": "🔴Spello Live Webcam"
-      },
-      {
-        "id": "FeAZyuvghVY",
-        "title": "🔴Lago di Piediluco Live Webcam"
-      },
-      {
-        "id": "CkNeltsc5ps",
-        "title": "🔴Assisi Live Webcam Piazza del Comune"
-      },
-      {
-        "id": "tUPmbZqrC6I",
-        "title": "🔴Gubbio Live Webcam"
-      },
-      {
-        "id": "5ka3YhVZgME",
-        "title": "🔴Assisi Live Webcam Basilica di San Francesco"
-      },
-      {
-        "id": "PfBPe5Jfzxo",
-        "title": "🔴Bevagna Live Webcam"
-      },
-      {
-        "id": "y7QcpQwxHrA",
-        "title": "🔴Orvieto Live Webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC_JkC_sNaRfTrbRw9_b2QoA",
@@ -11824,7 +11802,12 @@
     "id": "UCfNWUHvOsckqB-h6OMZBUMg",
     "handle": "@RivieraMotelMackinawCity",
     "name": "Riviera Motel of Mackinaw City",
-    "videos": []
+    "videos": [
+      {
+        "id": "Mf_qId_7mlM",
+        "title": "🔴LIVE🔴 Mackinac Bridge Camera from the Riviera Motel in Mackinaw City"
+      }
+    ]
   },
   {
     "id": "UCfQciJ8PpgWDOocrMPxLkTw",
@@ -12642,28 +12625,7 @@
     "id": "UChI_8BTUHgCBT4nI0Yqo6fA",
     "handle": "@RotterdamMakeItHappen",
     "name": "Rotterdam Make It Happen Live.",
-    "videos": [
-      {
-        "id": "2JyBX4a0-aA",
-        "title": "Live Stream - Laurenskwartier, Binnenrotte"
-      },
-      {
-        "id": "wHhs_Ef8LSU",
-        "title": "Live Stream - Hofplein"
-      },
-      {
-        "id": "1wWlJyopdN4",
-        "title": "Live Stream - Euromast"
-      },
-      {
-        "id": "nFozEhYTEMo",
-        "title": "Live Stream - Erasmusbrug, Kop van Zuid, Cruise Terminal Rotterdam"
-      },
-      {
-        "id": "gsViKzj7nuQ",
-        "title": "Live Stream - Erasmusbrug, Rotterdam - KPN Led Wall"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UChL5PWTYzB3CNEm4FpgaAMQ",
