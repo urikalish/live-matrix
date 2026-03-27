@@ -315,7 +315,12 @@
     "id": "UC-omrowFhBZ_gzNLhX8Hq4w",
     "handle": "@paulbunyanandbabetheblueox3329",
     "name": "Paul Bunyan and Babe the Blue Ox",
-    "videos": []
+    "videos": [
+      {
+        "id": "wHVsM4TQ-lA",
+        "title": "Paul Bunyan and Babe the Blue Ox Live Stream"
+      }
+    ]
   },
   {
     "id": "UC029bcZGqxOsRkvWrZLhgKQ",
@@ -407,8 +412,8 @@
     "name": "AVIATION TV",
     "videos": [
       {
-        "id": "ZlYgu3r0ehw",
-        "title": "🔴 LIVE 24/7 Aeroporto de Lisboa 27.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
+        "id": "HHVPXdpYuoI",
+        "title": "🔴 LIVE 24/7 Lisbon Airport 27.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
       }
     ]
   },
@@ -427,7 +432,12 @@
     "id": "UC0aRUMUvwJ-7xx0mfNwhVZA",
     "handle": "@Akureyri_official",
     "name": "Akureyrarbær",
-    "videos": []
+    "videos": [
+      {
+        "id": "GXTycxKz_FQ",
+        "title": "Rósenborg"
+      }
+    ]
   },
   {
     "id": "UC0djAWwMXP22wzocdJR9dWw",
@@ -984,7 +994,12 @@
     "id": "UC2RkL2eATR1V6H8g4eNfA5Q",
     "handle": "@SISEArgentina",
     "name": "SISE Argentina®",
-    "videos": []
+    "videos": [
+      {
+        "id": "XAMrn080pEU",
+        "title": "Camaras en Vivo Puente General Belgrano - SISE Argentina®"
+      }
+    ]
   },
   {
     "id": "UC2Sk0aXLq3ADkH_USGPKT_Q",
@@ -1231,14 +1246,6 @@
       {
         "id": "BWIF6NW0wUs",
         "title": "📡 CÂMERA AO VIVO | MIRANTE DA LAGOA DA CONCEIÇÃO - FLORIANÓPOLIS SC | PARCERIA INDAIÁ EVENTOS"
-      },
-      {
-        "id": "Pvp3VIndFiE",
-        "title": "CAMBORIÚ SC AO VIVO | AV. SANTA CATARINA – POINT FILM – SENTIDO MUNICÍPIOS | CONEXÃODCTV"
-      },
-      {
-        "id": "PoHm8XjC93s",
-        "title": "CAMBORIÚ SC AO VIVO | AV. SANTA CATARINA – POINT FILM – SENTIDO CENTRO | CONEXÃODCTV"
       },
       {
         "id": "OU798IQCO50",
@@ -1716,7 +1723,12 @@
     "id": "UC4WyazHccYZmCf-rLpAYXtg",
     "handle": "@rajyoginidadiratanmohini",
     "name": "Rajyogini Dadi Ratan Mohini ",
-    "videos": []
+    "videos": [
+      {
+        "id": "KmQrxaRSurQ",
+        "title": "मधुबन से Baba Room  LIVE 24X7"
+      }
+    ]
   },
   {
     "id": "UC4XHkeozVrKRdkz319EzYDQ",
@@ -1817,12 +1829,20 @@
     "name": "Associated Press",
     "videos": [
       {
+        "id": "XorwXnPoc1k",
+        "title": "LIVE: Artemis II astronauts arrive at Kennedy Space Center"
+      },
+      {
+        "id": "Ati3hUeCPKI",
+        "title": "LIVE: House discusses Homeland Security funding"
+      },
+      {
         "id": "NAIdtb8WTl8",
         "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
       },
       {
         "id": "WOXiwMdorss",
-        "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
+        "title": "LIVE: Beirut and southern Lebanon skyline as Israel strikes continue"
       }
     ]
   },
@@ -2565,10 +2585,6 @@
         "title": "EarthCam Live:  Wildwoods Cam (Wildwood, NJ)"
       },
       {
-        "id": "QHUNW6pVNIk",
-        "title": "EarthCam Live:  Wrigley Field (Chicago, IL)"
-      },
-      {
         "id": "gT5x9GU_tbA",
         "title": "EarthCam Live:  Seaside Heights, NJ - North View"
       },
@@ -3262,6 +3278,10 @@
     "handle": "@BostonAndMaineLive",
     "name": "Boston and Maine Live",
     "videos": [
+      {
+        "id": "qooheuTYNbU",
+        "title": "Boston Weather Cam, MA Live Cam - Green Line"
+      },
       {
         "id": "bys52kM3Nzc",
         "title": "Live from Portsmouth, New Hampshire - Strawbery Banke Museum"
@@ -7168,12 +7188,7 @@
     "id": "UCKtFn0R-NGm6cocqdoGAQTA",
     "handle": "@YokohamaLiveCam",
     "name": "Live Cam Yokohama Japan",
-    "videos": [
-      {
-        "id": "bZ1sln1VoaA",
-        "title": "🔴Live Cam Yokohama Japan :横浜汽車道ライブカメラ"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCKyXyJMijwyBebgI9wmzFcw",
@@ -7220,104 +7235,7 @@
     "id": "UCLMkrtuGU0QL1k7ne9BTWNg",
     "handle": "@OregonStateLive",
     "name": "Oregon State University - Live",
-    "videos": [
-      {
-        "id": "DD4t-RuDTEE",
-        "title": "Oregon State University - Student Legacy Park - East"
-      },
-      {
-        "id": "bU20Qq3yaPs",
-        "title": "OSU Cascades - Student Health and Recreation Center South"
-      },
-      {
-        "id": "XIVu5vM4xXE",
-        "title": "OSU Cascades - Land Development"
-      },
-      {
-        "id": "udjc08GmhH0",
-        "title": "OSU Cascades - Student Health & Recreation Center"
-      },
-      {
-        "id": "UwDfHRUOuBs",
-        "title": "OSU Cascades - Land Development"
-      },
-      {
-        "id": "XA_v5e6b3DU",
-        "title": "Oregon State University - Housing Building Project"
-      },
-      {
-        "id": "VgbFzvqiLNk",
-        "title": "Oregon State University - Parker Plaza"
-      },
-      {
-        "id": "Z5skON2yzcI",
-        "title": "Oregon State University - Memorial Union"
-      },
-      {
-        "id": "7h2GbXuRVX0",
-        "title": "Oregon State University - Valley Library Quad"
-      },
-      {
-        "id": "1KZdTB8vPFA",
-        "title": "Oregon State University - Huang Collaborative Innovation Complex 1"
-      },
-      {
-        "id": "NCeE-GvHurg",
-        "title": "Oregon State University - Huang Collaborative Innovation Complex 2"
-      },
-      {
-        "id": "Xb7RW25WR-Y",
-        "title": "Oregon State University - Valley Library 3D Printers"
-      },
-      {
-        "id": "t5Kov6TZC3I",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 8"
-      },
-      {
-        "id": "_PBGCHIQN2Q",
-        "title": "OSU Cascades - Student Success Center"
-      },
-      {
-        "id": "qmZpIYagDN4",
-        "title": "OSU Cascades - Innovation District"
-      },
-      {
-        "id": "RzgsQQxsNqc",
-        "title": "Oregon State University - Hatfield Marine Science Center - Yaquina Bay"
-      },
-      {
-        "id": "I7tSvjq7WE8",
-        "title": "Oregon State University Ship Operations - Pier Construction"
-      },
-      {
-        "id": "eskWkb-nQuU",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 6"
-      },
-      {
-        "id": "dVNjuXkmNk8",
-        "title": "Oregon State University - Cascades - Bruckner Courtyard"
-      },
-      {
-        "id": "Nq5sV4qUCJg",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 4"
-      },
-      {
-        "id": "Rr8OuJ4cibs",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 3"
-      },
-      {
-        "id": "rcfNCKfTjpI",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 2"
-      },
-      {
-        "id": "zKXPw48ohHA",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 1"
-      },
-      {
-        "id": "e9LYewJGQlk",
-        "title": "Oregon State University - PRAx"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCLOLrH5D-s7SxemqXgtoAgw",
@@ -7477,7 +7395,12 @@
     "id": "UCLwUcA69lv5tns6ct-ipiHA",
     "handle": "@BoathouseatNorthLanding",
     "name": "Boathouse at North Landing ",
-    "videos": []
+    "videos": [
+      {
+        "id": "KRbrYMocQ4g",
+        "title": "North Landing Weather Cam"
+      }
+    ]
   },
   {
     "id": "UCM0qV6ZHBkjxBokQepECyFg",
@@ -7820,7 +7743,7 @@
     "name": "SBGR LIVE",
     "videos": [
       {
-        "id": "vrUQ6rSss7w",
+        "id": "_xP7koR4lMU",
         "title": "SBGR LIVE 4K - Aeroporto Internacional de Guarulhos AO VIVO - GRU Airport"
       }
     ]
@@ -8144,7 +8067,24 @@
     "id": "UCPAgksFpFLJDVyMcIYsbz3A",
     "handle": "@KoksijdeOostduinkerke",
     "name": "Koksijde-Oostduinkerke",
-    "videos": []
+    "videos": [
+      {
+        "id": "ORfGhqVNNVc",
+        "title": "Webcam Sint-Idesbald"
+      },
+      {
+        "id": "UjntYig_VrQ",
+        "title": "Webcam Duinenhuis"
+      },
+      {
+        "id": "5Uqw_G_IdjE",
+        "title": "Webcam Koksijde-Bad"
+      },
+      {
+        "id": "wqWoNyCAvss",
+        "title": "Webcam Oostduinkerke-Bad"
+      }
+    ]
   },
   {
     "id": "UCPH1SsIWbdm59B0YVoqw8gQ",
@@ -8346,7 +8286,12 @@
     "id": "UCPdDNVBL_WBd6X2Wt8DuIDA",
     "handle": "@LazyDaysIslamorada",
     "name": "Lazy Days Islamorada",
-    "videos": []
+    "videos": [
+      {
+        "id": "Bxy3g5WfYbg",
+        "title": "🔴 LIVE Lazy Days Islamorada Florida"
+      }
+    ]
   },
   {
     "id": "UCPp3S_agEGIvcEe9NynOjPw",
@@ -8519,7 +8464,12 @@
     "id": "UCQpBNfc0tMfCAMz15fFV9bw",
     "handle": "@HolidayIsland",
     "name": "Holiday Island",
-    "videos": []
+    "videos": [
+      {
+        "id": "thJw8Rm06X4",
+        "title": "Relaxing views of the 1000 Islands Bridge Alexandria Bay, NY"
+      }
+    ]
   },
   {
     "id": "UCQsD9rKnDZ7Fik7D22bI0gw",
@@ -8632,10 +8582,6 @@
       {
         "id": "hfy_5dcWMrI",
         "title": "بث مباشر | قناة السنة النبوية"
-      },
-      {
-        "id": "dKLQsSIqQns",
-        "title": "البث المباشر لقناة السنة النبوية"
       },
       {
         "id": "9A1S0xAPVIs",
@@ -8996,6 +8942,14 @@
     "handle": "@SHOWMECaribbean",
     "name": "SHOWME Caribbean",
     "videos": [
+      {
+        "id": "WyqqXCnFdxo",
+        "title": "LIVE SXM Airport March 27 ✈️ -  Maho Beach Sint Maarten"
+      },
+      {
+        "id": "iE3hoz6Wivw",
+        "title": "🌴Best Caribbean Beach Resorts LIVE | Curaçao • Sint Maarten • Aruba • Bonaire | March 27, 2026"
+      },
       {
         "id": "vxHKAImxUHk",
         "title": "LIVE Cam Simpson Bay Beach Resort | Saint Martin  🌴💦"
@@ -9529,12 +9483,7 @@
     "id": "UCUmvxPTUfflU3v_mcRNGAeg",
     "handle": "@Sv.Uspenska-Pochaevska-Lavra",
     "name": "† Свято-Успенская Почаевская Лавра",
-    "videos": [
-      {
-        "id": "y9jNRLcjXpU",
-        "title": "Пряма трансляція богослужіння † Свято-Успенська Почаївська Лавра"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCUpFHGasL2cNAo2w70vwrSQ",
@@ -9552,10 +9501,6 @@
     "handle": "@VacationMB",
     "name": "Vacation Myrtle Beach",
     "videos": [
-      {
-        "id": "lX3ADUJwDeo",
-        "title": "Myrtle Beach Sunrise 03/27/2026"
-      },
       {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
@@ -9590,6 +9535,10 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
+      {
+        "id": "3cKUhqpRWGI",
+        "title": "SafariLIVE Sunset - 27 March 2026"
+      },
       {
         "id": "MnY2sJydrVM",
         "title": "Jaci's Dam Cam - AD FREE"
@@ -10049,7 +9998,12 @@
     "id": "UCXj6ROnZkzqgq6eYeoflO6A",
     "handle": "@ultravisionconsult1433",
     "name": "ULTRAVISION CONSULT",
-    "videos": []
+    "videos": [
+      {
+        "id": "rs2be3mqryo",
+        "title": "www.ultravisionconsult.com"
+      }
+    ]
   },
   {
     "id": "UCXtGlMSjKYfGoPggHcAZYbQ",
@@ -12295,7 +12249,12 @@
     "id": "UCgEQLYeJz2EZNQ9jWzNxfng",
     "handle": "@caribbeanwebcams212",
     "name": "Caribbean Webcams",
-    "videos": []
+    "videos": [
+      {
+        "id": "SPj4hMttgJM",
+        "title": "Elvis' Beach Bar LIVE HD Webcam from Sandy Ground, Anguilla, British West Indies"
+      }
+    ]
   },
   {
     "id": "UCgGmACGEil_QEVQOKOBPJrg",
@@ -12737,10 +12696,6 @@
       },
       {
         "id": "zF_RKoQCK-c",
-        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
-      },
-      {
-        "id": "f8X-RgFY8kc",
         "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
       },
       {
@@ -13295,7 +13250,12 @@
     "id": "UCjpE7UdNq6oK5mOBKGjpjgA",
     "handle": "@woodlandscam",
     "name": "Woodlands Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "q7Oiln7QlDE",
+        "title": "Live: Woodlands Cam"
+      }
+    ]
   },
   {
     "id": "UCjsinVxslvRLtiZy2Exgmmw",
@@ -14437,7 +14397,12 @@
     "id": "UCnB-Fhp5FQfCZNfdAvm27Qw",
     "handle": "@BeogradCom",
     "name": "Beograd Com",
-    "videos": []
+    "videos": [
+      {
+        "id": "gpFqI8DD9IA",
+        "title": "Beograd Com Live Stream"
+      }
+    ]
   },
   {
     "id": "UCnJz20oDnvQJJaWfaJGqKTw",
@@ -16061,7 +16026,12 @@
     "id": "UCqXHHT3ybdTRXMEWuDmtamQ",
     "handle": "@TownofApexGov",
     "name": "Town of Apex",
-    "videos": []
+    "videos": [
+      {
+        "id": "-MWn7E2O-_o",
+        "title": "Town of Apex Downtown Camera"
+      }
+    ]
   },
   {
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
@@ -16144,7 +16114,7 @@
     "name": "Live Trento H24 - Piazza Duomo",
     "videos": [
       {
-        "id": "GP0k78mII3w",
+        "id": "lDJvcvhJtsY",
         "title": "Trento live cam - centro città (Piazza Duomo)"
       }
     ]
@@ -16428,12 +16398,7 @@
     "id": "UCsXoS2vcQqyBwcPaua6Asfw",
     "handle": "@ricky6811",
     "name": "飛訊安防科技",
-    "videos": [
-      {
-        "id": "7vNt6dkNt6I",
-        "title": "24小時 LIVE 直播中-4K 2160P 台灣彰化 溪湖 即時影像 (天氣動態) ，Formosa Taiwan Changhua City Weather Livestream Video"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCsghjvIsGFKH2cAjbRt7g6w",
@@ -18305,7 +18270,12 @@
     "id": "UCzjR7slpURQjzqxPP5FVowQ",
     "handle": "@sightsailinglive6405",
     "name": "Sightsailing Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "HlK9G6PdIUo",
+        "title": "Sightsailing - Newport, Rhode Island USA"
+      }
+    ]
   },
   {
     "id": "UCzkaQrI9-nSv373EvK5p0SQ",
@@ -18401,7 +18371,12 @@
     "id": "UCzm6BepFi2q80--5Vk6-U5w",
     "handle": "@enzostellamaris5225",
     "name": "Enzo Stella Maris",
-    "videos": []
+    "videos": [
+      {
+        "id": "7cvAsqcfYKQ",
+        "title": "Live stream di Enzo Stella Maris"
+      }
+    ]
   },
   {
     "id": "UCznXKvxj3U1dEQDprXBmlQA",
