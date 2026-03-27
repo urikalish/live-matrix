@@ -72,12 +72,6 @@
     "date": "2026-03-21"
   },
   {
-    "id": "UCvLGwXddXCdhvXuANzNZIpw",
-    "handle": "@cutrewindsurfing",
-    "name": "CUTRE Windsurf",
-    "date": "2026-03-21"
-  },
-  {
     "id": "UC3c-pudL55WWFxl89wTH1NA",
     "handle": "@PanosBoats",
     "name": "Panos Boats",
@@ -150,6 +144,12 @@
     "date": "2026-03-27"
   },
   {
+    "id": "UC1HDQ1Q5nVHYF8e7dL4E-pw",
+    "handle": "@LeviSkiResort",
+    "name": "Levi Ski Resort",
+    "date": "2026-03-27"
+  },
+  {
     "id": "UCaEdUtLbgjtDdfZfDYCllXQ",
     "handle": "@PraiaItanhaem",
     "name": "Itanhaém Praia",
@@ -162,15 +162,39 @@
     "date": "2026-03-27"
   },
   {
+    "id": "UCB-zCeE3hpdWcnVaZePAwFQ",
+    "handle": "@RigaZOO",
+    "name": "RigaZOO",
+    "date": "2026-03-27"
+  },
+  {
+    "id": "UCDOREphwc9P-ul7YEHiBWqw",
+    "handle": "@WebcamPort-Valais-hm4fb",
+    "name": "Webcam Port-Valais",
+    "date": "2026-03-27"
+  },
+  {
+    "id": "UCDUMVSw1K-ejDIoMe1fvF2Q",
+    "handle": "@explorehavredegrace2109",
+    "name": "Explore Havre de Grace",
+    "date": "2026-03-27"
+  },
+  {
     "id": "UCF-ZXdKznuR8USRwfru222Q",
     "handle": "@IRMorg1",
     "name": "Illinois Railway Museum",
     "date": "2026-03-27"
   },
   {
-    "id": "UCGKOoJhHZiQhDyfvaZ8aAYw",
-    "handle": "@SurfStationCam",
-    "name": "SurfStationCam",
+    "id": "UCG-Icsd_kbKnt9QraydFQPQ",
+    "handle": "@BeachLifeCams",
+    "name": "Beach Life Cams",
+    "date": "2026-03-27"
+  },
+  {
+    "id": "UCgQQ_ynd15S8a_KALeNGMUg",
+    "handle": "@mestovolyne5343",
+    "name": "Město Volyně",
     "date": "2026-03-27"
   },
   {
@@ -180,15 +204,9 @@
     "date": "2026-03-27"
   },
   {
-    "id": "UCHZoP1Jy-g_h3sqzScrOEwQ",
-    "handle": "@UWVideo",
-    "name": "UW Video",
-    "date": "2026-03-27"
-  },
-  {
-    "id": "UCjVQqE5mViYlR1zF1yefd2g",
-    "handle": "@uminekoshouten",
-    "name": "ウミネコ商店",
+    "id": "UChL5PWTYzB3CNEm4FpgaAMQ",
+    "handle": "@Harbourvillagebonaire",
+    "name": "Harbour Village Bonaire",
     "date": "2026-03-27"
   },
   {
@@ -198,15 +216,21 @@
     "date": "2026-03-27"
   },
   {
-    "id": "UCM0qV6ZHBkjxBokQepECyFg",
-    "handle": "@portoffridayharborairport8285",
-    "name": "Port of Friday Harbor Airport",
+    "id": "UCkXtehPDl-J9bMNUnWdwxUA",
+    "handle": "@Tomfoolery1972",
+    "name": "Tom Fournier",
     "date": "2026-03-27"
   },
   {
-    "id": "UCP9iUsMyLRKbxhGAEDChbCA",
-    "handle": "@meteomontedarena",
-    "name": "Meteo Montedarena",
+    "id": "UCnB-Fhp5FQfCZNfdAvm27Qw",
+    "handle": "@BeogradCom",
+    "name": "Beograd Com",
+    "date": "2026-03-27"
+  },
+  {
+    "id": "UCQJE3qm7Sjc5-JXAYjAfkrw",
+    "handle": "@-ishigakiisland-2224",
+    "name": "石垣島ライブカメラ -ishigaki island-",
     "date": "2026-03-27"
   },
   {
@@ -222,15 +246,9 @@
     "date": "2026-03-27"
   },
   {
-    "id": "UCuarPSgSklrmX2z0iA-Ua4Q",
-    "handle": "@CityofRovaniemi",
-    "name": "City of Rovaniemi",
-    "date": "2026-03-27"
-  },
-  {
-    "id": "UCwyuvrVtIg0xjH2qPufk3RQ",
-    "handle": "@BrisbaneLivestream",
-    "name": "Brisbane Live",
+    "id": "UCxIsefyl9g9A5SGWA4FvGIA",
+    "handle": "@VaticanNewsEN",
+    "name": "Vatican News - English",
     "date": "2026-03-27"
   }
 ]
