@@ -1188,8 +1188,8 @@
   },
   {
     "id": "UC37R9R29MAwvrOBafYoBtow",
-    "handle": "@ConexaoDCTV",
-    "name": "ConexãoDCTV - Balneário Camboriú Ao Vivo",
+    "handle": "@ConexaoDCTVoficial",
+    "name": "ConexãoDCTV - Oficial",
     "videos": [
       {
         "id": "hZuaccrJqK0",
@@ -1829,8 +1829,12 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "XorwXnPoc1k",
-        "title": "LIVE: Artemis II astronauts arrive at Kennedy Space Center"
+        "id": "kcFk5WxSODI",
+        "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
+      },
+      {
+        "id": "1IcFVxgwzYY",
+        "title": "LIVE: Beirut and southern Lebanon skyline as Israel strikes Lebanon"
       },
       {
         "id": "Ati3hUeCPKI",
@@ -1839,10 +1843,6 @@
       {
         "id": "NAIdtb8WTl8",
         "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
-      },
-      {
-        "id": "WOXiwMdorss",
-        "title": "LIVE: Beirut and southern Lebanon skyline as Israel strikes continue"
       }
     ]
   },
@@ -2905,6 +2905,10 @@
     "handle": "@LeSanctuaireNotreDamedeLourdes",
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
+      {
+        "id": "nkcTh_sLnG8",
+        "title": "Le Chapelet depuis la Grotte de Lourdes - 27/03/2026"
+      },
       {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
@@ -5288,12 +5292,7 @@
     "id": "UCEloGRn_GCcr-I_6f5MYJPw",
     "handle": "@サンシャイン60通りライブカメラ",
     "name": "サンシャイン60通りライブカメラ",
-    "videos": [
-      {
-        "id": "kJ1bfm6f9Fo",
-        "title": "【LIVE】サンシャイン60通りライブカメラ：Tokyo City Live Camera ikebukuro"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCEpDjqeFIGTqHwk-uULx72Q",
@@ -7188,7 +7187,12 @@
     "id": "UCKtFn0R-NGm6cocqdoGAQTA",
     "handle": "@YokohamaLiveCam",
     "name": "Live Cam Yokohama Japan",
-    "videos": []
+    "videos": [
+      {
+        "id": "bZ1sln1VoaA",
+        "title": "🔴Live Cam Yokohama Japan :横浜汽車道ライブカメラ"
+      }
+    ]
   },
   {
     "id": "UCKyXyJMijwyBebgI9wmzFcw",
@@ -7235,7 +7239,104 @@
     "id": "UCLMkrtuGU0QL1k7ne9BTWNg",
     "handle": "@OregonStateLive",
     "name": "Oregon State University - Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "DD4t-RuDTEE",
+        "title": "Oregon State University - Student Legacy Park - East"
+      },
+      {
+        "id": "bU20Qq3yaPs",
+        "title": "OSU Cascades - Student Health and Recreation Center South"
+      },
+      {
+        "id": "XIVu5vM4xXE",
+        "title": "OSU Cascades - Land Development"
+      },
+      {
+        "id": "udjc08GmhH0",
+        "title": "OSU Cascades - Student Health & Recreation Center"
+      },
+      {
+        "id": "UwDfHRUOuBs",
+        "title": "OSU Cascades - Land Development"
+      },
+      {
+        "id": "XA_v5e6b3DU",
+        "title": "Oregon State University - Housing Building Project"
+      },
+      {
+        "id": "VgbFzvqiLNk",
+        "title": "Oregon State University - Parker Plaza"
+      },
+      {
+        "id": "Z5skON2yzcI",
+        "title": "Oregon State University - Memorial Union"
+      },
+      {
+        "id": "7h2GbXuRVX0",
+        "title": "Oregon State University - Valley Library Quad"
+      },
+      {
+        "id": "1KZdTB8vPFA",
+        "title": "Oregon State University - Huang Collaborative Innovation Complex 1"
+      },
+      {
+        "id": "NCeE-GvHurg",
+        "title": "Oregon State University - Huang Collaborative Innovation Complex 2"
+      },
+      {
+        "id": "Xb7RW25WR-Y",
+        "title": "Oregon State University - Valley Library 3D Printers"
+      },
+      {
+        "id": "t5Kov6TZC3I",
+        "title": "Regional Class Research Vessel (RCRV) - Cam 8"
+      },
+      {
+        "id": "_PBGCHIQN2Q",
+        "title": "OSU Cascades - Student Success Center"
+      },
+      {
+        "id": "qmZpIYagDN4",
+        "title": "OSU Cascades - Innovation District"
+      },
+      {
+        "id": "RzgsQQxsNqc",
+        "title": "Oregon State University - Hatfield Marine Science Center - Yaquina Bay"
+      },
+      {
+        "id": "I7tSvjq7WE8",
+        "title": "Oregon State University Ship Operations - Pier Construction"
+      },
+      {
+        "id": "eskWkb-nQuU",
+        "title": "Regional Class Research Vessel (RCRV) - Cam 6"
+      },
+      {
+        "id": "dVNjuXkmNk8",
+        "title": "Oregon State University - Cascades - Bruckner Courtyard"
+      },
+      {
+        "id": "Nq5sV4qUCJg",
+        "title": "Regional Class Research Vessel (RCRV) - Cam 4"
+      },
+      {
+        "id": "Rr8OuJ4cibs",
+        "title": "Regional Class Research Vessel (RCRV) - Cam 3"
+      },
+      {
+        "id": "rcfNCKfTjpI",
+        "title": "Regional Class Research Vessel (RCRV) - Cam 2"
+      },
+      {
+        "id": "zKXPw48ohHA",
+        "title": "Regional Class Research Vessel (RCRV) - Cam 1"
+      },
+      {
+        "id": "e9LYewJGQlk",
+        "title": "Oregon State University - PRAx"
+      }
+    ]
   },
   {
     "id": "UCLOLrH5D-s7SxemqXgtoAgw",
@@ -9483,7 +9584,12 @@
     "id": "UCUmvxPTUfflU3v_mcRNGAeg",
     "handle": "@Sv.Uspenska-Pochaevska-Lavra",
     "name": "† Свято-Успенская Почаевская Лавра",
-    "videos": []
+    "videos": [
+      {
+        "id": "y9jNRLcjXpU",
+        "title": "Пряма трансляція богослужіння † Свято-Успенська Почаївська Лавра"
+      }
+    ]
   },
   {
     "id": "UCUpFHGasL2cNAo2w70vwrSQ",
@@ -9839,12 +9945,7 @@
     "id": "UCWsoep0hJKhGbYosMeQIyXA",
     "handle": "@Now4Rent",
     "name": "Now4Rent",
-    "videos": [
-      {
-        "id": "Gd9d4q6WvUY",
-        "title": "Now4Rent.NL | Amsterdam De Dam | Pan Tilt Zoom Camera | Ultra HD (4K)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCWtwhsqQXogkkQEFBrFwwRA",
@@ -10173,32 +10274,7 @@
     "id": "UCYP2o52KVpbcd8Y23moa2KA",
     "handle": "@CarolinaWebcamStreaming",
     "name": "Carolina Webcam Streaming",
-    "videos": [
-      {
-        "id": "qXDbRKyhDdY",
-        "title": "Sunset Beach Webcam by sunsetbeachsales.com"
-      },
-      {
-        "id": "8e3gfzRQNqA",
-        "title": "Sunset Beach Waterway & Bridge Webcam by sunsetbeachsales.com"
-      },
-      {
-        "id": "DscmQzgXAYw",
-        "title": "Sunset Beach Pier Webcam by sunsetbeachsales.com"
-      },
-      {
-        "id": "9kBHbE8Y7uc",
-        "title": "Jinks Creek Ocean Isle Beach Webcam"
-      },
-      {
-        "id": "sBtvpwKH2BE",
-        "title": "Holden Beach Webcam by holdenbeachvacations.com"
-      },
-      {
-        "id": "nVUI6lDy0Bc",
-        "title": "Ocean Isle Marina & Yacht Club Webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCYUbNjkuE4lsr2v1Id2O1oA",
@@ -12505,6 +12581,10 @@
     "name": "CGTN",
     "videos": [
       {
+        "id": "VpfVboYP81I",
+        "title": "Watch: The Global Debate: Iran under attack – A make or break moment for the US?"
+      },
+      {
         "id": "16BVRih3vHI",
         "title": "View of Beirut skyline"
       },
@@ -12722,7 +12802,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "u8GH3t5TOhg",
+        "id": "yr-rCLZfhfY",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -13013,12 +13093,8 @@
     "name": "CGTN Europe",
     "videos": [
       {
-        "id": "k5B2kfoFdSg",
-        "title": "LIVE: UN rights body holds debate over fatal school strike in Iran"
-      },
-      {
-        "id": "Bzlxb-o88zU",
-        "title": "LIVE: Washington D.C.'s famed cherry blossoms approach peak bloom"
+        "id": "H6Gl3WZTwZs",
+        "title": "LIVE: G7 foreign ministers meet at the Vaux-de-Cernay Abbey near Paris"
       },
       {
         "id": "SEq8P8wg4Sk",
@@ -14805,10 +14881,6 @@
         "title": "🗻 #POPOCATÉPETL | Noche de incandescencia y avistamientos. El #Volcán #EnVivo"
       },
       {
-        "id": "DOac8uI_UI0",
-        "title": "#BellasArtes | Asi luce el trafico en eje central #envivo"
-      },
-      {
         "id": "DTXoXblmqvI",
         "title": "#Zócalo | Ahora esta vacia la explanada #Envivo"
       },
@@ -14817,24 +14889,12 @@
         "title": "Ixtapa, Zihuatanejo desde Park Royal Ixtapa"
       },
       {
-        "id": "UOGskfzUrJE",
-        "title": "✝️ #SemanaSanta | Se acerca representación 💐 #DomingoDeRamos. #Iztapalapa #EnVivo"
-      },
-      {
         "id": "RYQJdprqpqY",
         "title": "🗻 #POPOCATÉPETL | La incandescencia lanza destellos en la oscuridad. El #Volcán #EnVivo"
       },
       {
-        "id": "5oOIcXswmxA",
-        "title": "🧜‍♀️ #COZUMEL | ¡Admira las especies marinas! ¿Saldrá una sirena? Cámara subacuática #EnVivo"
-      },
-      {
         "id": "j0vIYNQ7EeE",
         "title": "El Parque de Xel Ha, Quintana Roo, en vivo"
-      },
-      {
-        "id": "Krnp4btm4nY",
-        "title": "#BellasArtes | La ciudad luce bastante tranquila #envivo"
       },
       {
         "id": "t-7T0Kp2WpA",
@@ -14847,10 +14907,6 @@
       {
         "id": "-eM7kDiB9xU",
         "title": "🗻 #POPOCATÉPETL | Noche de incandescencia. El #Volcán #EnVivo"
-      },
-      {
-        "id": "Uo0W1tpA348",
-        "title": "#Zócalo | ¿Para que son la carpas? #Envivo"
       },
       {
         "id": "YoK_w49k6fQ",
@@ -14871,10 +14927,6 @@
       {
         "id": "YMhGUVKQUYg",
         "title": "Acapulco, Guerrero En Vivo | Vista Panorámica de la Bahía de Santa Lucía"
-      },
-      {
-        "id": "TXzV17cTVHk",
-        "title": "#BellasArtes | Hoy gran recorrido de las catrinas #envivo"
       },
       {
         "id": "EMGD61tWmT4",
@@ -14915,10 +14967,6 @@
       {
         "id": "TRP-4F_zfIQ",
         "title": "#BellasArtes | Se vinieron fuertes las lluvias #envivo"
-      },
-      {
-        "id": "KROgq-irPdo",
-        "title": "🌋 #POPOCATÉPETL | Noche de incandescencia con avistamientos. El #Volcán #EnVivo"
       },
       {
         "id": "NxgYarQp-s0",
@@ -16398,7 +16446,12 @@
     "id": "UCsXoS2vcQqyBwcPaua6Asfw",
     "handle": "@ricky6811",
     "name": "飛訊安防科技",
-    "videos": []
+    "videos": [
+      {
+        "id": "7vNt6dkNt6I",
+        "title": "24小時 LIVE 直播中-4K 2160P 台灣彰化 溪湖 即時影像 (天氣動態) ，Formosa Taiwan Changhua City Weather Livestream Video"
+      }
+    ]
   },
   {
     "id": "UCsghjvIsGFKH2cAjbRt7g6w",
@@ -16699,12 +16752,7 @@
     "id": "UCtllXAWa3EcfcsL5tvpqGSw",
     "handle": "@CoralMorphologic",
     "name": "Coral Morphologic",
-    "videos": [
-      {
-        "id": "7i8ARjIeM2k",
-        "title": "Coral City Camera (Miami's Free-Range Aquarium Underwater Livestream)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtnqriRBvQH4Bzbr23Q_kZg",
