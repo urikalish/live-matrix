@@ -743,6 +743,10 @@
     "name": "Char Dham Yatra Live",
     "videos": [
       {
+        "id": "7faO8l35dkA",
+        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
+      },
+      {
         "id": "UujdKwwKPGQ",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
@@ -760,10 +764,6 @@
       },
       {
         "id": "CpPGdyKd1Fo",
-        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
-      },
-      {
-        "id": "hCSkBAqqkVc",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
       {
@@ -830,7 +830,16 @@
     "id": "UC1dvZq_0NLxBTrYp4bWKeCQ",
     "handle": "@elkslodge616camlive8",
     "name": "ElksLodge616cam live",
-    "videos": []
+    "videos": [
+      {
+        "id": "y6ew34X8P7Q",
+        "title": "Shaka Webcam"
+      },
+      {
+        "id": "7do5yOYetV0",
+        "title": "Elk's Lodge Surf cam"
+      }
+    ]
   },
   {
     "id": "UC1kDVgEX2DsE295Bkum_K9Q",
@@ -1713,7 +1722,16 @@
     "id": "UC52X5wxOL_s5yw0dQk7NtgA",
     "handle": "@AssociatedPress",
     "name": "Associated Press",
-    "videos": []
+    "videos": [
+      {
+        "id": "EA40k4tmYis",
+        "title": "LIVE: Beirut and southern Lebanon skyline as Israel strikes the country"
+      },
+      {
+        "id": "Q8-yLvxaIAc",
+        "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
+      }
+    ]
   },
   {
     "id": "UC5Dy3WsfZw5AQxnamT0d0ow",
@@ -4979,8 +4997,8 @@
     "name": "Khao Lak Land Discovery",
     "videos": [
       {
-        "id": "lAApv8UrACU",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 28-Mar-2026 16:34"
+        "id": "0xOT23y4GWs",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 28-Mar-2026 18:32"
       }
     ]
   },
@@ -6165,7 +6183,12 @@
     "id": "UCIeAa1ORzuGMaaBNcuLgAvw",
     "handle": "@solebadwerne8309",
     "name": "Solebad Werne",
-    "videos": []
+    "videos": [
+      {
+        "id": "NK98sgeJiXE",
+        "title": "Solebad Werne"
+      }
+    ]
   },
   {
     "id": "UCIoaDlW1ch-QLR_HsaQMJQQ",
@@ -6644,7 +6667,48 @@
     "id": "UCJKH8wYxFYeufDnvy1MPofA",
     "handle": "@zaza6075",
     "name": "ZAZAマガジンチャンネル",
-    "videos": []
+    "videos": [
+      {
+        "id": "PNM73CnC0Yk",
+        "title": "気田川（けたがわ）24hライブカメラ｜気田川漁業協同組合より配信（音声付）春野町・鮎の故郷・すみれの花咲く頃　　（防災カメラとしてもお役立て下さい）"
+      },
+      {
+        "id": "imq5yf686zA",
+        "title": "ザザシティ浜松　24時間ライブカメラ　（ワイド固定）"
+      },
+      {
+        "id": "rPNHFcaZSp8",
+        "title": "鍛冶町通りライブカメラ［ザザシティ浜松］PTZ（パン/チルト/ズーム）"
+      },
+      {
+        "id": "lLG9L053onI",
+        "title": "浜名湖 舞阪漁港 浜名大橋24hライブカメラ「魚あら」より配信"
+      },
+      {
+        "id": "PVvIVCkmQDY",
+        "title": "ネパール　カトマンズ　24時間ライブカメラ　Nepal Katmandu Live camera"
+      },
+      {
+        "id": "E1Ee27IczxY",
+        "title": "浜松市防災情報24時間ライブ河川カメラ［馬込川（楊子橋）］"
+      },
+      {
+        "id": "CSJ-pbEj69o",
+        "title": "はままつフラワーパーク　ライブカメラ  24h配信中"
+      },
+      {
+        "id": "pFlwpTTEuq0",
+        "title": "掛川城天守閣24hライブカメラ*メンテナンス中"
+      },
+      {
+        "id": "ZCssl60VdY0",
+        "title": "浜名湖ガーデンパーク　ライブ24h配信　PTZカメラ"
+      },
+      {
+        "id": "2RUChKtPxaY",
+        "title": "JR浜松駅南口（新幹線口）24時間ライブカメラ"
+      }
+    ]
   },
   {
     "id": "UCJLjpq7pTJRbP3vtx0LxB9Q",
@@ -6729,7 +6793,12 @@
     "id": "UCJk1ArOmeKdyMyvONIWPMfw",
     "handle": "@DeltaYacht",
     "name": "Delta Yacht",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZBp2RexknoI",
+        "title": "Delta Yacht Colijnsplaat Live"
+      }
+    ]
   },
   {
     "id": "UCJruZ-KPJM2oJgQgEyHOS_A",
@@ -7531,7 +7600,12 @@
     "id": "UCMtmjdcTIEvVkhQbSlBKJ-A",
     "handle": "@ausablecenter",
     "name": "Ausable Freshwater Center",
-    "videos": []
+    "videos": [
+      {
+        "id": "jB4Iwn2GJS4",
+        "title": "Mirror Lake Livestream (Sponsored by Golden Arrow)"
+      }
+    ]
   },
   {
     "id": "UCMvAap1Jacyg-4bqYKDlmtw",
@@ -8234,12 +8308,7 @@
     "id": "UCQ67X9KtVFMo2h1a1AMGZZQ",
     "handle": "@EinbeckerMorgenpostDe1810",
     "name": "Einbecker Morgenpost",
-    "videos": [
-      {
-        "id": "71Yer9LojaU",
-        "title": "Einbecker Morgenpost - Webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCQJE3qm7Sjc5-JXAYjAfkrw",
@@ -8803,7 +8872,12 @@
     "id": "UCRapzDHUryKzcb9rJJGfxqg",
     "handle": "@whirligigwilson1724",
     "name": "Whirligig Wilson",
-    "videos": []
+    "videos": [
+      {
+        "id": "maJessq4rMU",
+        "title": "Wilson NC Whirligig Park"
+      }
+    ]
   },
   {
     "id": "UCRiY_FP2PZHeWWuIsMKyxGA",
@@ -9395,6 +9469,10 @@
     "name": "Vacation Myrtle Beach",
     "videos": [
       {
+        "id": "WK6qrLC9Hkc",
+        "title": "Myrtle Beach Sunrise 03/28/2026"
+      },
+      {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
       },
@@ -9428,10 +9506,6 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
-      {
-        "id": "jpEWWYvVKww",
-        "title": "LIVE at the waterhole - 28 March 2026"
-      },
       {
         "id": "MnY2sJydrVM",
         "title": "Jaci's Dam Cam - AD FREE"
@@ -9883,7 +9957,12 @@
     "id": "UCXj6ROnZkzqgq6eYeoflO6A",
     "handle": "@ultravisionconsult1433",
     "name": "ULTRAVISION CONSULT",
-    "videos": []
+    "videos": [
+      {
+        "id": "rs2be3mqryo",
+        "title": "www.ultravisionconsult.com"
+      }
+    ]
   },
   {
     "id": "UCXtGlMSjKYfGoPggHcAZYbQ",
@@ -10187,7 +10266,7 @@
     "name": "WebcamEgmond",
     "videos": [
       {
-        "id": "l5_6J_q5B5Q",
+        "id": "3X1iv4UM-Ag",
         "title": "🔴 Egmond aan Zee Live Webcam 🌊 | Strand, Zee & Dorpscentrum"
       },
       {
@@ -11064,12 +11143,7 @@
     "id": "UCcCXppxPeV4-xBKIwZXCQMQ",
     "handle": "@wahoobaypompano",
     "name": "Wahoo Bay",
-    "videos": [
-      {
-        "id": "oBTGY6Ax870",
-        "title": "Wahoo Bay Underwater Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCcDDEzMRly4_FRH3LxOpDNQ",
@@ -12384,6 +12458,10 @@
     "name": "CGTN",
     "videos": [
       {
+        "id": "AXi0Hvxp1s8",
+        "title": "Live: Latest as Middle East conflict hits one-month mark, uncertainty deepens"
+      },
+      {
         "id": "SDg_xaF8sSI",
         "title": "View of Tel Aviv skyline"
       },
@@ -12604,7 +12682,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "iwN4nViywvY",
+        "id": "z1-X-kya4bU",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -15289,12 +15367,7 @@
     "id": "UCpYmJpK_TSk8imQsZ8A9LNA",
     "handle": "@Bushtops",
     "name": "Bushtops Safaris",
-    "videos": [
-      {
-        "id": "xXZqU5vnEug",
-        "title": "Live Safari - Masai Mara, Kenya"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCpcQw8euHeDXiI7yJAvNzpQ",
@@ -16689,7 +16762,12 @@
     "id": "UCuAa7DaemcOS_q6Ql9Qo5Yg",
     "handle": "@DesMoinesGov",
     "name": "City of Des Moines – DMTV",
-    "videos": []
+    "videos": [
+      {
+        "id": "O5qVHhoIRPw",
+        "title": "City of Des Moines Skyline Camera"
+      }
+    ]
   },
   {
     "id": "UCuC2O77qFl3UtcUN4KmKaeg",
@@ -17227,7 +17305,12 @@
     "id": "UCvYKFUIGJ3pdnt-Berq7Thg",
     "handle": "@Visitkythera",
     "name": "Visit Kythera",
-    "videos": []
+    "videos": [
+      {
+        "id": "tqICY0w4Ndw",
+        "title": "Kythera Live Streaming from Kapsali"
+      }
+    ]
   },
   {
     "id": "UCvb1J8D2T6ZlOnbLbAZ0YOA",
@@ -17504,7 +17587,12 @@
     "id": "UCxH53rESkUj4g4A5P6sVkPg",
     "handle": "@mestonovybor8486",
     "name": "Město Nový Bor",
-    "videos": []
+    "videos": [
+      {
+        "id": "EnJlvwMeCIU",
+        "title": "Nový Bor"
+      }
+    ]
   },
   {
     "id": "UCxIsefyl9g9A5SGWA4FvGIA",
