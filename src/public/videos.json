@@ -830,16 +830,7 @@
     "id": "UC1dvZq_0NLxBTrYp4bWKeCQ",
     "handle": "@elkslodge616camlive8",
     "name": "ElksLodge616cam live",
-    "videos": [
-      {
-        "id": "y6ew34X8P7Q",
-        "title": "Shaka Webcam"
-      },
-      {
-        "id": "7do5yOYetV0",
-        "title": "Elk's Lodge Surf cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC1kDVgEX2DsE295Bkum_K9Q",
@@ -1722,16 +1713,7 @@
     "id": "UC52X5wxOL_s5yw0dQk7NtgA",
     "handle": "@AssociatedPress",
     "name": "Associated Press",
-    "videos": [
-      {
-        "id": "EA40k4tmYis",
-        "title": "LIVE: Beirut and southern Lebanon skyline as Israel strikes the country"
-      },
-      {
-        "id": "Q8-yLvxaIAc",
-        "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC5Dy3WsfZw5AQxnamT0d0ow",
@@ -4705,7 +4687,20 @@
     "id": "UCC04nMAlJcTwsNUP4F3h2gw",
     "handle": "@SantaRosaIslandAuthority",
     "name": "Santa Rosa Island Authority",
-    "videos": []
+    "videos": [
+      {
+        "id": "890WmHX7h6U",
+        "title": "SRIA - East Cam"
+      },
+      {
+        "id": "HKIc6CYlMzI",
+        "title": "SRIA - West Cam"
+      },
+      {
+        "id": "2X0GdFzfv3A",
+        "title": "SRIA - South Cam"
+      }
+    ]
   },
   {
     "id": "UCCEo1hxcfQe7p-odS5pEZxg",
@@ -5146,7 +5141,12 @@
     "id": "UCEloGRn_GCcr-I_6f5MYJPw",
     "handle": "@サンシャイン60通りライブカメラ",
     "name": "サンシャイン60通りライブカメラ",
-    "videos": []
+    "videos": [
+      {
+        "id": "kJ1bfm6f9Fo",
+        "title": "【LIVE】サンシャイン60通りライブカメラ：Tokyo City Live Camera ikebukuro"
+      }
+    ]
   },
   {
     "id": "UCEpDjqeFIGTqHwk-uULx72Q",
@@ -6165,12 +6165,7 @@
     "id": "UCIeAa1ORzuGMaaBNcuLgAvw",
     "handle": "@solebadwerne8309",
     "name": "Solebad Werne",
-    "videos": [
-      {
-        "id": "NK98sgeJiXE",
-        "title": "Solebad Werne"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCIoaDlW1ch-QLR_HsaQMJQQ",
@@ -6649,48 +6644,7 @@
     "id": "UCJKH8wYxFYeufDnvy1MPofA",
     "handle": "@zaza6075",
     "name": "ZAZAマガジンチャンネル",
-    "videos": [
-      {
-        "id": "PNM73CnC0Yk",
-        "title": "気田川（けたがわ）24hライブカメラ｜気田川漁業協同組合より配信（音声付）春野町・鮎の故郷・すみれの花咲く頃　　（防災カメラとしてもお役立て下さい）"
-      },
-      {
-        "id": "imq5yf686zA",
-        "title": "ザザシティ浜松　24時間ライブカメラ　（ワイド固定）"
-      },
-      {
-        "id": "rPNHFcaZSp8",
-        "title": "鍛冶町通りライブカメラ［ザザシティ浜松］PTZ（パン/チルト/ズーム）"
-      },
-      {
-        "id": "lLG9L053onI",
-        "title": "浜名湖 舞阪漁港 浜名大橋24hライブカメラ「魚あら」より配信"
-      },
-      {
-        "id": "PVvIVCkmQDY",
-        "title": "ネパール　カトマンズ　24時間ライブカメラ　Nepal Katmandu Live camera"
-      },
-      {
-        "id": "E1Ee27IczxY",
-        "title": "浜松市防災情報24時間ライブ河川カメラ［馬込川（楊子橋）］"
-      },
-      {
-        "id": "CSJ-pbEj69o",
-        "title": "はままつフラワーパーク　ライブカメラ  24h配信中"
-      },
-      {
-        "id": "pFlwpTTEuq0",
-        "title": "掛川城天守閣24hライブカメラ*メンテナンス中"
-      },
-      {
-        "id": "ZCssl60VdY0",
-        "title": "浜名湖ガーデンパーク　ライブ24h配信　PTZカメラ"
-      },
-      {
-        "id": "2RUChKtPxaY",
-        "title": "JR浜松駅南口（新幹線口）24時間ライブカメラ"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCJLjpq7pTJRbP3vtx0LxB9Q",
@@ -6775,12 +6729,7 @@
     "id": "UCJk1ArOmeKdyMyvONIWPMfw",
     "handle": "@DeltaYacht",
     "name": "Delta Yacht",
-    "videos": [
-      {
-        "id": "ZBp2RexknoI",
-        "title": "Delta Yacht Colijnsplaat Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCJruZ-KPJM2oJgQgEyHOS_A",
@@ -7098,7 +7047,104 @@
     "id": "UCLMkrtuGU0QL1k7ne9BTWNg",
     "handle": "@OregonStateLive",
     "name": "Oregon State University - Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "DD4t-RuDTEE",
+        "title": "Oregon State University - Student Legacy Park - East"
+      },
+      {
+        "id": "bU20Qq3yaPs",
+        "title": "OSU Cascades - Student Health and Recreation Center South"
+      },
+      {
+        "id": "XIVu5vM4xXE",
+        "title": "OSU Cascades - Land Development"
+      },
+      {
+        "id": "udjc08GmhH0",
+        "title": "OSU Cascades - Student Health & Recreation Center"
+      },
+      {
+        "id": "UwDfHRUOuBs",
+        "title": "OSU Cascades - Land Development"
+      },
+      {
+        "id": "XA_v5e6b3DU",
+        "title": "Oregon State University - Housing Building Project"
+      },
+      {
+        "id": "VgbFzvqiLNk",
+        "title": "Oregon State University - Parker Plaza"
+      },
+      {
+        "id": "Z5skON2yzcI",
+        "title": "Oregon State University - Memorial Union"
+      },
+      {
+        "id": "7h2GbXuRVX0",
+        "title": "Oregon State University - Valley Library Quad"
+      },
+      {
+        "id": "1KZdTB8vPFA",
+        "title": "Oregon State University - Huang Collaborative Innovation Complex 1"
+      },
+      {
+        "id": "NCeE-GvHurg",
+        "title": "Oregon State University - Huang Collaborative Innovation Complex 2"
+      },
+      {
+        "id": "Xb7RW25WR-Y",
+        "title": "Oregon State University - Valley Library 3D Printers"
+      },
+      {
+        "id": "t5Kov6TZC3I",
+        "title": "Regional Class Research Vessel (RCRV) - Cam 8"
+      },
+      {
+        "id": "_PBGCHIQN2Q",
+        "title": "OSU Cascades - Student Success Center"
+      },
+      {
+        "id": "qmZpIYagDN4",
+        "title": "OSU Cascades - Innovation District"
+      },
+      {
+        "id": "RzgsQQxsNqc",
+        "title": "Oregon State University - Hatfield Marine Science Center - Yaquina Bay"
+      },
+      {
+        "id": "I7tSvjq7WE8",
+        "title": "Oregon State University Ship Operations - Pier Construction"
+      },
+      {
+        "id": "eskWkb-nQuU",
+        "title": "Regional Class Research Vessel (RCRV) - Cam 6"
+      },
+      {
+        "id": "dVNjuXkmNk8",
+        "title": "Oregon State University - Cascades - Bruckner Courtyard"
+      },
+      {
+        "id": "Nq5sV4qUCJg",
+        "title": "Regional Class Research Vessel (RCRV) - Cam 4"
+      },
+      {
+        "id": "Rr8OuJ4cibs",
+        "title": "Regional Class Research Vessel (RCRV) - Cam 3"
+      },
+      {
+        "id": "rcfNCKfTjpI",
+        "title": "Regional Class Research Vessel (RCRV) - Cam 2"
+      },
+      {
+        "id": "zKXPw48ohHA",
+        "title": "Regional Class Research Vessel (RCRV) - Cam 1"
+      },
+      {
+        "id": "e9LYewJGQlk",
+        "title": "Oregon State University - PRAx"
+      }
+    ]
   },
   {
     "id": "UCLOLrH5D-s7SxemqXgtoAgw",
@@ -7485,12 +7531,7 @@
     "id": "UCMtmjdcTIEvVkhQbSlBKJ-A",
     "handle": "@ausablecenter",
     "name": "Ausable Freshwater Center",
-    "videos": [
-      {
-        "id": "jB4Iwn2GJS4",
-        "title": "Mirror Lake Livestream (Sponsored by Golden Arrow)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCMvAap1Jacyg-4bqYKDlmtw",
@@ -8762,12 +8803,7 @@
     "id": "UCRapzDHUryKzcb9rJJGfxqg",
     "handle": "@whirligigwilson1724",
     "name": "Whirligig Wilson",
-    "videos": [
-      {
-        "id": "maJessq4rMU",
-        "title": "Wilson NC Whirligig Park"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCRiY_FP2PZHeWWuIsMKyxGA",
@@ -9677,7 +9713,20 @@
     "id": "UCWsRYU3f0gtQVcnWIds1Lxg",
     "handle": "@sr-varangerkommune5151",
     "name": "Sør-Varanger kommune",
-    "videos": []
+    "videos": [
+      {
+        "id": "acJRSLCe6G0",
+        "title": "Sør-Varanger Kirkenes - Himmelstigen"
+      },
+      {
+        "id": "5gqaJgq_cdA",
+        "title": "Sør-Varanger - Lyngbberget"
+      },
+      {
+        "id": "6rE0ua2lVaM",
+        "title": "Sør-Varanger Kirkenes - Utsikt fra kirketårnet sørover"
+      }
+    ]
   },
   {
     "id": "UCWsoep0hJKhGbYosMeQIyXA",
@@ -9834,12 +9883,7 @@
     "id": "UCXj6ROnZkzqgq6eYeoflO6A",
     "handle": "@ultravisionconsult1433",
     "name": "ULTRAVISION CONSULT",
-    "videos": [
-      {
-        "id": "rs2be3mqryo",
-        "title": "www.ultravisionconsult.com"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXtGlMSjKYfGoPggHcAZYbQ",
@@ -10143,6 +10187,10 @@
     "name": "WebcamEgmond",
     "videos": [
       {
+        "id": "l5_6J_q5B5Q",
+        "title": "🔴 Egmond aan Zee Live Webcam 🌊 | Strand, Zee & Dorpscentrum"
+      },
+      {
         "id": "vTG0YaRWRmc",
         "title": "🔴 Egmond aan Zee LIVE Weerstation – Wind & Temp Nu"
       },
@@ -10157,10 +10205,6 @@
       {
         "id": "TTWBm-m8Qhc",
         "title": "🎥LIVE Webcam Pompplein Egmond aan Zee | 24/7 Beach Live Stream from the Heart of Egmond, Netherlands"
-      },
-      {
-        "id": "FgeHB-R6w6o",
-        "title": "Egmond aan Zee Live Beach Webcam 🌊 | North Sea & Village Center"
       },
       {
         "id": "FJfsf886NkE",
@@ -12560,7 +12604,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "2595F2m2P28",
+        "id": "iwN4nViywvY",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -16645,12 +16689,7 @@
     "id": "UCuAa7DaemcOS_q6Ql9Qo5Yg",
     "handle": "@DesMoinesGov",
     "name": "City of Des Moines – DMTV",
-    "videos": [
-      {
-        "id": "O5qVHhoIRPw",
-        "title": "City of Des Moines Skyline Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCuC2O77qFl3UtcUN4KmKaeg",
@@ -17188,12 +17227,7 @@
     "id": "UCvYKFUIGJ3pdnt-Berq7Thg",
     "handle": "@Visitkythera",
     "name": "Visit Kythera",
-    "videos": [
-      {
-        "id": "tqICY0w4Ndw",
-        "title": "Kythera Live Streaming from Kapsali"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCvb1J8D2T6ZlOnbLbAZ0YOA",
@@ -17470,12 +17504,7 @@
     "id": "UCxH53rESkUj4g4A5P6sVkPg",
     "handle": "@mestonovybor8486",
     "name": "Město Nový Bor",
-    "videos": [
-      {
-        "id": "EnJlvwMeCIU",
-        "title": "Nový Bor"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxIsefyl9g9A5SGWA4FvGIA",
