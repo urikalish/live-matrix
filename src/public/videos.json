@@ -181,7 +181,12 @@
     "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
     "handle": "@alwarith-center",
     "name": "مركز الوارث للإنتاج الفني",
-    "videos": []
+    "videos": [
+      {
+        "id": "9xqneBBPNkY",
+        "title": "البث المباشر من العتبة الحسينية المقدسة  |  كربلاء المقدسة الان Karbala live"
+      }
+    ]
   },
   {
     "id": "UC-KS6AGW3J43aFF-KOQ6VAw",
@@ -873,7 +878,16 @@
     "id": "UC1sRvHkvcwUkVipMpCv2mjQ",
     "handle": "@salisburybeachpavilioncameras",
     "name": "Salisbury Beach Pavilion Cameras",
-    "videos": []
+    "videos": [
+      {
+        "id": "by7PwZvV_CU",
+        "title": "Salisbury Beach Camera South"
+      },
+      {
+        "id": "870YJO-cr_w",
+        "title": "Salisbury Beach Camera North"
+      }
+    ]
   },
   {
     "id": "UC1tBnbs03VJ34oLD8cmJSVw",
@@ -2221,6 +2235,10 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
+        "id": "1BBpH3Uih2c",
+        "title": "【桜ライブ】幸手権現堂桜堤「桜まつり」2026　夜桜ライトアップも (LIVE配信) | TBS NEWS DIG"
+      },
+      {
         "id": "UDZYKb15p6Y",
         "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月28日）｜TBS NEWS DIG"
       },
@@ -2441,7 +2459,12 @@
     "id": "UC6q_hfBThkGdmQ5Vb4kWjWA",
     "handle": "@FlightFocus365",
     "name": "Flight Focus 365",
-    "videos": []
+    "videos": [
+      {
+        "id": "ovcpZ_A0fE4",
+        "title": "Heathrow Airport Live - Saturday 28th March 2026"
+      }
+    ]
   },
   {
     "id": "UC6qrG3W8SMK0jior2olka3g",
@@ -4733,8 +4756,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "xXwXInBiMFY",
-        "title": "【 Archive】 2026-03-28『12:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "JZZOe8dxDGY",
+        "title": "【 Archive】 2026-03-28『15:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -4868,12 +4891,7 @@
     "id": "UCD3fPz7PdO06e8k75nIwifQ",
     "handle": "@geirangerfjordcruiseporthe535",
     "name": "Geirangerfjord cruise port, Hellesylt",
-    "videos": [
-      {
-        "id": "S4aJlRY39fo",
-        "title": "Geirangerfjord cruise port, Hellesylt"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDAHA3f1RMYenm_lFgqjDXQ",
@@ -4932,12 +4950,7 @@
     "id": "UCDKFXJj-c-CL7dLBbLBs4ew",
     "handle": "@jupiterreefclub637",
     "name": "Jupiter ReefClub",
-    "videos": [
-      {
-        "id": "1FYgBpkM7SA",
-        "title": "Jupiter Reef Club Live Webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDL2IVxAgPI7wybiUlQKrWg",
@@ -6190,7 +6203,12 @@
     "id": "UCIsPPwu9VefxZZ9tPYcQMmQ",
     "handle": "@shipm8",
     "name": "SHIPM8",
-    "videos": []
+    "videos": [
+      {
+        "id": "N3sX_1w0wsI",
+        "title": "Mijn Uitzending"
+      }
+    ]
   },
   {
     "id": "UCJ0y2sG32CqI5P-YMt_FCXg",
@@ -7061,12 +7079,7 @@
     "id": "UCLA3Uc4amh-v5eIS6M_r2ow",
     "handle": "@Platinum-apartmentsAu",
     "name": "Melbourne Luxury Accommodation",
-    "videos": [
-      {
-        "id": "l_8DrACHpwY",
-        "title": "MELBOURNE Live from Platinum Apartments"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCLA_DiR1FfKNvjuUpBHmylQ",
@@ -7855,12 +7868,7 @@
     "id": "UCOGzru-qFCrrpRUStnnCjfg",
     "handle": "@hollandheimau8978",
     "name": "Hollandheim Au",
-    "videos": [
-      {
-        "id": "JekBM4fw5N0",
-        "title": "Webcam Hollandheim AU"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCORHd1urdBsokSftmLlrRMg",
@@ -8561,40 +8569,7 @@
     "id": "UCRSAJ1FuAoxltDBdNzUfnOg",
     "handle": "@tehnolinetelekom7049",
     "name": "Tehnoline Telekom",
-    "videos": [
-      {
-        "id": "qdh4MPvXSsc",
-        "title": "TZ Rabac"
-      },
-      {
-        "id": "hMluede9kII",
-        "title": "TZ Rabac Ptz"
-      },
-      {
-        "id": "j4Ze7fxsOxo",
-        "title": "LIVE! Marina Veruda Tehnomont 2"
-      },
-      {
-        "id": "7dOPUMAQYJU",
-        "title": "LIVE! Marina Veruda Tehnomont 1"
-      },
-      {
-        "id": "tb_YWO6ET3o",
-        "title": "JUK Kamenjak uvala Polje 2"
-      },
-      {
-        "id": "1CYRZ1IBGkM",
-        "title": "Barban"
-      },
-      {
-        "id": "UEB4Id9nGIs",
-        "title": "LIVE! Marina Veruda Tehnomont 3"
-      },
-      {
-        "id": "vOsR8QQF3ak",
-        "title": "Fort1"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCRSVYu3ANXrQuSnpw5bPUBw",
@@ -9069,7 +9044,16 @@
     "id": "UCSJ2YAapD9w3rYhDKgp9GeA",
     "handle": "@alexandriabaychamberofcomm5890",
     "name": "Alexandria Bay Chamber of Commerce",
-    "videos": []
+    "videos": [
+      {
+        "id": "6h9-fNIya_w",
+        "title": "Alexandria Bay Docks"
+      },
+      {
+        "id": "wQiewnlyXlA",
+        "title": "Alexandria Bay Chamber of Commerce River View Stream"
+      }
+    ]
   },
   {
     "id": "UCSilXhjCqvRMtVug1J51CiA",
@@ -10894,16 +10878,7 @@
     "id": "UCbMSl7-RvWs4szJNHwdXCpg",
     "handle": "@HubbardsMarina",
     "name": "Hubbard&#39;s Marina",
-    "videos": [
-      {
-        "id": "uaivpT7T0A4",
-        "title": "John's Pass Camera | Hubbard's Marina | www.HubbardsMarina.com"
-      },
-      {
-        "id": "8xOkbnxHVG0",
-        "title": "Hubbard's Marina Dock Cam | John's Pass | Madeira Beach FL | https://HubbardsMarina.com"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCbP6xNZKA-xcVCP50wxPeiQ",
@@ -11604,7 +11579,56 @@
     "id": "UCfGR-qjLY3WCk8JSMYba3Gw",
     "handle": "@dogmode9609",
     "name": "Dog Mode",
-    "videos": []
+    "videos": [
+      {
+        "id": "cdj2v6ignuE",
+        "title": "DogMode: Aquatic Center- Pool View"
+      },
+      {
+        "id": "N1A5ISHRVtU",
+        "title": "DogMode: Small Dogs Bedroom"
+      },
+      {
+        "id": "mVvGGqQGij8",
+        "title": "DogMode: Senior Inside"
+      },
+      {
+        "id": "BPMtt1XPDJw",
+        "title": "DogMode: Small Dogs Outside"
+      },
+      {
+        "id": "H5AM65Y7Tr0",
+        "title": "DogMode: Small Dogs Inside #1"
+      },
+      {
+        "id": "xeKutTxVOGY",
+        "title": "DogMode: Small Dogs Inside #2"
+      },
+      {
+        "id": "tdxhCpHDkWg",
+        "title": "DogMode: Senior Outside"
+      },
+      {
+        "id": "PlQPokAlNH0",
+        "title": "DogMode: Aquatic Center- Dock View"
+      },
+      {
+        "id": "K7QejokBxWg",
+        "title": "DogMode: South Inside"
+      },
+      {
+        "id": "cZ53cGESXJI",
+        "title": "DogMode: North Outside"
+      },
+      {
+        "id": "1suAgaip2GY",
+        "title": "DogMode: North Inside"
+      },
+      {
+        "id": "JV00nuu8lK4",
+        "title": "DogMode: South Outside"
+      }
+    ]
   },
   {
     "id": "UCfHv7aRXqCYcNsqKGrQJUIQ",
@@ -12128,7 +12152,12 @@
     "id": "UCgGmACGEil_QEVQOKOBPJrg",
     "handle": "@SquirrelNestLive",
     "name": "SquirrelNest Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "yO6IglSLIp8",
+        "title": "SquirrelNest.Live 🔴24/7 200 squirrel cameras real-time live"
+      }
+    ]
   },
   {
     "id": "UCgHSWWpejV6K7hz6Q08fJpQ",
@@ -12216,28 +12245,7 @@
     "id": "UCgL2EJAYMsU9ifTuiZ9wUFA",
     "handle": "@PanoCloud",
     "name": "PanoCloud",
-    "videos": [
-      {
-        "id": "R1bLDIW-IjA",
-        "title": "Wetterpanorama Deutschland"
-      },
-      {
-        "id": "4jx0xcRcM3U",
-        "title": "Wetterpanorama Südtirol"
-      },
-      {
-        "id": "RbPKkXif03U",
-        "title": "Live Webcams Finnish Ski Resorts Ruka and Pyhä"
-      },
-      {
-        "id": "F2-hJqSTaUk",
-        "title": "Wetterpanorama Webcams von PanoCloud"
-      },
-      {
-        "id": "a_ll9NvZqaY",
-        "title": "Wetterpanorama Kärnten"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgLS9B7z9c-sUsvR7xWgIVQ",
@@ -12372,6 +12380,10 @@
     "handle": "@cgtn",
     "name": "CGTN",
     "videos": [
+      {
+        "id": "JSETekaIQdk",
+        "title": "Live: Explore cultural digital quarter at 2026 China Science Fiction convention in Beijing"
+      },
       {
         "id": "SDg_xaF8sSI",
         "title": "View of Tel Aviv skyline"
@@ -13848,12 +13860,7 @@
     "id": "UCm8DGdhRoGe-GPCXfCT65og",
     "handle": "@YokohamaLive",
     "name": "横浜港ライブカメラ",
-    "videos": [
-      {
-        "id": "75f-s5NLddw",
-        "title": "ライブカメラ　みなとみらい、ベイブリッジ、横浜港：Yokohama Port Live Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCm9zLeJlfz7jRT_6vff70_w",
@@ -14016,12 +14023,7 @@
     "id": "UCmXB98lpzelFrlryV2llXUQ",
     "handle": "@OxMartinSchool",
     "name": "Oxford Martin School",
-    "videos": [
-      {
-        "id": "-FguEt6H91s",
-        "title": "Oxford Martin School Webcam - Broad Street, Oxford"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCmYXN0dWONiJXXleAGV3qnA",
@@ -14466,7 +14468,16 @@
     "id": "UCnsR6NZFdu_kOljI3SWiGJw",
     "handle": "@Mt.ofOlivesPrayerBridge",
     "name": "Mt. of Olives Prayer Bridge",
-    "videos": []
+    "videos": [
+      {
+        "id": "zp6LNSoq000",
+        "title": "Western Wall, Temple Archaeological Park"
+      },
+      {
+        "id": "AKGqd20ik_A",
+        "title": "Western Wall, the Kotel."
+      }
+    ]
   },
   {
     "id": "UCnuF5fiEc6DdbhDHCQoCAfA",
@@ -15875,7 +15886,7 @@
     "name": "Gavin Heffernan Timelapse Travel ",
     "videos": [
       {
-        "id": "PKOYR0F0M6o",
+        "id": "sn5kckYYgTI",
         "title": "🌲 Yosemite Live Webcams | Half Dome, El Capitan,  High Sierra 🌄 Relaxing Nature Escape"
       }
     ]
@@ -16253,12 +16264,7 @@
     "id": "UCssgkk6dhVpL-v6K5yPjIzw",
     "handle": "@KobmandHansenHenneStrand",
     "name": "Købmand Hansens Feriehusudlejning",
-    "videos": [
-      {
-        "id": "9B8e3Y8JPUk",
-        "title": "Henne Strand Webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCsuKV3IwmGEHJTvi9GAJ1tA",
@@ -16299,7 +16305,12 @@
     "id": "UCswyCUg2EN1MIz0vDTzLqug",
     "handle": "@ilmajjistralnatureandhisto3909",
     "name": "Il Majjistral Nature and History Park",
-    "videos": []
+    "videos": [
+      {
+        "id": "nUiLly2Lr3E",
+        "title": "Ramla tal-Mixquqa (Golden Bay) Webcam - TOURISMO Malta Pilot."
+      }
+    ]
   },
   {
     "id": "UCsy6UOjk8q7Ajq9yQ7iDAbA",
@@ -16399,7 +16410,12 @@
     "id": "UCt01tczohsGmH6X6csUS6iQ",
     "handle": "@aguasdecadiz5312",
     "name": "Aguas de Cádiz",
-    "videos": []
+    "videos": [
+      {
+        "id": "0dKNLFFcHFU",
+        "title": "Aguas de Cádiz - Fuente de la plaza de Sevilla"
+      }
+    ]
   },
   {
     "id": "UCt6LB-BvEmDm-oWbe_TO7mw",
@@ -17145,10 +17161,6 @@
     "name": "YOMIURI TELECASTING CORPORATION NEWS CHANNEL",
     "videos": [
       {
-        "id": "In6VCmzH09o",
-        "title": "日米首脳会談で日本が勝ち得たもの「おもてなし」でも「ゴマすり」でもない舞台裏の戦略／誰かがウソ？イラン停戦交渉の行方／エネルギー危機への対応は／今できる節約術【3月23日～27日の解説まとめ】"
-      },
-      {
         "id": "1V-rE4Z1ZZQ",
         "title": "【ライブカメラ】神戸空港（UKB）　飛行機の離着陸とお天気（読売テレビ）/ Live Camera Kobe Airport"
       },
@@ -17816,12 +17828,7 @@
     "id": "UCy8rlPU5XOFxn2nk5VUpaeA",
     "handle": "@confederationbridge5244",
     "name": "Confederation Bridge",
-    "videos": [
-      {
-        "id": "wqI7SgP_E-g",
-        "title": "Confederation Bridge Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCy9ww22FuUlXd0c6B8INJVQ",
@@ -17844,8 +17851,8 @@
     "name": "HANS NATURE CHANNEL",
     "videos": [
       {
-        "id": "iSHbB_e8C_c",
-        "title": "🦉 Tawny Owl Night Live | 3 Chicks to Feed! 🐥🐥 Will Dad Owl Hunt Enough Prey Tonight?"
+        "id": "oR7N7ahflRE",
+        "title": "🦉 Tawny Owl Day Live | All 3 Chicks Here! 🐥 Did Dad Owl Deliver Last Night? YES, Huge Prey Stockpile"
       },
       {
         "id": "xLU1BuqezkA",
