@@ -616,7 +616,12 @@
     "id": "UC0rJhAKP1lwheT7-1ScnFOg",
     "handle": "@seatowsouthshore",
     "name": "Sea Tow South Shore",
-    "videos": []
+    "videos": [
+      {
+        "id": "ioORZsIGa3I",
+        "title": "Sea Tow Harborcam"
+      }
+    ]
   },
   {
     "id": "UC13OHbp8jtFgUgRD2YASQ8g",
@@ -2231,7 +2236,7 @@
       },
       {
         "id": "BCEIyYQ_rRA",
-        "title": "【イラン情勢まとめ】アメリカが“最終攻撃”準備と報道 / 円安加速 1ドル160円台の大台突破 /トランプ氏 イラン発電所攻撃を10日間延期 など"
+        "title": "【イラン情勢まとめ】イエメンの親イラン組織フーシ派「イスラエルへの攻撃実施」表明 /  アメリカが“最終攻撃”準備と報道 / 円安加速 1ドル160円台の大台突破"
       },
       {
         "id": "1BBpH3Uih2c",
@@ -2360,7 +2365,12 @@
     "id": "UC6QxB4cUz5IrWYc7MmPsCFQ",
     "handle": "@forgottenshoresproperties5163",
     "name": "Forgotten Shores Properties",
-    "videos": []
+    "videos": [
+      {
+        "id": "99rql3wym9I",
+        "title": "Turtley Rad Cut Cam by Forgotten Shores Properties"
+      }
+    ]
   },
   {
     "id": "UC6RIkXobtXWJElbwEHIC-sg",
@@ -4307,10 +4317,6 @@
         "title": "🔴 Tremestieri Etneo live webcam - Panoramica Etna"
       },
       {
-        "id": "5bKH71Zmp08",
-        "title": "🔴 Brolo live webcam – Panoramica da Contrada Parrazzà"
-      },
-      {
         "id": "qkMugsWsZEs",
         "title": "🔴 Poggio Rotondo live webcam - Panoramica su Santa Domenica Vittoria"
       },
@@ -4699,20 +4705,7 @@
     "id": "UCC04nMAlJcTwsNUP4F3h2gw",
     "handle": "@SantaRosaIslandAuthority",
     "name": "Santa Rosa Island Authority",
-    "videos": [
-      {
-        "id": "890WmHX7h6U",
-        "title": "SRIA - East Cam"
-      },
-      {
-        "id": "HKIc6CYlMzI",
-        "title": "SRIA - West Cam"
-      },
-      {
-        "id": "2X0GdFzfv3A",
-        "title": "SRIA - South Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCCEo1hxcfQe7p-odS5pEZxg",
@@ -5153,12 +5146,7 @@
     "id": "UCEloGRn_GCcr-I_6f5MYJPw",
     "handle": "@サンシャイン60通りライブカメラ",
     "name": "サンシャイン60通りライブカメラ",
-    "videos": [
-      {
-        "id": "kJ1bfm6f9Fo",
-        "title": "【LIVE】サンシャイン60通りライブカメラ：Tokyo City Live Camera ikebukuro"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCEpDjqeFIGTqHwk-uULx72Q",
@@ -6661,7 +6649,48 @@
     "id": "UCJKH8wYxFYeufDnvy1MPofA",
     "handle": "@zaza6075",
     "name": "ZAZAマガジンチャンネル",
-    "videos": []
+    "videos": [
+      {
+        "id": "PNM73CnC0Yk",
+        "title": "気田川（けたがわ）24hライブカメラ｜気田川漁業協同組合より配信（音声付）春野町・鮎の故郷・すみれの花咲く頃　　（防災カメラとしてもお役立て下さい）"
+      },
+      {
+        "id": "imq5yf686zA",
+        "title": "ザザシティ浜松　24時間ライブカメラ　（ワイド固定）"
+      },
+      {
+        "id": "rPNHFcaZSp8",
+        "title": "鍛冶町通りライブカメラ［ザザシティ浜松］PTZ（パン/チルト/ズーム）"
+      },
+      {
+        "id": "lLG9L053onI",
+        "title": "浜名湖 舞阪漁港 浜名大橋24hライブカメラ「魚あら」より配信"
+      },
+      {
+        "id": "PVvIVCkmQDY",
+        "title": "ネパール　カトマンズ　24時間ライブカメラ　Nepal Katmandu Live camera"
+      },
+      {
+        "id": "E1Ee27IczxY",
+        "title": "浜松市防災情報24時間ライブ河川カメラ［馬込川（楊子橋）］"
+      },
+      {
+        "id": "CSJ-pbEj69o",
+        "title": "はままつフラワーパーク　ライブカメラ  24h配信中"
+      },
+      {
+        "id": "pFlwpTTEuq0",
+        "title": "掛川城天守閣24hライブカメラ*メンテナンス中"
+      },
+      {
+        "id": "ZCssl60VdY0",
+        "title": "浜名湖ガーデンパーク　ライブ24h配信　PTZカメラ"
+      },
+      {
+        "id": "2RUChKtPxaY",
+        "title": "JR浜松駅南口（新幹線口）24時間ライブカメラ"
+      }
+    ]
   },
   {
     "id": "UCJLjpq7pTJRbP3vtx0LxB9Q",
@@ -7069,104 +7098,7 @@
     "id": "UCLMkrtuGU0QL1k7ne9BTWNg",
     "handle": "@OregonStateLive",
     "name": "Oregon State University - Live",
-    "videos": [
-      {
-        "id": "DD4t-RuDTEE",
-        "title": "Oregon State University - Student Legacy Park - East"
-      },
-      {
-        "id": "bU20Qq3yaPs",
-        "title": "OSU Cascades - Student Health and Recreation Center South"
-      },
-      {
-        "id": "XIVu5vM4xXE",
-        "title": "OSU Cascades - Land Development"
-      },
-      {
-        "id": "udjc08GmhH0",
-        "title": "OSU Cascades - Student Health & Recreation Center"
-      },
-      {
-        "id": "UwDfHRUOuBs",
-        "title": "OSU Cascades - Land Development"
-      },
-      {
-        "id": "XA_v5e6b3DU",
-        "title": "Oregon State University - Housing Building Project"
-      },
-      {
-        "id": "VgbFzvqiLNk",
-        "title": "Oregon State University - Parker Plaza"
-      },
-      {
-        "id": "Z5skON2yzcI",
-        "title": "Oregon State University - Memorial Union"
-      },
-      {
-        "id": "7h2GbXuRVX0",
-        "title": "Oregon State University - Valley Library Quad"
-      },
-      {
-        "id": "1KZdTB8vPFA",
-        "title": "Oregon State University - Huang Collaborative Innovation Complex 1"
-      },
-      {
-        "id": "NCeE-GvHurg",
-        "title": "Oregon State University - Huang Collaborative Innovation Complex 2"
-      },
-      {
-        "id": "Xb7RW25WR-Y",
-        "title": "Oregon State University - Valley Library 3D Printers"
-      },
-      {
-        "id": "t5Kov6TZC3I",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 8"
-      },
-      {
-        "id": "_PBGCHIQN2Q",
-        "title": "OSU Cascades - Student Success Center"
-      },
-      {
-        "id": "qmZpIYagDN4",
-        "title": "OSU Cascades - Innovation District"
-      },
-      {
-        "id": "RzgsQQxsNqc",
-        "title": "Oregon State University - Hatfield Marine Science Center - Yaquina Bay"
-      },
-      {
-        "id": "I7tSvjq7WE8",
-        "title": "Oregon State University Ship Operations - Pier Construction"
-      },
-      {
-        "id": "eskWkb-nQuU",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 6"
-      },
-      {
-        "id": "dVNjuXkmNk8",
-        "title": "Oregon State University - Cascades - Bruckner Courtyard"
-      },
-      {
-        "id": "Nq5sV4qUCJg",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 4"
-      },
-      {
-        "id": "Rr8OuJ4cibs",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 3"
-      },
-      {
-        "id": "rcfNCKfTjpI",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 2"
-      },
-      {
-        "id": "zKXPw48ohHA",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 1"
-      },
-      {
-        "id": "e9LYewJGQlk",
-        "title": "Oregon State University - PRAx"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCLOLrH5D-s7SxemqXgtoAgw",
@@ -8250,7 +8182,12 @@
     "id": "UCPvs-mrFpJ5MYV6FeAtvc-w",
     "handle": "@wearetaiste",
     "name": "Taiste",
-    "videos": []
+    "videos": [
+      {
+        "id": "KLQLeZ9vjt4",
+        "title": "Torilive – näe Turun kauppatori livenä"
+      }
+    ]
   },
   {
     "id": "UCQ67X9KtVFMo2h1a1AMGZZQ",
@@ -9729,26 +9666,18 @@
     "id": "UCWpWod9oX8XRAUfu8evYfUg",
     "handle": "@SinghsabhaseattleWA",
     "name": "Gurdwara Singh Sabha Seattle",
-    "videos": []
+    "videos": [
+      {
+        "id": "QaGnIwqfNa0",
+        "title": "LIVE • Gurdwara Singh Sabha • Renton, WA"
+      }
+    ]
   },
   {
     "id": "UCWsRYU3f0gtQVcnWIds1Lxg",
     "handle": "@sr-varangerkommune5151",
     "name": "Sør-Varanger kommune",
-    "videos": [
-      {
-        "id": "acJRSLCe6G0",
-        "title": "Sør-Varanger Kirkenes - Himmelstigen"
-      },
-      {
-        "id": "5gqaJgq_cdA",
-        "title": "Sør-Varanger - Lyngbberget"
-      },
-      {
-        "id": "6rE0ua2lVaM",
-        "title": "Sør-Varanger Kirkenes - Utsikt fra kirketårnet sørover"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCWsoep0hJKhGbYosMeQIyXA",
@@ -10868,13 +10797,22 @@
     "id": "UCb8Srdd1w7s4oJG21um9AGw",
     "handle": "@grantcountyit2831",
     "name": "Grant County IT",
-    "videos": []
+    "videos": [
+      {
+        "id": "2WguR-YqMEI",
+        "title": "Grant County, Lancaster"
+      }
+    ]
   },
   {
     "id": "UCbMSl7-RvWs4szJNHwdXCpg",
     "handle": "@HubbardsMarina",
     "name": "Hubbard&#39;s Marina",
     "videos": [
+      {
+        "id": "13JOrK7BKVs",
+        "title": "Reel animals radio show!! | https://HubbardsMarina.com"
+      },
       {
         "id": "uaivpT7T0A4",
         "title": "John's Pass Camera | Hubbard's Marina | www.HubbardsMarina.com"
@@ -11093,7 +11031,12 @@
     "id": "UCcDDEzMRly4_FRH3LxOpDNQ",
     "handle": "@cityofreno-cityplazacamera9918",
     "name": "City of Reno - City Plaza Camera",
-    "videos": []
+    "videos": [
+      {
+        "id": "Aea4taIIVPE",
+        "title": "Live City Plaza Camera"
+      }
+    ]
   },
   {
     "id": "UCcGI_kXwKl_QhyW9jK_8gIA",
@@ -13178,7 +13121,12 @@
     "id": "UCjvtkjWwpnhgGv2nutFFr-A",
     "handle": "@IloveLx",
     "name": "I love Lx",
-    "videos": []
+    "videos": [
+      {
+        "id": "VbDwJxGlZ5k",
+        "title": "I love Lx Live Stream"
+      }
+    ]
   },
   {
     "id": "UCjzJrnsM3Ar0DMmJhpNMiaw",
