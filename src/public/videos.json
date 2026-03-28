@@ -405,12 +405,7 @@
     "id": "UC0R-K3crhMX9jzswbmfIORw",
     "handle": "@AVIAÇÃOTV",
     "name": "AVIATION TV",
-    "videos": [
-      {
-        "id": "rZxEkbaNdvA",
-        "title": "🔴 LIVE 24/7 Aeroporto de Lisboa 28.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC0aRRZkVrO_0nqfuXYaL_Cg",
@@ -2287,16 +2282,7 @@
     "id": "UC6HiVa8ET2pDdiDZqzmTPhw",
     "handle": "@VervetTroms",
     "name": "Vervet Tromsø",
-    "videos": [
-      {
-        "id": "3y7_fkAzzps",
-        "title": "Vervet Live - Utsikt Sør"
-      },
-      {
-        "id": "zKpPfH8u3GI",
-        "title": "Vervet Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC6OFMtjlgAOAq5kJwmt-lpA",
@@ -3810,7 +3796,12 @@
     "id": "UCALmdjIUxpKqyUTxg5QOSMQ",
     "handle": "@marginalwaypreservationfun2285",
     "name": "Marginal Way Preservation Fund",
-    "videos": []
+    "videos": [
+      {
+        "id": "RLIRtD89O7g",
+        "title": "Marginal Way Ogunquit Maine Live View"
+      }
+    ]
   },
   {
     "id": "UCARB8y6PuoOBjZXJKIG-LDw",
@@ -3922,7 +3913,16 @@
     "id": "UCAY-GlV3P5twjg7B9tjx_lg",
     "handle": "@Scotventure",
     "name": "Alex  Explorer - Scotventure",
-    "videos": []
+    "videos": [
+      {
+        "id": "fKb7dUCuofs",
+        "title": "🔴LIVE - Fort William Live Webcam - Scotland - Loch Linnhe & West End Car Park"
+      },
+      {
+        "id": "j9w0shEwYQA",
+        "title": "🔴LIVE - Fort William Live Webcam - Scotland - Loch Linnhe & West End Car Park"
+      }
+    ]
   },
   {
     "id": "UCAfi6hcs4a9Zk1zNShCuxfA",
@@ -4975,7 +4975,16 @@
     "id": "UCDPUOq2ADKZwRleMUImX-Ww",
     "handle": "@WeatherEvents",
     "name": "WeatherEvents",
-    "videos": []
+    "videos": [
+      {
+        "id": "9eKzgA3Af7k",
+        "title": "Aberdour Live Streaming WeatherCam - FifeWeather.co.uk"
+      },
+      {
+        "id": "T09aQp1CqBI",
+        "title": "Lochgelly Live Streaming WeatherCam - FifeWeather.co.uk"
+      }
+    ]
   },
   {
     "id": "UCDQ9-OMttGoiRHzLrg-xKRA",
@@ -5025,28 +5034,7 @@
     "id": "UCDmNmxF3ZVMeGyvWE9tOqPQ",
     "handle": "@ABC13Houston",
     "name": "ABC13 Houston",
-    "videos": [
-      {
-        "id": "SDK_m1_BVJ4",
-        "title": "Houston, Texas | 24/7 Live City Camera"
-      },
-      {
-        "id": "UqrwUKSkMEE",
-        "title": "Lake Conroe, Texas | 24/7 Live Lake Camera"
-      },
-      {
-        "id": "HkHhXsWci7Q",
-        "title": "Galveston, Texas | 24/7 Live Beach Camera"
-      },
-      {
-        "id": "8uCTDszkENs",
-        "title": "ABC13 Houston | Live Local News and Weather"
-      },
-      {
-        "id": "wUQc3RoLAPs",
-        "title": "Houston, Texas | 24/7 Live Downtown Skyline Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCE-KEyQdqRE9WA6MqUOrCZg",
@@ -5871,7 +5859,72 @@
     "id": "UCH6yrzWLfdQUyA5wwYSVjHA",
     "handle": "@mallorca-webcam",
     "name": "Mallorca Webcam",
-    "videos": []
+    "videos": [
+      {
+        "id": "3O5cMSRc6CM",
+        "title": "🌞 Mallorca Webcam Live Weather Cam Port d'Andratx / Cala Llamp 4K UHD #Mallorca  #BeachClub #Weather"
+      },
+      {
+        "id": "4VAvvsBeV9Y",
+        "title": "🌞 Mallorca Webcam Paguera Cala Fornells | 4K UHD | 24/7 Stream |  #Mallorca #Calvia #Balearics"
+      },
+      {
+        "id": "1JQ7K6yZWYs",
+        "title": "🌞🌊 Mallorca Webcam Playa Palmira / Rendezvous Garden Paguera | 4K | #Balearics #Mallorca #Livestream"
+      },
+      {
+        "id": "DKnhcTwSkJs",
+        "title": "🌞 🌊 Mallorca Webcam Playa Palmira Rendezvous Garden Paguera 4K 180° #Balearics #Mallorca #Livestream"
+      },
+      {
+        "id": "Qkf5KlpCrEU",
+        "title": "🌅 Mallorca Webcam Port d'Andratx 4K UHD 24/7 Live  #PortAndratx #Weather #Mallorca #Balearics"
+      },
+      {
+        "id": "RPTEW6-Dau0",
+        "title": "🌅 Mallorca Webcam Port d’Andratx – House of Sunset 24/7  4K UHD 🌊 #PortAndratx #weather  #livestream"
+      },
+      {
+        "id": "JGN3p2GZ45U",
+        "title": "🌞🌊 Mallorca Webcam Magaluf/Palmanova Playa Son Maties 4K UHD|24/7 |#Live #beach  #Balearics #Webcams"
+      },
+      {
+        "id": "AtHeW1Eut7s",
+        "title": "🌤️Mallorca Webcam Tramuntana  LIVE Santa Ponsa Costa de la Calma Weather Cam 24/7 4K UHD #Weather"
+      },
+      {
+        "id": "jG5h0Lq8lwc",
+        "title": "⛳ Mallorca Webcam Golf de Andratx Camp de Mar  🌞🌴 | 4K UHD #Livestream #Mallorca #Balearics #Golf"
+      },
+      {
+        "id": "9svQ7gvPGc0",
+        "title": "🌤️ Mallorca Webcam Weather  Cala Fornells & Paguera | 4K UHD | 24/7 #Mallorca #Weather #Balearics"
+      },
+      {
+        "id": "0ioyYnGw3Bs",
+        "title": "🌞 Mallorca Webcam Weather  Port d'Andratx Harbor View 4K UHD|24/7 #PortAndratx #Balearics #Weather"
+      },
+      {
+        "id": "UWbVMlO_v9U",
+        "title": "🏖️  Mallorca Webcam Sant Elm Beach LIVE 4K – Sa Dragonera • 24/7 #livestream  #beachlive #beach"
+      },
+      {
+        "id": "8hVKqQLart8",
+        "title": "🌞Mallorca Live Webcam 24/7 🌊 Pacific Bay Restaurant | Sea View #MallorcaLive #BeachCam #LiveCam"
+      },
+      {
+        "id": "cx9oNIlBmPo",
+        "title": "🌞Mallorca Webcam Playa 5, Peguera Beach & Restaurant Views 24/7 🌴 #Mallorca #Livestream #summer"
+      },
+      {
+        "id": "Pgjsoeq7iGM",
+        "title": "🌞 Mallorca Webcam Santa Ponsa Beach 4K UHD 24/7 Stream Weather #Mallorca #Calvia #Balearics #Weather"
+      },
+      {
+        "id": "AeFSWxScJ8c",
+        "title": "🌞 Mallorca Webcam Port Adriano El Toro | 4K UHD |  #Mallorca #Livestream #Balearics #Weather #beach"
+      }
+    ]
   },
   {
     "id": "UCH9JbKmqTI6gwhA4ghl32FQ",
@@ -5900,12 +5953,7 @@
     "id": "UCHK0N8yzh1DR1NWo7sXoxRg",
     "handle": "@livestreamsjgata1425",
     "name": "Livestream Sjøgata 1",
-    "videos": [
-      {
-        "id": "04jMCyigPQM",
-        "title": "Bodø Havn - Sjøgata 1 - Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCHLcaDrJQkesqdu2IpwGRoA",
@@ -6033,10 +6081,6 @@
     "handle": "@seetahoe",
     "name": "SeeTahoe",
     "videos": [
-      {
-        "id": "E_m1ihDDWEs",
-        "title": "South Lake Tahoe Airport Live Webcam - North"
-      },
       {
         "id": "Gq1kM9PqNg4",
         "title": "South Lake Tahoe Airport Live Webcam - South"
@@ -7858,12 +7902,7 @@
     "id": "UCOaW0M7OYKYHobYpci2HiWw",
     "handle": "@VilladelPalmarLoreto",
     "name": "VilladelPalmarLoreto",
-    "videos": [
-      {
-        "id": "0GwE1vu460k",
-        "title": "Live Cam from Villa del Palmar at the Islands of Loreto"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCOjscjEL-lGZVP-2uooEuCA",
@@ -8269,12 +8308,7 @@
     "id": "UCQJE3qm7Sjc5-JXAYjAfkrw",
     "handle": "@-ishigakiisland-2224",
     "name": "石垣島ライブカメラ -ishigaki island-",
-    "videos": [
-      {
-        "id": "xTmYZre42Xg",
-        "title": "石垣島７３０交差点ＬＩＶＥカメラ"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCQKQTgZJo3PlxA-9V1Z51XA",
@@ -8664,10 +8698,6 @@
       {
         "id": "koJlCeymZZA",
         "title": "Kümbet Yaylası Canlı Yayın Kamera 2"
-      },
-      {
-        "id": "TrPDwSwsDoE",
-        "title": "Bulancak Meydan Canlı Yayın"
       },
       {
         "id": "n_ykU9iSuiQ",
@@ -10084,12 +10114,7 @@
     "id": "UCYIYTY6_2jB145WxIYdyR1A",
     "handle": "@pozowindswebcam4221",
     "name": "PozoWinds Official ",
-    "videos": [
-      {
-        "id": "qZ0RmfinBC8",
-        "title": "PozoWinds webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCYP2o52KVpbcd8Y23moa2KA",
@@ -10435,7 +10460,44 @@
     "id": "UC_JkC_sNaRfTrbRw9_b2QoA",
     "handle": "@FloridaKeysTV",
     "name": "FloridaKeysTV",
-    "videos": []
+    "videos": [
+      {
+        "id": "ghg9lhFDouM",
+        "title": "Dolphin Live WebCam - Key Largo, Florida Keys"
+      },
+      {
+        "id": "W01huIwqSEo",
+        "title": "Jewfish Creek Bridge, Live WebCam - Key Largo, Florida Keys"
+      },
+      {
+        "id": "cDzoBVvTaEU",
+        "title": "Key Largo Marina Live WebCam - Key Largo, Florida Keys"
+      },
+      {
+        "id": "GaRu2KaIsa4",
+        "title": "Stock Island Waterfront Live WebCam - Lower Keys, Florida Keys"
+      },
+      {
+        "id": "Y5ypYTZs-7o",
+        "title": "Key West Bight Marina Live WebCam - Key West, Florida Keys"
+      },
+      {
+        "id": "_RxQuhI8_TY",
+        "title": "Bahia Honda Live WebCam - Big Pine Key, Florida Keys"
+      },
+      {
+        "id": "HfSOXLUtYmA",
+        "title": "Little Basin Live WebCam - Islamorada, Florida Keys"
+      },
+      {
+        "id": "8ShFKuTCmhQ",
+        "title": "Islamorada Charter Boats Live WebCam - Islamorada Florida Keys"
+      },
+      {
+        "id": "jE4og3o_SXs",
+        "title": "Sombrero Beach Live WebCam - Marathon, Florida Keys"
+      }
+    ]
   },
   {
     "id": "UC_NSbO34zB7JreKBvlOeeHA",
@@ -10566,7 +10628,12 @@
     "id": "UCaEdUtLbgjtDdfZfDYCllXQ",
     "handle": "@PraiaItanhaem",
     "name": "Itanhaém Praia",
-    "videos": []
+    "videos": [
+      {
+        "id": "gGeURm19ZR8",
+        "title": "Praia dos sonhos - Itanhaém SP.       PRAIA AO VIVO"
+      }
+    ]
   },
   {
     "id": "UCaHr0a1x8zmQ1dxanCeuesA",
@@ -12141,6 +12208,10 @@
     "handle": "@SquirrelNestLive",
     "name": "SquirrelNest Live",
     "videos": [
+      {
+        "id": "PEX69E7-h3Y",
+        "title": "🔴24/7 Nest 5: 3 babies born Feb 16, 2026, Nest 2: 4 youngsters born in 2025 SqNest.Live-1of6: 🇺🇸🎗🇺🇦"
+      },
       {
         "id": "_1y9nfb15fM",
         "title": "🔴24/7 Squirrel Wonderland Live - SqNest.Live-5of6 🇺🇸🎗🇺🇦"
@@ -15898,12 +15969,7 @@
     "id": "UCqhDq_fKTSgc8LZCa2gGMEg",
     "handle": "@GavinBHeffernan",
     "name": "Gavin Heffernan Timelapse Travel ",
-    "videos": [
-      {
-        "id": "sn5kckYYgTI",
-        "title": "🌲 Yosemite Live Webcams | Half Dome, El Capitan,  High Sierra 🌄 Relaxing Nature Escape"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCr5Z4Oi3UFwkM6sLPFDC6QA",
