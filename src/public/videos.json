@@ -873,16 +873,7 @@
     "id": "UC1sRvHkvcwUkVipMpCv2mjQ",
     "handle": "@salisburybeachpavilioncameras",
     "name": "Salisbury Beach Pavilion Cameras",
-    "videos": [
-      {
-        "id": "by7PwZvV_CU",
-        "title": "Salisbury Beach Camera South"
-      },
-      {
-        "id": "870YJO-cr_w",
-        "title": "Salisbury Beach Camera North"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC1tBnbs03VJ34oLD8cmJSVw",
@@ -1190,10 +1181,6 @@
         "title": "📡 CÂMERA AO VIVO | MIRANTE DA LAGOA DA CONCEIÇÃO - FLORIANÓPOLIS SC | PARCERIA INDAIÁ EVENTOS"
       },
       {
-        "id": "OU798IQCO50",
-        "title": "GOV. CELSO RAMOS SC AO VIVO | PRAIA DE PALMAS – QUIOSQUE DA JÚ | CONEXÃODCTV"
-      },
-      {
         "id": "W50zoSXZBi4",
         "title": "AO VIVO AGORA CABO FRIO 🇧🇷 | PRAIA DO FORTE E CENTRO EM TEMPO REAL 24H - NOVA COSTA TELECOM"
       },
@@ -1250,10 +1237,6 @@
         "title": "ILHOTA SC AO VIVO | RIO ITAJAÍ-AÇU – AIDA CABELEIREIRA | CONEXÃODCTV"
       },
       {
-        "id": "p2eWngb7HA4",
-        "title": "GOV. CELSO RAMOS SC AO VIVO | PRAIA DE PALMAS – VISTA ARQUIPÉLAGO | CONEXÃODCTV"
-      },
-      {
         "id": "o-snlLs6UnE",
         "title": "AV. GOV. CELSO RAMOS - RESKATRIN EMPREENDIMENTOS - PORTO BELO AO VIVO"
       },
@@ -1276,10 +1259,6 @@
       {
         "id": "IpZiXRp_v9U",
         "title": "RESERVA NATURAL ALTO DOS MACACOS - BALNEÁRIO DE CACHOEIRAS - CAMBORIÚ - SC"
-      },
-      {
-        "id": "gtzbu88j_8Q",
-        "title": "ACESSO PISCINAS NATURAIS - RESERVA NATURAL ALTO DOS MACACOS COM AUDIO - CAMBORIÚ - SC"
       },
       {
         "id": "3fPqRlwtSHM",
@@ -1735,12 +1714,12 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "MIk_Aef-vj8",
-        "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
+        "id": "EA40k4tmYis",
+        "title": "LIVE: Beirut and southern Lebanon skyline as Israel strikes the country"
       },
       {
-        "id": "1IcFVxgwzYY",
-        "title": "LIVE: Beirut and southern Lebanon skyline as Israel strikes Lebanon"
+        "id": "Q8-yLvxaIAc",
+        "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
       }
     ]
   },
@@ -4004,10 +3983,6 @@
     "name": "Solent Ships",
     "videos": [
       {
-        "id": "bOXoA80vDlM",
-        "title": "VTS Radio Southampton - (Marine VHF Channel 12)"
-      },
-      {
         "id": "WC61Jw5CC9w",
         "title": "Tit Cam - Great, Blue, Crested, Willow, Coal, Long Tail Tit Bird Box Nest (24/7 Live) with Sound 4k"
       },
@@ -6215,12 +6190,7 @@
     "id": "UCIsPPwu9VefxZZ9tPYcQMmQ",
     "handle": "@shipm8",
     "name": "SHIPM8",
-    "videos": [
-      {
-        "id": "N3sX_1w0wsI",
-        "title": "Mijn Uitzending"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCJ0y2sG32CqI5P-YMt_FCXg",
@@ -7342,7 +7312,7 @@
     "name": "Kozy Le Morne",
     "videos": [
       {
-        "id": "pui3JeEk9JA",
+        "id": "jPvwihTeOh8",
         "title": "🔴 Île Maurice / Mauritius - At Kozy Le Morne"
       }
     ]
@@ -7471,7 +7441,16 @@
     "id": "UCMdPU9MZCAaxRs-pYfL7zXg",
     "handle": "@olvtoren8570",
     "name": "OLV Toren",
-    "videos": []
+    "videos": [
+      {
+        "id": "-Kke1qGNcHc",
+        "title": "Slechtvalken Onze Lieve VrouweToren Amersfoort"
+      },
+      {
+        "id": "yV3h4e7oOsg",
+        "title": "Slechtvalken Nestkast Onze Lieve Vrouwe Toren Amersfoort"
+      }
+    ]
   },
   {
     "id": "UCMpn1qLudF-zb4M4bqxLIbw",
@@ -7993,7 +7972,12 @@
     "id": "UCOvMUvionePSUD9xe_3qCHQ",
     "handle": "@wyndhamwebcam7015",
     "name": "Wyndham Webcam",
-    "videos": []
+    "videos": [
+      {
+        "id": "Byxe6MlCnBw",
+        "title": "Wyndham Harbour Web Camera - Live View"
+      }
+    ]
   },
   {
     "id": "UCOx13sr_wa0ppMsHY9b0aMQ",
@@ -8904,10 +8888,6 @@
         "title": "🏖Best Caribbean Destinations LIVE | Curaçao • Aruba • Bonaire • Saint Martin | 24/7 Live Cam"
       },
       {
-        "id": "iE3hoz6Wivw",
-        "title": "🌴Best Caribbean Beach Resorts LIVE | Curaçao • Sint Maarten • Aruba • Bonaire | March 27, 2026"
-      },
-      {
         "id": "vxHKAImxUHk",
         "title": "LIVE Cam Simpson Bay Beach Resort | Saint Martin  🌴💦"
       },
@@ -9089,16 +9069,7 @@
     "id": "UCSJ2YAapD9w3rYhDKgp9GeA",
     "handle": "@alexandriabaychamberofcomm5890",
     "name": "Alexandria Bay Chamber of Commerce",
-    "videos": [
-      {
-        "id": "6h9-fNIya_w",
-        "title": "Alexandria Bay Docks"
-      },
-      {
-        "id": "wQiewnlyXlA",
-        "title": "Alexandria Bay Chamber of Commerce River View Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCSilXhjCqvRMtVug1J51CiA",
@@ -9445,7 +9416,12 @@
     "id": "UCUmvxPTUfflU3v_mcRNGAeg",
     "handle": "@Sv.Uspenska-Pochaevska-Lavra",
     "name": "† Свято-Успенская Почаевская Лавра",
-    "videos": []
+    "videos": [
+      {
+        "id": "UVx1P6yQxPs",
+        "title": "Пряма трансляція богослужіння † Свято-Успенська Почаївська Лавра"
+      }
+    ]
   },
   {
     "id": "UCUpFHGasL2cNAo2w70vwrSQ",
@@ -10260,10 +10236,6 @@
     "handle": "@egmondaanzee",
     "name": "WebcamEgmond",
     "videos": [
-      {
-        "id": "7eaXlqzjJQw",
-        "title": "🔴 Egmond aan Zee LIVE Weerstation – Wind & Temp Nu"
-      },
       {
         "id": "KkwkJse_63A",
         "title": "🔴 Live Webcam & Weer – Egmond aan Zee | Actuele beelden van het strand en weerstation 🌊☀️"
@@ -11632,56 +11604,7 @@
     "id": "UCfGR-qjLY3WCk8JSMYba3Gw",
     "handle": "@dogmode9609",
     "name": "Dog Mode",
-    "videos": [
-      {
-        "id": "cdj2v6ignuE",
-        "title": "DogMode: Aquatic Center- Pool View"
-      },
-      {
-        "id": "N1A5ISHRVtU",
-        "title": "DogMode: Small Dogs Bedroom"
-      },
-      {
-        "id": "mVvGGqQGij8",
-        "title": "DogMode: Senior Inside"
-      },
-      {
-        "id": "BPMtt1XPDJw",
-        "title": "DogMode: Small Dogs Outside"
-      },
-      {
-        "id": "H5AM65Y7Tr0",
-        "title": "DogMode: Small Dogs Inside #1"
-      },
-      {
-        "id": "xeKutTxVOGY",
-        "title": "DogMode: Small Dogs Inside #2"
-      },
-      {
-        "id": "tdxhCpHDkWg",
-        "title": "DogMode: Senior Outside"
-      },
-      {
-        "id": "PlQPokAlNH0",
-        "title": "DogMode: Aquatic Center- Dock View"
-      },
-      {
-        "id": "K7QejokBxWg",
-        "title": "DogMode: South Inside"
-      },
-      {
-        "id": "cZ53cGESXJI",
-        "title": "DogMode: North Outside"
-      },
-      {
-        "id": "1suAgaip2GY",
-        "title": "DogMode: North Inside"
-      },
-      {
-        "id": "JV00nuu8lK4",
-        "title": "DogMode: South Outside"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCfHv7aRXqCYcNsqKGrQJUIQ",
@@ -12017,10 +11940,6 @@
         "title": "Oppdal Skisenter LIVE"
       },
       {
-        "id": "OJneSeFqaaw",
-        "title": "Narvik Havn LIVE"
-      },
-      {
         "id": "3xohetm5I7Y",
         "title": "Marka LIVE"
       },
@@ -12209,16 +12128,7 @@
     "id": "UCgGmACGEil_QEVQOKOBPJrg",
     "handle": "@SquirrelNestLive",
     "name": "SquirrelNest Live",
-    "videos": [
-      {
-        "id": "Wy3gcjxlArI",
-        "title": "🔴24/7 Squirrel Wonderland Live - SqNest.Live-5of6 🇺🇸🎗🇺🇦"
-      },
-      {
-        "id": "yO6IglSLIp8",
-        "title": "SquirrelNest.Live 🔴24/7 200 squirrel cameras real-time live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgHSWWpejV6K7hz6Q08fJpQ",
@@ -12681,7 +12591,12 @@
     "id": "UCi9wnYP7UBrl7Tnfi3LLkpw",
     "handle": "@yiannisakkos",
     "name": "Yianni&#39;s Channel",
-    "videos": []
+    "videos": [
+      {
+        "id": "HeVAWF7hLLI",
+        "title": "Corfu / Kerkyra, Greece LIVE"
+      }
+    ]
   },
   {
     "id": "UCiGOIXjFqy5_mUNxQNOMfHw",
@@ -13903,7 +13818,12 @@
     "id": "UClqd_NklmF4AnW4MYiCeSEg",
     "handle": "@HotelUnionGeiranger",
     "name": "Hotel Union Geiranger",
-    "videos": []
+    "videos": [
+      {
+        "id": "wAdTV6Uc5eA",
+        "title": "Geiranger Live"
+      }
+    ]
   },
   {
     "id": "UClxEfXEOUlQ9kIcuKW3sw2Q",
@@ -14546,16 +14466,7 @@
     "id": "UCnsR6NZFdu_kOljI3SWiGJw",
     "handle": "@Mt.ofOlivesPrayerBridge",
     "name": "Mt. of Olives Prayer Bridge",
-    "videos": [
-      {
-        "id": "zp6LNSoq000",
-        "title": "Western Wall, Temple Archaeological Park"
-      },
-      {
-        "id": "AKGqd20ik_A",
-        "title": "Western Wall, the Kotel."
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCnuF5fiEc6DdbhDHCQoCAfA",
@@ -16021,7 +15932,12 @@
     "id": "UCrGS8VyrgCqYwaogH5bQpxQ",
     "handle": "@Cerevolivecamera",
     "name": "Cerevo live camera",
-    "videos": []
+    "videos": [
+      {
+        "id": "Zq-D5z2n0EY",
+        "title": "秋葉原ライブカメラ Akihabara live camera YouTube Live version"
+      }
+    ]
   },
   {
     "id": "UCrNyeY4kGLL0-Hs8wC98peg",
@@ -16383,12 +16299,7 @@
     "id": "UCswyCUg2EN1MIz0vDTzLqug",
     "handle": "@ilmajjistralnatureandhisto3909",
     "name": "Il Majjistral Nature and History Park",
-    "videos": [
-      {
-        "id": "nUiLly2Lr3E",
-        "title": "Ramla tal-Mixquqa (Golden Bay) Webcam - TOURISMO Malta Pilot."
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCsy6UOjk8q7Ajq9yQ7iDAbA",
@@ -16488,12 +16399,7 @@
     "id": "UCt01tczohsGmH6X6csUS6iQ",
     "handle": "@aguasdecadiz5312",
     "name": "Aguas de Cádiz",
-    "videos": [
-      {
-        "id": "0dKNLFFcHFU",
-        "title": "Aguas de Cádiz - Fuente de la plaza de Sevilla"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCt6LB-BvEmDm-oWbe_TO7mw",
@@ -16945,7 +16851,40 @@
     "id": "UCuiHrLHm5n38Rzl_2y8mYOw",
     "handle": "@StreambirdPro",
     "name": "Streambird Pro",
-    "videos": []
+    "videos": [
+      {
+        "id": "qzbIOLZIwwM",
+        "title": "Quad cam - Baron Blue - White Tailed Eagles Nest Live"
+      },
+      {
+        "id": "IOeqKMF2FKE",
+        "title": "Eagle Cam #2 - Baron Blue - White Tailed Eagles Nest Live"
+      },
+      {
+        "id": "FWCLo1ykPT4",
+        "title": "Eagle Cam #3 - Baron Blue - White Tailed Eagles Nest Live"
+      },
+      {
+        "id": "ZRsOb3nXT7w",
+        "title": "Eagle Cam #4 - Baron Blue - White Tailed Eagles Nest Live"
+      },
+      {
+        "id": "PqVGqiN8p2g",
+        "title": "Eagle Cam #5 - Baron Blue - White Tailed Eagles Nest Live"
+      },
+      {
+        "id": "OEHJwXVAAoY",
+        "title": "LIVE: Kristiansund sentrum"
+      },
+      {
+        "id": "ssYnZk2EJck",
+        "title": "Eagle Cam #1 - Baron Blue - White Tailed Eagles Nest Live"
+      },
+      {
+        "id": "JJuaHGhd8g8",
+        "title": "Livecam Kristiansund N"
+      }
+    ]
   },
   {
     "id": "UCujqw4iys19UVg2JYVfVsYA",
@@ -17206,6 +17145,10 @@
     "name": "YOMIURI TELECASTING CORPORATION NEWS CHANNEL",
     "videos": [
       {
+        "id": "In6VCmzH09o",
+        "title": "日米首脳会談で日本が勝ち得たもの「おもてなし」でも「ゴマすり」でもない舞台裏の戦略／誰かがウソ？イラン停戦交渉の行方／エネルギー危機への対応は／今できる節約術【3月23日～27日の解説まとめ】"
+      },
+      {
         "id": "1V-rE4Z1ZZQ",
         "title": "【ライブカメラ】神戸空港（UKB）　飛行機の離着陸とお天気（読売テレビ）/ Live Camera Kobe Airport"
       },
@@ -17373,7 +17316,12 @@
     "id": "UCwVl4_BwKI7SXN4tztuR7Fg",
     "handle": "@townsvilleport",
     "name": "Port of Townsville",
-    "videos": []
+    "videos": [
+      {
+        "id": "EabbsMllaIc",
+        "title": "Truck Queue Cam"
+      }
+    ]
   },
   {
     "id": "UCwYQ0fEcfhpVdmzVF2jr2gA",
