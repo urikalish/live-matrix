@@ -87,16 +87,7 @@
     "id": "UC-8U3VCeOEqdPJd2D77RqKw",
     "handle": "@HauloverDaily",
     "name": "Cruise Ships Live",
-    "videos": [
-      {
-        "id": "AHckZ9rF01U",
-        "title": "🔴 LIVE Miami Rail Cam | Metrorail Transfer Station | Trains 24/7"
-      },
-      {
-        "id": "PeYZZinH1wI",
-        "title": "🔴 LIVE Port Miami Cruise Ship Departures and Arrivals | ICON of the Seas"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-ADcKoyBn-44UJwmatMSQQ",
@@ -135,38 +126,22 @@
     "id": "UC-HQ-oPvL148RmDxpV4jzlQ",
     "handle": "@NatureTec",
     "name": "NatureTec",
-    "videos": [
-      {
-        "id": "9_-C2d9Fy4w",
-        "title": "LIVE Kestrel Nest Box Cam - Recke (Germany)"
-      },
-      {
-        "id": "7_oAM-g1lJ0",
-        "title": "LIVE 4K Nest Box Cam - Uplengen (Lower Saxony)"
-      },
-      {
-        "id": "Cxqx17Xr9zk",
-        "title": "LIVE 4K Nest Box Cam - Recke (NRW)"
-      },
-      {
-        "id": "l0nT3wSnxEo",
-        "title": "LIVE Bird Feeder Cam (day time) & Hedgehog Feeder Cam (at night) - Uplengen"
-      },
-      {
-        "id": "t20fPDAZxCA",
-        "title": "LIVE Bird Bath Cam (Day) + Hedgehog Feeder Cam (Night)"
-      },
-      {
-        "id": "4kRzwJXaeIM",
-        "title": "LIVE 4K 60fps Bird Feeder Cam - Hedgehog & Bird Watching (3D Audio) ASMR HQ"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-I6QXW30NLYkW2GOMtHxew",
     "handle": "@TresoarBoterhoek1",
     "name": "Tresoar - museum, bibliotheek en archief Fryslân",
-    "videos": []
+    "videos": [
+      {
+        "id": "DPDyHlgJGnY",
+        "title": "Oldehoofsterkerkhof webcam"
+      },
+      {
+        "id": "SjY9wJXBQP8",
+        "title": "Oldehove webcam"
+      }
+    ]
   },
   {
     "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
@@ -893,10 +868,6 @@
         "title": "LIVE: CR7 Museum PTZ Webcam Funchal, Madeira Island  @WebcamTaxi"
       },
       {
-        "id": "yE6qOeUbvOQ",
-        "title": "LIVE Cam: SunsetTerrace Bar Centromar Praia Formosa Funchal | @WebcamTaxi"
-      },
-      {
         "id": "I0KTkT8ZhX4",
         "title": "LIVE Porto Webcam Ribeira and Vila Nova de Gaia – Oporto, Portugal"
       },
@@ -1145,16 +1116,12 @@
     "name": "ConexãoDCTV - Oficial",
     "videos": [
       {
-        "id": "hZuaccrJqK0",
-        "title": "CORREIA PINTO SC AO VIVO | TREVO DE ACESSO – I E J VIDRAÇARIA | CONEXÃODCTV"
+        "id": "jMKlmxC_VWU",
+        "title": "AO VIVO ITAPEMA AGORA -  MEIA PRAIA LOTADA + MAR AO VIVO | IMAGENS INCRÍVEIS 24H | JET PIER"
       },
       {
-        "id": "a-pzrZYVXfM",
-        "title": "CORREIA PINTO SC AO VIVO | RUA JUVENAL ALVES DA SILVA – W.SOM CELULARES | CONEXÃODCTV"
-      },
-      {
-        "id": "42QfEpnZ_Hk",
-        "title": "CAMBORIÚ SC AO VIVO | TA NA CHAPA – AMBIENTE INTERNO (PALCO) – CÂMERAS 24H | CONEXÃODCTV"
+        "id": "03FkYqm-Y-o",
+        "title": "ITAPEMA AO VIVO 🎡 VEJA A RODA GIGANTE IT WHEELS NASCENDO | OBRA EM TEMPO REAL / JET PIER"
       },
       {
         "id": "Vsm5qzRxj04",
@@ -1169,128 +1136,16 @@
         "title": "AO VIVO AGORA CABO FRIO 🇧🇷 | PRAIA DO FORTE E CENTRO EM TEMPO REAL 24H - NOVA COSTA TELECOM"
       },
       {
-        "id": "58g1I6ly17o",
-        "title": "Porto Belo Ao Vivo - Aeródromo Costa Esmeralda"
-      },
-      {
-        "id": "qb_M_vYYiAo",
-        "title": "Aeródromo Costa Esmeralda em Porto Belo 24h"
-      },
-      {
-        "id": "uw9ZXHYXAnc",
-        "title": "Porto Belo Ao Vivo – Pista do Aeródromo Costa Esmeralda Ao Vivo"
-      },
-      {
-        "id": "u8dqZrNtl8E",
-        "title": "GOV. CELSO RAMOS SC AO VIVO | PRAIA DE CALHEIROS – RESTAURANTE BELA VISTA | CONEXÃODCTV"
-      },
-      {
-        "id": "xx3pySJJQu0",
-        "title": "IMBITUBA SC AO VIVO | PRAIA DO PORTO – PEIXARIA DA PRAIA DO PORTO | CONEXÃODCTV"
-      },
-      {
-        "id": "ZAdpIIzbarE",
-        "title": "ITAJAÍ SC AO VIVO | PRAIA BRAVA – SUBIDA DA RAINHA – UNIFIQUE | CONEXÃODCTV"
-      },
-      {
-        "id": "I16PkoGxobs",
-        "title": "ITAJAÍ SC AO VIVO | MORRO DA CRUZ – VISTA DA CIDADE – FASTSIGNAL | CONEXÃODCTV"
-      },
-      {
-        "id": "N-BaLQMktYM",
-        "title": "ITAJAÍ SC AO VIVO | MORRO DA CRUZ – BAIRRO FAZENDA – FASTSIGNAL | CONEXÃODCTV"
-      },
-      {
-        "id": "o-snlLs6UnE",
-        "title": "AV. GOV. CELSO RAMOS - RESKATRIN EMPREENDIMENTOS - PORTO BELO AO VIVO"
-      },
-      {
-        "id": "36Vqb_Bvh7Y",
-        "title": "PRAIA DE PORTO BELO - RESKATRIN EMPREENDIMENTOS - PORTO BELO AO VIVO"
-      },
-      {
         "id": "qobQ2iXQzlY",
         "title": "ITAJAÍ SC AO VIVO | PRAIA BRAVA – QUIOSQUE ESTRELA DO MAR | CONEXÃODCTV"
-      },
-      {
-        "id": "Hk7eyeFuK-k",
-        "title": "IMBITUBA SC AO VIVO | AV. MANOEL FLORENTINO MACHADO – FABRICIO AUTO CENTER | CONEXÃODCTV"
-      },
-      {
-        "id": "IpZiXRp_v9U",
-        "title": "RESERVA NATURAL ALTO DOS MACACOS - BALNEÁRIO DE CACHOEIRAS - CAMBORIÚ - SC"
       },
       {
         "id": "3fPqRlwtSHM",
         "title": "ITAJAÍ SC AO VIVO | PORTO DE ITAJAÍ – 2K – FASTSIGNAL | CONEXÃODCTV"
       },
       {
-        "id": "o3ITfgiQf7s",
-        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | ORLA – VISTA PANORÂMICA – PARQUE UNIPRAIAS | CONEXÃODCTV"
-      },
-      {
         "id": "J3Ryjw2eawE",
         "title": "ITAJAÍ SC AO VIVO | BR-101 – SENTIDO NORTE – BORRACHARIA 101 | CONEXÃODCTV"
-      },
-      {
-        "id": "yTel4ZppHIc",
-        "title": "CAMBORIÚ SC AO VIVO | PARQUE MUNICIPAL VISTA CEDROS – MAX.COM MODA FITNESS | CONEXÃODCTV"
-      },
-      {
-        "id": "Y8wPSQUFDhI",
-        "title": "ITAJAÍ SC AO VIVO | PANORÂMICA PRAIA BRAVA – SÍTIO DOM PEPPE | CONEXÃODCTV"
-      },
-      {
-        "id": "OVLAbyUZOT8",
-        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | PRAIA CENTRAL / RODA GIGANTE | CONEXÃODCTV"
-      },
-      {
-        "id": "C3223eRyfZQ",
-        "title": "CORREIA PINTO SC AO VIVO | CENTRO – ATELIÊ LEYSE MOREIRA | CONEXÃODCTV"
-      },
-      {
-        "id": "ok6yOgF5QM4",
-        "title": "AO VIVO CÂMERAS EM TEMPO REAL – SÃO FRANCISCO DO SUL, ARAQUARI, BR-280 E REGIÃO INOVAR MONITORAMENTO"
-      },
-      {
-        "id": "DPX04x-cGvw",
-        "title": "ITAJAÍ SC AO VIVO | CANAL DO PORTO ITAJAÍ/NAVEGANTES – FASTSIGNAL | CONEXÃODCTV"
-      },
-      {
-        "id": "SIU3I4DyYM0",
-        "title": "ITAJAÍ SC AO VIVO | SC-486 – ITAIPAVA – FASTSIGNAL INTERNET | CONEXÃODCTV"
-      },
-      {
-        "id": "GPdVb0KTp_E",
-        "title": "ITAJAÍ SC AO VIVO | BAIRRO ITAIPAVA – KM 12 – FASTSIGNAL INTERNET | CONEXÃODCTV"
-      },
-      {
-        "id": "qi2z9VlDQJ8",
-        "title": "ITAJAÍ SC AO VIVO | BR-101 – SENTIDO SUL – BORRACHARIA 101 | CONEXÃODCTV"
-      },
-      {
-        "id": "fee6XKJmAZU",
-        "title": "CAMBORIÚ SC AO VIVO | PARQUE MUNICIPAL – PARCERIA MAX.COM MODA FITNESS – CÂMERAS 24H | CONEXÃODCTV"
-      },
-      {
-        "id": "tMkdQNMdqzg",
-        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | PARQUINHO BARRA SUL – PARQUE UNIPRAIAS | CONEXÃODCTV"
-      },
-      {
-        "id": "eib_UO1e8ww",
-        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | EMBARQUE BARCO PIRATA – PARQUE UNIPRAIAS | CONEXÃODCTV"
-      },
-      {
-        "id": "AsjwUeP62AQ",
-        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | BR-101 – SENTIDO SUL – MALUVAN HOME & SHOP | CONEXÃODCTV"
-      },
-      {
-        "id": "hoCM_caHRGU",
-        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | BR-101 – SENTIDO NORTE – MALUVAN HOME & SHOP | CONEXÃODCTV"
-      },
-      {
-        "id": "eTIUMJIZlvs",
-        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | TÚNEL RUA DOM AFONSO / SAÍDA 3700 – MARINA GARDEN | CONEXÃODCTV"
       }
     ]
   },
@@ -4826,7 +4681,12 @@
     "id": "UCD3fPz7PdO06e8k75nIwifQ",
     "handle": "@geirangerfjordcruiseporthe535",
     "name": "Geirangerfjord cruise port, Hellesylt",
-    "videos": []
+    "videos": [
+      {
+        "id": "S4aJlRY39fo",
+        "title": "Geirangerfjord cruise port, Hellesylt"
+      }
+    ]
   },
   {
     "id": "UCDAHA3f1RMYenm_lFgqjDXQ",
@@ -7580,7 +7440,12 @@
     "id": "UCMxqF9dbzpE1W6-rWXJibVA",
     "handle": "@PatsPeakPark",
     "name": "PatsPeakPark",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZLsh8WsISr0",
+        "title": "Pats Peak Park"
+      }
+    ]
   },
   {
     "id": "UCNNQSsm60OvzlbDu-duyS4A",
@@ -9686,7 +9551,20 @@
     "id": "UCWOITAxCnS0V8h7lNJkHpdQ",
     "handle": "@mt_buller",
     "name": "Mt Buller",
-    "videos": []
+    "videos": [
+      {
+        "id": "YTswOT7V-M4",
+        "title": "Shakey Knees Live"
+      },
+      {
+        "id": "WMx2m-O6eug",
+        "title": "Skyline Terrain Park Live"
+      },
+      {
+        "id": "0OtVlfDj2w8",
+        "title": "Bourke Street Live"
+      }
+    ]
   },
   {
     "id": "UCWh93l9snW90iP2ybPHikAg",
@@ -10106,6 +9984,10 @@
     "handle": "@abc7news",
     "name": "ABC7 News Bay Area",
     "videos": [
+      {
+        "id": "r1nqPE8QtdU",
+        "title": "Watch Live: SKY7 above Bay Area 'No Kings' rotests"
+      },
       {
         "id": "_VqvVJfmyfs",
         "title": "Treasure Island, California Live Cam | 24/7 Stream"
@@ -11199,7 +11081,12 @@
     "id": "UCcrSw7gTYq6ZQ1MdIo23Q1w",
     "handle": "@colinoreilly8933",
     "name": "Colin O&#39;Reilly",
-    "videos": []
+    "videos": [
+      {
+        "id": "Fj0SI2pMijk",
+        "title": "LIVE 24/7: Ramsgate Royal Harbour Webcam | UK Storm Watching & Seaside Weather"
+      }
+    ]
   },
   {
     "id": "UCd0Aa89g9hbSQC-APdXWNNg",
@@ -11309,7 +11196,20 @@
     "id": "UCdEfImN2pVE1bfdiC1Dy0hw",
     "handle": "@jubileeyachtclub5669",
     "name": "Jubilee Yacht Club",
-    "videos": []
+    "videos": [
+      {
+        "id": "DI9laE9ufAM",
+        "title": "Jubilee Yacht Club Webcam South East"
+      },
+      {
+        "id": "5Vf5cSVHtQA",
+        "title": "Jubilee Yacht Club Dockside South"
+      },
+      {
+        "id": "ZlmEdBfHqsM",
+        "title": "Jubilee Yacht Club Webcam Southwest"
+      }
+    ]
   },
   {
     "id": "UCdHxsCH18XWh4RMt9oDHMyg",
@@ -12036,12 +11936,7 @@
     "id": "UCgB_8lC4ZwaYxMKhfDatXyw",
     "handle": "@trelleborgskommun3034",
     "name": "Trelleborgs Kommun",
-    "videos": [
-      {
-        "id": "85OM8_W_mag",
-        "title": "Live Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgBwodddPsSwg5nfUqH4-jA",
@@ -12143,28 +12038,7 @@
     "id": "UCgGmACGEil_QEVQOKOBPJrg",
     "handle": "@SquirrelNestLive",
     "name": "SquirrelNest Live",
-    "videos": [
-      {
-        "id": "PhVPVGhmz0I",
-        "title": "🔴24/7 baby squirrels born Feb 15, 2026 to Lily in Nest1 / Nest9 babies born Feb 16 SqNest.Live-6of6"
-      },
-      {
-        "id": "OM29Xyce734",
-        "title": "🔴Nest 3 🌹 baby squirrels born February 15, 2026 SqNest.Live-24/7 3of7🇺🇸🎗🇺🇦"
-      },
-      {
-        "id": "pG93l04d08M",
-        "title": "SquirrelNest.Live 🔴24/7 200 squirrel cameras real-time live"
-      },
-      {
-        "id": "PEX69E7-h3Y",
-        "title": "🔴24/7 Nest 5: 3 babies born Feb 16, 2026, Nest 2: 4 youngsters born in 2025 SqNest.Live-1of6: 🇺🇸🎗🇺🇦"
-      },
-      {
-        "id": "_1y9nfb15fM",
-        "title": "🔴24/7 Squirrel Wonderland Live - SqNest.Live-5of6 🇺🇸🎗🇺🇦"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgHSWWpejV6K7hz6Q08fJpQ",
@@ -12584,44 +12458,7 @@
     "id": "UCi1vQx48j_nfrMg6XH5PItQ",
     "handle": "@climabcbrazil",
     "name": "CLIMA BC Brazil",
-    "videos": [
-      {
-        "id": "cJ1fFGERMwc",
-        "title": "Balneário Camboriú ao vivo - Central"
-      },
-      {
-        "id": "ZyOEQrdzh34",
-        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
-      },
-      {
-        "id": "6DCKvZedIiM",
-        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
-      },
-      {
-        "id": "IEn3ePn_d3E",
-        "title": "Balneário Camboriú ao vivo - Central"
-      },
-      {
-        "id": "zF_RKoQCK-c",
-        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
-      },
-      {
-        "id": "5SMXLrkkWPU",
-        "title": "Balneário Camboriú ao vivo - Central"
-      },
-      {
-        "id": "PcbhQFs529w",
-        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
-      },
-      {
-        "id": "YF2HsODb32U",
-        "title": "Balneário Camboriú ao vivo - Avenida Brasil"
-      },
-      {
-        "id": "YN-Zbzhdee8",
-        "title": "Balneário Camboriú ao vivo"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCi9wnYP7UBrl7Tnfi3LLkpw",
@@ -12919,6 +12756,14 @@
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
     "videos": [
+      {
+        "id": "Fz0tFZ-nNyE",
+        "title": "LIVE: Aerials over Philadelphia as thousands gather 'No King's protest"
+      },
+      {
+        "id": "Yixuur9ErGI",
+        "title": "LIVE: No Kings protests in Washington, D.C."
+      },
       {
         "id": "PYBTbjGEZ3g",
         "title": "LIVE: View of Tel Aviv Skyline"
@@ -15254,20 +15099,7 @@
     "id": "UCpI9GLMAgiGTKyFnsmbptuQ",
     "handle": "@BeakerHoneydew_MuppetLabs",
     "name": "Beaker &amp; Honeydew",
-    "videos": [
-      {
-        "id": "BMV67ku8i9A",
-        "title": "LIVE 24/7 - St. Louis Lambert International Airport (STL)"
-      },
-      {
-        "id": "YHWkTKQqWzw",
-        "title": "LIVE 24/7 - SEA-TAC Airport (SEA)"
-      },
-      {
-        "id": "EeCOHKWyfj0",
-        "title": "LIVE 24/7 - DFW Airport (EAST side camera with East or West Tower ATC)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCpJ4goz4R_g2GqQHfixq3Xw",
@@ -17359,7 +17191,12 @@
     "id": "UCwTBv_iSPKJZ8jAeeDPJZnw",
     "handle": "@madeiraairportlive",
     "name": "Madeira Airport Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZDoly6hB0NE",
+        "title": "LIVE at Madeira Airport (LPMA) – Landings and Takeoffs"
+      }
+    ]
   },
   {
     "id": "UCwVl4_BwKI7SXN4tztuR7Fg",
@@ -17555,12 +17392,7 @@
     "id": "UCxJauSv5BZA7N4dIqPHpy0w",
     "handle": "@Brian-Siu",
     "name": "Hong Kong Taxi Driver - Brian",
-    "videos": [
-      {
-        "id": "D8rJNv-ft5w",
-        "title": "🔴 香港的士直播 | Hong Kong Taxi Live | 28/3/2026 🔴"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxXKtAvUNQw5rv9lIU0V4UQ",
@@ -17764,12 +17596,7 @@
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
     "handle": "@flamingf.1562",
     "name": "Flaming Fire",
-    "videos": [
-      {
-        "id": "rBwYQY_4Kug",
-        "title": "Stockholm city live cam 20260328"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
@@ -17978,7 +17805,40 @@
     "id": "UCyll26UKJ7JHZ9txipeUW2w",
     "handle": "@VisitStCroixcom",
     "name": "VisitStCroix.com",
-    "videos": []
+    "videos": [
+      {
+        "id": "lNHw50r79wM",
+        "title": "Schooner Bay View to Beautiful Christiansted Harbor"
+      },
+      {
+        "id": "ytNWnGt0kB4",
+        "title": "West End Water Sports on Rainbow Beach in Frederiksted, St. Croix in the USVI"
+      },
+      {
+        "id": "lm1f6_4XB9g",
+        "title": "Cottages By The Sea in Frederiksted, St. Croix"
+      },
+      {
+        "id": "LcjRMvb-yOg",
+        "title": "Schooner Bay Condominium, Christiansted, St, Croix US Virgin Islands"
+      },
+      {
+        "id": "II9_tyn1HDI",
+        "title": "Caravelle Hotel & Casino’s view toward Christiansted Harbor in St. Croix"
+      },
+      {
+        "id": "9nmchjRTEtY",
+        "title": "Palms at Pelican Cove Beach Resort, St. Croix, USVI"
+      },
+      {
+        "id": "bm_-L6felME",
+        "title": "The Landing Beach Bar @ Cane Bay in St. Croix USVI"
+      },
+      {
+        "id": "07jdFF_jvC0",
+        "title": "The Buccaneer Beach and Golf Resort, St. Croix"
+      }
+    ]
   },
   {
     "id": "UCytuti58w93kG92WngmvrUw",
@@ -18055,7 +17915,12 @@
     "id": "UCzY8h9TicgPEMOjIPr1G_GA",
     "handle": "@birchrobbins7565",
     "name": "Birch Robbins",
-    "videos": []
+    "videos": [
+      {
+        "id": "0xllXx9QMBk",
+        "title": "www.RaspberryIsland.com Beach Cam!"
+      }
+    ]
   },
   {
     "id": "UCzaHnTdYgOqf4MA_OaOAJ8g",
