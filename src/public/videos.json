@@ -87,16 +87,7 @@
     "id": "UC-8U3VCeOEqdPJd2D77RqKw",
     "handle": "@HauloverDaily",
     "name": "Cruise Ships Live",
-    "videos": [
-      {
-        "id": "AHckZ9rF01U",
-        "title": "🔴 LIVE Miami Rail Cam | Metrorail Transfer Station | Trains 24/7"
-      },
-      {
-        "id": "PeYZZinH1wI",
-        "title": "🔴 LIVE Port Miami Cruise Ship Departures and Arrivals | ICON of the Seas"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-ADcKoyBn-44UJwmatMSQQ",
@@ -2642,7 +2633,12 @@
     "id": "UC83RKJs4eKHVE9v0YUyqzgg",
     "handle": "@KittenAcademy",
     "name": "Kitten Academy",
-    "videos": []
+    "videos": [
+      {
+        "id": "T4XZmMPQ9Kw",
+        "title": "Kitten Academy Live Stream"
+      }
+    ]
   },
   {
     "id": "UC882xzhvQ53Cva8vym_RCRA",
@@ -3399,7 +3395,12 @@
     "id": "UC9PfqU54WV-eb4Uk14De2wA",
     "handle": "@BigTrainsTVlive",
     "name": "BigTrainsTV",
-    "videos": []
+    "videos": [
+      {
+        "id": "GoFaRKaO4hM",
+        "title": "LIVE BigTrains.TV CP10 CSX River Line Bergenfield NJ"
+      }
+    ]
   },
   {
     "id": "UC9SBZ5xzzCRj5HOTcP4z1iA",
@@ -4479,16 +4480,7 @@
     "id": "UCBekjy3cWsLpEjibeFYecLQ",
     "handle": "@紅樹林有線電視-h7k",
     "name": "紅樹林有線電視",
-    "videos": [
-      {
-        "id": "9rcEL_yWMk4",
-        "title": "新北市淡水區景點(即時影像) 淡水渡船頭 直播 #淡水河 #夕陽 #觀音山 #台北港 #淡水老街河岸 #淡水渡し船乗り場  Du Chuan Tou, Tamsui"
-      },
-      {
-        "id": "yn_8QwCWsyI",
-        "title": "新北市淡水區 #即時路況 車流直播---#淡水竹圍雙向 #紅樹林往台北 #水源街二段與淡金路口"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCBjzM0ZW12Z8bggEORo8oBQ",
@@ -4705,7 +4697,12 @@
     "id": "UCD3fPz7PdO06e8k75nIwifQ",
     "handle": "@geirangerfjordcruiseporthe535",
     "name": "Geirangerfjord cruise port, Hellesylt",
-    "videos": []
+    "videos": [
+      {
+        "id": "S4aJlRY39fo",
+        "title": "Geirangerfjord cruise port, Hellesylt"
+      }
+    ]
   },
   {
     "id": "UCDAHA3f1RMYenm_lFgqjDXQ",
@@ -5236,7 +5233,12 @@
     "id": "UCF1Qy2zp3aejeLzTewzV4lA",
     "handle": "@sandiegorowingclub",
     "name": "San Diego Rowing Club",
-    "videos": []
+    "videos": [
+      {
+        "id": "QfNF1YeBQcI",
+        "title": "SDRC Mission Bay Camera"
+      }
+    ]
   },
   {
     "id": "UCF2ZhA1YhnRaf-WdCiBuIyQ",
@@ -8702,7 +8704,12 @@
     "id": "UCRapzDHUryKzcb9rJJGfxqg",
     "handle": "@whirligigwilson1724",
     "name": "Whirligig Wilson",
-    "videos": []
+    "videos": [
+      {
+        "id": "maJessq4rMU",
+        "title": "Wilson NC Whirligig Park"
+      }
+    ]
   },
   {
     "id": "UCRiY_FP2PZHeWWuIsMKyxGA",
@@ -9775,7 +9782,12 @@
     "id": "UCXhEeNbpyzOVa_bsAb0jQeA",
     "handle": "@RiverCityBoatSales",
     "name": "RiverCityBoatSales",
-    "videos": []
+    "videos": [
+      {
+        "id": "Y3cM4bK01JE",
+        "title": "Boones Ferry Marina Boat Ramp Webcam | River City Boat Sales"
+      }
+    ]
   },
   {
     "id": "UCXj6ROnZkzqgq6eYeoflO6A",
@@ -9984,10 +9996,6 @@
     "name": "ABC7 News Bay Area",
     "videos": [
       {
-        "id": "r1nqPE8QtdU",
-        "title": "Watch Live: SKY7 above Bay Area 'No Kings' rotests"
-      },
-      {
         "id": "_VqvVJfmyfs",
         "title": "Treasure Island, California Live Cam | 24/7 Stream"
       },
@@ -10051,7 +10059,12 @@
     "id": "UCZ63kVFT7hf1K-Mx82MxFnQ",
     "handle": "@HigginsBeach",
     "name": "Higgins Beach",
-    "videos": []
+    "videos": [
+      {
+        "id": "2n2qy8dRutk",
+        "title": "SteveSeabury HigginsBeachProperties"
+      }
+    ]
   },
   {
     "id": "UCZ974tQkAeV7_l_opPHCcdg",
@@ -10350,48 +10363,7 @@
     "id": "UC_cmEauzsnJ4trDXLiIug1Q",
     "handle": "@SOT",
     "name": "STREETS OF THAILAND",
-    "videos": [
-      {
-        "id": "cnJri1YXJUI",
-        "title": "Banyan Food Market 🔴 Koh Samui | Thailand | Live Street cam"
-      },
-      {
-        "id": "UJpFtzKug7M",
-        "title": "Royal Muang Samui Villas 🔴 Choeng Mon beach in Koh Samui - Livestream on the beach"
-      },
-      {
-        "id": "oyGHEnCrQ-o",
-        "title": "Annie Sweetery & Eatery | Taling Nam | Koh Samui | Thailand"
-      },
-      {
-        "id": "Kush_ZxTy2c",
-        "title": "Black Pearl | Lamai beach | Koh Samui | Thailand"
-      },
-      {
-        "id": "xU-jVYfA9x0",
-        "title": "Ida B Domain | Lipa Noi | Koh Samui | Thailand"
-      },
-      {
-        "id": "Wi9dZmunD2o",
-        "title": "Munchies Pizza & Kebab 🔴 Chaweng beach | Koh Samui | Thailand"
-      },
-      {
-        "id": "Sm9y8G0TLXI",
-        "title": "No Stress Restaurant | Lamai | Koh Samui | Thailand | Livecam on the beach"
-      },
-      {
-        "id": "gmTFQjI_yyo",
-        "title": "Karma Two Palms Beach Club | Bang Po | Koh Samui | Thailand"
-      },
-      {
-        "id": "DoPsVBjJYw4",
-        "title": "Teddy Weed beach club | Lamai | Koh Samui | Thailand | Live on the beach"
-      },
-      {
-        "id": "1sJ5KR7n85E",
-        "title": "The Deck Beach Club 🔴 Bang Rak beach - Koh Samui Live cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC_dQTOYTn6r5Kij3z0_SP6Q",
@@ -11930,7 +11902,12 @@
     "id": "UCgB_8lC4ZwaYxMKhfDatXyw",
     "handle": "@trelleborgskommun3034",
     "name": "Trelleborgs Kommun",
-    "videos": []
+    "videos": [
+      {
+        "id": "85OM8_W_mag",
+        "title": "Live Camera"
+      }
+    ]
   },
   {
     "id": "UCgBwodddPsSwg5nfUqH4-jA",
@@ -12302,10 +12279,6 @@
         "title": "View of Tel Aviv skyline"
       },
       {
-        "id": "QSoUEWVVHhQ",
-        "title": "Live views of NASA's Artemis II from Kennedy Space Center"
-      },
-      {
         "id": "16BVRih3vHI",
         "title": "View of Beirut skyline"
       },
@@ -12673,7 +12646,12 @@
     "id": "UCifCCRBxgrlRscFtQ6xWlaQ",
     "handle": "@BanyanTreeSamui",
     "name": "Banyan Tree Samui",
-    "videos": []
+    "videos": [
+      {
+        "id": "wP6hpWgPJ98",
+        "title": "Banyan Tree Samui Live Stream"
+      }
+    ]
   },
   {
     "id": "UCiijK6RLOIB3FqrLs-uBphg",
@@ -13063,7 +13041,24 @@
     "id": "UCjvpBcOLMBqktt0KJxjtJCg",
     "handle": "@BANTV",
     "name": "BANTV",
-    "videos": []
+    "videos": [
+      {
+        "id": "LfSlCi_odQ0",
+        "title": "流星群観測＆真面目にUFO観察するライブ from琵琶湖畔　星空ライブ"
+      },
+      {
+        "id": "OdCjsSj6PjQ",
+        "title": "現在の琵琶湖の様子【滋賀】【生配信】【表】ライブカメラ【4K映像】"
+      },
+      {
+        "id": "4vee_x_sQuI",
+        "title": "【琵琶湖湖畔・滋賀】現在の砂浜の様子　LIVE生放送"
+      },
+      {
+        "id": "bZHusX-v7NI",
+        "title": "現在の大津港の様子 ライブカメラ　【生配信】【裏】 滋賀県 琵琶湖 【LIVE CAMERA】【琵琶湖花噴水】"
+      }
+    ]
   },
   {
     "id": "UCjvtkjWwpnhgGv2nutFFr-A",
@@ -16233,84 +16228,7 @@
     "id": "UCsy6UOjk8q7Ajq9yQ7iDAbA",
     "handle": "@GiGAeyesLiveTV",
     "name": "GiGAeyes Live TV",
-    "videos": [
-      {
-        "id": "dRXKooC6tTM",
-        "title": "서울실시간 광화문대로 Live Cam I \"Gwanghwamun Boulevard\" , Seoul, Korea I 서울광화문 광화문광장 서울여행 서울라이브"
-      },
-      {
-        "id": "f-77scE-PVw",
-        "title": "서울실시간 석촌호수라이브 Live Cam I Seoul, \"Seokchon Lake\", Seoul,Korea I 서울관광지 서울호수 잠실롯데몰 송리단길 잠실소피텔"
-      },
-      {
-        "id": "n7myxHpfPpo",
-        "title": "수원실시간 광교호수공원라이브 Live Cam I \"Gwanggyo Lake Park\",  Suwon,KoreaI 수원라이브 광교호수공원 수원신도시 광교호수공원야경 광교앨리웨이"
-      },
-      {
-        "id": "pzKNbB3WjpE",
-        "title": "대전실시간 대전라이브 대전엑스포과학공원 한빛광장 LiveCam I \"ExpoSciencePark,Hanbit Square\",Daejeon,Korea I 대전관광공사 대전여행"
-      },
-      {
-        "id": "80OT9PgWG-k",
-        "title": "속초실시간 속초해수욕장 Live Cam I \"Sokcho Beach\", Gangwondo,Korea I 여름휴가 해변 밤바다 바다경치 강원도여행 오션뷰 속초아이"
-      },
-      {
-        "id": "tQ9tse8cTy4",
-        "title": "부산실시간 해운대송정해수욕장 Live Cam l \"Songjeong beach\", Busan,Korea l 서핑파도 부산파도실시간 겨울바다 해운대서핑 부산바다 부산여행 부산날씨"
-      },
-      {
-        "id": "G3392hBJzG8",
-        "title": "분당실시간 분당KT사옥뷰 라이브 Live Cam I \"KT office building\", Bundang,Korea I 분당KT사옥 성남시 분당 탄천 한강 탄천라이브"
-      },
-      {
-        "id": "2ZB99O10bIM",
-        "title": "서울실시간 DDP라이브 Live Cam I \"Dongdaemun design Plaza\", Seoul, Korea I 동대문디자인플라자 동대문사입 서울여행명소 동대문가볼만한곳"
-      },
-      {
-        "id": "hYGGGLxyB9A",
-        "title": "서울실시간 롯데월드타워라이브  Live Cam I \"LotteWorldTower\", Seoul, Korea I 잠실롯데월드타워 롯데월드타워 전망대 서울sky"
-      },
-      {
-        "id": "fWAYIe5-C4o",
-        "title": "부산실시간 광안대교 Live Cam l \"Gwangandaegyo Bridge\", Busan,Korea l 부산야경뷰 광안리해변 부산바다 바다라이브 한국바다 Oceanview"
-      },
-      {
-        "id": "009kOq0x4ZI",
-        "title": "강릉실시간 강문해변 Live Cam I \"Gangmoon beach\", Gangwondo, Korea I 강릉바다 바다실시간 여행지 강원도일출 강릉일출"
-      },
-      {
-        "id": "jTQjbPOwv24",
-        "title": "포항실시간 호미곶광장라이브 Live Cam I \"Homigot Sunrise Square\", Pohang,Korea I 포항호미곶해맞이광장 포항일출 포항바다 포항호미곶일출 상생의손"
-      },
-      {
-        "id": "DSgn-lTHJzM",
-        "title": "서울실시간 서울역광장 Live Cam I \"Seoul Station Plaza\". Seoul,Korea I 서울역 서울여행 서울광장 서울시 SeoulStation ソウル駅広場"
-      },
-      {
-        "id": "1_DTr0zhNOc",
-        "title": "서울실시간 한강라이브 서강대교 Live Cam I \"SeogangBridge\",Seoul,Korea I SeoulHanGangLive ソウル漢江ライブ 首尔汉江现场演出 한강라이브"
-      },
-      {
-        "id": "hWyByX9fY2g",
-        "title": "서울실시간 마포대교 Live Cam I \"Mapo Bridge\",Seoul,Korea I SeoulHanGangLive 서울야경SeoulNightView ソウルの夜景"
-      },
-      {
-        "id": "1AUCJbyKoMo",
-        "title": "제주도실시간 성산일출봉라이브 Live Cam I \"Seongsan Ilchulbong\", Jejudo,korea I SeongsanSunrisePark 济州岛城山日出峰 백색소음"
-      },
-      {
-        "id": "VBlN0MGqyz4",
-        "title": "서울실시간 경복궁 Live Cam I \"Gyeongbokgung\", Seoul, Korea I 광화문 궁 けいふくきゅう 景福宫 서울관광 首爾風景 한국"
-      },
-      {
-        "id": "JIQPCfb9Qs0",
-        "title": "서울실시간 롯데월드라이브 Live Cam I \"Lotte World\", Seoul,Korea I 서울라이브 乐天世界 ロッテワールド롯데월드실시간 롯데월드혼잡도 SeoulLive"
-      },
-      {
-        "id": "ZopiySgQjsc",
-        "title": "서울실시간 한강라이브 잠실대교 Live Cam I \"Jamsil Bridge\" Seoul,korea I SeoulHanGangLive ソウル漢江ライブ 首尔汉江现场演出"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCsyyRhCqrvBInUQYTNxL6lw",
@@ -16388,12 +16306,7 @@
     "id": "UCtUDoNuFU5NPWJlMfPHKoZw",
     "handle": "@CommanderCamera-qv3xl",
     "name": "Gateway Subaru Camera at The Commander Hotel",
-    "videos": [
-      {
-        "id": "zCEiot7sEWY",
-        "title": "Gateway Subaru Camera at The Commander Hotel"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtUyw9nTFtCCg-RPA4c8cDg",
@@ -18119,13 +18032,59 @@
     "id": "UCznXKvxj3U1dEQDprXBmlQA",
     "handle": "@staugustinelive",
     "name": "St. Augustine Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZksWoEAhmTU",
+        "title": "St. George Street South | St. Augustine LIVE 24/7"
+      },
+      {
+        "id": "ORNGtJ7WB_8",
+        "title": "St. Augustine Lighthouse - LIVE 24/7"
+      },
+      {
+        "id": "0lox0s8zNcU",
+        "title": "Bridge of Lions LIVE - 24/7 - St. Augustine, Florida"
+      },
+      {
+        "id": "ZTk5cIbXH2g",
+        "title": "St. Augustine Florida Skyline | LIVE 24/7 | Hosted by NoProfileBoatLifts"
+      },
+      {
+        "id": "uLJBad4vSno",
+        "title": "Matanzas River, Lighthouse, Bridge of Lions | St. Augustine LIVE 24/7"
+      },
+      {
+        "id": "FyGb2TZB344",
+        "title": "Castillo de San Marcos Fort LIVE 24/7 | St. Augustine"
+      },
+      {
+        "id": "LHtzZf4T7xw",
+        "title": "St. Augustine Alligator Farm LIVE 24/7"
+      },
+      {
+        "id": "S8afSTXKkdw",
+        "title": "Vilano Boat Ramp LIVE 24/7 | St. Augustine, Florida"
+      },
+      {
+        "id": "FLci2xciBb4",
+        "title": "A1A Traffic Facing West | The Pub on Anastasia | St. Augustine"
+      },
+      {
+        "id": "mYbn_umeenk",
+        "title": "Vilano Pier | Live 24/7 from Beaches at Vilano | St. Augustine"
+      }
+    ]
   },
   {
     "id": "UCznYV93b1V_PGy4yOPnR0mw",
     "handle": "@tarquinburrows2649",
     "name": "Tarquin Burrows",
-    "videos": []
+    "videos": [
+      {
+        "id": "oqcG1gMs2U8",
+        "title": "Nahoon Beach Live Streaming"
+      }
+    ]
   },
   {
     "id": "UCzofN-7yLDKoPmh37yqMpiA",
