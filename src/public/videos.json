@@ -288,12 +288,7 @@
     "id": "UC-dGHuK8OcC_WIWvNzxysag",
     "handle": "@LiveCamNatal",
     "name": "WebcamNatal",
-    "videos": [
-      {
-        "id": "DTW7IgU2gdk",
-        "title": "PRAIA DE PONTA NEGRA AO VIVO! NATAL-RN / BRASIL - LIVE CAM NATAL"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-jBJkLN89AlQp6eeCNnnWg",
@@ -378,7 +373,12 @@
     "id": "UC0BaUi4Ob9uA1qKsF6N8D6Q",
     "handle": "@seaislecitybeachpatrol2994",
     "name": "Sea Isle City Beach Patrol",
-    "videos": []
+    "videos": [
+      {
+        "id": "FYOGiFH60uM",
+        "title": "Sea Isle City Beach Patrol Webcam"
+      }
+    ]
   },
   {
     "id": "UC0MrPkKoR10dziKUa6JUwIg",
@@ -429,126 +429,6 @@
     "handle": "@JazBazPhilippines",
     "name": "JazBaz Philippines",
     "videos": [
-      {
-        "id": "2iENQ0dDmqI",
-        "title": "🔴 PHILIPPINES Live camera Basketball Barangay Hall Kapitan Tomas Monteverde, Agdao, Davao City"
-      },
-      {
-        "id": "1rWzQP_ZYxc",
-        "title": "🔴 Philippines Live camera Vulcanizing Tyre Repair Shop, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "yznpQlk0exE",
-        "title": "🔴Philippines Live street view camera Davao City,  F Bangoy Street & Soliman Crossing, Agdao"
-      },
-      {
-        "id": "gdr3HJqXq90",
-        "title": "🔴 PHILIPPINES Live camera Lyn's Samgyup Restaurant, Davao City #philippines"
-      },
-      {
-        "id": "azTPNA5uOK0",
-        "title": "🔴 PHILIPPINES Live camera Lyn's Samgyup Staff, Davao City #philippines"
-      },
-      {
-        "id": "-Xq2O93KZpQ",
-        "title": "🔴 Philippines Live camera Japan Street corner of Soliman Street, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "QQBVEf6B2r0",
-        "title": "🔴 Philippines Live camera Jet Wash area and Internet Café, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "1UfgoFkC6QU",
-        "title": "🔴Live PTZ camera, Agdao Public Market, Davao City #philippines"
-      },
-      {
-        "id": "wvaB1q5blpk",
-        "title": "🔴 PHILIPPINES Live camera Outside Cynthia Store Cam, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "KFWHAT9N3Us",
-        "title": "🔴 PHILIPPINES Live camera W Aquino Street Market Area , Agdao, Davao City #philippines"
-      },
-      {
-        "id": "d17IkvT4EkQ",
-        "title": "🔴 PHILIPPINES Live camera Inside Cynthia Store, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "bBLaFE1rvtM",
-        "title": "🔴 PHILIPPINES Live camera outside Suing Store San Roque Barangay, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "vUVIvbkidFs",
-        "title": "🔴 PHILIPPINES Live traffic camera, Leon Garcia Street, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "d2sfGzRE14g",
-        "title": "🔴 Live PTZ camera , Agdao Bus Stop & Flyover, Davao City #philippines"
-      },
-      {
-        "id": "InTBfpvKKwE",
-        "title": "🔴PHILIPPINES Live camera Outside Lodi's Eatery, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "eU9i-OFKzRg",
-        "title": "🔴PHILIPPINES Live camera Inside Lodi's Eatery, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "B355nVv6Kxc",
-        "title": "🔴 PHILIPPINES Live camera, Billiards Hall, Bankerohan , Davao City #philippines"
-      },
-      {
-        "id": "qltYs-o6kl4",
-        "title": "🔴 PHILIPPINES Live Camera Bankerohan Lyn's Food Haus outside, Davao City #philippines"
-      },
-      {
-        "id": "pvasCb_myrk",
-        "title": "🔴 PHILIPPINES Live Camera Bankerohan Lyn's Food Haus, Davao City #philippines"
-      },
-      {
-        "id": "qMOiz9Xrj1A",
-        "title": "🔴 PHILIPPINES Live camera, Bankerohan Market area, Davao City #philippines"
-      },
-      {
-        "id": "b-gKJTUwCAQ",
-        "title": "🔴 PHILIPPINES Live camera Bankerohan Fish sellers Servery, Davao City #philippines"
-      },
-      {
-        "id": "fmlkL1TpbI0",
-        "title": "🔴 PHILIPPINES Live camera outside Lyn's Sisig Beef BBQ, Davao City #philippines"
-      },
-      {
-        "id": "rts_4SHhFJs",
-        "title": "🔴 PHILIPPINES Live camera inside Lyn's Sisig Beef BBQ Restaurant, Davao City #philippines"
-      },
-      {
-        "id": "oixHsQ8Q9mI",
-        "title": "🔴 PHILIPPINES Live camera Restaurant Servery, Lyn's Sisig Beef BBQ, Davao City #philippines"
-      },
-      {
-        "id": "I_pE-WeOvNs",
-        "title": "🔴 PHILIPPINES  Live camera outside Lyn's Restaurant looking Roxas Avenue, Davao City #philippines"
-      },
-      {
-        "id": "gpmi1HyC6Kg",
-        "title": "🔴 Philippines Live camera Street View, Davao City,  F Bangoy Street towards Lapu Lapu"
-      },
-      {
-        "id": "crkbTPqIuz4",
-        "title": "🔴 Philippines Live camera Tyre Repair Shop & Sari-Sari store Agdao, Davao City #philippines"
-      },
-      {
-        "id": "oUTKwSBvBhI",
-        "title": "🔴 Philippines Live camera outside motorbike Jet Wash, Soliman Street, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "D0zoMg6-XsQ",
-        "title": "🔴 PHILIPPINES Street View Live camera outside Dodong Barber Shop, Agdao, Davao City #philippines"
-      },
-      {
-        "id": "0Kaji9GHl68",
-        "title": "🔴 PHILIPPINES Live camera Inside Dodong Barber Shop, Agdao, Davao City #philippines"
-      },
       {
         "id": "Gy4_7mPsuWA",
         "title": "🔴PHILIPPINES Live camera, Balut & Siomai street food, Davao City #philippines"
@@ -1570,7 +1450,48 @@
     "id": "UC5FiBoG6GcB5QqsiOsGe22A",
     "handle": "@eastcoastnsa0501",
     "name": "東部海岸國家風景區管理處",
-    "videos": []
+    "videos": [
+      {
+        "id": "fv1yFousBvc",
+        "title": "【Live Cam】東海岸即時影像 - 綠島帆船鼻｜Fanchuanbi Grassland in Green Island｜緑島帆船鼻の大草原 2160p"
+      },
+      {
+        "id": "a8nJQr5rBGs",
+        "title": "【4K Live Cam】Chaikou Snorkeling Area in Green Island, Taitung | Explore East Coast of Taiwan"
+      },
+      {
+        "id": "mXnigLvIL0Q",
+        "title": "【4K Live Cam】Shitiping | East Coast National Scenia Area in Taiwan"
+      },
+      {
+        "id": "JnD8Rk3o0BM",
+        "title": "【4K Live Cam】Changhong Bridge | Explore East Coast of Taiwan"
+      },
+      {
+        "id": "JkoXcXI04Qk",
+        "title": "【4K Live Cam】Dashshibi Hill | Explore East Coast of Taiwan"
+      },
+      {
+        "id": "AKl3F6cAY2Q",
+        "title": "【4K Live Cam】Jialulan Recreation Area | Explore East Coast of Taiwan"
+      },
+      {
+        "id": "JhQuR77AR7U",
+        "title": "【4K Live Cam】Torik Visitor Center | Explore East Coast of Taiwan"
+      },
+      {
+        "id": "dQ7Sd6PGLdA",
+        "title": "【4K Live Cam】Sanxiantai | Explore East Coast of Taiwan"
+      },
+      {
+        "id": "ZdqHgQwvZOw",
+        "title": "【4K Live Cam】Jinzun | Explore East Coast of Taiwan"
+      },
+      {
+        "id": "wTHhv7M0vCI",
+        "title": "【4K Live Cam】Taitung Green Island Nanliao Fishing Harbor | Explore East Coast of Taiwan"
+      }
+    ]
   },
   {
     "id": "UC5PNUCvYkt6PxAmgvAV8x8g",
@@ -2010,40 +1931,7 @@
     "id": "UC6AG81pAkf6Lbi_1VC5NmPA",
     "handle": "@tbsnewsdig",
     "name": "TBS NEWS DIG Powered by JNN",
-    "videos": [
-      {
-        "id": "GQeWseueucA",
-        "title": "【LIVE】朝のニュース（Japan News Digest Live）最新情報など｜TBS NEWS DIG（3月29日）"
-      },
-      {
-        "id": "xj1kWhyu__Q",
-        "title": "【イラン情勢まとめ】イエメンの親イラン組織フーシ派「イスラエルへの攻撃実施」表明 /  アメリカが“最終攻撃”準備と報道 / 円安加速 1ドル160円台の大台突破"
-      },
-      {
-        "id": "1BBpH3Uih2c",
-        "title": "【桜ライブ】幸手権現堂桜堤「桜まつり」2026　夜桜ライトアップも (LIVE配信) | TBS NEWS DIG"
-      },
-      {
-        "id": "8PG-4pYVfy8",
-        "title": "【LIVE】横浜 みなとみらいのライブカメラ 現在の様子は？Yokohama, Minatomirai JAPAN | TBS NEWS DIG"
-      },
-      {
-        "id": "glJu8snzi78",
-        "title": "【LIVE】新宿駅前のライブカメラ 現在の様子は？ Shinjuku, Tokyo JAPAN | TBS NEWS DIG"
-      },
-      {
-        "id": "Anr15FA9OCI",
-        "title": "【24h LIVE】最新ニュースをライブ配信中！ |  TBS NEWS DIG"
-      },
-      {
-        "id": "2Cd5tuB4vjU",
-        "title": "【ライブ】 羽田空港 第2ターミナルのライブカメラ 現在の様子は？Haneda Airport's Terminal 2| TBS NEWS DIG"
-      },
-      {
-        "id": "2f9NOSw-FqM",
-        "title": "【ライブ】羽田空港 第1ターミナルのライブカメラ 現在の様子は？Haneda Airport's Terminal 1| TBS NEWS DIG"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC6FPzX_C0R_T_hyzAzkUZCQ",
@@ -2609,12 +2497,7 @@
     "id": "UC8HLYEGSvHBroUqZMcGaSHg",
     "handle": "@三ノ輪駅前ライブカメラ",
     "name": "三ノ輪駅前ライブカメラ",
-    "videos": [
-      {
-        "id": "AxHlQnVXTNc",
-        "title": "【LIVE】東京都台東区　大関横丁交差点(三ノ輪駅前)　ライブカメラ　Japan Tokyo Live Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC8IKKTJkgZP9vdmnQDV-DZA",
@@ -3699,16 +3582,7 @@
     "id": "UCAY-GlV3P5twjg7B9tjx_lg",
     "handle": "@Scotventure",
     "name": "Alex  Explorer - Scotventure",
-    "videos": [
-      {
-        "id": "fKb7dUCuofs",
-        "title": "🔴LIVE - Fort William Live Webcam - Scotland - Loch Linnhe & West End Car Park"
-      },
-      {
-        "id": "j9w0shEwYQA",
-        "title": "🔴LIVE - Fort William Live Webcam - Scotland - Loch Linnhe & West End Car Park"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCAfi6hcs4a9Zk1zNShCuxfA",
@@ -3725,7 +3599,24 @@
     "id": "UCAoSufogSQbl5N5AtUIid4Q",
     "handle": "@CityofEllsworthMaine",
     "name": "City of Ellsworth, Maine",
-    "videos": []
+    "videos": [
+      {
+        "id": "Tm5YO9g8_nQ",
+        "title": "City of Ellsworth, Maine - City Hall Cupola Cam"
+      },
+      {
+        "id": "Ql11MDGN1Po",
+        "title": "City of Ellsworth, Maine - Harbor Park Live Cam"
+      },
+      {
+        "id": "ufw3aQzmDBw",
+        "title": "City of Ellsworth, Maine - Branch Lake Weather Cam"
+      },
+      {
+        "id": "ELSnCF_XOPI",
+        "title": "City of Ellsworth, Maine - North Ellsworth Tower Cam"
+      }
+    ]
   },
   {
     "id": "UCAphsmhYyvZDI7s67XM5l0A",
@@ -5115,7 +5006,12 @@
     "id": "UCEv-PRGxCqlI71jTUrou9uw",
     "handle": "@Martigny-Bourg.webcams",
     "name": "Martigny-Bourg Live Streaming",
-    "videos": []
+    "videos": [
+      {
+        "id": "GwgM3ppKhK4",
+        "title": "Martigny Bourg Valais webcam live"
+      }
+    ]
   },
   {
     "id": "UCEw0F1AUvO6H_awqxI7QbtQ",
@@ -6836,12 +6732,7 @@
     "id": "UCKtFn0R-NGm6cocqdoGAQTA",
     "handle": "@YokohamaLiveCam",
     "name": "Live Cam Yokohama Japan",
-    "videos": [
-      {
-        "id": "bZ1sln1VoaA",
-        "title": "🔴Live Cam Yokohama Japan :横浜汽車道ライブカメラ"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCKyXyJMijwyBebgI9wmzFcw",
@@ -7614,7 +7505,12 @@
     "id": "UCO5h141TdYNubCkUWUGSW3g",
     "handle": "@Tornionkaupunki",
     "name": "Tornion kaupunki",
-    "videos": []
+    "videos": [
+      {
+        "id": "yqJBRmpOpnM",
+        "title": "Tornion kaupungin webkamera - Tornio City Webcam"
+      }
+    ]
   },
   {
     "id": "UCOAjX8pc2fY1S5AqsXvZywg",
@@ -7697,7 +7593,12 @@
     "id": "UCOkHmC8gMrifs24PrPmTumg",
     "handle": "@townofsurfsidebeach7463",
     "name": "Town of Surfside Beach",
-    "videos": []
+    "videos": [
+      {
+        "id": "hXqjUfQJf9U",
+        "title": "Pier Camera"
+      }
+    ]
   },
   {
     "id": "UCOlB4c8jh9f2T6u3A08T9mA",
@@ -9709,12 +9610,7 @@
     "id": "UCXhEeNbpyzOVa_bsAb0jQeA",
     "handle": "@RiverCityBoatSales",
     "name": "RiverCityBoatSales",
-    "videos": [
-      {
-        "id": "Y3cM4bK01JE",
-        "title": "Boones Ferry Marina Boat Ramp Webcam | River City Boat Sales"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXj6ROnZkzqgq6eYeoflO6A",
@@ -11042,12 +10938,7 @@
     "id": "UCd2vrRsPAJNJzQ-Vo-KfItA",
     "handle": "@TorenvanVarik",
     "name": "Toren van Varik",
-    "videos": [
-      {
-        "id": "xpvG0bK5G28",
-        "title": "webcam Toren van Varik"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCdCuDRxgLpYAu3Mi-0GJYZQ",
@@ -11202,16 +11093,7 @@
     "id": "UCdmPhiIJ-s7MJG2WtM7nbUw",
     "handle": "@BrownvillesFoodPantryForDeer",
     "name": "Brownville&#39;s Food Pantry For Deer",
-    "videos": [
-      {
-        "id": "XYdZPXiQMXs",
-        "title": "Brownville's Food Pantry For Deer \"Richard's PTZ\""
-      },
-      {
-        "id": "47dcM4M16Ic",
-        "title": "Ryan's Bird Buffet at Brownville's Food Pantry For Deer"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCdmrMySXycO_2dIiZnQ1k-g",
@@ -13654,12 +13536,7 @@
     "id": "UClcicFOBsxXQxaQnT1RshJg",
     "handle": "@axis-air",
     "name": "Axis Air",
-    "videos": [
-      {
-        "id": "MfqAgiqY4-0",
-        "title": "Live Weather Camera at Oxnard Airport (KOXR) | Axis Air FBO | Ventura County, CA"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCliCEXR9eSmY9PDb2lXov7Q",
@@ -14149,10 +14026,6 @@
     "handle": "@InnovacionCipolletti",
     "name": "Innovación Cipolletti",
     "videos": [
-      {
-        "id": "cjYqtbsc4XA",
-        "title": "Ciudad de Cipolletti en VIVO"
-      },
       {
         "id": "xhVpO3cplDs",
         "title": "Rotonda Tercer Puente Cipolletti en VIVO"
@@ -15827,7 +15700,12 @@
     "id": "UCrGS8VyrgCqYwaogH5bQpxQ",
     "handle": "@Cerevolivecamera",
     "name": "Cerevo live camera",
-    "videos": []
+    "videos": [
+      {
+        "id": "Zq-D5z2n0EY",
+        "title": "秋葉原ライブカメラ Akihabara live camera YouTube Live version"
+      }
+    ]
   },
   {
     "id": "UCrNyeY4kGLL0-Hs8wC98peg",
