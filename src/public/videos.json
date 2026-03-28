@@ -642,12 +642,7 @@
     "id": "UC15QFO-cdISk-4Sn5CPd78g",
     "handle": "@niagarafallslive1566",
     "name": "Niagara Falls Live",
-    "videos": [
-      {
-        "id": "cf4YkyGk6Tk",
-        "title": "Niagara Falls Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC18wIshJBimh3cAVbsxnkqg",
@@ -743,15 +738,11 @@
     "name": "Char Dham Yatra Live",
     "videos": [
       {
-        "id": "3c8c6FXLBkY",
+        "id": "UujdKwwKPGQ",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
       {
-        "id": "JD0oBvZw4xk",
-        "title": "🔴लाइव दर्शन श्री काशी विश्वनाथ धाम || Live Darshan From Shree Kashi Vishwanath Temple Varanasi"
-      },
-      {
-        "id": "PJ-29Q_DT2w",
+        "id": "3c8c6FXLBkY",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
       {
@@ -763,14 +754,6 @@
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
       {
-        "id": "jAlDahX3P3s",
-        "title": "🔴लाइव दर्शन श्री काशी विश्वनाथ धाम || Live Darshan From Shree Kashi Vishwanath Temple Varanasi"
-      },
-      {
-        "id": "716DI5zNlNc",
-        "title": "🔴लाइव दर्शन श्री काशी विश्वनाथ धाम || Live Darshan From Shree Kashi Vishwanath Temple Varanasi"
-      },
-      {
         "id": "CpPGdyKd1Fo",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
@@ -779,27 +762,11 @@
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
       {
-        "id": "FO88GwKv9Sk",
-        "title": "🔴लाइव दर्शन श्री काशी विश्वनाथ धाम || Live Darshan From Shree Kashi Vishwanath Temple Varanasi"
-      },
-      {
-        "id": "9qg54Uhz_Ys",
-        "title": "🔴लाइव दर्शन श्री काशी विश्वनाथ धाम || Live Darshan From Shree Kashi Vishwanath Temple Varanasi"
-      },
-      {
         "id": "RXzwXDxjfFg",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
       {
-        "id": "80pL3f-HHlM",
-        "title": "🔴लाइव दर्शन श्री काशी विश्वनाथ धाम || Live Darshan From Shree Kashi Vishwanath Temple Varanasi"
-      },
-      {
         "id": "Klf8Tl3luhA",
-        "title": "🔴लाइव दर्शन श्री काशी विश्वनाथ धाम || Live Darshan From Shree Kashi Vishwanath Temple Varanasi"
-      },
-      {
-        "id": "UA1VXd6zoaE",
         "title": "🔴लाइव दर्शन श्री काशी विश्वनाथ धाम || Live Darshan From Shree Kashi Vishwanath Temple Varanasi"
       },
       {
@@ -1191,16 +1158,8 @@
         "title": "CORREIA PINTO SC AO VIVO | TREVO DE ACESSO – I E J VIDRAÇARIA | CONEXÃODCTV"
       },
       {
-        "id": "wmKinTm3gQE",
-        "title": "CORREIA PINTO SC AO VIVO | PANORÂMICA DA CIDADE – BAR DO MAICO | CONEXÃODCTV"
-      },
-      {
         "id": "a-pzrZYVXfM",
         "title": "CORREIA PINTO SC AO VIVO | RUA JUVENAL ALVES DA SILVA – W.SOM CELULARES | CONEXÃODCTV"
-      },
-      {
-        "id": "otBXx7YzlMQ",
-        "title": "ITAPEMA SC AO VIVO | MEIA PRAIA – RÁDIO CIDADE 104.1 FM | CONEXÃODCTV"
       },
       {
         "id": "42QfEpnZ_Hk",
@@ -1582,12 +1541,7 @@
     "id": "UC3rYbSIKpTUuZJNl7GmFxqA",
     "handle": "@FairmontThePalm",
     "name": "Fairmont Palm",
-    "videos": [
-      {
-        "id": "7dE4IjDQJmE",
-        "title": "Fairmont The Palm"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC3yyv3A3atZf0d0ybFMrhbw",
@@ -1805,7 +1759,12 @@
     "id": "UC5Dy3WsfZw5AQxnamT0d0ow",
     "handle": "@BungalowsChryssa",
     "name": "Bungalows Chryssa",
-    "videos": []
+    "videos": [
+      {
+        "id": "0Jbpvr1Mp-w",
+        "title": "Liopessi and St. Peter's Beach Live View"
+      }
+    ]
   },
   {
     "id": "UC5FiBoG6GcB5QqsiOsGe22A",
@@ -1911,118 +1870,6 @@
     "handle": "@PixCams",
     "name": "PixCams",
     "videos": [
-      {
-        "id": "oai5ICev-Ew",
-        "title": "PA Bat Box 1 Live Stream"
-      },
-      {
-        "id": "JQWvjG5arhQ",
-        "title": "PixCams.com Field Cam Live Stream"
-      },
-      {
-        "id": "XfNhPa26fP8",
-        "title": "PixCams.com Wildlife Cam 2 Live Stream"
-      },
-      {
-        "id": "i59UQijZ4-Y",
-        "title": "LujiiGarden Bird Feeder Cam"
-      },
-      {
-        "id": "6--SErd7u4o",
-        "title": "PixCams.com PA Bird Feeder 1 Live Stream"
-      },
-      {
-        "id": "pgMuZvyFw4k",
-        "title": "PixCams.com Wildlife Webcam 1 Live Stream - Natural Bird Bath!"
-      },
-      {
-        "id": "nhffONcy8Eg",
-        "title": "BirdSouls Colombia Bird Feeder 1"
-      },
-      {
-        "id": "mulBUh6Bkl4",
-        "title": "WLT Schwarz Barn Big Brown Bat Colony Cam 1"
-      },
-      {
-        "id": "ptILtJCyVm0",
-        "title": "WLT Schwarz Barn Big Brown Bat Colony Cam 2"
-      },
-      {
-        "id": "wX8FzSylyrc",
-        "title": "WLT Bat Box 2 - Exit View"
-      },
-      {
-        "id": "zZ9gvrVfkCU",
-        "title": "WLT Bat Box 2 - Top View"
-      },
-      {
-        "id": "M_MnriRVIUc",
-        "title": "PixCams.com PA Bird Feeder 3 - Close-up View!"
-      },
-      {
-        "id": "a-IydWw-VXM",
-        "title": "PixCams.com PA Bird Feeder 2 Live Stream"
-      },
-      {
-        "id": "mhDwzP8UHF4",
-        "title": "Ott Family Bald Eagle Nest Camera: Eaglet Goody! - Hatched 3/18"
-      },
-      {
-        "id": "9njkml1oQRQ",
-        "title": "U. S. Steel Bald Eagle Camera Live Stream - Cam 2 - USS nest with Monongahela River in background"
-      },
-      {
-        "id": "2fk5Ot_HI7g",
-        "title": "PixCams.com MCP Wetlands - Purple Martin House"
-      },
-      {
-        "id": "ogUiSSpNIs4",
-        "title": "Iroquois National Wildlife Refuge Bald Eagle Camera"
-      },
-      {
-        "id": "dDIfhPXn_-c",
-        "title": "USS Bald Eagle Nest Cam"
-      },
-      {
-        "id": "HwepkNOECB8",
-        "title": "Fox Den 2"
-      },
-      {
-        "id": "e3YqN1UwVGI",
-        "title": "PixCams.com Fox Den Cam Live Stream"
-      },
-      {
-        "id": "a83Y5shllLg",
-        "title": "USS Bald Eagle Cam 4 - River view"
-      },
-      {
-        "id": "QvELxkMi--8",
-        "title": "PixCams.com PA Bird Feeder 2 Bottom Cam"
-      },
-      {
-        "id": "qK7xOcTHn5A",
-        "title": "PixCams.com Wildlife Cam 3 Live Stream"
-      },
-      {
-        "id": "JosQdXWDn6g",
-        "title": "PA Bat Box 2 Live Stream"
-      },
-      {
-        "id": "yPq9aNukckQ",
-        "title": "Glen Hazel (Hays) Bald Eagle Camera LIVE CAM - TWO EGGS!"
-      },
-      {
-        "id": "5DlywACQ9qM",
-        "title": "MorainePreservationFund Osprey Cam Live - Dad returned 3/16, Mom returned 3/20"
-      },
-      {
-        "id": "JiE5YlXWnys",
-        "title": "PA Bat Box 2 Live Stream"
-      },
-      {
-        "id": "_1_8X4psoPs",
-        "title": "PixCams.com Migration Optical Camera"
-      },
       {
         "id": "WLSkgf-dvOI",
         "title": "PixCams.com Migration Thermal Camera"
@@ -4815,8 +4662,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "Z6r8PiqGoEM",
-        "title": "【 Archive】 2026-03-28『06:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "-NcxRmBhj5c",
+        "title": "【 Archive】 2026-03-28『09:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -5239,106 +5086,6 @@
     "name": "See Jackson Hole",
     "videos": [
       {
-        "id": "W0cQdnoFR3A",
-        "title": "Swan Valley Idaho @ River Retreat Lodge - SeeJH.ai"
-      },
-      {
-        "id": "U2Zgr0nJxxg",
-        "title": "Flat Creek Inn Office - SeeJH.ai"
-      },
-      {
-        "id": "RpoA0HZfIh4",
-        "title": "Grand Targhee Resort Summit - SeeJH.ai"
-      },
-      {
-        "id": "B_waF26In9o",
-        "title": "Jackson Town Square Live PTZ webcam - SeeJH.ai"
-      },
-      {
-        "id": "r-7zA9fAg1c",
-        "title": "Thistle Dew Cabin Teton Valley, Idaho - SeeJH.ai"
-      },
-      {
-        "id": "vqJzOnZ0RHo",
-        "title": "Spring Creek Ranch - SeeJH.ai"
-      },
-      {
-        "id": "JWflsXXpHRQ",
-        "title": "Snow King Mid Mountain - SeeJH.ai"
-      },
-      {
-        "id": "AaTf07Lvz1A",
-        "title": "Snow King Mountain Cowboy Coaster & Alpine Slide Live Cam - SeeJH.ai"
-      },
-      {
-        "id": "QYEk-xId78I",
-        "title": "Alpenhof Tram Cam @ JHMR - SeeJH.ai"
-      },
-      {
-        "id": "QDyspy8DUpU",
-        "title": "Alpine Valley RV Park - Alpine, WY - SeeJH.ai"
-      },
-      {
-        "id": "9ID7fhbc_s0",
-        "title": "Snow King Mountain - Summit Gondola - SeeJH.com"
-      },
-      {
-        "id": "Jqo7Z9QiOEQ",
-        "title": "Teton View - Buffalo Valley in Moran Wyoming - SeeJH.com"
-      },
-      {
-        "id": "fQiA_DZT0cE",
-        "title": "Grand Targhee Resort Dreamcatcher - SeeJH.com"
-      },
-      {
-        "id": "Zj0pXlq2-jI",
-        "title": "Town Square Webcam - Northeast - SeeJH.com"
-      },
-      {
-        "id": "NtMHUJhU1Z4",
-        "title": "Island Park - Henry's Fork - SeeJH.com"
-      },
-      {
-        "id": "o4fKtgPVpoU",
-        "title": "Dornan's in Grand Teton National Park - SeeJH.com"
-      },
-      {
-        "id": "eHL_FJOoVTE",
-        "title": "Grand Targhee Resort Plaza - SeeJH.com"
-      },
-      {
-        "id": "k3Lt_Het7uw",
-        "title": "Teton Village Wyoming - SeeJH.com"
-      },
-      {
-        "id": "g4NgJXbRrBk",
-        "title": "Snow King Mountain Lifts - SeeJH.com"
-      },
-      {
-        "id": "IvZ22jZgvOI",
-        "title": "Montana Whitewater - Yellowstone River in Gardiner"
-      },
-      {
-        "id": "B4KTi91qL-4",
-        "title": "Grand Targhee Resort Stick of Truth"
-      },
-      {
-        "id": "3UzgSRYzDEQ",
-        "title": "Hoback River @ Spotted Horse Ranch - SeeJH.com"
-      },
-      {
-        "id": "aAXhT5FOoWk",
-        "title": "SeeJH.com & Jackson Hole Computer Clinic HQ"
-      },
-      {
-        "id": "Ob642-kNnQU",
-        "title": "Hoback River Jackson Hole Wyoming - SeeJH.com"
-      },
-      {
-        "id": "ryl9x2g1TF4",
-        "title": "The Deck @ The Bird - SeeJH.com"
-      },
-      {
         "id": "JVknJ-Ui8xQ",
         "title": "Gather | Jackson Hole Restaurant + Bar Near Town Square - SeeJH.com"
       },
@@ -5549,7 +5296,12 @@
     "id": "UCFbd69s_b63mA7qvpnG6U8Q",
     "handle": "@news8nowcitycam282",
     "name": "News 8 Now City Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "Jbx6mvYR7A4",
+        "title": "News 8 Now City Cam Live Stream"
+      }
+    ]
   },
   {
     "id": "UCFxb1RXdYBFqM7a_8GlfxMQ",
@@ -6992,7 +6744,12 @@
     "id": "UCKiObhTepfujcMJaqZ9qzsQ",
     "handle": "@oldbridgeairport618",
     "name": "Old Bridge Airport",
-    "videos": []
+    "videos": [
+      {
+        "id": "LHVlziXCsOE",
+        "title": "Old Bridge Airport Livestream"
+      }
+    ]
   },
   {
     "id": "UCKqAJfYEVCPLbdgOm8QqSQg",
@@ -7391,12 +7148,7 @@
     "id": "UCLm4NMiRgEwOAwY-tapTQag",
     "handle": "@kozylemorne6102",
     "name": "Kozy Le Morne",
-    "videos": [
-      {
-        "id": "QRw5Z72Ea5Q",
-        "title": "🔴 Île Maurice / Mauritius - At Kozy Le Morne"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCLmvtLuqca56l68QCETk1QQ",
@@ -8756,10 +8508,6 @@
         "title": "Alınca Köyü Canlı Yayın"
       },
       {
-        "id": "ez5WtHuu-zU",
-        "title": "Eğrianbar Köyü Canlı Yayın Hareketli Camera"
-      },
-      {
         "id": "RFQ6DQjcDFs",
         "title": "Dereli Canlı Yayın Kamera 1"
       },
@@ -8862,10 +8610,6 @@
       {
         "id": "Q7oOR9HpjKI",
         "title": "Kızıltaş Köyü Canlı Yayın Camera 2"
-      },
-      {
-        "id": "rIpQoTZc51M",
-        "title": "Eğrianbar Köyü Canlı Yayın"
       },
       {
         "id": "VZYiycLsicU",
@@ -9522,12 +9266,7 @@
     "id": "UCUmvxPTUfflU3v_mcRNGAeg",
     "handle": "@Sv.Uspenska-Pochaevska-Lavra",
     "name": "† Свято-Успенская Почаевская Лавра",
-    "videos": [
-      {
-        "id": "y9jNRLcjXpU",
-        "title": "Пряма трансляція богослужіння † Свято-Успенська Почаївська Лавра"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCUpFHGasL2cNAo2w70vwrSQ",
@@ -10183,7 +9922,12 @@
     "id": "UCYIDC8uaWwWoYTgrSWP-_GA",
     "handle": "@SatelliteBeachLive",
     "name": "SatelliteBeachLive",
-    "videos": []
+    "videos": [
+      {
+        "id": "0bv7YxPWRdw",
+        "title": "🔴 LIVE Florida Cams | Satellite Beach Grand Canal  #satellitebeach #livestream  #florida"
+      }
+    ]
   },
   {
     "id": "UCYIYTY6_2jB145WxIYdyR1A",
@@ -10296,7 +10040,12 @@
     "id": "UCZ63kVFT7hf1K-Mx82MxFnQ",
     "handle": "@HigginsBeach",
     "name": "Higgins Beach",
-    "videos": []
+    "videos": [
+      {
+        "id": "2n2qy8dRutk",
+        "title": "SteveSeabury HigginsBeachProperties"
+      }
+    ]
   },
   {
     "id": "UCZ974tQkAeV7_l_opPHCcdg",
@@ -12533,10 +12282,6 @@
       {
         "id": "16BVRih3vHI",
         "title": "View of Beirut skyline"
-      },
-      {
-        "id": "5ay01Y2iMHQ",
-        "title": "View of Tel Aviv skyline"
       },
       {
         "id": "BOy2xDU1LC8",
@@ -15203,7 +14948,12 @@
     "id": "UCp1ojgNJ8mNWdMDsdcMRA2Q",
     "handle": "@StGeorgeTower",
     "name": "St. George Tower",
-    "videos": []
+    "videos": [
+      {
+        "id": "E1DCn9t5FYw",
+        "title": "Live NYC Brooklyn Bridge & Manhattan cam"
+      }
+    ]
   },
   {
     "id": "UCp2wwvvhIxKlh44p7tH-s_w",
@@ -15375,10 +15125,6 @@
       {
         "id": "EeCOHKWyfj0",
         "title": "LIVE 24/7 - DFW Airport (EAST side camera with East or West Tower ATC)"
-      },
-      {
-        "id": "fftwBFw5dpA",
-        "title": "LIVE 24/7 - Philadelphia International Airport (PHL)"
       }
     ]
   },
@@ -16973,7 +16719,12 @@
     "id": "UCuarPSgSklrmX2z0iA-Ua4Q",
     "handle": "@CityofRovaniemi",
     "name": "City of Rovaniemi",
-    "videos": []
+    "videos": [
+      {
+        "id": "Cp4RRAEgpeU",
+        "title": "Live @ Santa Claus Village"
+      }
+    ]
   },
   {
     "id": "UCuboS8tkqptYstvCrAtIZ6g",
@@ -17467,7 +17218,12 @@
     "id": "UCwTBv_iSPKJZ8jAeeDPJZnw",
     "handle": "@madeiraairportlive",
     "name": "Madeira Airport Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZDoly6hB0NE",
+        "title": "LIVE at Madeira Airport (LPMA) – Landings and Takeoffs"
+      }
+    ]
   },
   {
     "id": "UCwVl4_BwKI7SXN4tztuR7Fg",
@@ -18347,48 +18103,7 @@
     "id": "UCznXKvxj3U1dEQDprXBmlQA",
     "handle": "@staugustinelive",
     "name": "St. Augustine Live",
-    "videos": [
-      {
-        "id": "ZksWoEAhmTU",
-        "title": "St. George Street South | St. Augustine LIVE 24/7"
-      },
-      {
-        "id": "ORNGtJ7WB_8",
-        "title": "St. Augustine Lighthouse - LIVE 24/7"
-      },
-      {
-        "id": "0lox0s8zNcU",
-        "title": "Bridge of Lions LIVE - 24/7 - St. Augustine, Florida"
-      },
-      {
-        "id": "ZTk5cIbXH2g",
-        "title": "St. Augustine Florida Skyline | LIVE 24/7 | Hosted by NoProfileBoatLifts"
-      },
-      {
-        "id": "uLJBad4vSno",
-        "title": "Matanzas River, Lighthouse, Bridge of Lions | St. Augustine LIVE 24/7"
-      },
-      {
-        "id": "FyGb2TZB344",
-        "title": "Castillo de San Marcos Fort LIVE 24/7 | St. Augustine"
-      },
-      {
-        "id": "LHtzZf4T7xw",
-        "title": "St. Augustine Alligator Farm LIVE 24/7"
-      },
-      {
-        "id": "S8afSTXKkdw",
-        "title": "Vilano Boat Ramp LIVE 24/7 | St. Augustine, Florida"
-      },
-      {
-        "id": "FLci2xciBb4",
-        "title": "A1A Traffic Facing West | The Pub on Anastasia | St. Augustine"
-      },
-      {
-        "id": "mYbn_umeenk",
-        "title": "Vilano Pier | Live 24/7 from Beaches at Vilano | St. Augustine"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCznYV93b1V_PGy4yOPnR0mw",

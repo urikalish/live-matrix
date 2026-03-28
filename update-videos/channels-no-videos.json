@@ -48,12 +48,6 @@
     "date": "2026-03-18"
   },
   {
-    "id": "UCKiObhTepfujcMJaqZ9qzsQ",
-    "handle": "@oldbridgeairport618",
-    "name": "Old Bridge Airport",
-    "date": "2026-03-20"
-  },
-  {
     "id": "UCqM2TLKtIJlAPiWk46zyjNw",
     "handle": "@xraymarklive",
     "name": "xraymarklive",
@@ -144,12 +138,6 @@
     "date": "2026-03-27"
   },
   {
-    "id": "UC5Dy3WsfZw5AQxnamT0d0ow",
-    "handle": "@BungalowsChryssa",
-    "name": "Bungalows Chryssa",
-    "date": "2026-03-27"
-  },
-  {
     "id": "UC6q_hfBThkGdmQ5Vb4kWjWA",
     "handle": "@FlightFocus365",
     "name": "Flight Focus 365",
@@ -174,12 +162,6 @@
     "date": "2026-03-27"
   },
   {
-    "id": "UCFbd69s_b63mA7qvpnG6U8Q",
-    "handle": "@news8nowcitycam282",
-    "name": "News 8 Now City Cam",
-    "date": "2026-03-27"
-  },
-  {
     "id": "UChDKyKQ59fYz3JO2fl0Z6sg",
     "handle": "@TODAY",
     "name": "TODAY",
@@ -198,12 +180,6 @@
     "date": "2026-03-27"
   },
   {
-    "id": "UCp1ojgNJ8mNWdMDsdcMRA2Q",
-    "handle": "@StGeorgeTower",
-    "name": "St. George Tower",
-    "date": "2026-03-27"
-  },
-  {
     "id": "UCrBd0lVRjlyT-uu0fcFihUw",
     "handle": "@LiveCamTrento-Opinione",
     "name": "Live Trento H24 - Piazza Duomo",
@@ -213,18 +189,6 @@
     "id": "UCT7oADZixDIEzbUtWFNA-QA",
     "handle": "@webcamvetruse2915",
     "name": "Webcam Větruše",
-    "date": "2026-03-27"
-  },
-  {
-    "id": "UCuarPSgSklrmX2z0iA-Ua4Q",
-    "handle": "@CityofRovaniemi",
-    "name": "City of Rovaniemi",
-    "date": "2026-03-27"
-  },
-  {
-    "id": "UCwTBv_iSPKJZ8jAeeDPJZnw",
-    "handle": "@madeiraairportlive",
-    "name": "Madeira Airport Live",
     "date": "2026-03-27"
   },
   {
@@ -240,15 +204,33 @@
     "date": "2026-03-27"
   },
   {
-    "id": "UCYIDC8uaWwWoYTgrSWP-_GA",
-    "handle": "@SatelliteBeachLive",
-    "name": "SatelliteBeachLive",
-    "date": "2026-03-27"
+    "id": "UC15QFO-cdISk-4Sn5CPd78g",
+    "handle": "@niagarafallslive1566",
+    "name": "Niagara Falls Live",
+    "date": "2026-03-28"
   },
   {
-    "id": "UCZ63kVFT7hf1K-Mx82MxFnQ",
-    "handle": "@HigginsBeach",
-    "name": "Higgins Beach",
-    "date": "2026-03-27"
+    "id": "UC3rYbSIKpTUuZJNl7GmFxqA",
+    "handle": "@FairmontThePalm",
+    "name": "Fairmont Palm",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "UCLm4NMiRgEwOAwY-tapTQag",
+    "handle": "@kozylemorne6102",
+    "name": "Kozy Le Morne",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "UCUmvxPTUfflU3v_mcRNGAeg",
+    "handle": "@Sv.Uspenska-Pochaevska-Lavra",
+    "name": "† Свято-Успенская Почаевская Лавра",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "UCznXKvxj3U1dEQDprXBmlQA",
+    "handle": "@staugustinelive",
+    "name": "St. Augustine Live",
+    "date": "2026-03-28"
   }
 ]
