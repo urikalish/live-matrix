@@ -87,7 +87,16 @@
     "id": "UC-8U3VCeOEqdPJd2D77RqKw",
     "handle": "@HauloverDaily",
     "name": "Cruise Ships Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "AHckZ9rF01U",
+        "title": "🔴 LIVE Miami Rail Cam | Metrorail Transfer Station | Trains 24/7"
+      },
+      {
+        "id": "PeYZZinH1wI",
+        "title": "🔴 LIVE Port Miami Cruise Ship Departures and Arrivals | ICON of the Seas"
+      }
+    ]
   },
   {
     "id": "UC-ADcKoyBn-44UJwmatMSQQ",
@@ -126,7 +135,32 @@
     "id": "UC-HQ-oPvL148RmDxpV4jzlQ",
     "handle": "@NatureTec",
     "name": "NatureTec",
-    "videos": []
+    "videos": [
+      {
+        "id": "9_-C2d9Fy4w",
+        "title": "LIVE Kestrel Nest Box Cam - Recke (Germany)"
+      },
+      {
+        "id": "7_oAM-g1lJ0",
+        "title": "LIVE 4K Nest Box Cam - Uplengen (Lower Saxony)"
+      },
+      {
+        "id": "Cxqx17Xr9zk",
+        "title": "LIVE 4K Nest Box Cam - Recke (NRW)"
+      },
+      {
+        "id": "l0nT3wSnxEo",
+        "title": "LIVE Bird Feeder Cam (day time) & Hedgehog Feeder Cam (at night) - Uplengen"
+      },
+      {
+        "id": "t20fPDAZxCA",
+        "title": "LIVE Bird Bath Cam (Day) + Hedgehog Feeder Cam (Night)"
+      },
+      {
+        "id": "4kRzwJXaeIM",
+        "title": "LIVE 4K 60fps Bird Feeder Cam - Hedgehog & Bird Watching (3D Audio) ASMR HQ"
+      }
+    ]
   },
   {
     "id": "UC-I6QXW30NLYkW2GOMtHxew",
@@ -368,8 +402,8 @@
     "name": "AVIATION TV",
     "videos": [
       {
-        "id": "rZxEkbaNdvA",
-        "title": "🔴 LIVE 24/7 Aeroporto de Lisboa 28.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
+        "id": "-iS1N2yOaZA",
+        "title": "🔴 LIVE 24/7 Lisbon Airport 28.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
       }
     ]
   },
@@ -2608,12 +2642,7 @@
     "id": "UC83RKJs4eKHVE9v0YUyqzgg",
     "handle": "@KittenAcademy",
     "name": "Kitten Academy",
-    "videos": [
-      {
-        "id": "T4XZmMPQ9Kw",
-        "title": "Kitten Academy Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC882xzhvQ53Cva8vym_RCRA",
@@ -3370,12 +3399,7 @@
     "id": "UC9PfqU54WV-eb4Uk14De2wA",
     "handle": "@BigTrainsTVlive",
     "name": "BigTrainsTV",
-    "videos": [
-      {
-        "id": "GoFaRKaO4hM",
-        "title": "LIVE BigTrains.TV CP10 CSX River Line Bergenfield NJ"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC9SBZ5xzzCRj5HOTcP4z1iA",
@@ -4681,12 +4705,7 @@
     "id": "UCD3fPz7PdO06e8k75nIwifQ",
     "handle": "@geirangerfjordcruiseporthe535",
     "name": "Geirangerfjord cruise port, Hellesylt",
-    "videos": [
-      {
-        "id": "S4aJlRY39fo",
-        "title": "Geirangerfjord cruise port, Hellesylt"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDAHA3f1RMYenm_lFgqjDXQ",
@@ -5217,12 +5236,7 @@
     "id": "UCF1Qy2zp3aejeLzTewzV4lA",
     "handle": "@sandiegorowingclub",
     "name": "San Diego Rowing Club",
-    "videos": [
-      {
-        "id": "QfNF1YeBQcI",
-        "title": "SDRC Mission Bay Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCF2ZhA1YhnRaf-WdCiBuIyQ",
@@ -8688,12 +8702,7 @@
     "id": "UCRapzDHUryKzcb9rJJGfxqg",
     "handle": "@whirligigwilson1724",
     "name": "Whirligig Wilson",
-    "videos": [
-      {
-        "id": "maJessq4rMU",
-        "title": "Wilson NC Whirligig Park"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCRiY_FP2PZHeWWuIsMKyxGA",
@@ -9766,12 +9775,7 @@
     "id": "UCXhEeNbpyzOVa_bsAb0jQeA",
     "handle": "@RiverCityBoatSales",
     "name": "RiverCityBoatSales",
-    "videos": [
-      {
-        "id": "Y3cM4bK01JE",
-        "title": "Boones Ferry Marina Boat Ramp Webcam | River City Boat Sales"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXj6ROnZkzqgq6eYeoflO6A",
@@ -9788,12 +9792,7 @@
     "id": "UCXtGlMSjKYfGoPggHcAZYbQ",
     "handle": "@ScottishWildlifeTrustvideos",
     "name": "Scottish Wildlife Trust",
-    "videos": [
-      {
-        "id": "gldjEeZmEsA",
-        "title": "Live osprey nest camera at Loch of the Lowes Wildlife Reserve"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXtzCdsTkuBWIrOSuMNvANQ",
@@ -10052,12 +10051,7 @@
     "id": "UCZ63kVFT7hf1K-Mx82MxFnQ",
     "handle": "@HigginsBeach",
     "name": "Higgins Beach",
-    "videos": [
-      {
-        "id": "2n2qy8dRutk",
-        "title": "SteveSeabury HigginsBeachProperties"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCZ974tQkAeV7_l_opPHCcdg",
@@ -12038,7 +12032,28 @@
     "id": "UCgGmACGEil_QEVQOKOBPJrg",
     "handle": "@SquirrelNestLive",
     "name": "SquirrelNest Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "PhVPVGhmz0I",
+        "title": "🔴24/7 baby squirrels born Feb 15, 2026 to Lily in Nest1 / Nest9 babies born Feb 16 SqNest.Live-6of6"
+      },
+      {
+        "id": "OM29Xyce734",
+        "title": "🔴Nest 3 🌹 baby squirrels born February 15, 2026 SqNest.Live-24/7 3of7🇺🇸🎗🇺🇦"
+      },
+      {
+        "id": "pG93l04d08M",
+        "title": "SquirrelNest.Live 🔴24/7 200 squirrel cameras real-time live"
+      },
+      {
+        "id": "PEX69E7-h3Y",
+        "title": "🔴24/7 Nest 5: 3 babies born Feb 16, 2026, Nest 2: 4 youngsters born in 2025 SqNest.Live-1of6: 🇺🇸🎗🇺🇦"
+      },
+      {
+        "id": "_1y9nfb15fM",
+        "title": "🔴24/7 Squirrel Wonderland Live - SqNest.Live-5of6 🇺🇸🎗🇺🇦"
+      }
+    ]
   },
   {
     "id": "UCgHSWWpejV6K7hz6Q08fJpQ",
@@ -12458,7 +12473,44 @@
     "id": "UCi1vQx48j_nfrMg6XH5PItQ",
     "handle": "@climabcbrazil",
     "name": "CLIMA BC Brazil",
-    "videos": []
+    "videos": [
+      {
+        "id": "cJ1fFGERMwc",
+        "title": "Balneário Camboriú ao vivo - Central"
+      },
+      {
+        "id": "ZyOEQrdzh34",
+        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
+      },
+      {
+        "id": "6DCKvZedIiM",
+        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
+      },
+      {
+        "id": "IEn3ePn_d3E",
+        "title": "Balneário Camboriú ao vivo - Central"
+      },
+      {
+        "id": "zF_RKoQCK-c",
+        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
+      },
+      {
+        "id": "5SMXLrkkWPU",
+        "title": "Balneário Camboriú ao vivo - Central"
+      },
+      {
+        "id": "PcbhQFs529w",
+        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
+      },
+      {
+        "id": "YF2HsODb32U",
+        "title": "Balneário Camboriú ao vivo - Avenida Brasil"
+      },
+      {
+        "id": "YN-Zbzhdee8",
+        "title": "Balneário Camboriú ao vivo"
+      }
+    ]
   },
   {
     "id": "UCi9wnYP7UBrl7Tnfi3LLkpw",
@@ -12621,12 +12673,7 @@
     "id": "UCifCCRBxgrlRscFtQ6xWlaQ",
     "handle": "@BanyanTreeSamui",
     "name": "Banyan Tree Samui",
-    "videos": [
-      {
-        "id": "wP6hpWgPJ98",
-        "title": "Banyan Tree Samui Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCiijK6RLOIB3FqrLs-uBphg",
@@ -13016,24 +13063,7 @@
     "id": "UCjvpBcOLMBqktt0KJxjtJCg",
     "handle": "@BANTV",
     "name": "BANTV",
-    "videos": [
-      {
-        "id": "LfSlCi_odQ0",
-        "title": "流星群観測＆真面目にUFO観察するライブ from琵琶湖畔　星空ライブ"
-      },
-      {
-        "id": "OdCjsSj6PjQ",
-        "title": "現在の琵琶湖の様子【滋賀】【生配信】【表】ライブカメラ【4K映像】"
-      },
-      {
-        "id": "4vee_x_sQuI",
-        "title": "【琵琶湖湖畔・滋賀】現在の砂浜の様子　LIVE生放送"
-      },
-      {
-        "id": "bZHusX-v7NI",
-        "title": "現在の大津港の様子 ライブカメラ　【生配信】【裏】 滋賀県 琵琶湖 【LIVE CAMERA】【琵琶湖花噴水】"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCjvtkjWwpnhgGv2nutFFr-A",
@@ -15099,7 +15129,20 @@
     "id": "UCpI9GLMAgiGTKyFnsmbptuQ",
     "handle": "@BeakerHoneydew_MuppetLabs",
     "name": "Beaker &amp; Honeydew",
-    "videos": []
+    "videos": [
+      {
+        "id": "BMV67ku8i9A",
+        "title": "LIVE 24/7 - St. Louis Lambert International Airport (STL)"
+      },
+      {
+        "id": "YHWkTKQqWzw",
+        "title": "LIVE 24/7 - SEA-TAC Airport (SEA)"
+      },
+      {
+        "id": "EeCOHKWyfj0",
+        "title": "LIVE 24/7 - DFW Airport (EAST side camera with East or West Tower ATC)"
+      }
+    ]
   },
   {
     "id": "UCpJ4goz4R_g2GqQHfixq3Xw",
@@ -15733,7 +15776,7 @@
     "name": "Hawick TV",
     "videos": [
       {
-        "id": "dk-peAInRkg",
+        "id": "ErVKrDMOcQQ",
         "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
       }
     ]
@@ -17596,7 +17639,12 @@
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
     "handle": "@flamingf.1562",
     "name": "Flaming Fire",
-    "videos": []
+    "videos": [
+      {
+        "id": "rBwYQY_4Kug",
+        "title": "Stockholm city live cam 20260328"
+      }
+    ]
   },
   {
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
@@ -18071,59 +18119,13 @@
     "id": "UCznXKvxj3U1dEQDprXBmlQA",
     "handle": "@staugustinelive",
     "name": "St. Augustine Live",
-    "videos": [
-      {
-        "id": "ZksWoEAhmTU",
-        "title": "St. George Street South | St. Augustine LIVE 24/7"
-      },
-      {
-        "id": "ORNGtJ7WB_8",
-        "title": "St. Augustine Lighthouse - LIVE 24/7"
-      },
-      {
-        "id": "0lox0s8zNcU",
-        "title": "Bridge of Lions LIVE - 24/7 - St. Augustine, Florida"
-      },
-      {
-        "id": "ZTk5cIbXH2g",
-        "title": "St. Augustine Florida Skyline | LIVE 24/7 | Hosted by NoProfileBoatLifts"
-      },
-      {
-        "id": "uLJBad4vSno",
-        "title": "Matanzas River, Lighthouse, Bridge of Lions | St. Augustine LIVE 24/7"
-      },
-      {
-        "id": "FyGb2TZB344",
-        "title": "Castillo de San Marcos Fort LIVE 24/7 | St. Augustine"
-      },
-      {
-        "id": "LHtzZf4T7xw",
-        "title": "St. Augustine Alligator Farm LIVE 24/7"
-      },
-      {
-        "id": "S8afSTXKkdw",
-        "title": "Vilano Boat Ramp LIVE 24/7 | St. Augustine, Florida"
-      },
-      {
-        "id": "FLci2xciBb4",
-        "title": "A1A Traffic Facing West | The Pub on Anastasia | St. Augustine"
-      },
-      {
-        "id": "mYbn_umeenk",
-        "title": "Vilano Pier | Live 24/7 from Beaches at Vilano | St. Augustine"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCznYV93b1V_PGy4yOPnR0mw",
     "handle": "@tarquinburrows2649",
     "name": "Tarquin Burrows",
-    "videos": [
-      {
-        "id": "oqcG1gMs2U8",
-        "title": "Nahoon Beach Live Streaming"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCzofN-7yLDKoPmh37yqMpiA",
