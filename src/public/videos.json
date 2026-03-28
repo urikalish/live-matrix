@@ -87,7 +87,16 @@
     "id": "UC-8U3VCeOEqdPJd2D77RqKw",
     "handle": "@HauloverDaily",
     "name": "Cruise Ships Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "AHckZ9rF01U",
+        "title": "🔴 LIVE Miami Rail Cam | Metrorail Transfer Station | Trains 24/7"
+      },
+      {
+        "id": "PeYZZinH1wI",
+        "title": "🔴 LIVE Port Miami Cruise Ship Departures and Arrivals | ICON of the Seas"
+      }
+    ]
   },
   {
     "id": "UC-ADcKoyBn-44UJwmatMSQQ",
@@ -2447,12 +2456,7 @@
     "id": "UC72A-BqgiZTXLkRQ_F9aoGw",
     "handle": "@LekeitiokoUdala",
     "name": "Lekeitioko Udala",
-    "videos": [
-      {
-        "id": "KTvzATgyRik",
-        "title": "Lekeitioko Udala"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC7KUFEpqlSDLWewaBjr6a8w",
@@ -4480,7 +4484,16 @@
     "id": "UCBekjy3cWsLpEjibeFYecLQ",
     "handle": "@紅樹林有線電視-h7k",
     "name": "紅樹林有線電視",
-    "videos": []
+    "videos": [
+      {
+        "id": "9rcEL_yWMk4",
+        "title": "新北市淡水區景點(即時影像) 淡水渡船頭 直播 #淡水河 #夕陽 #觀音山 #台北港 #淡水老街河岸 #淡水渡し船乗り場  Du Chuan Tou, Tamsui"
+      },
+      {
+        "id": "yn_8QwCWsyI",
+        "title": "新北市淡水區 #即時路況 車流直播---#淡水竹圍雙向 #紅樹林往台北 #水源街二段與淡金路口"
+      }
+    ]
   },
   {
     "id": "UCBjzM0ZW12Z8bggEORo8oBQ",
@@ -6641,10 +6654,6 @@
     "name": "Belle Imagery",
     "videos": [
       {
-        "id": "m7rG6Xub9fQ",
-        "title": "Isolation Cavaliers vs Haberdashers Prep"
-      },
-      {
         "id": "FV6FjrNDfXI",
         "title": "HM Novelties Cruise Ship Cam - Barbados Port - (24 HR Live)"
       },
@@ -6955,104 +6964,7 @@
     "id": "UCLMkrtuGU0QL1k7ne9BTWNg",
     "handle": "@OregonStateLive",
     "name": "Oregon State University - Live",
-    "videos": [
-      {
-        "id": "DD4t-RuDTEE",
-        "title": "Oregon State University - Student Legacy Park - East"
-      },
-      {
-        "id": "bU20Qq3yaPs",
-        "title": "OSU Cascades - Student Health and Recreation Center South"
-      },
-      {
-        "id": "XIVu5vM4xXE",
-        "title": "OSU Cascades - Land Development"
-      },
-      {
-        "id": "udjc08GmhH0",
-        "title": "OSU Cascades - Student Health & Recreation Center"
-      },
-      {
-        "id": "UwDfHRUOuBs",
-        "title": "OSU Cascades - Land Development"
-      },
-      {
-        "id": "XA_v5e6b3DU",
-        "title": "Oregon State University - Housing Building Project"
-      },
-      {
-        "id": "VgbFzvqiLNk",
-        "title": "Oregon State University - Parker Plaza"
-      },
-      {
-        "id": "Z5skON2yzcI",
-        "title": "Oregon State University - Memorial Union"
-      },
-      {
-        "id": "7h2GbXuRVX0",
-        "title": "Oregon State University - Valley Library Quad"
-      },
-      {
-        "id": "1KZdTB8vPFA",
-        "title": "Oregon State University - Huang Collaborative Innovation Complex 1"
-      },
-      {
-        "id": "NCeE-GvHurg",
-        "title": "Oregon State University - Huang Collaborative Innovation Complex 2"
-      },
-      {
-        "id": "Xb7RW25WR-Y",
-        "title": "Oregon State University - Valley Library 3D Printers"
-      },
-      {
-        "id": "t5Kov6TZC3I",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 8"
-      },
-      {
-        "id": "_PBGCHIQN2Q",
-        "title": "OSU Cascades - Student Success Center"
-      },
-      {
-        "id": "qmZpIYagDN4",
-        "title": "OSU Cascades - Innovation District"
-      },
-      {
-        "id": "RzgsQQxsNqc",
-        "title": "Oregon State University - Hatfield Marine Science Center - Yaquina Bay"
-      },
-      {
-        "id": "I7tSvjq7WE8",
-        "title": "Oregon State University Ship Operations - Pier Construction"
-      },
-      {
-        "id": "eskWkb-nQuU",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 6"
-      },
-      {
-        "id": "dVNjuXkmNk8",
-        "title": "Oregon State University - Cascades - Bruckner Courtyard"
-      },
-      {
-        "id": "Nq5sV4qUCJg",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 4"
-      },
-      {
-        "id": "Rr8OuJ4cibs",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 3"
-      },
-      {
-        "id": "rcfNCKfTjpI",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 2"
-      },
-      {
-        "id": "zKXPw48ohHA",
-        "title": "Regional Class Research Vessel (RCRV) - Cam 1"
-      },
-      {
-        "id": "e9LYewJGQlk",
-        "title": "Oregon State University - PRAx"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCLOLrH5D-s7SxemqXgtoAgw",
@@ -8907,12 +8819,7 @@
     "id": "UCSFrrg7k1zpt5JvQ96KjRqg",
     "handle": "@SnooksBaysideKeyLargo",
     "name": "Snook&#39;s Bayside Restaurant &amp; Grand Tiki",
-    "videos": [
-      {
-        "id": "tIYUOWF1N4s",
-        "title": "🔴 LIVE Snook's Bayside Key Largo Florida"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCSGpRUfc4CaBpZlaXA6tr0w",
@@ -10070,20 +9977,7 @@
     "id": "UCZ974tQkAeV7_l_opPHCcdg",
     "handle": "@7k4jpj",
     "name": "The Dramatic 中央本線。",
-    "videos": [
-      {
-        "id": "BkzJ70_p-W0",
-        "title": "JR 中央本線ライブカメラ② （春日居町 ⇔ 石和温泉）下り甲府、松本方面【3月】"
-      },
-      {
-        "id": "N2nAnd_bb8Y",
-        "title": "JR 中央本線ライブカメラ③（春日居町 ⇔ 石和温泉）熊野権現踏切【3月】"
-      },
-      {
-        "id": "RlU6BRXBP9c",
-        "title": "JR 中央本線ライブカメラ①（春日居町 ⇔ 石和温泉）上り八王子、新宿方向【山梨県笛吹市】"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCZGfc2AjPX3DQ8I8lhPIDcg",
@@ -10363,7 +10257,48 @@
     "id": "UC_cmEauzsnJ4trDXLiIug1Q",
     "handle": "@SOT",
     "name": "STREETS OF THAILAND",
-    "videos": []
+    "videos": [
+      {
+        "id": "cnJri1YXJUI",
+        "title": "Banyan Food Market 🔴 Koh Samui | Thailand | Live Street cam"
+      },
+      {
+        "id": "UJpFtzKug7M",
+        "title": "Royal Muang Samui Villas 🔴 Choeng Mon beach in Koh Samui - Livestream on the beach"
+      },
+      {
+        "id": "oyGHEnCrQ-o",
+        "title": "Annie Sweetery & Eatery | Taling Nam | Koh Samui | Thailand"
+      },
+      {
+        "id": "Kush_ZxTy2c",
+        "title": "Black Pearl | Lamai beach | Koh Samui | Thailand"
+      },
+      {
+        "id": "xU-jVYfA9x0",
+        "title": "Ida B Domain | Lipa Noi | Koh Samui | Thailand"
+      },
+      {
+        "id": "Wi9dZmunD2o",
+        "title": "Munchies Pizza & Kebab 🔴 Chaweng beach | Koh Samui | Thailand"
+      },
+      {
+        "id": "Sm9y8G0TLXI",
+        "title": "No Stress Restaurant | Lamai | Koh Samui | Thailand | Livecam on the beach"
+      },
+      {
+        "id": "gmTFQjI_yyo",
+        "title": "Karma Two Palms Beach Club | Bang Po | Koh Samui | Thailand"
+      },
+      {
+        "id": "DoPsVBjJYw4",
+        "title": "Teddy Weed beach club | Lamai | Koh Samui | Thailand | Live on the beach"
+      },
+      {
+        "id": "1sJ5KR7n85E",
+        "title": "The Deck Beach Club 🔴 Bang Rak beach - Koh Samui Live cam"
+      }
+    ]
   },
   {
     "id": "UC_dQTOYTn6r5Kij3z0_SP6Q",
@@ -10413,7 +10348,12 @@
     "id": "UCa1XvGj-yhiLLC5fVFKfXJQ",
     "handle": "@BeachcomberStAugustine",
     "name": "The Beachcomber Restaurant St. Augustine",
-    "videos": []
+    "videos": [
+      {
+        "id": "WPAZfuA11dg",
+        "title": "The Beachcomber Restaurant St. Augustine Live Stream"
+      }
+    ]
   },
   {
     "id": "UCa6JQgXH9u3ce7UNMv9d-ig",
@@ -10805,12 +10745,7 @@
     "id": "UCbgxtV72D8jMhzsYeK7BwHA",
     "handle": "@ctc1111",
     "name": "ctc1111",
-    "videos": [
-      {
-        "id": "hYnWDuvXXvc",
-        "title": "Live Roof Camera - Merrimac Mill Office Building - Newburyport, MA"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCbn5eHDjwmPC2K9RG8P0i_A",
@@ -11181,16 +11116,7 @@
     "id": "UCdHxsCH18XWh4RMt9oDHMyg",
     "handle": "@KevinLandsbergen",
     "name": "Kevin Landsbergen",
-    "videos": [
-      {
-        "id": "whlnez2Mmpg",
-        "title": "Renesse aan Zee | Haven van Renesse"
-      },
-      {
-        "id": "EH6GNSEvmQE",
-        "title": "Renesse aan Zee | Zuid Zuid West"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCdLE2nyW8fg3hh9Pogq824g",
@@ -11436,56 +11362,7 @@
     "id": "UCfGR-qjLY3WCk8JSMYba3Gw",
     "handle": "@dogmode9609",
     "name": "Dog Mode",
-    "videos": [
-      {
-        "id": "cdj2v6ignuE",
-        "title": "DogMode: Aquatic Center- Pool View"
-      },
-      {
-        "id": "N1A5ISHRVtU",
-        "title": "DogMode: Small Dogs Bedroom"
-      },
-      {
-        "id": "mVvGGqQGij8",
-        "title": "DogMode: Senior Inside"
-      },
-      {
-        "id": "BPMtt1XPDJw",
-        "title": "DogMode: Small Dogs Outside"
-      },
-      {
-        "id": "H5AM65Y7Tr0",
-        "title": "DogMode: Small Dogs Inside #1"
-      },
-      {
-        "id": "xeKutTxVOGY",
-        "title": "DogMode: Small Dogs Inside #2"
-      },
-      {
-        "id": "tdxhCpHDkWg",
-        "title": "DogMode: Senior Outside"
-      },
-      {
-        "id": "PlQPokAlNH0",
-        "title": "DogMode: Aquatic Center- Dock View"
-      },
-      {
-        "id": "K7QejokBxWg",
-        "title": "DogMode: South Inside"
-      },
-      {
-        "id": "cZ53cGESXJI",
-        "title": "DogMode: North Outside"
-      },
-      {
-        "id": "1suAgaip2GY",
-        "title": "DogMode: North Inside"
-      },
-      {
-        "id": "JV00nuu8lK4",
-        "title": "DogMode: South Outside"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCfHv7aRXqCYcNsqKGrQJUIQ",
@@ -12489,12 +12366,7 @@
     "id": "UCi9wnYP7UBrl7Tnfi3LLkpw",
     "handle": "@yiannisakkos",
     "name": "Yianni&#39;s Channel",
-    "videos": [
-      {
-        "id": "z1-X-kya4bU",
-        "title": "Corfu / Kerkyra, Greece LIVE"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCiGOIXjFqy5_mUNxQNOMfHw",
@@ -15791,12 +15663,7 @@
     "id": "UCqhDq_fKTSgc8LZCa2gGMEg",
     "handle": "@GavinBHeffernan",
     "name": "Gavin Heffernan Timelapse Travel ",
-    "videos": [
-      {
-        "id": "hJmgVaFeWMM",
-        "title": "🌲 Yosemite Live Webcams | Half Dome, El Capitan,  High Sierra 🌄 Relaxing Nature Escape"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCr5Z4Oi3UFwkM6sLPFDC6QA",
@@ -16228,7 +16095,84 @@
     "id": "UCsy6UOjk8q7Ajq9yQ7iDAbA",
     "handle": "@GiGAeyesLiveTV",
     "name": "GiGAeyes Live TV",
-    "videos": []
+    "videos": [
+      {
+        "id": "dRXKooC6tTM",
+        "title": "서울실시간 광화문대로 Live Cam I \"Gwanghwamun Boulevard\" , Seoul, Korea I 서울광화문 광화문광장 서울여행 서울라이브"
+      },
+      {
+        "id": "f-77scE-PVw",
+        "title": "서울실시간 석촌호수라이브 Live Cam I Seoul, \"Seokchon Lake\", Seoul,Korea I 서울관광지 서울호수 잠실롯데몰 송리단길 잠실소피텔"
+      },
+      {
+        "id": "n7myxHpfPpo",
+        "title": "수원실시간 광교호수공원라이브 Live Cam I \"Gwanggyo Lake Park\",  Suwon,KoreaI 수원라이브 광교호수공원 수원신도시 광교호수공원야경 광교앨리웨이"
+      },
+      {
+        "id": "pzKNbB3WjpE",
+        "title": "대전실시간 대전라이브 대전엑스포과학공원 한빛광장 LiveCam I \"ExpoSciencePark,Hanbit Square\",Daejeon,Korea I 대전관광공사 대전여행"
+      },
+      {
+        "id": "80OT9PgWG-k",
+        "title": "속초실시간 속초해수욕장 Live Cam I \"Sokcho Beach\", Gangwondo,Korea I 여름휴가 해변 밤바다 바다경치 강원도여행 오션뷰 속초아이"
+      },
+      {
+        "id": "tQ9tse8cTy4",
+        "title": "부산실시간 해운대송정해수욕장 Live Cam l \"Songjeong beach\", Busan,Korea l 서핑파도 부산파도실시간 겨울바다 해운대서핑 부산바다 부산여행 부산날씨"
+      },
+      {
+        "id": "G3392hBJzG8",
+        "title": "분당실시간 분당KT사옥뷰 라이브 Live Cam I \"KT office building\", Bundang,Korea I 분당KT사옥 성남시 분당 탄천 한강 탄천라이브"
+      },
+      {
+        "id": "2ZB99O10bIM",
+        "title": "서울실시간 DDP라이브 Live Cam I \"Dongdaemun design Plaza\", Seoul, Korea I 동대문디자인플라자 동대문사입 서울여행명소 동대문가볼만한곳"
+      },
+      {
+        "id": "hYGGGLxyB9A",
+        "title": "서울실시간 롯데월드타워라이브  Live Cam I \"LotteWorldTower\", Seoul, Korea I 잠실롯데월드타워 롯데월드타워 전망대 서울sky"
+      },
+      {
+        "id": "fWAYIe5-C4o",
+        "title": "부산실시간 광안대교 Live Cam l \"Gwangandaegyo Bridge\", Busan,Korea l 부산야경뷰 광안리해변 부산바다 바다라이브 한국바다 Oceanview"
+      },
+      {
+        "id": "009kOq0x4ZI",
+        "title": "강릉실시간 강문해변 Live Cam I \"Gangmoon beach\", Gangwondo, Korea I 강릉바다 바다실시간 여행지 강원도일출 강릉일출"
+      },
+      {
+        "id": "jTQjbPOwv24",
+        "title": "포항실시간 호미곶광장라이브 Live Cam I \"Homigot Sunrise Square\", Pohang,Korea I 포항호미곶해맞이광장 포항일출 포항바다 포항호미곶일출 상생의손"
+      },
+      {
+        "id": "DSgn-lTHJzM",
+        "title": "서울실시간 서울역광장 Live Cam I \"Seoul Station Plaza\". Seoul,Korea I 서울역 서울여행 서울광장 서울시 SeoulStation ソウル駅広場"
+      },
+      {
+        "id": "1_DTr0zhNOc",
+        "title": "서울실시간 한강라이브 서강대교 Live Cam I \"SeogangBridge\",Seoul,Korea I SeoulHanGangLive ソウル漢江ライブ 首尔汉江现场演出 한강라이브"
+      },
+      {
+        "id": "hWyByX9fY2g",
+        "title": "서울실시간 마포대교 Live Cam I \"Mapo Bridge\",Seoul,Korea I SeoulHanGangLive 서울야경SeoulNightView ソウルの夜景"
+      },
+      {
+        "id": "1AUCJbyKoMo",
+        "title": "제주도실시간 성산일출봉라이브 Live Cam I \"Seongsan Ilchulbong\", Jejudo,korea I SeongsanSunrisePark 济州岛城山日出峰 백색소음"
+      },
+      {
+        "id": "VBlN0MGqyz4",
+        "title": "서울실시간 경복궁 Live Cam I \"Gyeongbokgung\", Seoul, Korea I 광화문 궁 けいふくきゅう 景福宫 서울관광 首爾風景 한국"
+      },
+      {
+        "id": "JIQPCfb9Qs0",
+        "title": "서울실시간 롯데월드라이브 Live Cam I \"Lotte World\", Seoul,Korea I 서울라이브 乐天世界 ロッテワールド롯데월드실시간 롯데월드혼잡도 SeoulLive"
+      },
+      {
+        "id": "ZopiySgQjsc",
+        "title": "서울실시간 한강라이브 잠실대교 Live Cam I \"Jamsil Bridge\" Seoul,korea I SeoulHanGangLive ソウル漢江ライブ 首尔汉江现场演出"
+      }
+    ]
   },
   {
     "id": "UCsyyRhCqrvBInUQYTNxL6lw",
@@ -16306,7 +16250,12 @@
     "id": "UCtUDoNuFU5NPWJlMfPHKoZw",
     "handle": "@CommanderCamera-qv3xl",
     "name": "Gateway Subaru Camera at The Commander Hotel",
-    "videos": []
+    "videos": [
+      {
+        "id": "zCEiot7sEWY",
+        "title": "Gateway Subaru Camera at The Commander Hotel"
+      }
+    ]
   },
   {
     "id": "UCtUyw9nTFtCCg-RPA4c8cDg",
@@ -17653,12 +17602,7 @@
     "id": "UCy8rlPU5XOFxn2nk5VUpaeA",
     "handle": "@confederationbridge5244",
     "name": "Confederation Bridge",
-    "videos": [
-      {
-        "id": "wqI7SgP_E-g",
-        "title": "Confederation Bridge Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCy9ww22FuUlXd0c6B8INJVQ",
