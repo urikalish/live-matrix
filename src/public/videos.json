@@ -653,12 +653,7 @@
     "id": "UC18wIshJBimh3cAVbsxnkqg",
     "handle": "@haurakigulfweatherlivewebcam",
     "name": "Hauraki Gulf Weather Live Webcam",
-    "videos": [
-      {
-        "id": "CGIFDalU84U",
-        "title": "Hauraki Gulf Weather live stream (HaurakiGulfWeather.com)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC19vhjk8B1TfPQylbrCQnQg",
@@ -1432,12 +1427,7 @@
     "id": "UC3W9fTgytTiODxqCS0N_J4w",
     "handle": "@gemeente_elburg",
     "name": "Gemeente Elburg",
-    "videos": [
-      {
-        "id": "vB5GFU9Wfnk",
-        "title": "Livestream Gemeente Elburg"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC3c-pudL55WWFxl89wTH1NA",
@@ -2298,68 +2288,7 @@
     "id": "UC6OFMtjlgAOAq5kJwmt-lpA",
     "handle": "@kipsterfarm",
     "name": "Kipster Farm",
-    "videos": [
-      {
-        "id": "p727db7icUc",
-        "title": "Kipster Cam 10 USA"
-      },
-      {
-        "id": "Bf3N9prfj-4",
-        "title": "Kipster Cam 6 USA"
-      },
-      {
-        "id": "whtF4hdV1l8",
-        "title": "Kipster Cam 5 USA"
-      },
-      {
-        "id": "VzvMK1mAkXc",
-        "title": "Kipster Cam 4 USA"
-      },
-      {
-        "id": "Bh6hjP_q_Wk",
-        "title": "Kipster Cam 3 USA"
-      },
-      {
-        "id": "6LsPu2xXpyg",
-        "title": "Kipster Cam 2 USA"
-      },
-      {
-        "id": "oF_LFMh5U24",
-        "title": "Kipster Cam 1 USA"
-      },
-      {
-        "id": "mWSu1p7NqPQ",
-        "title": "Kipster Cam 7 USA"
-      },
-      {
-        "id": "WapNRaX1bSY",
-        "title": "Kipster Cam 2 NL"
-      },
-      {
-        "id": "87c8UTQacO4",
-        "title": "Kipster Cam 7 NL"
-      },
-      {
-        "id": "VBGRLnt3NwM",
-        "title": "Kipster Cam 6 NL"
-      },
-      {
-        "id": "d4V5CQZ2IYQ",
-        "title": "Kipster Cam 5 NL"
-      },
-      {
-        "id": "8EWk2xAz7vE",
-        "title": "Kipster Cam 4 NL"
-      },
-      {
-        "id": "2m92pWdTYdg",
-        "title": "Kipster Cam 3 NL"
-      },
-      {
-        "id": "7alF6sU4G9o",
-        "title": "Kipster Cam 1 NL"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC6QxB4cUz5IrWYc7MmPsCFQ",
@@ -6854,14 +6783,9 @@
   },
   {
     "id": "UCKGyGK964U4Yd71WqBkvImA",
-    "handle": "@derbycomplex",
-    "name": "World Championship Derby Complex",
-    "videos": [
-      {
-        "id": "cHGcqTdMf1c",
-        "title": "World Championship Derby Complex Live Stream"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCKO7Og-r4lviwFcaXUNDNLA",
@@ -8308,7 +8232,12 @@
     "id": "UCQ67X9KtVFMo2h1a1AMGZZQ",
     "handle": "@EinbeckerMorgenpostDe1810",
     "name": "Einbecker Morgenpost",
-    "videos": []
+    "videos": [
+      {
+        "id": "71Yer9LojaU",
+        "title": "Einbecker Morgenpost - Webcam"
+      }
+    ]
   },
   {
     "id": "UCQJE3qm7Sjc5-JXAYjAfkrw",
@@ -11143,7 +11072,12 @@
     "id": "UCcCXppxPeV4-xBKIwZXCQMQ",
     "handle": "@wahoobaypompano",
     "name": "Wahoo Bay",
-    "videos": []
+    "videos": [
+      {
+        "id": "oBTGY6Ax870",
+        "title": "Wahoo Bay Underwater Camera"
+      }
+    ]
   },
   {
     "id": "UCcDDEzMRly4_FRH3LxOpDNQ",
@@ -14055,44 +13989,7 @@
     "id": "UCmP2ra7DF80Yb1cy0HW3gxg",
     "handle": "@WebCamNL_LIVE1",
     "name": "WebCam NL",
-    "videos": [
-      {
-        "id": "UZzDO7gQuNk",
-        "title": "WebCam.NL | sjoerd-ameland.nl/webcam | live ultraHD camera Ameland. (4K)"
-      },
-      {
-        "id": "fBvBzM1dfuY",
-        "title": "WebCam.NL | FortPannerden.EU | live FULLHD PTZ camera Doornenburg."
-      },
-      {
-        "id": "qhFgy074QOM",
-        "title": "WebCam.NL | Waalstrand.NL/nl/webcam | HD PTZ camera camping Waalstrand, Gendt."
-      },
-      {
-        "id": "naVWFv9HIho",
-        "title": "WebCam.NL | vinkmotorsport.com | live FULL HD camera."
-      },
-      {
-        "id": "OXfVcE-3uq4",
-        "title": "WebCam.NL | hermesdvs.nl | live FULL HD camera."
-      },
-      {
-        "id": "3gTHiUWrCAE",
-        "title": "WebCam.NL | Sixhaven.NL | live camera. (1440p)"
-      },
-      {
-        "id": "34tOlrk7z4M",
-        "title": "WebCam.NL | www.badhuys.com | live HD camera Vlieland."
-      },
-      {
-        "id": "pOL0u6K4wLI",
-        "title": "WebCam.NL | Charme.NL | live ultraHD camera. (4K)"
-      },
-      {
-        "id": "H9Kruj_mHp8",
-        "title": "WebCam.NL | befairtennis.nl | HD Pan Tilt Zoom camera."
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCmSsdXm7F8CWlOODXSzANsg",
@@ -15367,7 +15264,12 @@
     "id": "UCpYmJpK_TSk8imQsZ8A9LNA",
     "handle": "@Bushtops",
     "name": "Bushtops Safaris",
-    "videos": []
+    "videos": [
+      {
+        "id": "xXZqU5vnEug",
+        "title": "Live Safari - Masai Mara, Kenya"
+      }
+    ]
   },
   {
     "id": "UCpcQw8euHeDXiI7yJAvNzpQ",
@@ -16829,20 +16731,7 @@
     "id": "UCuTaHTWV4TjZE9r8Vjcfaog",
     "handle": "@247SeoulLiveCam",
     "name": "서울 한강 라이브 247 Seoul Live Cam",
-    "videos": [
-      {
-        "id": "eKlMI70C53U",
-        "title": "🛑남산 음악 방송 Music Box with Seoul N TOWER Han River Boat 보트"
-      },
-      {
-        "id": "IUhW_gzRleI",
-        "title": "🛑서울 한강 라이브 보트 반포대교 분수쇼 Seoul Banpo Grand Bridge Fountain Live LoFi🛑"
-      },
-      {
-        "id": "m0bJROup7iE",
-        "title": "🛑서울 한강 라이브 실시간  한강공원 올림픽대로 반포대교 분수쇼 Live Seoul Han River Park Floating Island Fountain Show🛑"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCuUN9emeGbnhV-UrrSEQ8mA",
@@ -17812,12 +17701,7 @@
     "id": "UCxd6_Ql2p4OoSXbKZGP0bmg",
     "handle": "@grit805",
     "name": "GRIT",
-    "videos": [
-      {
-        "id": "1XXf9K3a0Us",
-        "title": "Campus Point Surf Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
