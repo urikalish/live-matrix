@@ -293,12 +293,7 @@
     "id": "UC-dGHuK8OcC_WIWvNzxysag",
     "handle": "@LiveCamNatal",
     "name": "WebcamNatal",
-    "videos": [
-      {
-        "id": "DTW7IgU2gdk",
-        "title": "PRAIA DE PONTA NEGRA AO VIVO! NATAL-RN / BRASIL - LIVE CAM NATAL"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-jBJkLN89AlQp6eeCNnnWg",
@@ -653,12 +648,7 @@
     "id": "UC18wIshJBimh3cAVbsxnkqg",
     "handle": "@haurakigulfweatherlivewebcam",
     "name": "Hauraki Gulf Weather Live Webcam",
-    "videos": [
-      {
-        "id": "CGIFDalU84U",
-        "title": "Hauraki Gulf Weather live stream (HaurakiGulfWeather.com)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC19vhjk8B1TfPQylbrCQnQg",
@@ -1316,7 +1306,16 @@
     "id": "UC3j2hR5zFDLw5He4n4J-BbA",
     "handle": "@valfiorentinalive",
     "name": "Val Fiorentina Dolomites Italy",
-    "videos": []
+    "videos": [
+      {
+        "id": "pEcU8ZwDuoM",
+        "title": "Webcam Monte Fertazza Dolomiti - Ristoro Belvedere - Selva di Cadore - Italy"
+      },
+      {
+        "id": "0006zDOzcPM",
+        "title": "LiveCam Val Fiorentina - Ski Civetta - Selva di Cadore - Dolomiti Italy"
+      }
+    ]
   },
   {
     "id": "UC3ppRbUdj-XrSIn-6YHGP3w",
@@ -2059,8 +2058,8 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "rvjk5x3d9Uk",
-        "title": "【LIVE】夜のニュース（Japan News Digest Live）最新情報など（3月29日）｜TBS NEWS DIG"
+        "id": "R7sjRbCjlak",
+        "title": "【LIVE】最新ニュースまとめ（Japan News Digest）（3月29日）｜TBS NEWS DIG"
       },
       {
         "id": "xG56OVbybio",
@@ -2250,7 +2249,12 @@
     "id": "UC6bRB9N7EyMijsauPttAvfg",
     "handle": "@skarsvagbygdelaglivecam9253",
     "name": "Skarsvåg bygdelag live cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "iMqrD-HBDGo",
+        "title": "Skarsvåg Live"
+      }
+    ]
   },
   {
     "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
@@ -2610,6 +2614,10 @@
     "handle": "@LeSanctuaireNotreDamedeLourdes",
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
+      {
+        "id": "huD050tu_oU",
+        "title": "Rosario desde Lourdes - 29/03/2026"
+      },
       {
         "id": "DJI5FeWu6YM",
         "title": "Bénédiction des rameaux et messe, 29/03/26, 9h30"
@@ -3795,7 +3803,28 @@
     "id": "UCArs3YQib0gUuv5SVrjjtCQ",
     "handle": "@NamibiaLifeStream",
     "name": "Namibia LifeStream",
-    "videos": []
+    "videos": [
+      {
+        "id": "U5EsLXtxSSw",
+        "title": "Namibia live stream at idyllic Zambezi Mubala Camp"
+      },
+      {
+        "id": "C6kb6vH14xY",
+        "title": "Namibia: Live Swakopmund Lighthouse stream"
+      },
+      {
+        "id": "tIkzqrljpB4",
+        "title": "Namibia: Live feed from the Zambezi River"
+      },
+      {
+        "id": "MiqjRqyla70",
+        "title": "LIVE 24/7: Swakopmund Jetty 1905 | Atlantic Ocean Views from Namibia"
+      },
+      {
+        "id": "h7yL-ltAb_M",
+        "title": "Windhoek: 24/7 Live stream in Windhoek, Namibia"
+      }
+    ]
   },
   {
     "id": "UCAupQASEG4kt6oXHe0Xwd9Q",
@@ -4549,8 +4578,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "DT5H5VoY0_Y",
-        "title": "【Archive】 2026-03-29『18:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "U8QgUqKRIis",
+        "title": "【 Archive】 2026-03-29『21:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -6064,122 +6093,6 @@
     "name": "Steel Highway Railcams",
     "videos": [
       {
-        "id": "4ih7hP2QK6g",
-        "title": "Lewis County Historical Museum Live Railcam (Static) - Chehalis, WA  #steelhighway"
-      },
-      {
-        "id": "QTrBSWkgAVs",
-        "title": "Pacific Partnership Live Railcam - Pacific, MO #steelhighway"
-      },
-      {
-        "id": "9HsbGHDFuqM",
-        "title": "Detroit Lakes, MN, USA | Train Cam LIVE NOW | BNSF Staples Sub |  #steelhighway   | MP 210.1"
-      },
-      {
-        "id": "9DvhBYk5u7U",
-        "title": "Grinnell Mayflower Community Live Railcam - Grinnell, IA #SteelHighway"
-      },
-      {
-        "id": "p1XQ4h4zkis",
-        "title": "Richville, MN, USA | Train Cam LIVE NOW | CPKC Detroit Lakes Sub |  #steelhighway   | MP 186.14"
-      },
-      {
-        "id": "d_09nrLxhfU",
-        "title": "Onawa DreamDirt Real Estate Live Railcam - Onawa, IA #steelhighway"
-      },
-      {
-        "id": "tvpVCESBeP0",
-        "title": "Neenah Live Railcam - Neenah, WI #SteelHighway"
-      },
-      {
-        "id": "9e2vtFJk73E",
-        "title": "Washington Depot Live Railcam - Washington, IA #SteelHighway"
-      },
-      {
-        "id": "k1vwNkckSQw",
-        "title": "Dubuque Junction Live Railcam - Dubuque, IA #SteelHighway"
-      },
-      {
-        "id": "JP0FPrkhf14",
-        "title": "Genoa, Illinois Kishwaukee Valley Heritage Society Live Railcam - Genoa, IL #steelhighway"
-      },
-      {
-        "id": "htYSw6rwayw",
-        "title": "Ottumwa Main Street Donuts Live Multi Railcam - Ottumwa, IA  #steelhighway"
-      },
-      {
-        "id": "HBO5UeDMWDQ",
-        "title": "Ottumwa Main Street Donuts Live Railcam (BNSF) - Ottumwa, IA #SteelHighway"
-      },
-      {
-        "id": "9ZBnyEk0Q0s",
-        "title": "Port Byron Live Railcam - Port Byron, IL  #steelhighway"
-      },
-      {
-        "id": "InQ0-b4DkCw",
-        "title": "Chicago & North Western Power House Live Webcam (North) - Chicago, IL  #SteelHighway"
-      },
-      {
-        "id": "82QKb8eLLvo",
-        "title": "Mississippi River Cam | Newport, MN, USA | Mile Marker 830.5"
-      },
-      {
-        "id": "nSgorbS54WA",
-        "title": "Munger Tavern & Grill Live Railcam - Munger, MN #SteelHighway"
-      },
-      {
-        "id": "NJHshqUAL9M",
-        "title": "Creston Realty Live Railcam - Creston, IA #steelhighway"
-      },
-      {
-        "id": "xtL9XwkBW8Y",
-        "title": "North Platte Golden Spike Tower (East) Live Railcam  - North Platte, NE  #steelhighway"
-      },
-      {
-        "id": "eNGJ6XVcF5k",
-        "title": "Clinton County Historical Society Live Railcam - Clinton, IA #SteelHighway"
-      },
-      {
-        "id": "jx-eX-Ou6Ts",
-        "title": "SHR 6-Up The Leftovers | ⁨Cams of interest and for Weather in the USA"
-      },
-      {
-        "id": "qV5uGeO_bWI",
-        "title": "Flossmoor Station Restaurant & Brewery Live Railcam North - Flossmoor, IL #steelhighway"
-      },
-      {
-        "id": "A2QXDT4p1Uw",
-        "title": "Winlock, Washington Live Railcam - Winlock Liquidation Warehouse  #steelhighway"
-      },
-      {
-        "id": "1ECOB_BQ734",
-        "title": "Junction City, WI Live Railcam - Brian & Wendy's Hiawatha #steelhighway"
-      },
-      {
-        "id": "K70jTDrEePk",
-        "title": "Pacific, MO, USA | UPRR Jefferson City Sub MP 34.91 | BNSF Cuba Sub MP 34.6"
-      },
-      {
-        "id": "W5U8q2pi0Ck",
-        "title": "Adrian, MI Live Railcam - Adrian, MI  #steelhighway"
-      },
-      {
-        "id": "CyHMEtXpJF0",
-        "title": "Woodbine Main Street Live Railcam - Woodbine, IA #steelhighway"
-      },
-      {
-        "id": "BjxITtji3xo",
-        "title": "East Dubuque Live Railcam - East Dubuque, IL  #SteelHighway"
-      },
-      {
-        "id": "OvMWJ2XJHXI",
-        "title": "Mills Tower Live Railcam - Iowa Falls, IA #SteelHighway"
-      },
-      {
-        "id": "w6OiGEdUuY0",
-        "title": "Belle Plaine Museum Live Railcam - Belle Plaine, IA #SteelHighway"
-      },
-      {
         "id": "8BGuqY0HIQo",
         "title": "Carroll Depot Live Railcam (West) - Carroll, IA #SteelHighway"
       },
@@ -7614,7 +7527,12 @@
     "id": "UCOaW0M7OYKYHobYpci2HiWw",
     "handle": "@VilladelPalmarLoreto",
     "name": "VilladelPalmarLoreto",
-    "videos": []
+    "videos": [
+      {
+        "id": "0GwE1vu460k",
+        "title": "Live Cam from Villa del Palmar at the Islands of Loreto"
+      }
+    ]
   },
   {
     "id": "UCOjscjEL-lGZVP-2uooEuCA",
@@ -7826,12 +7744,7 @@
     "id": "UCPQHImqkYaf7h3PzfQI9OmA",
     "handle": "@boesenlaw523",
     "name": "Boesen Law",
-    "videos": [
-      {
-        "id": "E_VpviMTH9k",
-        "title": "Denver City Camera (Sponsored by Boesen Law)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCPSR2Sz1xSlh3vVeCUWeUDg",
@@ -8598,6 +8511,14 @@
     "name": "SHOWME Caribbean",
     "videos": [
       {
+        "id": "64p4XwbC8r8",
+        "title": "LIVE SXM Airport March 29 ✈️ -  Maho Beach Sint Maarten"
+      },
+      {
+        "id": "DrgieJlsiMY",
+        "title": "🌴Best Caribbean Beach Resorts LIVE | Curaçao • Sint Maarten • Aruba • Bonaire | March 29, 2026"
+      },
+      {
         "id": "3ouZ7RcyKP0",
         "title": "🏖Best Caribbean Destinations LIVE | Curaçao • Aruba • Bonaire • Saint Martin | 24/7 Live Cam"
       },
@@ -8918,7 +8839,12 @@
     "id": "UCTGhjtFloAPlbLy4_yrkoWg",
     "handle": "@portofnewcastle",
     "name": "Port of Newcastle",
-    "videos": []
+    "videos": [
+      {
+        "id": "tbQPUvUifEc",
+        "title": "Port of Newcastle Live Harbour Cam"
+      }
+    ]
   },
   {
     "id": "UCTHlXiRiln7-lSXPh2xFbOw",
@@ -9158,10 +9084,6 @@
     "name": "Vacation Myrtle Beach",
     "videos": [
       {
-        "id": "yi9c_2ik0AQ",
-        "title": "Myrtle Beach Sunrise 03/29/2026"
-      },
-      {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
       },
@@ -9195,6 +9117,10 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
+      {
+        "id": "V8jdQAoFZN4",
+        "title": "SafariLIVE Sunset - 29 March 2026"
+      },
       {
         "id": "MnY2sJydrVM",
         "title": "Jaci's Dam Cam - AD FREE"
@@ -12172,7 +12098,24 @@
     "id": "UCgrNz-aDmcr2uuto8_DL2jg",
     "handle": "@cgtn",
     "name": "CGTN",
-    "videos": []
+    "videos": [
+      {
+        "id": "pOr8QaVF8V4",
+        "title": "Live views of NASA's Artemis II from Kennedy Space Center"
+      },
+      {
+        "id": "SDg_xaF8sSI",
+        "title": "View of Tel Aviv skyline"
+      },
+      {
+        "id": "16BVRih3vHI",
+        "title": "View of Beirut skyline"
+      },
+      {
+        "id": "BOy2xDU1LC8",
+        "title": "🔴 Watch CGTN LIVE 24/7 #CGTNLIVE"
+      }
+    ]
   },
   {
     "id": "UCgsyoNE1PH6nQmmSICtzFMA",
@@ -12200,7 +12143,12 @@
     "id": "UCh1UcGFBIuFo5I-I1WMyclA",
     "handle": "@asakusanakaya",
     "name": "浅草中屋チャンネル -ASAKUSA NAKAYA CHANNEL-",
-    "videos": []
+    "videos": [
+      {
+        "id": "nvjYhbiznNk",
+        "title": "【LIVE CAMERA】浅草ライブカメラ「浅草寺 宝蔵門」（浅草中屋  屋上より）"
+      }
+    ]
   },
   {
     "id": "UChDKyKQ59fYz3JO2fl0Z6sg",
@@ -12662,6 +12610,10 @@
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
     "videos": [
+      {
+        "id": "Ey_IibV-YrI",
+        "title": "Live views of NASA's Artemis II from Kennedy Space Center"
+      },
       {
         "id": "PYBTbjGEZ3g",
         "title": "LIVE: View of Tel Aviv Skyline"
@@ -13582,6 +13534,10 @@
     "handle": "@GramadoTV",
     "name": "Gramado TV",
     "videos": [
+      {
+        "id": "5qSXv8JNK00",
+        "title": "Domingo de Ramos - Gramado, 29/03/2026"
+      },
       {
         "id": "aqjqeFHmIhs",
         "title": "Acompanhe a Gramado TV 24 horas"
@@ -14980,7 +14936,7 @@
     "name": "Customs House 1897🇨🇦",
     "videos": [
       {
-        "id": "65ok_oXh1tc",
+        "id": "Jn76JRvsOzo",
         "title": "Tilley Cam -  24/7 Harbour Cam - Port aux Basques, Newfoundland - Live Stream"
       }
     ]
@@ -15768,64 +15724,7 @@
     "id": "UCrtIIVfi-5tMlVXdMDzOMUA",
     "handle": "@StreamTimeLive",
     "name": "StreamTime Live",
-    "videos": [
-      {
-        "id": "MqzQdTHCTOg",
-        "title": "LIVE CAM: Ohio River, Jeffersonville, IN | StreamTime LIVE"
-      },
-      {
-        "id": "a5IW4I-z2rs",
-        "title": "Pier 23 Cafe, San Francisco Bay | San Francisco, CA USA | StreamTime LIVE"
-      },
-      {
-        "id": "fE02qa-Phs0",
-        "title": "Baltimore, Maryland USA | StreamTime LIVE"
-      },
-      {
-        "id": "F_bENs4GV24",
-        "title": "Marine City, Michigan, USA | StreamTime LIVE"
-      },
-      {
-        "id": "AwP_Q6IGwFs",
-        "title": "Port Huron, Michigan USA | StreamTime LIVE"
-      },
-      {
-        "id": "g4mpc2I5lhc",
-        "title": "Algonac, Michigan USA | StreamTime LIVE"
-      },
-      {
-        "id": "TkY4BzCikQ4",
-        "title": "Soo Locks, Sault Ste Marie, Michigan USA | Streamtime LIVE"
-      },
-      {
-        "id": "61pi8UjLOlo",
-        "title": "Lake Hood Seaplane Base, Anchorage, Alaska, USA | StreamTime LIVE"
-      },
-      {
-        "id": "JkPjC4fbbQQ",
-        "title": "Mississippi River Lock 19 | Keokuk, IA, USA | StreamTime LIVE"
-      },
-      {
-        "id": "t_VfYNtprYE",
-        "title": "Baltimore Shipping Channel | Baltimore, MD USA | StreamTime LIVE  in 4K"
-      },
-      {
-        "id": "67BCsiW-1Io",
-        "title": "Midway Airport | Chicago, IL USA | StreamTime LIVE  4K"
-      },
-      {
-        "id": "GFzyA9BkHW4",
-        "title": "Marine City HomeTown Cam | Marine City, MI | StreamTime LIVE"
-      },
-      {
-        "id": "OgqbZLzEbQU",
-        "title": "New York City Harbor, Brooklyn, New York | StreamTime LIVE"
-      },
-      {
-        "id": "yF7XdpkL34w",
-        "title": "Port Colborne, Ontario Canada  - Welland Canal"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCrxFWEsUjk4f5YPfmahOs8Q",
@@ -15962,16 +15861,7 @@
     "id": "UCsFgbVuhRrPV5FqyN7kOD8g",
     "handle": "@FOBBVCAM",
     "name": "FOBBV CAM",
-    "videos": [
-      {
-        "id": "41eq4VzCYc4",
-        "title": "Big Bear Bald Eagle Wide View - Cam 2"
-      },
-      {
-        "id": "B4-L2nfGcuE",
-        "title": "Big Bear Bald Eagle Live Nest - Cam 1"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCsGBhUD-AhuP4t1xoJ0F-vw",
@@ -16429,7 +16319,12 @@
     "id": "UCtyNVinZ7tfjgWoeApTmlkQ",
     "handle": "@flamingoland",
     "name": "Flamingo Land Resort",
-    "videos": []
+    "videos": [
+      {
+        "id": "wwXpybGNqc0",
+        "title": "Flamingo Land Resort Live Stream - Black Rhino Calf Cam"
+      }
+    ]
   },
   {
     "id": "UCtzYRypg21-R2suTVCetlbg",
@@ -17508,12 +17403,7 @@
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
     "handle": "@flamingf.1562",
     "name": "Flaming Fire",
-    "videos": [
-      {
-        "id": "ZxHoxCpRCb8",
-        "title": "Stockholm city live cam 20260329"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
@@ -17636,6 +17526,10 @@
     "handle": "@hansnatuurkanaal",
     "name": "HANS NATURE CHANNEL",
     "videos": [
+      {
+        "id": "OhB2bgfJmZM",
+        "title": "🐦 LIVE: Koolmezen NU aan het Bouwen! Nieuwe Nestkast | Lente 2026"
+      },
       {
         "id": "EeIMfdFWJl0",
         "title": "🦉 Tawny Owl Day Live | All 3 Chicks Here! 🐥 Did Dad Owl Deliver Last Night? YES, Huge Prey Stockpile"
