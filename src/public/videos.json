@@ -183,7 +183,7 @@
     "name": "مركز الوارث للإنتاج الفني",
     "videos": [
       {
-        "id": "pqUdjIZbJl0",
+        "id": "CYMdjYzgt70",
         "title": "البث المباشر من العتبة الحسينية المقدسة  |  كربلاء المقدسة الان Karbala live"
       }
     ]
@@ -742,6 +742,10 @@
     "handle": "@CharDhamYatraLive",
     "name": "Char Dham Yatra Live",
     "videos": [
+      {
+        "id": "jpYzLs5r0CQ",
+        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
+      },
       {
         "id": "K5jaQborzOU",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
@@ -1312,16 +1316,7 @@
     "id": "UC3j2hR5zFDLw5He4n4J-BbA",
     "handle": "@valfiorentinalive",
     "name": "Val Fiorentina Dolomites Italy",
-    "videos": [
-      {
-        "id": "pEcU8ZwDuoM",
-        "title": "Webcam Monte Fertazza Dolomiti - Ristoro Belvedere - Selva di Cadore - Italy"
-      },
-      {
-        "id": "0006zDOzcPM",
-        "title": "LiveCam Val Fiorentina - Ski Civetta - Selva di Cadore - Dolomiti Italy"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC3ppRbUdj-XrSIn-6YHGP3w",
@@ -2255,18 +2250,18 @@
     "id": "UC6bRB9N7EyMijsauPttAvfg",
     "handle": "@skarsvagbygdelaglivecam9253",
     "name": "Skarsvåg bygdelag live cam",
-    "videos": [
-      {
-        "id": "iMqrD-HBDGo",
-        "title": "Skarsvåg Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
     "handle": "@pontalnetv",
     "name": "Pontal NeTv e Internet",
-    "videos": []
+    "videos": [
+      {
+        "id": "t64CXFVzG0I",
+        "title": "Ao Vivo - Arraial do Cabo - RJ"
+      }
+    ]
   },
   {
     "id": "UC6kdM4uR54C72vtsR_mCKHg",
@@ -3771,7 +3766,24 @@
     "id": "UCAoSufogSQbl5N5AtUIid4Q",
     "handle": "@CityofEllsworthMaine",
     "name": "City of Ellsworth, Maine",
-    "videos": []
+    "videos": [
+      {
+        "id": "Tm5YO9g8_nQ",
+        "title": "City of Ellsworth, Maine - City Hall Cupola Cam"
+      },
+      {
+        "id": "Ql11MDGN1Po",
+        "title": "City of Ellsworth, Maine - Harbor Park Live Cam"
+      },
+      {
+        "id": "ufw3aQzmDBw",
+        "title": "City of Ellsworth, Maine - Branch Lake Weather Cam"
+      },
+      {
+        "id": "ELSnCF_XOPI",
+        "title": "City of Ellsworth, Maine - North Ellsworth Tower Cam"
+      }
+    ]
   },
   {
     "id": "UCAphsmhYyvZDI7s67XM5l0A",
@@ -3783,28 +3795,7 @@
     "id": "UCArs3YQib0gUuv5SVrjjtCQ",
     "handle": "@NamibiaLifeStream",
     "name": "Namibia LifeStream",
-    "videos": [
-      {
-        "id": "U5EsLXtxSSw",
-        "title": "Namibia live stream at idyllic Zambezi Mubala Camp"
-      },
-      {
-        "id": "C6kb6vH14xY",
-        "title": "Namibia: Live Swakopmund Lighthouse stream"
-      },
-      {
-        "id": "tIkzqrljpB4",
-        "title": "Namibia: Live feed from the Zambezi River"
-      },
-      {
-        "id": "MiqjRqyla70",
-        "title": "LIVE 24/7: Swakopmund Jetty 1905 | Atlantic Ocean Views from Namibia"
-      },
-      {
-        "id": "h7yL-ltAb_M",
-        "title": "Windhoek: 24/7 Live stream in Windhoek, Namibia"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCAupQASEG4kt6oXHe0Xwd9Q",
@@ -5526,7 +5517,12 @@
     "id": "UCGMCIiOelr1UlVNxFXibrgQ",
     "handle": "@mncam_com",
     "name": "MNCam",
-    "videos": []
+    "videos": [
+      {
+        "id": "4M5SYE_xneI",
+        "title": "24/7 MSP Webcam - Minneapolis / St. Paul Airport - You Control The Cams!"
+      }
+    ]
   },
   {
     "id": "UCGOxU-8iNOeoG3a337shXoA",
@@ -7618,12 +7614,7 @@
     "id": "UCOaW0M7OYKYHobYpci2HiWw",
     "handle": "@VilladelPalmarLoreto",
     "name": "VilladelPalmarLoreto",
-    "videos": [
-      {
-        "id": "0GwE1vu460k",
-        "title": "Live Cam from Villa del Palmar at the Islands of Loreto"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCOjscjEL-lGZVP-2uooEuCA",
@@ -8927,12 +8918,7 @@
     "id": "UCTGhjtFloAPlbLy4_yrkoWg",
     "handle": "@portofnewcastle",
     "name": "Port of Newcastle",
-    "videos": [
-      {
-        "id": "tbQPUvUifEc",
-        "title": "Port of Newcastle Live Harbour Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCTHlXiRiln7-lSXPh2xFbOw",
@@ -9172,6 +9158,10 @@
     "name": "Vacation Myrtle Beach",
     "videos": [
       {
+        "id": "yi9c_2ik0AQ",
+        "title": "Myrtle Beach Sunrise 03/29/2026"
+      },
+      {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
       },
@@ -9205,10 +9195,6 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
-      {
-        "id": "dp0ZVBGTYUE",
-        "title": "LIVE at the waterhole - 29 March 2026"
-      },
       {
         "id": "MnY2sJydrVM",
         "title": "Jaci's Dam Cam - AD FREE"
@@ -9671,7 +9657,12 @@
     "id": "UCXtGlMSjKYfGoPggHcAZYbQ",
     "handle": "@ScottishWildlifeTrustvideos",
     "name": "Scottish Wildlife Trust",
-    "videos": []
+    "videos": [
+      {
+        "id": "B9nQ26QAzbk",
+        "title": "Live osprey nest camera at Loch of the Lowes Wildlife Reserve"
+      }
+    ]
   },
   {
     "id": "UCXtzCdsTkuBWIrOSuMNvANQ",
@@ -10635,10 +10626,6 @@
     "handle": "@HubbardsMarina",
     "name": "Hubbard&#39;s Marina",
     "videos": [
-      {
-        "id": "dq8pC8DAGwY",
-        "title": "39hr catch & updates!! | https://HubbardsMarina.com"
-      },
       {
         "id": "uaivpT7T0A4",
         "title": "John's Pass Camera | Hubbard's Marina | www.HubbardsMarina.com"
@@ -12019,7 +12006,12 @@
     "id": "UCgKZLRv6-2iPbILfeOwrxAw",
     "handle": "@AbellonaInnMaine",
     "name": "Abellona Inn Maine",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZlLjUoTZiIM",
+        "title": "Old Orchard Maine Beach Cam"
+      }
+    ]
   },
   {
     "id": "UCgL2EJAYMsU9ifTuiZ9wUFA",
@@ -12084,7 +12076,16 @@
     "id": "UCgWmWt_zIBk-X4sCk8fgANA",
     "handle": "@MKElivecam",
     "name": "MKElivecam",
-    "videos": []
+    "videos": [
+      {
+        "id": "7fZ2JLtv_c8",
+        "title": "MKE Live Cam - Milwaukee, Wisconsin from MKE.com"
+      },
+      {
+        "id": "JATo2lPJcaE",
+        "title": "MKE River Cam - Milwaukee, Wisconsin - by MKE.com"
+      }
+    ]
   },
   {
     "id": "UCgXjiaeMHuow2rbtZxI2oFg",
@@ -12171,24 +12172,7 @@
     "id": "UCgrNz-aDmcr2uuto8_DL2jg",
     "handle": "@cgtn",
     "name": "CGTN",
-    "videos": [
-      {
-        "id": "pOr8QaVF8V4",
-        "title": "Live views of NASA's Artemis II from Kennedy Space Center"
-      },
-      {
-        "id": "SDg_xaF8sSI",
-        "title": "View of Tel Aviv skyline"
-      },
-      {
-        "id": "16BVRih3vHI",
-        "title": "View of Beirut skyline"
-      },
-      {
-        "id": "BOy2xDU1LC8",
-        "title": "🔴 Watch CGTN LIVE 24/7 #CGTNLIVE"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgsyoNE1PH6nQmmSICtzFMA",
@@ -12216,12 +12200,7 @@
     "id": "UCh1UcGFBIuFo5I-I1WMyclA",
     "handle": "@asakusanakaya",
     "name": "浅草中屋チャンネル -ASAKUSA NAKAYA CHANNEL-",
-    "videos": [
-      {
-        "id": "nvjYhbiznNk",
-        "title": "【LIVE CAMERA】浅草ライブカメラ「浅草寺 宝蔵門」（浅草中屋  屋上より）"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UChDKyKQ59fYz3JO2fl0Z6sg",
@@ -12393,7 +12372,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "fNWC1yJ5ORw",
+        "id": "Q0frDtVivSQ",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -12548,7 +12527,12 @@
     "id": "UCifCCRBxgrlRscFtQ6xWlaQ",
     "handle": "@BanyanTreeSamui",
     "name": "Banyan Tree Samui",
-    "videos": []
+    "videos": [
+      {
+        "id": "wP6hpWgPJ98",
+        "title": "Banyan Tree Samui Live Stream"
+      }
+    ]
   },
   {
     "id": "UCiijK6RLOIB3FqrLs-uBphg",
@@ -16445,12 +16429,7 @@
     "id": "UCtyNVinZ7tfjgWoeApTmlkQ",
     "handle": "@flamingoland",
     "name": "Flamingo Land Resort",
-    "videos": [
-      {
-        "id": "wwXpybGNqc0",
-        "title": "Flamingo Land Resort Live Stream - Black Rhino Calf Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtzYRypg21-R2suTVCetlbg",
