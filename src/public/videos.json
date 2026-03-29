@@ -1389,12 +1389,12 @@
     "name": "La Casa del Senador",
     "videos": [
       {
-        "id": "x-qdkPUV4zk",
-        "title": "Puentes Internacionales de Piedras Negras, Coahuila y Eagle Pass, Texas."
+        "id": "shjeHM75Kr0",
+        "title": "Puente Internacional 2: Piedras Negras, Coahuila y Eagle Pass, Texas | VISTA ADICIONAL"
       },
       {
-        "id": "fSEygT7fMpk",
-        "title": "Puente Internacional 2: Piedras Negras, Coahuila y Eagle Pass, Texas | VISTA ADICIONAL"
+        "id": "x-qdkPUV4zk",
+        "title": "Puentes Internacionales de Piedras Negras, Coahuila y Eagle Pass, Texas."
       }
     ]
   },
@@ -1552,8 +1552,12 @@
     "name": "Associated Press",
     "videos": [
       {
+        "id": "9QkX7nG97XQ",
+        "title": "LIVE: Pope Leo XIV presides over Palm Sunday Mass"
+      },
+      {
         "id": "3uaOmueKH5A",
-        "title": "LIVE: Humpback whale stranded in Germany"
+        "title": "LIVE: Rescuers try to refloat humpback whale stranded in Germany"
       },
       {
         "id": "nWJjRdY189U",
@@ -1997,7 +2001,12 @@
     "id": "UC63DzolfFVwuHFrM_w2ULTw",
     "handle": "@oceanhousesurfskate6918",
     "name": "Ocean House Surf &amp; Skate",
-    "videos": []
+    "videos": [
+      {
+        "id": "MhmTJQ7I_hU",
+        "title": "Ocean House Surf & Skate - Nahant, MA LIVE"
+      }
+    ]
   },
   {
     "id": "UC659PRLT5K2h7QBLN2Q6Iaw",
@@ -2249,7 +2258,12 @@
     "id": "UC6bRB9N7EyMijsauPttAvfg",
     "handle": "@skarsvagbygdelaglivecam9253",
     "name": "Skarsvåg bygdelag live cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "iMqrD-HBDGo",
+        "title": "Skarsvåg Live"
+      }
+    ]
   },
   {
     "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
@@ -3823,6 +3837,10 @@
     "handle": "@SolentShips",
     "name": "Solent Ships",
     "videos": [
+      {
+        "id": "RDAWqtROdZk",
+        "title": "VTS Radio Southampton - (Marine VHF Channel 12)"
+      },
       {
         "id": "WC61Jw5CC9w",
         "title": "Tit Cam - Great, Blue, Crested, Willow, Coal, Long Tail Tit Bird Box Nest (24/7 Live) with Sound 4k"
@@ -9573,12 +9591,7 @@
     "id": "UCXCRtOlf5p2fQnaWCrKigTA",
     "handle": "@viviendasvacacionalescante8718",
     "name": "Viviendas Vacacionales Canteras Vista Playa",
-    "videos": [
-      {
-        "id": "Lkbw9wAgARc",
-        "title": "Viviendas vacacionales Canteras Vista Playa"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXN7rPhZK6Rp8lMhvpSri_Q",
@@ -10222,7 +10235,12 @@
     "id": "UC_NSbO34zB7JreKBvlOeeHA",
     "handle": "@canalssc",
     "name": "Canal SSC",
-    "videos": []
+    "videos": [
+      {
+        "id": "zIXNxSBb04k",
+        "title": "Foz do Iguaçu Ao Vivo - Câmeras no Centro da cidade"
+      }
+    ]
   },
   {
     "id": "UC__vsLbIjiHwYy2-zODXipA",
@@ -10492,7 +10510,64 @@
     "id": "UCagckRRHeGkG7iwPl91hUpg",
     "handle": "@LiveNorway",
     "name": "Live Norway",
-    "videos": []
+    "videos": [
+      {
+        "id": "jYThYA_ceN0",
+        "title": "Selje, Risnakken"
+      },
+      {
+        "id": "HnjVqNgAw-M",
+        "title": "Vestkapp Live"
+      },
+      {
+        "id": "jPwf4_MVpuE",
+        "title": "Port og Nordfjordeid"
+      },
+      {
+        "id": "_h_ICRmlXgg",
+        "title": "Måløy Live"
+      },
+      {
+        "id": "FwkM8B3ZiPQ",
+        "title": "Kråkenes Fyr"
+      },
+      {
+        "id": "TRcvF87YVK0",
+        "title": "Vindøldalen Live"
+      },
+      {
+        "id": "NKaFizWO6w0",
+        "title": "Hjørundfjorden Live"
+      },
+      {
+        "id": "0V59F4M3o88",
+        "title": "Port of Nordfjordeid"
+      },
+      {
+        "id": "DAZtQKreSl4",
+        "title": "Eide live"
+      },
+      {
+        "id": "RA6Jm7sv_F4",
+        "title": "Stavanger Tjuvholmen - Live"
+      },
+      {
+        "id": "0fTmFyQCxqc",
+        "title": "Nordfjordhjort Live"
+      },
+      {
+        "id": "tz5u7zWL8Xo",
+        "title": "Smøla Havfiskesenter"
+      },
+      {
+        "id": "5VoO4DGb3K4",
+        "title": "Hammerfest Havn Live"
+      },
+      {
+        "id": "XcftFX_Cwy4",
+        "title": "Bud og Hustadvika Live"
+      }
+    ]
   },
   {
     "id": "UCauWF0JViESO8tBM1Pn7dyA",
@@ -11865,6 +11940,10 @@
     "handle": "@SquirrelNestLive",
     "name": "SquirrelNest Live",
     "videos": [
+      {
+        "id": "0R4opxm96x8",
+        "title": "🔴24/7 Nest 5: 3 babies born Feb 16, 2026, Nest 2: 4 youngsters born in 2025 SqNest.Live-1of6: 🇺🇸🎗🇺🇦"
+      },
       {
         "id": "PhVPVGhmz0I",
         "title": "🔴24/7 baby squirrels born Feb 15, 2026 to Lily in Nest1 / Nest9 babies born Feb 16 SqNest.Live-6of6"
@@ -15141,7 +15220,28 @@
     "id": "UCq0nFboeoaOeRMoMLW6I_ew",
     "handle": "@TownofJupiter",
     "name": "Town of Jupiter",
-    "videos": []
+    "videos": [
+      {
+        "id": "ElTwWE430jU",
+        "title": "Cinquez Dog Park - East Cam"
+      },
+      {
+        "id": "EsWV4O2ishg",
+        "title": "Cinquez Dog Park - Center Cam"
+      },
+      {
+        "id": "i9LKXrE5QYA",
+        "title": "Cinquez Dog Park - West Cam"
+      },
+      {
+        "id": "jjFUDD3hWxE",
+        "title": "Sawfish Bay Live Cam"
+      },
+      {
+        "id": "-nJwQ5ECvUw",
+        "title": "Jupiter Veteran's Memorial Live Stream"
+      }
+    ]
   },
   {
     "id": "UCq19Y98jvY_Tjgm6QMk6vWA",
@@ -17017,7 +17117,44 @@
     "id": "UCwNfkYp9gKIvQDN1kPhpCsQ",
     "handle": "@FSTNET-ro9cc",
     "name": "F.S.T. NET",
-    "videos": []
+    "videos": [
+      {
+        "id": "fpi2JbCpwxw",
+        "title": "大阪ライブカメラ  大阪・泉北郡忠岡町【LIVE】海上レストラン／Grill Cafe Excellent ＆ エクセロンマリン｜海・桟橋・マリーナの様子を24時間ライブ配信"
+      },
+      {
+        "id": "aVAO2wSUsPo",
+        "title": "大阪ライブカメラ　【LIVE】大阪・心斎橋　（長堀通り交差）新橋交差点　F.S.T.NET提供　高感度・高画質ライブカメラ"
+      },
+      {
+        "id": "-nQCcDvp7Xs",
+        "title": "大阪ライブカメラ 箕面市の乱開発【LIVE】粟生新家（南側）／粟生新家交差点（信号）"
+      },
+      {
+        "id": "lKZqryb7Nno",
+        "title": "大阪ライブカメラ　大阪・コリアタウン【LIVE】24時間ライブカメラ｜超高感度カラー｜街の様子・観光・防犯｜FST.NET"
+      },
+      {
+        "id": "YZMZSqz9fx8",
+        "title": "大阪ライブカメラ　【LIVE】大阪 心斎橋 ユニクロ前 24時間ライブカメラ｜高感度屋外IPカメラ配信｜FST.NET"
+      },
+      {
+        "id": "GuQ2MuyvKWY",
+        "title": "大阪ライブカメラ　【LIVE】Ｆ.Ｓ.Ｔ.ＮＥＴ提供  大阪　ライブカメラ　北新地本通　ダーリンビル"
+      },
+      {
+        "id": "9UYFGM8CGt0",
+        "title": "大阪ライブカメラ【LIVE】Ｆ.Ｓ.Ｔ.ＮＥＴ 提供✨ 超高感度ライブカメラ 　門真市コストコ　三井アウトレット前"
+      },
+      {
+        "id": "K2r6YQhLqCg",
+        "title": "大阪ライブカメラ【LIVE】 門真IC 北行 ライブカメラ映像配信中！🌙 夜間でも遠くまで鮮明に映せる “超高感度ネットワークカメラ” を設置。渋滞情報のチェックや、周辺の交通状況確認に"
+      },
+      {
+        "id": "8tDuhb9QnQ4",
+        "title": "【1万人達成】大阪ライブカメラ【LIVE】Ｆ.Ｓ.Ｔ.ＮＥＴ提供　JR三ノ宮駅　ライブカメラ　　JR三ノ宮駅　阪急電鉄　神戸三宮駅"
+      }
+    ]
   },
   {
     "id": "UCwTBv_iSPKJZ8jAeeDPJZnw",
@@ -17093,7 +17230,12 @@
     "id": "UCwh4LBW-FLuLVjD92NL-Cpw",
     "handle": "@newglasgowns",
     "name": "Town of New Glasgow, Nova Scotia Canada",
-    "videos": []
+    "videos": [
+      {
+        "id": "nsa_uhhiogA",
+        "title": "New Glasgow, Nova Scotia, Canada - East River Weathercam"
+      }
+    ]
   },
   {
     "id": "UCwyuvrVtIg0xjH2qPufk3RQ",
