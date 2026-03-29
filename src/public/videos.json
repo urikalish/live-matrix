@@ -183,7 +183,7 @@
     "name": "مركز الوارث للإنتاج الفني",
     "videos": [
       {
-        "id": "GLUUvFHee9U",
+        "id": "pqUdjIZbJl0",
         "title": "البث المباشر من العتبة الحسينية المقدسة  |  كربلاء المقدسة الان Karbala live"
       }
     ]
@@ -407,8 +407,8 @@
     "name": "AVIATION TV",
     "videos": [
       {
-        "id": "-iS1N2yOaZA",
-        "title": "🔴 LIVE 24/7 Lisbon Airport 28.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
+        "id": "37ecrqf2fKg",
+        "title": "🔴 LIVE 24/7 Aeroporto de Lisboa 29.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
       }
     ]
   },
@@ -748,10 +748,6 @@
       },
       {
         "id": "7faO8l35dkA",
-        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
-      },
-      {
-        "id": "3c8c6FXLBkY",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
       {
@@ -1557,8 +1553,8 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "9QkX7nG97XQ",
-        "title": "LIVE: Pope Leo XIV presides over Palm Sunday Mass"
+        "id": "46lwqWFNyeE",
+        "title": "LIVE: NASA’s Artemis II moon rocket on the launch pad"
       },
       {
         "id": "nWJjRdY189U",
@@ -2270,12 +2266,7 @@
     "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
     "handle": "@pontalnetv",
     "name": "Pontal NeTv e Internet",
-    "videos": [
-      {
-        "id": "t64CXFVzG0I",
-        "title": "Ao Vivo - Arraial do Cabo - RJ"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC6kdM4uR54C72vtsR_mCKHg",
@@ -2944,7 +2935,24 @@
     "id": "UC8V1W5qNE8s3vgQWEQHpsKQ",
     "handle": "@KranjskaGoraSi",
     "name": "Kranjska Gora",
-    "videos": []
+    "videos": [
+      {
+        "id": "77yKd4QyWR4",
+        "title": "Jezero Jasna / Lake Jasna Live Camera"
+      },
+      {
+        "id": "8AMmuoTUNRw",
+        "title": "Ski Arena - Kranjska Gora"
+      },
+      {
+        "id": "-Huu1iNTpfk",
+        "title": "Kranjska Gora Town Center - Live WebCam"
+      },
+      {
+        "id": "SIihW0koOZw",
+        "title": "Planica - Live WebCam"
+      }
+    ]
   },
   {
     "id": "UC8ZnDZj0IUDw1tkECARmEkA",
@@ -2984,6 +2992,10 @@
     "handle": "@BostonAndMaineLive",
     "name": "Boston and Maine Live",
     "videos": [
+      {
+        "id": "Harxe0h0VTA",
+        "title": "Ski Resort Webcams - LIVE from New England"
+      },
       {
         "id": "qooheuTYNbU",
         "title": "Boston Weather Cam, MA Live Cam - Green Line"
@@ -3759,24 +3771,7 @@
     "id": "UCAoSufogSQbl5N5AtUIid4Q",
     "handle": "@CityofEllsworthMaine",
     "name": "City of Ellsworth, Maine",
-    "videos": [
-      {
-        "id": "Tm5YO9g8_nQ",
-        "title": "City of Ellsworth, Maine - City Hall Cupola Cam"
-      },
-      {
-        "id": "Ql11MDGN1Po",
-        "title": "City of Ellsworth, Maine - Harbor Park Live Cam"
-      },
-      {
-        "id": "ufw3aQzmDBw",
-        "title": "City of Ellsworth, Maine - Branch Lake Weather Cam"
-      },
-      {
-        "id": "ELSnCF_XOPI",
-        "title": "City of Ellsworth, Maine - North Ellsworth Tower Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCAphsmhYyvZDI7s67XM5l0A",
@@ -5531,12 +5526,7 @@
     "id": "UCGMCIiOelr1UlVNxFXibrgQ",
     "handle": "@mncam_com",
     "name": "MNCam",
-    "videos": [
-      {
-        "id": "4M5SYE_xneI",
-        "title": "24/7 MSP Webcam - Minneapolis / St. Paul Airport - You Control The Cams!"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCGOxU-8iNOeoG3a337shXoA",
@@ -7058,7 +7048,12 @@
     "id": "UCLRkl6duS5DBTVNKcbXJ2iA",
     "handle": "@BarryYachtClub",
     "name": "Barry Yacht Club",
-    "videos": []
+    "videos": [
+      {
+        "id": "uBEtMScNAIc",
+        "title": "Barry Yacht Club Live Webcam"
+      }
+    ]
   },
   {
     "id": "UCLTYXg2LkraaBZyd431pF7g",
@@ -9676,12 +9671,7 @@
     "id": "UCXtGlMSjKYfGoPggHcAZYbQ",
     "handle": "@ScottishWildlifeTrustvideos",
     "name": "Scottish Wildlife Trust",
-    "videos": [
-      {
-        "id": "B9nQ26QAzbk",
-        "title": "Live osprey nest camera at Loch of the Lowes Wildlife Reserve"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXtzCdsTkuBWIrOSuMNvANQ",
@@ -9829,7 +9819,12 @@
     "id": "UCYIYTY6_2jB145WxIYdyR1A",
     "handle": "@pozowindswebcam4221",
     "name": "PozoWinds Official ",
-    "videos": []
+    "videos": [
+      {
+        "id": "qZ0RmfinBC8",
+        "title": "PozoWinds webcam"
+      }
+    ]
   },
   {
     "id": "UCYP2o52KVpbcd8Y23moa2KA",
@@ -10641,6 +10636,10 @@
     "name": "Hubbard&#39;s Marina",
     "videos": [
       {
+        "id": "dq8pC8DAGwY",
+        "title": "39hr catch & updates!! | https://HubbardsMarina.com"
+      },
+      {
         "id": "uaivpT7T0A4",
         "title": "John's Pass Camera | Hubbard's Marina | www.HubbardsMarina.com"
       },
@@ -10676,7 +10675,32 @@
     "id": "UCbXiHnFTVZmnp2IspH2OPTw",
     "handle": "@randomlyentertained6482",
     "name": "Randomly Entertained",
-    "videos": []
+    "videos": [
+      {
+        "id": "tpbPt_LqdJc",
+        "title": "Soi 6 Pattaya, Thailand | Live Camera Stream"
+      },
+      {
+        "id": "WYXViSsFvQs",
+        "title": "Pattaya Beach Road, Thailand | Live Camera Stream"
+      },
+      {
+        "id": "cVjFBY1_8Yg",
+        "title": "Soi Buakhao, Pattaya, Thailand | Live Camera Stream"
+      },
+      {
+        "id": "WSm_r0eNl1E",
+        "title": "Nanai Road, Patong, Phuket, Thailand | Landmark Bar | Live Camera Stream"
+      },
+      {
+        "id": "IVa59mpPJTg",
+        "title": "Sainamyen Road, Patong, Phuket, Thailand | Nida Massage | Live Camera Stream"
+      },
+      {
+        "id": "8JCk5M_xrBs",
+        "title": "Walworth Road, London, England | Live Camera Stream"
+      }
+    ]
   },
   {
     "id": "UCbbfor2m620lTQd3jOk5ggQ",
@@ -10955,9 +10979,14 @@
   },
   {
     "id": "UCd2vrRsPAJNJzQ-Vo-KfItA",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@TorenvanVarik",
+    "name": "Toren van Varik",
+    "videos": [
+      {
+        "id": "xpvG0bK5G28",
+        "title": "webcam Toren van Varik"
+      }
+    ]
   },
   {
     "id": "UCdCuDRxgLpYAu3Mi-0GJYZQ",
@@ -11990,12 +12019,7 @@
     "id": "UCgKZLRv6-2iPbILfeOwrxAw",
     "handle": "@AbellonaInnMaine",
     "name": "Abellona Inn Maine",
-    "videos": [
-      {
-        "id": "ZlLjUoTZiIM",
-        "title": "Old Orchard Maine Beach Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgL2EJAYMsU9ifTuiZ9wUFA",
@@ -12060,16 +12084,7 @@
     "id": "UCgWmWt_zIBk-X4sCk8fgANA",
     "handle": "@MKElivecam",
     "name": "MKElivecam",
-    "videos": [
-      {
-        "id": "7fZ2JLtv_c8",
-        "title": "MKE Live Cam - Milwaukee, Wisconsin from MKE.com"
-      },
-      {
-        "id": "JATo2lPJcaE",
-        "title": "MKE River Cam - Milwaukee, Wisconsin - by MKE.com"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgXjiaeMHuow2rbtZxI2oFg",
@@ -12533,12 +12548,7 @@
     "id": "UCifCCRBxgrlRscFtQ6xWlaQ",
     "handle": "@BanyanTreeSamui",
     "name": "Banyan Tree Samui",
-    "videos": [
-      {
-        "id": "wP6hpWgPJ98",
-        "title": "Banyan Tree Samui Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCiijK6RLOIB3FqrLs-uBphg",
@@ -12668,10 +12678,6 @@
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
     "videos": [
-      {
-        "id": "Yixuur9ErGI",
-        "title": "LIVE: No Kings protests in Washington, D.C."
-      },
       {
         "id": "PYBTbjGEZ3g",
         "title": "LIVE: View of Tel Aviv Skyline"
@@ -17880,12 +17886,7 @@
     "id": "UCzg0KOwc3ZgoHxirtFTHFpw",
     "handle": "@ajuntamentcalongeisantanto4188",
     "name": "Ajuntament Calonge i Sant Antoni",
-    "videos": [
-      {
-        "id": "G8ggS7ypVaY",
-        "title": "Estríming en directe de: Ajuntament Calonge i Sant Antoni"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCzjR7slpURQjzqxPP5FVowQ",
