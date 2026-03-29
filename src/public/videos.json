@@ -1033,10 +1033,6 @@
     "name": "高雄旅遊網",
     "videos": [
       {
-        "id": "fASm7rzn7f8",
-        "title": "★現場直播★2026全國創意宋江陣頭大賽 3/29【初賽第二天】"
-      },
-      {
         "id": "t674V9A7H68",
         "title": "【4K Live】高雄壽山動物園－狐獴展區｜[4K Live] Shoushan Zoo, Kaohsiung: Meerkat Exhibit｜【4K ライブ】高雄 寿山動物園：ミーアキャット展示場"
       },
@@ -1102,7 +1098,52 @@
     "id": "UC30mmDZa-tMpIS-cIXoErsA",
     "handle": "@camarasdetraficodevigo8409",
     "name": "Cámaras de tráfico de Vigo",
-    "videos": []
+    "videos": [
+      {
+        "id": "2vDowXZy9cc",
+        "title": "Gran vía - Tarragona"
+      },
+      {
+        "id": "ii_PElrmCwE",
+        "title": "Gran vía - Tarragona"
+      },
+      {
+        "id": "f5gxcYb0XCg",
+        "title": "Plaza de España"
+      },
+      {
+        "id": "KmcLujr7PU0",
+        "title": "Gran vía - Lepanto"
+      },
+      {
+        "id": "eMbMc7VnI5Q",
+        "title": "Trav. de Vigo - Gregorio Espino - Jenaro de la Fuente"
+      },
+      {
+        "id": "qtFXKPN0xkQ",
+        "title": "Venezuela - Granada"
+      },
+      {
+        "id": "ZVgz2e-wMR4",
+        "title": "Av.Castrelos - Palacios"
+      },
+      {
+        "id": "XGzncIaJJ44",
+        "title": "Avenida de Madrid"
+      },
+      {
+        "id": "gfsJIcCZzlI",
+        "title": "Pizarro - Varela"
+      },
+      {
+        "id": "z1E5ciDe3a0",
+        "title": "Plaza América"
+      },
+      {
+        "id": "xrYXDI5uAoA",
+        "title": "Castelao - O Grove"
+      }
+    ]
   },
   {
     "id": "UC37R9R29MAwvrOBafYoBtow",
@@ -1956,12 +1997,7 @@
     "id": "UC63DzolfFVwuHFrM_w2ULTw",
     "handle": "@oceanhousesurfskate6918",
     "name": "Ocean House Surf &amp; Skate",
-    "videos": [
-      {
-        "id": "MhmTJQ7I_hU",
-        "title": "Ocean House Surf & Skate - Nahant, MA LIVE"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC659PRLT5K2h7QBLN2Q6Iaw",
@@ -2022,12 +2058,12 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "9Rw57y8r1oU",
-        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月29日）｜TBS NEWS DIG"
+        "id": "xG56OVbybio",
+        "title": "【イラン情勢 最新まとめ】「数日間は攻撃続ける」フーシ派が表明/アメリカ 地上作戦の準備報道/イラン側死者1937人に/「ホルムズ海峡は封鎖されている」など"
       },
       {
-        "id": "xj1kWhyu__Q",
-        "title": "【イラン情勢まとめ】イエメンの親イラン組織フーシ派「イスラエルへの攻撃実施」表明 /  アメリカが“最終攻撃”準備と報道 / 円安加速 1ドル160円台の大台突破"
+        "id": "9Rw57y8r1oU",
+        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月29日）｜TBS NEWS DIG"
       },
       {
         "id": "1BBpH3Uih2c",
@@ -2213,12 +2249,7 @@
     "id": "UC6bRB9N7EyMijsauPttAvfg",
     "handle": "@skarsvagbygdelaglivecam9253",
     "name": "Skarsvåg bygdelag live cam",
-    "videos": [
-      {
-        "id": "iMqrD-HBDGo",
-        "title": "Skarsvåg Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
@@ -2583,6 +2614,10 @@
     "handle": "@LeSanctuaireNotreDamedeLourdes",
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
+      {
+        "id": "DJI5FeWu6YM",
+        "title": "Bénédiction des rameaux et messe, 29/03/26, 9h30"
+      },
       {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
@@ -4763,7 +4798,16 @@
     "id": "UCDPUOq2ADKZwRleMUImX-Ww",
     "handle": "@WeatherEvents",
     "name": "WeatherEvents",
-    "videos": []
+    "videos": [
+      {
+        "id": "9eKzgA3Af7k",
+        "title": "Aberdour Live Streaming WeatherCam - FifeWeather.co.uk"
+      },
+      {
+        "id": "T09aQp1CqBI",
+        "title": "Lochgelly Live Streaming WeatherCam - FifeWeather.co.uk"
+      }
+    ]
   },
   {
     "id": "UCDQ9-OMttGoiRHzLrg-xKRA",
@@ -7162,7 +7206,7 @@
     "name": "Boathouse at North Landing ",
     "videos": [
       {
-        "id": "pvysu-_ZCsI",
+        "id": "0YZjJ0ThRgM",
         "title": "North Landing Weather Cam"
       }
     ]
@@ -9170,10 +9214,6 @@
     "name": "WildEarth",
     "videos": [
       {
-        "id": "eg3vSk55MuA",
-        "title": "SafariLIVE Sunrise - 29 March 2026"
-      },
-      {
         "id": "MnY2sJydrVM",
         "title": "Jaci's Dam Cam - AD FREE"
       },
@@ -9613,7 +9653,12 @@
     "id": "UCXhEeNbpyzOVa_bsAb0jQeA",
     "handle": "@RiverCityBoatSales",
     "name": "RiverCityBoatSales",
-    "videos": []
+    "videos": [
+      {
+        "id": "Y3cM4bK01JE",
+        "title": "Boones Ferry Marina Boat Ramp Webcam | River City Boat Sales"
+      }
+    ]
   },
   {
     "id": "UCXj6ROnZkzqgq6eYeoflO6A",
@@ -10177,12 +10222,7 @@
     "id": "UC_NSbO34zB7JreKBvlOeeHA",
     "handle": "@canalssc",
     "name": "Canal SSC",
-    "videos": [
-      {
-        "id": "zIXNxSBb04k",
-        "title": "Foz do Iguaçu Ao Vivo - Câmeras no Centro da cidade"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC__vsLbIjiHwYy2-zODXipA",
@@ -10452,64 +10492,7 @@
     "id": "UCagckRRHeGkG7iwPl91hUpg",
     "handle": "@LiveNorway",
     "name": "Live Norway",
-    "videos": [
-      {
-        "id": "jYThYA_ceN0",
-        "title": "Selje, Risnakken"
-      },
-      {
-        "id": "HnjVqNgAw-M",
-        "title": "Vestkapp Live"
-      },
-      {
-        "id": "jPwf4_MVpuE",
-        "title": "Port og Nordfjordeid"
-      },
-      {
-        "id": "_h_ICRmlXgg",
-        "title": "Måløy Live"
-      },
-      {
-        "id": "FwkM8B3ZiPQ",
-        "title": "Kråkenes Fyr"
-      },
-      {
-        "id": "TRcvF87YVK0",
-        "title": "Vindøldalen Live"
-      },
-      {
-        "id": "NKaFizWO6w0",
-        "title": "Hjørundfjorden Live"
-      },
-      {
-        "id": "0V59F4M3o88",
-        "title": "Port of Nordfjordeid"
-      },
-      {
-        "id": "DAZtQKreSl4",
-        "title": "Eide live"
-      },
-      {
-        "id": "RA6Jm7sv_F4",
-        "title": "Stavanger Tjuvholmen - Live"
-      },
-      {
-        "id": "0fTmFyQCxqc",
-        "title": "Nordfjordhjort Live"
-      },
-      {
-        "id": "tz5u7zWL8Xo",
-        "title": "Smøla Havfiskesenter"
-      },
-      {
-        "id": "5VoO4DGb3K4",
-        "title": "Hammerfest Havn Live"
-      },
-      {
-        "id": "XcftFX_Cwy4",
-        "title": "Bud og Hustadvika Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCauWF0JViESO8tBM1Pn7dyA",
@@ -11363,7 +11346,12 @@
     "id": "UCfHv7aRXqCYcNsqKGrQJUIQ",
     "handle": "@firstprescle",
     "name": "The First Presbyterian Church in Cleveland",
-    "videos": []
+    "videos": [
+      {
+        "id": "9L7EhGU_YY4",
+        "title": "LIVE: #TowerofPower Cam"
+      }
+    ]
   },
   {
     "id": "UCfNWUHvOsckqB-h6OMZBUMg",
@@ -12170,7 +12158,12 @@
     "id": "UCh0-KcRIGH_scKlva69-9Lw",
     "handle": "@turiecgo",
     "name": "Turiec",
-    "videos": []
+    "videos": [
+      {
+        "id": "fdHkWHdnJd0",
+        "title": "LIVE Kamera Martin, Slovakia | Panoramatický pohľad na centrum a Malú Fatru"
+      }
+    ]
   },
   {
     "id": "UCh1UcGFBIuFo5I-I1WMyclA",
@@ -15148,28 +15141,7 @@
     "id": "UCq0nFboeoaOeRMoMLW6I_ew",
     "handle": "@TownofJupiter",
     "name": "Town of Jupiter",
-    "videos": [
-      {
-        "id": "ElTwWE430jU",
-        "title": "Cinquez Dog Park - East Cam"
-      },
-      {
-        "id": "EsWV4O2ishg",
-        "title": "Cinquez Dog Park - Center Cam"
-      },
-      {
-        "id": "i9LKXrE5QYA",
-        "title": "Cinquez Dog Park - West Cam"
-      },
-      {
-        "id": "jjFUDD3hWxE",
-        "title": "Sawfish Bay Live Cam"
-      },
-      {
-        "id": "-nJwQ5ECvUw",
-        "title": "Jupiter Veteran's Memorial Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCq19Y98jvY_Tjgm6QMk6vWA",
@@ -16447,7 +16419,12 @@
     "id": "UCuAa7DaemcOS_q6Ql9Qo5Yg",
     "handle": "@DesMoinesGov",
     "name": "City of Des Moines – DMTV",
-    "videos": []
+    "videos": [
+      {
+        "id": "O5qVHhoIRPw",
+        "title": "City of Des Moines Skyline Camera"
+      }
+    ]
   },
   {
     "id": "UCuC2O77qFl3UtcUN4KmKaeg",
@@ -17040,44 +17017,7 @@
     "id": "UCwNfkYp9gKIvQDN1kPhpCsQ",
     "handle": "@FSTNET-ro9cc",
     "name": "F.S.T. NET",
-    "videos": [
-      {
-        "id": "fpi2JbCpwxw",
-        "title": "大阪ライブカメラ  大阪・泉北郡忠岡町【LIVE】海上レストラン／Grill Cafe Excellent ＆ エクセロンマリン｜海・桟橋・マリーナの様子を24時間ライブ配信"
-      },
-      {
-        "id": "aVAO2wSUsPo",
-        "title": "大阪ライブカメラ　【LIVE】大阪・心斎橋　（長堀通り交差）新橋交差点　F.S.T.NET提供　高感度・高画質ライブカメラ"
-      },
-      {
-        "id": "-nQCcDvp7Xs",
-        "title": "大阪ライブカメラ 箕面市の乱開発【LIVE】粟生新家（南側）／粟生新家交差点（信号）"
-      },
-      {
-        "id": "lKZqryb7Nno",
-        "title": "大阪ライブカメラ　大阪・コリアタウン【LIVE】24時間ライブカメラ｜超高感度カラー｜街の様子・観光・防犯｜FST.NET"
-      },
-      {
-        "id": "YZMZSqz9fx8",
-        "title": "大阪ライブカメラ　【LIVE】大阪 心斎橋 ユニクロ前 24時間ライブカメラ｜高感度屋外IPカメラ配信｜FST.NET"
-      },
-      {
-        "id": "GuQ2MuyvKWY",
-        "title": "大阪ライブカメラ　【LIVE】Ｆ.Ｓ.Ｔ.ＮＥＴ提供  大阪　ライブカメラ　北新地本通　ダーリンビル"
-      },
-      {
-        "id": "9UYFGM8CGt0",
-        "title": "大阪ライブカメラ【LIVE】Ｆ.Ｓ.Ｔ.ＮＥＴ 提供✨ 超高感度ライブカメラ 　門真市コストコ　三井アウトレット前"
-      },
-      {
-        "id": "K2r6YQhLqCg",
-        "title": "大阪ライブカメラ【LIVE】 門真IC 北行 ライブカメラ映像配信中！🌙 夜間でも遠くまで鮮明に映せる “超高感度ネットワークカメラ” を設置。渋滞情報のチェックや、周辺の交通状況確認に"
-      },
-      {
-        "id": "8tDuhb9QnQ4",
-        "title": "【1万人達成】大阪ライブカメラ【LIVE】Ｆ.Ｓ.Ｔ.ＮＥＴ提供　JR三ノ宮駅　ライブカメラ　　JR三ノ宮駅　阪急電鉄　神戸三宮駅"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCwTBv_iSPKJZ8jAeeDPJZnw",
@@ -17153,12 +17093,7 @@
     "id": "UCwh4LBW-FLuLVjD92NL-Cpw",
     "handle": "@newglasgowns",
     "name": "Town of New Glasgow, Nova Scotia Canada",
-    "videos": [
-      {
-        "id": "nsa_uhhiogA",
-        "title": "New Glasgow, Nova Scotia, Canada - East River Weathercam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCwyuvrVtIg0xjH2qPufk3RQ",
@@ -17488,7 +17423,12 @@
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
     "handle": "@flamingf.1562",
     "name": "Flaming Fire",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZxHoxCpRCb8",
+        "title": "Stockholm city live cam 20260329"
+      }
+    ]
   },
   {
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
@@ -18051,7 +17991,12 @@
     "id": "UCzu3l_vz2bu2xn4bOo3eF_g",
     "handle": "@ScarboroughBeach",
     "name": "Scarborough Beach",
-    "videos": []
+    "videos": [
+      {
+        "id": "1X6oqGKHSZs",
+        "title": "Scarborough Beach SURF CAM"
+      }
+    ]
   },
   {
     "id": "UCzuzf3agOOdlGqciT4aCcJQ",
