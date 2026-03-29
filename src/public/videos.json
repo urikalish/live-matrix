@@ -166,27 +166,13 @@
     "id": "UC-I6QXW30NLYkW2GOMtHxew",
     "handle": "@TresoarBoterhoek1",
     "name": "Tresoar - museum, bibliotheek en archief Fryslân",
-    "videos": [
-      {
-        "id": "DPDyHlgJGnY",
-        "title": "Oldehoofsterkerkhof webcam"
-      },
-      {
-        "id": "SjY9wJXBQP8",
-        "title": "Oldehove webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
     "handle": "@alwarith-center",
     "name": "مركز الوارث للإنتاج الفني",
-    "videos": [
-      {
-        "id": "CYMdjYzgt70",
-        "title": "البث المباشر من العتبة الحسينية المقدسة  |  كربلاء المقدسة الان Karbala live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-KS6AGW3J43aFF-KOQ6VAw",
@@ -1389,12 +1375,12 @@
     "name": "La Casa del Senador",
     "videos": [
       {
-        "id": "shjeHM75Kr0",
-        "title": "Puente Internacional 2: Piedras Negras, Coahuila y Eagle Pass, Texas | VISTA ADICIONAL"
+        "id": "dqtJLtkn_g8",
+        "title": "Puentes Internacionales de Piedras Negras, Coahuila y Eagle Pass, Texas."
       },
       {
-        "id": "x-qdkPUV4zk",
-        "title": "Puentes Internacionales de Piedras Negras, Coahuila y Eagle Pass, Texas."
+        "id": "shjeHM75Kr0",
+        "title": "Puente Internacional 2: Piedras Negras, Coahuila y Eagle Pass, Texas | VISTA ADICIONAL"
       }
     ]
   },
@@ -1440,7 +1426,12 @@
     "id": "UC4Wd3aS1XKA39dCveZExSkg",
     "handle": "@oneandmoreaviation",
     "name": "One and More Aviation ",
-    "videos": []
+    "videos": [
+      {
+        "id": "S4AxMp4LzvU",
+        "title": "🔴LIVE Sunday Planespotting Frankfurt Airport Pilot Mitch 👨‍✈️düst nach PUJ"
+      }
+    ]
   },
   {
     "id": "UC4WyazHccYZmCf-rLpAYXtg",
@@ -1500,7 +1491,40 @@
     "id": "UC4nkl9OncDSVGZS9qdcRLxA",
     "handle": "@st-barthlivecam5889",
     "name": "St-Barth LiveCam",
-    "videos": []
+    "videos": [
+      {
+        "id": "nxIF1XzSQzU",
+        "title": "Live Webcam - SBH Saint-Jean"
+      },
+      {
+        "id": "IeeDy5VfSsg",
+        "title": "Live Webcam - SBH Baie de Lorient"
+      },
+      {
+        "id": "028GpBNaiJs",
+        "title": "Live Webcam - SBH Plaine de St-Jean"
+      },
+      {
+        "id": "DATTZ-F82Zk",
+        "title": "Live Webcam - SBH Anse de Flamands"
+      },
+      {
+        "id": "3PQNnVqrJEw",
+        "title": "Live Webcam - SBH Avions au décollage"
+      },
+      {
+        "id": "hb_nPVSnNqw",
+        "title": "Live Webcam - SBH Baie de St-Jean"
+      },
+      {
+        "id": "zaXzE6ZJAE8",
+        "title": "Live Webcam - SBH Port de Gustavia"
+      },
+      {
+        "id": "15pVqwQb7A0",
+        "title": "Live Webcam - SBH Col de la Tourmente"
+      }
+    ]
   },
   {
     "id": "UC4zOPk0IWo_GshPKEBqTALQ",
@@ -4512,14 +4536,9 @@
   },
   {
     "id": "UCCEo1hxcfQe7p-odS5pEZxg",
-    "handle": "@wlgwetaworker",
-    "name": "John Young",
-    "videos": [
-      {
-        "id": "r7qzi_d758w",
-        "title": "Lyall Bay, Wellington, New Zealand - Live Stream"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCCKkM-k16FF8oRKx65fAngQ",
@@ -4787,8 +4806,8 @@
     "name": "Khao Lak Land Discovery",
     "videos": [
       {
-        "id": "NxubQx61LMI",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 29-Mar-2026 16:34"
+        "id": "Eaz6YHra4Pc",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 30-Mar-2026 00:07"
       }
     ]
   },
@@ -4807,7 +4826,12 @@
     "id": "UCDfzWJUphLWin6P9D4cUv0A",
     "handle": "@stevenhoefel",
     "name": "Steven Hoefel",
-    "videos": []
+    "videos": [
+      {
+        "id": "7Lu9rWg7ngI",
+        "title": "South Yarra Station Webcam"
+      }
+    ]
   },
   {
     "id": "UCDkP5NWUhfHXZNhcGr2G2pQ",
@@ -4900,12 +4924,7 @@
     "id": "UCEBeDPgugykNr0t3LvMAGXg",
     "handle": "@LocoMediaGroep",
     "name": "Loco Media Groep",
-    "videos": [
-      {
-        "id": "JkKEupWWhdM",
-        "title": "LocoMediaGroep.nl | Webcam Haven Elburg"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCED0EjiTpphqDS4GnLimLyQ",
@@ -6647,12 +6666,7 @@
     "id": "UCKCzGw8r-dQWkxWTaLvj2qg",
     "handle": "@portst-laurent-du-varyci3661",
     "name": "PORT ST-LAURENT-DU-VAR YCI",
-    "videos": [
-      {
-        "id": "-YCik12XBxQ",
-        "title": "Diffusion  en direct de PORT SAINT LAURENT DU VAR Yci"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCKGyGK964U4Yd71WqBkvImA",
@@ -7065,7 +7079,16 @@
     "id": "UCLav_kTu9PmAEChvGyrPbhQ",
     "handle": "@webcamsydney",
     "name": "WebcamSydney",
-    "videos": []
+    "videos": [
+      {
+        "id": "5uZa3-RMFos",
+        "title": "WebcamSydney 1 Live Stream of Harbour 24/7 (~4K)"
+      },
+      {
+        "id": "jshwkG1ZpP8",
+        "title": "WebcamSydney 2 Live Panning View of Harbour 24/7"
+      }
+    ]
   },
   {
     "id": "UCLaxio5CTbT1gl5i8FB2-yw",
@@ -8239,8 +8262,8 @@
     "name": "قناة السنة النبوية",
     "videos": [
       {
-        "id": "hfy_5dcWMrI",
-        "title": "بث مباشر | قناة السنة النبوية"
+        "id": "dJ55tXYsMDk",
+        "title": "البث المباشر لقناة السنة النبوية"
       },
       {
         "id": "9A1S0xAPVIs",
@@ -8688,20 +8711,7 @@
     "id": "UCS8ZQejq2CL-nZcnRWZCA5Q",
     "handle": "@KBCnewsCH",
     "name": "KBC NEWS in JAPAN",
-    "videos": [
-      {
-        "id": "uuMhOREzUYA",
-        "title": "【ライブカメラ】福岡空港　Fukuoka Airport　＆他ライブカメラ"
-      },
-      {
-        "id": "4hpUbFP13-M",
-        "title": "KBC NEWS LIVE 24～福岡・佐賀の最新ニュースを24時間配信～"
-      },
-      {
-        "id": "8RyR0J8zbbU",
-        "title": "【ライブカメラ】ＪＲ博多駅前　【福岡市】Hakata Station in FUKUOKA"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCSAF80kTDcFOxEUrx0lsrmw",
@@ -8801,12 +8811,7 @@
     "id": "UCSlFpHBSl-eWWJlbt1gKq4Q",
     "handle": "@ShoalsMarineLab",
     "name": "Shoals Marine Laboratory",
-    "videos": [
-      {
-        "id": "CyA5V1gFVTY",
-        "title": "Appledore Island Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCSn-iTElOxGzTbyPvog45oA",
@@ -8857,7 +8862,48 @@
     "id": "UCT4jEYvUdpdN9oUALaypGfQ",
     "handle": "@taitungamazing7249",
     "name": "Amazing Taitung 台東就醬玩",
-    "videos": []
+    "videos": [
+      {
+        "id": "BUJJaW0vkJs",
+        "title": "【4K】台東鯉魚山即時影像 Taitung Liyu (Carp) Mountain Live Camera"
+      },
+      {
+        "id": "LSkq-wHMxQY",
+        "title": "【4K】台東南橫埡口即時影像 Taitung Southern Cross-Island Yakou Live Camera"
+      },
+      {
+        "id": "6kUEK3LVrro",
+        "title": "【4K】台東池上天堂路即時影像 Taitung Chihshang Live Camera"
+      },
+      {
+        "id": "9QqBz3kNHis",
+        "title": "【4K】台東金崙大橋即時影像 Taitung Jinlun Bridge Live Camera"
+      },
+      {
+        "id": "TY4qQElcUrA",
+        "title": "【4K】台東華源曙光觀景台即時影像 Taitung Huayuan Live Camera"
+      },
+      {
+        "id": "D945F_dauls",
+        "title": "【4K】台東富岡漁港即時影像 Taitung Fugang Fishing Port Live Camera"
+      },
+      {
+        "id": "VqS_Y8ZCj6M",
+        "title": "【4K】台東杉原灣即時影像 Taitung Shanyuan Bay Live Camera"
+      },
+      {
+        "id": "Rsq95SQ26bY",
+        "title": "【4K】台東富山即時影像 Taitung Fushan Area Live Camera"
+      },
+      {
+        "id": "q3KJt-SZc2s",
+        "title": "【4K】Taitung Jinzun Live Camera in Taiwan | Realtime Sea/Surf Conditions | Surfing"
+      },
+      {
+        "id": "UCG1aXVO8H8",
+        "title": "【4K】Duoliang Train Station Live Camera in Taitung, Taiwan"
+      }
+    ]
   },
   {
     "id": "UCT7oADZixDIEzbUtWFNA-QA",
@@ -9357,7 +9403,16 @@
     "id": "UCWFlnyosSViIAqUq-TytgJA",
     "handle": "@NikCCTV",
     "name": "Nik CCTV",
-    "videos": []
+    "videos": [
+      {
+        "id": "9ZyKdBaRQrs",
+        "title": "Камера Соликамск (Боровск), Россия, Пермский край / Сamera Solikamsk, Russia, feeder and AI Chatbot"
+      },
+      {
+        "id": "ad1366ZihfU",
+        "title": "Управляемая камера, Пермь, \"Пермская ярмарка\" | Live camera at Perm Expo with AI Chatbot"
+      }
+    ]
   },
   {
     "id": "UCWOITAxCnS0V8h7lNJkHpdQ",
@@ -12115,7 +12170,20 @@
     "id": "UCgrNz-aDmcr2uuto8_DL2jg",
     "handle": "@cgtn",
     "name": "CGTN",
-    "videos": []
+    "videos": [
+      {
+        "id": "SDg_xaF8sSI",
+        "title": "View of Tel Aviv skyline"
+      },
+      {
+        "id": "16BVRih3vHI",
+        "title": "View of Beirut skyline"
+      },
+      {
+        "id": "BOy2xDU1LC8",
+        "title": "🔴 Watch CGTN LIVE 24/7 #CGTNLIVE"
+      }
+    ]
   },
   {
     "id": "UCgsyoNE1PH6nQmmSICtzFMA",
@@ -12587,7 +12655,12 @@
     "id": "UCikz0RCl6lSQ2m8JTZpQ6jw",
     "handle": "@StBridesSpaHotelSaundersfoot",
     "name": "St Brides Spa Hotel",
-    "videos": []
+    "videos": [
+      {
+        "id": "gDbUG0oE0Dk",
+        "title": "St Brides Spa Hotel, Saundersfoot Live Webcam"
+      }
+    ]
   },
   {
     "id": "UCj-Xm8j6WBgKY8OG7s9r2vQ",
@@ -13499,12 +13572,7 @@
     "id": "UClSdxxEoPbpZHrujhfQcdow",
     "handle": "@castrostreetcam2549",
     "name": "Castro Street Cam 2",
-    "videos": [
-      {
-        "id": "-GXFp7nedi8",
-        "title": "Castro Street Cam 2 Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UClcicFOBsxXQxaQnT1RshJg",
@@ -15178,6 +15246,126 @@
     "name": "CCTV DISHUB KAB. DEMAK",
     "videos": [
       {
+        "id": "Poe-SFqJudU",
+        "title": "🔴[LIVE CCTV] JL. PANTURA ONGGORAWE JEMBATAN [1] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "TeIF-19D2fc",
+        "title": "🔴[LIVE CCTV] JL. PANTURA SAYUNG DEMAK [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "juwNAQvciCY",
+        "title": "🔴[LIVE CCTV] JL. PANTURA SAYUNG DEMAK [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "Sifo6OUl9EQ",
+        "title": "🔴[LIVE CCTV]  EXIT TOL JL. LINGKAR DEMAK [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "UBpyrHqLs6M",
+        "title": "🔴[LIVE CCTV] DEPAN KANTOR DINAS PERHUBUNGAN KABUPATEN DEMAK [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "Y_CXDmoV_AM",
+        "title": "🔴[LIVE CCTV] PEREMPATAN PASAR MRANGGEN FIX [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "J2t_IbF2aT4",
+        "title": "🔴[LIVE CCTV] PEREMPATAN PASAR MRANGGEN PTZ [00] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "Uk5C3QtwY14",
+        "title": "🔴[LIVE CCTV] TRAFFIC LIGHT JL. LINGKAR JOGOLOYO DEMAK [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "C9WiZN5sayI",
+        "title": "🔴[LIVE CCTV] PERTIGAAN MINTRENG KEBONAGUNG [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "9WnxYFnRYwc",
+        "title": "🔴[LIVE CCTV] PERTIGAAN MINTRENG KEBONAGUNG [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "NzFphxcoWI0",
+        "title": "🔴[LIVE CCTV] SIMPANG DEGEGA MIJEN [03] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "zOhQIws_ThU",
+        "title": "🔴[LIVE CCTV] SIMPANG DEGEGA MIJEN [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "ivwhtTVLt4A",
+        "title": "🔴[LIVE CCTV] SIMPANG DEGEGA MIJEN [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "Ryi-DaEXRWs",
+        "title": "🔴[LIVE CCTV] PEREMPATAN TUGU PAMONGAN GUNTUR [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "nJNY-x2m4kE",
+        "title": "🔴[LIVE CCTV] PEREMPATAN TUGU PAMONGAN GUNTUR [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "WSLIJBOnrkI",
+        "title": "🔴[LIVE CCTV] PERBATASAN DEMAK GROBOGAN (GODONG) [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "gU4yTTuEBsE",
+        "title": "🔴[LIVE CCTV] PERBATASAN DEMAK GROBOGAN (GODONG) [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "RmnedCk-tM0",
+        "title": "🔴[LIVE CCTV] JEMBATAN TUGU KEDUNGMUTIH [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "UR8hKST_KDI",
+        "title": "🔴[LIVE CCTV] JEMBATAN TUGU KEDUNGMUTIH [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "CaWTQtL6UYw",
+        "title": "🔴[LIVE CCTV] SIMPANG 6 ALUN-ALUN PARKIRAN TIC [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "iJpV38xhxbE",
+        "title": "🔴[LIVE CCTV] SIMPANG 6 ALUN-ALUN PARKIRAN TIC [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "Uwklt46Y1Io",
+        "title": "🔴[LIVE] JL. PANTURA DEPAN PUSKESMAS GAJAH [2] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "YMZD2yaRevA",
+        "title": "🔴[LIVE] JL. PANTURA DEPAN PUSKESMAS GAJAH [1] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "6CgkZNkyX9s",
+        "title": "🔴[LIVE] PEREMPATAN DESA BUNGO TEMPEL [3] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "jITTvLxkKqY",
+        "title": "🔴[LIVE] PEREMPATAN DESA BUNGO TEMPEL [2] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "eCqlWszEOAo",
+        "title": "🔴[LIVE] PEREMPATAN DESA BUNGO TEMPEL [1] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "BD30mgC9OZM",
+        "title": "🔴[LIVE CCTV] PERTIGAAN GENENG MIJEN [02] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "uWIXcEuVf7c",
+        "title": "🔴[LIVE CCTV] PERTIGAAN GENENG MIJEN [01] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "RNCO4rRTZJo",
+        "title": "🔴[LIVE CCTV] JL. PANTURA DEPAN SMP KARANGTENGAH [2] by DISHUB KAB. DEMAK"
+      },
+      {
+        "id": "iskg6Qs2VWs",
+        "title": "🔴[LIVE CCTV] JL. PANTURA DEPAN SMP KARANGTENGAH [1] by DISHUB KAB. DEMAK"
+      },
+      {
         "id": "HvM2dCwvOSw",
         "title": "🔴[LIVE CCTV] SIMPANG MAKAM PAHLAWAN [03] by DISHUB KAB. DEMAK"
       },
@@ -16534,7 +16722,12 @@
     "id": "UCuoENUqNd-EXgac6EmKr-Gg",
     "handle": "@vukislunj7814",
     "name": "Vuki Slunj",
-    "videos": []
+    "videos": [
+      {
+        "id": "nmGp7jed2pQ",
+        "title": "Slunj Vuki LiveCam"
+      }
+    ]
   },
   {
     "id": "UCuoNAKa3P0QR1Lw9QdpmoVg",
@@ -17468,12 +17661,12 @@
     "name": "HANS NATURE CHANNEL",
     "videos": [
       {
-        "id": "OhB2bgfJmZM",
-        "title": "🐦 LIVE: Koolmezen NU aan het Bouwen! Nieuwe Nestkast | Lente 2026"
+        "id": "aIo9F0BK_mA",
+        "title": "🦉 Tawny Owl Night Live | 3 Chicks to Feed! 🐥🐥 Will Dad Owl Hunt Enough Prey Tonight?"
       },
       {
-        "id": "EeIMfdFWJl0",
-        "title": "🦉 Tawny Owl Day Live | All 3 Chicks Here! 🐥 Did Dad Owl Deliver Last Night? YES, Huge Prey Stockpile"
+        "id": "OhB2bgfJmZM",
+        "title": "🐦 LIVE: Koolmezen NU aan het Bouwen! Nieuwe Nestkast | Lente 2026"
       },
       {
         "id": "xLU1BuqezkA",
@@ -17509,12 +17702,7 @@
     "id": "UCyCEeUC3SHdsMP_3bLaYv4w",
     "handle": "@surfsidebeachoceanfronthot4707",
     "name": "Surfside Beach Oceanfront Hotel",
-    "videos": [
-      {
-        "id": "EaYwBsJERv0",
-        "title": "Live Camera Axis P5654-E"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCyJ_WqTXFf1Wx6YiBR9CHxw",
