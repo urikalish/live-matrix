@@ -166,7 +166,16 @@
     "id": "UC-I6QXW30NLYkW2GOMtHxew",
     "handle": "@TresoarBoterhoek1",
     "name": "Tresoar - museum, bibliotheek en archief Fryslân",
-    "videos": []
+    "videos": [
+      {
+        "id": "DPDyHlgJGnY",
+        "title": "Oldehoofsterkerkhof webcam"
+      },
+      {
+        "id": "SjY9wJXBQP8",
+        "title": "Oldehove webcam"
+      }
+    ]
   },
   {
     "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
@@ -1137,6 +1146,14 @@
     "name": "ConexãoDCTV - Oficial",
     "videos": [
       {
+        "id": "E530NVVkFCM",
+        "title": "GOV. CELSO RAMOS SC AO VIVO | PRAIA DE PALMAS – VISTA ARQUIPÉLAGO | CONEXÃODCTV"
+      },
+      {
+        "id": "PpTHQ3MsLZk",
+        "title": "GOV. CELSO RAMOS SC AO VIVO | PRAIA DE CALHEIROS – RESTAURANTE BELA VISTA | CONEXÃODCTV"
+      },
+      {
         "id": "jMKlmxC_VWU",
         "title": "AO VIVO ITAPEMA AGORA -  MEIA PRAIA LOTADA + MAR AO VIVO | IMAGENS INCRÍVEIS 24H | JET PIER"
       },
@@ -1426,12 +1443,7 @@
     "id": "UC4Wd3aS1XKA39dCveZExSkg",
     "handle": "@oneandmoreaviation",
     "name": "One and More Aviation ",
-    "videos": [
-      {
-        "id": "S4AxMp4LzvU",
-        "title": "🔴LIVE Sunday Planespotting Frankfurt Airport Pilot Mitch 👨‍✈️düst nach PUJ"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC4WyazHccYZmCf-rLpAYXtg",
@@ -1663,118 +1675,6 @@
     "name": "PixCams",
     "videos": [
       {
-        "id": "oai5ICev-Ew",
-        "title": "PA Bat Box 1 Live Stream"
-      },
-      {
-        "id": "JQWvjG5arhQ",
-        "title": "PixCams.com Field Cam Live Stream"
-      },
-      {
-        "id": "XfNhPa26fP8",
-        "title": "PixCams.com Wildlife Cam 2 Live Stream"
-      },
-      {
-        "id": "i59UQijZ4-Y",
-        "title": "LujiiGarden Bird Feeder Cam"
-      },
-      {
-        "id": "6--SErd7u4o",
-        "title": "PixCams.com PA Bird Feeder 1 Live Stream"
-      },
-      {
-        "id": "pgMuZvyFw4k",
-        "title": "PixCams.com Wildlife Webcam 1 Live Stream - Natural Bird Bath!"
-      },
-      {
-        "id": "nhffONcy8Eg",
-        "title": "BirdSouls Colombia Bird Feeder 1"
-      },
-      {
-        "id": "mulBUh6Bkl4",
-        "title": "WLT Schwarz Barn Big Brown Bat Colony Cam 1"
-      },
-      {
-        "id": "ptILtJCyVm0",
-        "title": "WLT Schwarz Barn Big Brown Bat Colony Cam 2"
-      },
-      {
-        "id": "wX8FzSylyrc",
-        "title": "WLT Bat Box 2 - Exit View"
-      },
-      {
-        "id": "zZ9gvrVfkCU",
-        "title": "WLT Bat Box 2 - Top View"
-      },
-      {
-        "id": "M_MnriRVIUc",
-        "title": "PixCams.com PA Bird Feeder 3 - Close-up View!"
-      },
-      {
-        "id": "a-IydWw-VXM",
-        "title": "PixCams.com PA Bird Feeder 2 Live Stream"
-      },
-      {
-        "id": "mhDwzP8UHF4",
-        "title": "Ott Family Bald Eagle Nest Camera: Eaglet Goody! - Hatched 3/18"
-      },
-      {
-        "id": "9njkml1oQRQ",
-        "title": "U. S. Steel Bald Eagle Camera Live Stream - Cam 2 - USS nest with Monongahela River in background"
-      },
-      {
-        "id": "2fk5Ot_HI7g",
-        "title": "PixCams.com MCP Wetlands - Purple Martin House"
-      },
-      {
-        "id": "ogUiSSpNIs4",
-        "title": "Iroquois National Wildlife Refuge Bald Eagle Camera"
-      },
-      {
-        "id": "dDIfhPXn_-c",
-        "title": "USS Bald Eagle Nest Cam"
-      },
-      {
-        "id": "HwepkNOECB8",
-        "title": "Fox Den 2"
-      },
-      {
-        "id": "e3YqN1UwVGI",
-        "title": "PixCams.com Fox Den Cam Live Stream"
-      },
-      {
-        "id": "a83Y5shllLg",
-        "title": "USS Bald Eagle Cam 4 - River view"
-      },
-      {
-        "id": "QvELxkMi--8",
-        "title": "PixCams.com PA Bird Feeder 2 Bottom Cam"
-      },
-      {
-        "id": "qK7xOcTHn5A",
-        "title": "PixCams.com Wildlife Cam 3 Live Stream"
-      },
-      {
-        "id": "JosQdXWDn6g",
-        "title": "PA Bat Box 2 Live Stream"
-      },
-      {
-        "id": "yPq9aNukckQ",
-        "title": "Glen Hazel (Hays) Bald Eagle Camera LIVE CAM - TWO EGGS!"
-      },
-      {
-        "id": "5DlywACQ9qM",
-        "title": "MorainePreservationFund Osprey Cam Live - Dad returned 3/16, Mom returned 3/20"
-      },
-      {
-        "id": "JiE5YlXWnys",
-        "title": "PA Bat Box 2 Live Stream"
-      },
-      {
-        "id": "_1_8X4psoPs",
-        "title": "PixCams.com Migration Optical Camera"
-      },
-      {
         "id": "WLSkgf-dvOI",
         "title": "PixCams.com Migration Thermal Camera"
       },
@@ -1995,32 +1895,7 @@
     "id": "UC659PRLT5K2h7QBLN2Q6Iaw",
     "handle": "@WDTNTV",
     "name": "WDTNTV",
-    "videos": [
-      {
-        "id": "IhgYQteSADM",
-        "title": "Land of Illusion camera"
-      },
-      {
-        "id": "U-IugjfRLGw",
-        "title": "WDTN - Downtown Dayton"
-      },
-      {
-        "id": "USjowslKeZs",
-        "title": "Trotwood, Ohio"
-      },
-      {
-        "id": "D9flnb2pQDc",
-        "title": "WDTN - Beavercreek Camera"
-      },
-      {
-        "id": "AG3Ence_UIE",
-        "title": "Springfield, Ohio"
-      },
-      {
-        "id": "trwisNiKjh8",
-        "title": "WDTN - Poe Avenue, Dayton, Ohio"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC67cHSkUieHq2AC8e3pbK0g",
@@ -2252,12 +2127,7 @@
     "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
     "handle": "@pontalnetv",
     "name": "Pontal NeTv e Internet",
-    "videos": [
-      {
-        "id": "t64CXFVzG0I",
-        "title": "Ao Vivo - Arraial do Cabo - RJ"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC6kdM4uR54C72vtsR_mCKHg",
@@ -4536,9 +4406,14 @@
   },
   {
     "id": "UCCEo1hxcfQe7p-odS5pEZxg",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@wlgwetaworker",
+    "name": "John Young",
+    "videos": [
+      {
+        "id": "r7qzi_d758w",
+        "title": "Lyall Bay, Wellington, New Zealand - Live Stream"
+      }
+    ]
   },
   {
     "id": "UCCKkM-k16FF8oRKx65fAngQ",
@@ -4557,8 +4432,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "nqCqYwdw2Z8",
-        "title": "【 Archive】 2026-03-30『00:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "_3gfRpiHLWM",
+        "title": "【 Archive】 2026-03-30『03:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -4924,7 +4799,12 @@
     "id": "UCEBeDPgugykNr0t3LvMAGXg",
     "handle": "@LocoMediaGroep",
     "name": "Loco Media Groep",
-    "videos": []
+    "videos": [
+      {
+        "id": "JkKEupWWhdM",
+        "title": "LocoMediaGroep.nl | Webcam Haven Elburg"
+      }
+    ]
   },
   {
     "id": "UCED0EjiTpphqDS4GnLimLyQ",
@@ -5159,12 +5039,7 @@
     "id": "UCEv-PRGxCqlI71jTUrou9uw",
     "handle": "@Martigny-Bourg.webcams",
     "name": "Martigny-Bourg Live Streaming",
-    "videos": [
-      {
-        "id": "GwgM3ppKhK4",
-        "title": "Martigny Bourg Valais webcam live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCEw0F1AUvO6H_awqxI7QbtQ",
@@ -6666,7 +6541,12 @@
     "id": "UCKCzGw8r-dQWkxWTaLvj2qg",
     "handle": "@portst-laurent-du-varyci3661",
     "name": "PORT ST-LAURENT-DU-VAR YCI",
-    "videos": []
+    "videos": [
+      {
+        "id": "-YCik12XBxQ",
+        "title": "Diffusion  en direct de PORT SAINT LAURENT DU VAR Yci"
+      }
+    ]
   },
   {
     "id": "UCKGyGK964U4Yd71WqBkvImA",
@@ -7433,16 +7313,7 @@
     "id": "UCNfSLmqoe1-kVs0aIsw13fg",
     "handle": "@realclubnauticodesalinas1958",
     "name": "REAL CLUB NAUTICO DE SALINAS",
-    "videos": [
-      {
-        "id": "A5tyJOvWpsA",
-        "title": "Webcam Nautico Salinas Oeste"
-      },
-      {
-        "id": "doNsXrJHErU",
-        "title": "Webcam Nautico Salinas Este"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCNi03mB7Nme5qbCQVt8XMHQ",
@@ -7588,12 +7459,7 @@
     "id": "UCOGzru-qFCrrpRUStnnCjfg",
     "handle": "@hollandheimau8978",
     "name": "Hollandheim Au",
-    "videos": [
-      {
-        "id": "JekBM4fw5N0",
-        "title": "Webcam Hollandheim AU"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCORHd1urdBsokSftmLlrRMg",
@@ -8388,10 +8254,6 @@
         "title": "Kulakkaya Yaylası Canlı Yayın Kamera 2"
       },
       {
-        "id": "dGyP4smfrQg",
-        "title": "KULAKKAYA YAYLASI CANLI YAYIN CAMERA 4"
-      },
-      {
         "id": "yRL_2Z1vmb4",
         "title": "Giresun Alucra Pazar Yeri Canlı Yayın"
       },
@@ -8414,10 +8276,6 @@
       {
         "id": "YfHn6JRF4gg",
         "title": "Yağlıdere Canlı Yayın Camera 1"
-      },
-      {
-        "id": "J4Y6jGdhVBI",
-        "title": "Bulancak Dikmen Tepesi Canlı Yayın"
       },
       {
         "id": "koJlCeymZZA",
@@ -8530,10 +8388,6 @@
       {
         "id": "-mh_TorxmF4",
         "title": "Güce Canlı Yayın Otogar"
-      },
-      {
-        "id": "Agz5oohcDHM",
-        "title": "Boztekke Köyü Canlı Yayın Hareketli Kamera"
       },
       {
         "id": "HT1iyT4W2k0",
@@ -8711,7 +8565,20 @@
     "id": "UCS8ZQejq2CL-nZcnRWZCA5Q",
     "handle": "@KBCnewsCH",
     "name": "KBC NEWS in JAPAN",
-    "videos": []
+    "videos": [
+      {
+        "id": "uuMhOREzUYA",
+        "title": "【ライブカメラ】福岡空港　Fukuoka Airport　＆他ライブカメラ"
+      },
+      {
+        "id": "4hpUbFP13-M",
+        "title": "KBC NEWS LIVE 24～福岡・佐賀の最新ニュースを24時間配信～"
+      },
+      {
+        "id": "8RyR0J8zbbU",
+        "title": "【ライブカメラ】ＪＲ博多駅前　【福岡市】Hakata Station in FUKUOKA"
+      }
+    ]
   },
   {
     "id": "UCSAF80kTDcFOxEUrx0lsrmw",
@@ -8811,7 +8678,12 @@
     "id": "UCSlFpHBSl-eWWJlbt1gKq4Q",
     "handle": "@ShoalsMarineLab",
     "name": "Shoals Marine Laboratory",
-    "videos": []
+    "videos": [
+      {
+        "id": "CyA5V1gFVTY",
+        "title": "Appledore Island Live"
+      }
+    ]
   },
   {
     "id": "UCSn-iTElOxGzTbyPvog45oA",
@@ -9438,10 +9310,6 @@
     "handle": "@djumacam",
     "name": "Djuma Cam",
     "videos": [
-      {
-        "id": "r9lwMCwnna0",
-        "title": "Djuma Cam Live Stream"
-      },
       {
         "id": "Yhi6KPL4Lmk",
         "title": "Djuma Ad Free Members Stream"
@@ -12304,12 +12172,7 @@
     "id": "UChRn7rTISPmDpgXdnMFBCzw",
     "handle": "@koninklijkeyachtclubnieuwp7311",
     "name": "Koninklijke Yacht Club Nieuwpoort",
-    "videos": [
-      {
-        "id": "-8zyE7U-5Ws",
-        "title": "Livestream Koninklijke Yacht Club Nieuwpoort"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCha0QKR45iw7FCUQ3-1PnhQ",
@@ -13572,7 +13435,12 @@
     "id": "UClSdxxEoPbpZHrujhfQcdow",
     "handle": "@castrostreetcam2549",
     "name": "Castro Street Cam 2",
-    "videos": []
+    "videos": [
+      {
+        "id": "-GXFp7nedi8",
+        "title": "Castro Street Cam 2 Live Stream"
+      }
+    ]
   },
   {
     "id": "UClcicFOBsxXQxaQnT1RshJg",
@@ -13806,12 +13674,7 @@
     "id": "UCmSsdXm7F8CWlOODXSzANsg",
     "handle": "@ZeroEight",
     "name": "ZeroEight",
-    "videos": [
-      {
-        "id": "4wAQ-0tFXf0",
-        "title": "LIVE 4K South Beach, Miami Beach  24/7 Street Cam on Collins Ave"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCmXB98lpzelFrlryV2llXUQ",
@@ -15657,12 +15520,7 @@
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
     "handle": "@HawickTV",
     "name": "Hawick TV",
-    "videos": [
-      {
-        "id": "HfSnW_OS1fU",
-        "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCqaZDUY_3goAaCsMLqVyJPw",
@@ -15734,7 +15592,7 @@
     "name": "Live Trento H24 - Piazza Duomo",
     "videos": [
       {
-        "id": "PcnwgZ9jC68",
+        "id": "gYjfeCN0imY",
         "title": "Trento live cam - centro città (Piazza Duomo)"
       }
     ]
@@ -16213,14 +16071,9 @@
   },
   {
     "id": "UCt01tczohsGmH6X6csUS6iQ",
-    "handle": "@aguasdecadiz5312",
-    "name": "Aguas de Cádiz",
-    "videos": [
-      {
-        "id": "0dKNLFFcHFU",
-        "title": "Aguas de Cádiz - Fuente de la plaza de Sevilla"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCt6LB-BvEmDm-oWbe_TO7mw",
@@ -16409,10 +16262,6 @@
       {
         "id": "Dh7wdQWEZ_w",
         "title": "Câmera ao vivo Praia de Palmas - Governador Celso Ramos SC - Pirata Pousada"
-      },
-      {
-        "id": "GO6f9JK9IGI",
-        "title": "Foz do Iguaçu ao vivo - Aduana - Estacionamento Tupy"
       },
       {
         "id": "Ddq6uOSA5ug",
@@ -17181,12 +17030,7 @@
     "id": "UCwgTQPAmGjWLoTVM8bg275A",
     "handle": "@paddlersparadise",
     "name": "Paddler&#39;s Paradise",
-    "videos": [
-      {
-        "id": "T0oUufecXeE",
-        "title": "Deep Cove, Vancouver Canada Webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCwh4LBW-FLuLVjD92NL-Cpw",
@@ -17323,12 +17167,7 @@
     "id": "UCxJauSv5BZA7N4dIqPHpy0w",
     "handle": "@Brian-Siu",
     "name": "Hong Kong Taxi Driver - Brian",
-    "videos": [
-      {
-        "id": "2XXon5IRQsY",
-        "title": "🔴 香港的士直播 | Hong Kong Taxi Live | 29/3/2026 🔴"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxXKtAvUNQw5rv9lIU0V4UQ",
@@ -17532,12 +17371,7 @@
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
     "handle": "@flamingf.1562",
     "name": "Flaming Fire",
-    "videos": [
-      {
-        "id": "ZxHoxCpRCb8",
-        "title": "Stockholm city live cam 20260329"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
@@ -17702,7 +17536,12 @@
     "id": "UCyCEeUC3SHdsMP_3bLaYv4w",
     "handle": "@surfsidebeachoceanfronthot4707",
     "name": "Surfside Beach Oceanfront Hotel",
-    "videos": []
+    "videos": [
+      {
+        "id": "EaYwBsJERv0",
+        "title": "Live Camera Axis P5654-E"
+      }
+    ]
   },
   {
     "id": "UCyJ_WqTXFf1Wx6YiBR9CHxw",
