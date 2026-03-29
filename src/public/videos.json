@@ -1626,7 +1626,12 @@
     "id": "UC5PNUCvYkt6PxAmgvAV8x8g",
     "handle": "@CaliPlanes",
     "name": "Cali Planes",
-    "videos": []
+    "videos": [
+      {
+        "id": "fCB6u4myyzY",
+        "title": "KSFO LIVE | MAR 29 , 2026 | SAN FRANCISCO INT AIRPORT  LIVE STREAM WEBCAM IRL"
+      }
+    ]
   },
   {
     "id": "UC5UwWocd9b4F-GdEyJ4SKxA",
@@ -2062,8 +2067,8 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "R7sjRbCjlak",
-        "title": "【LIVE】最新ニュースまとめ（Japan News Digest）（3月29日）｜TBS NEWS DIG"
+        "id": "3tzzkbhRCGI",
+        "title": "【LIVE】朝のニュース（Japan News Digest Live）最新情報など｜TBS NEWS DIG（3月30日）"
       },
       {
         "id": "xG56OVbybio",
@@ -2286,12 +2291,7 @@
     "id": "UC6q_hfBThkGdmQ5Vb4kWjWA",
     "handle": "@FlightFocus365",
     "name": "Flight Focus 365",
-    "videos": [
-      {
-        "id": "lu1hfniyBfs",
-        "title": "Heathrow Airport Live - WINDY Sunday 29th March 2026"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC6qrG3W8SMK0jior2olka3g",
@@ -3327,12 +3327,7 @@
     "id": "UC8qCc7sF9hSjP-U0TiaO5Tw",
     "handle": "@CliffHouseLive",
     "name": "Cliff House Live",
-    "videos": [
-      {
-        "id": "NBVs-F5TVxc",
-        "title": "EL FRONTÓN, PUNTA DE GÁLDAR, GRAN CANARIA, TENERIFE, PAISAJE SONORO"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC8sXqdHFnwpVoOuOZmx1-kw",
@@ -4509,7 +4504,12 @@
     "id": "UCBr4hy5JyHbSlRBYw57GzVA",
     "handle": "@ShephardsBeachResort",
     "name": "Shephard&#39;s Beach Resort",
-    "videos": []
+    "videos": [
+      {
+        "id": "ZL1H-ISxKMA",
+        "title": "Shephard's Beach Resort - Live Stream"
+      }
+    ]
   },
   {
     "id": "UCBt7xuRhIZU_nAm2V2wuB8A",
@@ -4569,8 +4569,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "_3gfRpiHLWM",
-        "title": "【 Archive】 2026-03-30『03:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "-QYBN6oZ5OM",
+        "title": "【 Archive】 2026-03-30『06:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -4818,8 +4818,8 @@
     "name": "Khao Lak Land Discovery",
     "videos": [
       {
-        "id": "Eaz6YHra4Pc",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 30-Mar-2026 00:07"
+        "id": "kbY064PGnts",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 30-Mar-2026 04:34"
       }
     ]
   },
@@ -5706,7 +5706,72 @@
     "id": "UCH6yrzWLfdQUyA5wwYSVjHA",
     "handle": "@mallorca-webcam",
     "name": "Mallorca Webcam",
-    "videos": []
+    "videos": [
+      {
+        "id": "3O5cMSRc6CM",
+        "title": "🌞 Mallorca Webcam Live Weather Cam Port d'Andratx / Cala Llamp 4K UHD #Mallorca  #BeachClub #Weather"
+      },
+      {
+        "id": "4VAvvsBeV9Y",
+        "title": "🌞 Mallorca Webcam Paguera Cala Fornells | 4K UHD | 24/7 Stream |  #Mallorca #Calvia #Balearics"
+      },
+      {
+        "id": "1JQ7K6yZWYs",
+        "title": "🌞🌊 Mallorca Webcam Playa Palmira / Rendezvous Garden Paguera | 4K | #Balearics #Mallorca #Livestream"
+      },
+      {
+        "id": "DKnhcTwSkJs",
+        "title": "🌞 🌊 Mallorca Webcam Playa Palmira Rendezvous Garden Paguera 4K 180° #Balearics #Mallorca #Livestream"
+      },
+      {
+        "id": "Qkf5KlpCrEU",
+        "title": "🌅 Mallorca Webcam Port d'Andratx 4K UHD 24/7 Live  #PortAndratx #Weather #Mallorca #Balearics"
+      },
+      {
+        "id": "RPTEW6-Dau0",
+        "title": "🌅 Mallorca Webcam Port d’Andratx – House of Sunset 24/7  4K UHD 🌊 #PortAndratx #weather  #livestream"
+      },
+      {
+        "id": "JGN3p2GZ45U",
+        "title": "🌞🌊 Mallorca Webcam Magaluf/Palmanova Playa Son Maties 4K UHD|24/7 |#Live #beach  #Balearics #Webcams"
+      },
+      {
+        "id": "AtHeW1Eut7s",
+        "title": "🌤️Mallorca Webcam Tramuntana  LIVE Santa Ponsa Costa de la Calma Weather Cam 24/7 4K UHD #Weather"
+      },
+      {
+        "id": "jG5h0Lq8lwc",
+        "title": "⛳ Mallorca Webcam Golf de Andratx Camp de Mar  🌞🌴 | 4K UHD #Livestream #Mallorca #Balearics #Golf"
+      },
+      {
+        "id": "9svQ7gvPGc0",
+        "title": "🌤️ Mallorca Webcam Weather  Cala Fornells & Paguera | 4K UHD | 24/7 #Mallorca #Weather #Balearics"
+      },
+      {
+        "id": "0ioyYnGw3Bs",
+        "title": "🌞 Mallorca Webcam Weather  Port d'Andratx Harbor View 4K UHD|24/7 #PortAndratx #Balearics #Weather"
+      },
+      {
+        "id": "UWbVMlO_v9U",
+        "title": "🏖️  Mallorca Webcam Sant Elm Beach LIVE 4K – Sa Dragonera • 24/7 #livestream  #beachlive #beach"
+      },
+      {
+        "id": "8hVKqQLart8",
+        "title": "🌞Mallorca Live Webcam 24/7 🌊 Pacific Bay Restaurant | Sea View #MallorcaLive #BeachCam #LiveCam"
+      },
+      {
+        "id": "cx9oNIlBmPo",
+        "title": "🌞Mallorca Webcam Playa 5, Peguera Beach & Restaurant Views 24/7 🌴 #Mallorca #Livestream #summer"
+      },
+      {
+        "id": "Pgjsoeq7iGM",
+        "title": "🌞 Mallorca Webcam Santa Ponsa Beach 4K UHD 24/7 Stream Weather #Mallorca #Calvia #Balearics #Weather"
+      },
+      {
+        "id": "AeFSWxScJ8c",
+        "title": "🌞 Mallorca Webcam Port Adriano El Toro | 4K UHD |  #Mallorca #Livestream #Balearics #Weather #beach"
+      }
+    ]
   },
   {
     "id": "UCH9JbKmqTI6gwhA4ghl32FQ",
@@ -6019,6 +6084,10 @@
     "name": "Steel Highway Railcams",
     "videos": [
       {
+        "id": "MCpKnjA7SMg",
+        "title": "Pacific, MO, USA | UPRR Jefferson City Sub MP 34.91 | BNSF Cuba Sub MP 34.6"
+      },
+      {
         "id": "wx1tq904pCg",
         "title": "Grandy Brass Rail Live Railcam - Grandy, MN  #steelhighway"
       },
@@ -6113,10 +6182,6 @@
       {
         "id": "1ECOB_BQ734",
         "title": "Junction City, WI Live Railcam - Brian & Wendy's Hiawatha #steelhighway"
-      },
-      {
-        "id": "K70jTDrEePk",
-        "title": "Pacific, MO, USA | UPRR Jefferson City Sub MP 34.91 | BNSF Cuba Sub MP 34.6"
       },
       {
         "id": "W5U8q2pi0Ck",
@@ -6544,7 +6609,12 @@
     "id": "UCJXClwfIZPEf-FC_NVMKQCQ",
     "handle": "@ChampaignAviationMuseum",
     "name": "Champaign Aviation Museum",
-    "videos": []
+    "videos": [
+      {
+        "id": "8UhtHs7HyT4",
+        "title": "B-17 Flying Fortress restoration Live Stream"
+      }
+    ]
   },
   {
     "id": "UCJizf5PzUJ88hro1m-cUcSA",
@@ -8001,16 +8071,7 @@
     "id": "UCQLT4LXXR7FZM0J6u62hwyQ",
     "handle": "@yllasskisouth",
     "name": "Ylläs Ski Resort, Ylläsjärvi",
-    "videos": [
-      {
-        "id": "5Oda5wfGpvw",
-        "title": "Ylläs Ski Resort – Huippukamera LIVE"
-      },
-      {
-        "id": "PeLTbbI2i6U",
-        "title": "Ylläs Ski Resort | Gondolin ala-asema"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCQVre66peaZxhdvfIE1Ahxw",
@@ -8394,14 +8455,6 @@
       {
         "id": "Rg76unZSyEA",
         "title": "Giresun Meydan Canlı Yayın Kamera 1"
-      },
-      {
-        "id": "jsNCKXllkGE",
-        "title": "Doğankent Canlı Yayın Kamera 2"
-      },
-      {
-        "id": "VlQr0iLtx4Y",
-        "title": "Doğankent Canlı Yayın Kamera 1"
       },
       {
         "id": "7IYJIq0uZ-4",
@@ -9217,7 +9270,12 @@
     "id": "UCVR1W8BAC5bUrsvi0IdqDPg",
     "handle": "@ptdcrvenivrh",
     "name": "PTD Crveni vrh",
-    "videos": []
+    "videos": [
+      {
+        "id": "8_oxQplx7Xg",
+        "title": "LIVE🔴 WebCam 24/7 🏝️Crveni vrh"
+      }
+    ]
   },
   {
     "id": "UCVRs8dYm9OH-_g4V84BfbQw",
@@ -9979,7 +10037,12 @@
     "id": "UC_9dsRFZiS87yepdO4Qc9Ng",
     "handle": "@MiamiRiverCam",
     "name": "Miami River Camera ",
-    "videos": []
+    "videos": [
+      {
+        "id": "7wHgYc_kN98",
+        "title": "Miami River Camera"
+      }
+    ]
   },
   {
     "id": "UC_B1lpgj2DH_wO8T1jJnSYA",
@@ -10759,7 +10822,12 @@
     "id": "UCcCXppxPeV4-xBKIwZXCQMQ",
     "handle": "@wahoobaypompano",
     "name": "Wahoo Bay",
-    "videos": []
+    "videos": [
+      {
+        "id": "oBTGY6Ax870",
+        "title": "Wahoo Bay Underwater Camera"
+      }
+    ]
   },
   {
     "id": "UCcDDEzMRly4_FRH3LxOpDNQ",
