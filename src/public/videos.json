@@ -743,6 +743,10 @@
     "name": "Char Dham Yatra Live",
     "videos": [
       {
+        "id": "EdjZ9rjGwiA",
+        "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
+      },
+      {
         "id": "5OKfMjGSbto",
         "title": "🔴Live Darshan - Shree Mahakaleshwar Temple Ujjain (महाकालेश्वर मंदिर के लाइव दर्शन) !"
       },
@@ -1357,24 +1361,7 @@
     "id": "UC3yyv3A3atZf0d0ybFMrhbw",
     "handle": "@airplane_live",
     "name": "Airplane Live",
-    "videos": [
-      {
-        "id": "97RfczNmY7s",
-        "title": "✈️ RE-Live Planespotting at Frankfurt Airport – B747 Paradise Takeoffs & Landings - FRA - EDDF"
-      },
-      {
-        "id": "1CRXoZI-Wdo",
-        "title": "✈️ RE-LIVE Planespotting Munich Airport MUC | Heavy Landings & Takeoffs | A380, A350, B777 Close-Ups"
-      },
-      {
-        "id": "11INCtK6uiA",
-        "title": "✈️ RE-Live New York Planespotting with Highlights  (JFK) Airport!  #planespotting #twahotel"
-      },
-      {
-        "id": "C7gwOwqHpWo",
-        "title": "RE-Live Planespotting at Mallorca (PMI) & Tenerife TFS  SPAIN Landings & Takeoffs | #tfs  #avgeek"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC42NA-aQL2aSFs-9cI9KQjA",
@@ -1392,6 +1379,10 @@
     "handle": "@puentesinternacionalespn",
     "name": "La Casa del Senador",
     "videos": [
+      {
+        "id": "dtiy2TNOEds",
+        "title": "Puente Internacional 2: Piedras Negras, Coahuila y Eagle Pass, Texas | VISTA ADICIONAL"
+      },
       {
         "id": "dqtJLtkn_g8",
         "title": "Puentes Internacionales de Piedras Negras, Coahuila y Eagle Pass, Texas."
@@ -1550,20 +1541,7 @@
     "id": "UC52X5wxOL_s5yw0dQk7NtgA",
     "handle": "@AssociatedPress",
     "name": "Associated Press",
-    "videos": [
-      {
-        "id": "_Vv6PQAcI_4",
-        "title": "LIVE: NASA press conference on Artemis II moon launch preparations"
-      },
-      {
-        "id": "MiKMFyhSQSc",
-        "title": "LIVE: Tel Aviv skyline as Iran war continues"
-      },
-      {
-        "id": "TboCZbNEJ2E",
-        "title": "LIVE: Beirut skyline view as Israel invades southern Lebanon"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC5Dy3WsfZw5AQxnamT0d0ow",
@@ -2956,10 +2934,6 @@
         "title": "Ski Resort Webcams - LIVE from New England"
       },
       {
-        "id": "qooheuTYNbU",
-        "title": "Boston Weather Cam, MA Live Cam - Green Line"
-      },
-      {
         "id": "bys52kM3Nzc",
         "title": "Live from Portsmouth, New Hampshire - Strawbery Banke Museum"
       },
@@ -3034,14 +3008,6 @@
       {
         "id": "49WtyN1V1ZQ",
         "title": "Boston Harbor, Massachusetts - Live - Hyatt Regency Boston Harbor"
-      },
-      {
-        "id": "rjyNLYKDYfQ",
-        "title": "Boston Weather Cam, MA Live Cam - City of Boston"
-      },
-      {
-        "id": "FcpsdpQ0xKg",
-        "title": "Boston Weather Cam, Massachusetts - Live Cam - Charles River"
       },
       {
         "id": "1KRkdgPn8kY",
@@ -3298,7 +3264,12 @@
     "id": "UC8sXqdHFnwpVoOuOZmx1-kw",
     "handle": "@TICJezersko",
     "name": "TIC Jezersko",
-    "videos": []
+    "videos": [
+      {
+        "id": "z-zfvszDEvo",
+        "title": "Panoramska kamera Jezersko"
+      }
+    ]
   },
   {
     "id": "UC8t7FI3O7_NV9ucGWKz2D4Q",
@@ -3918,7 +3889,12 @@
     "id": "UCBSkHglhgTDIPA-m_NVEN6w",
     "handle": "@alletevideo8975",
     "name": "ALLETE Video",
-    "videos": []
+    "videos": [
+      {
+        "id": "gX1exrdM5rE",
+        "title": "Lake Cam"
+      }
+    ]
   },
   {
     "id": "UCBWgewoUjqDBEW4kEnh78OA",
@@ -4719,7 +4695,12 @@
     "id": "UCDKFXJj-c-CL7dLBbLBs4ew",
     "handle": "@jupiterreefclub637",
     "name": "Jupiter ReefClub",
-    "videos": []
+    "videos": [
+      {
+        "id": "1FYgBpkM7SA",
+        "title": "Jupiter Reef Club Live Webcam"
+      }
+    ]
   },
   {
     "id": "UCDL2IVxAgPI7wybiUlQKrWg",
@@ -4762,7 +4743,12 @@
     "id": "UCDQ9-OMttGoiRHzLrg-xKRA",
     "handle": "@KhaoLakLandDiscovery",
     "name": "Khao Lak Land Discovery",
-    "videos": []
+    "videos": [
+      {
+        "id": "o1hQXktUMZc",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 31-Mar-2026 05:02"
+      }
+    ]
   },
   {
     "id": "UCDUMVSw1K-ejDIoMe1fvF2Q",
@@ -6878,10 +6864,6 @@
     "name": "NASA",
     "videos": [
       {
-        "id": "VL3AyQ766vc",
-        "title": "NASA's Artemis II L-2 Countdown Status News Conference (March 30, 2026)"
-      },
-      {
         "id": "NaJklsJonD4",
         "title": "NASA's Artemis II Live Views from Kennedy Space Center"
       },
@@ -7095,24 +7077,7 @@
     "id": "UCLflkLoWswRotf_6RpK1chw",
     "handle": "@wagenborgpassagiersdienste5155",
     "name": "Wagenborg Passagiersdiensten",
-    "videos": [
-      {
-        "id": "uHPZ17qA85w",
-        "title": "Live: Terminal Schiermonnikoog"
-      },
-      {
-        "id": "p-yHGFFwxq8",
-        "title": "Live: Terminal Holwert"
-      },
-      {
-        "id": "E4pdAYOGBXA",
-        "title": "Live: Terminal Lauwersoog"
-      },
-      {
-        "id": "PbmJE6jGgJ0",
-        "title": "Live: Terminal Nes - Ameland"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCLm4NMiRgEwOAwY-tapTQag",
@@ -7207,12 +7172,7 @@
     "id": "UCMBWDPHTwn0NTN-a4imOrIA",
     "handle": "@HalePauHanaBeachResortKihei",
     "name": "The Hale Pau Hana",
-    "videos": [
-      {
-        "id": "hPvl6IACa2k",
-        "title": "The Hale Pau Hana Surf Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCMFelGB_bqxw2VGv08MQOrg",
@@ -7451,7 +7411,12 @@
     "id": "UCNmyncaMP2S_BqeW-FuDL2w",
     "handle": "@villageofgreendalewi",
     "name": "Village of Greendale, Wisconsin",
-    "videos": []
+    "videos": [
+      {
+        "id": "ADsY4BQWZOU",
+        "title": "Broad Street Live Stream"
+      }
+    ]
   },
   {
     "id": "UCNtk27lhMLvrwXc2n-rRgUg",
@@ -7601,24 +7566,7 @@
     "id": "UCOlB4c8jh9f2T6u3A08T9mA",
     "handle": "@southdakotaminescameras",
     "name": "South Dakota Mines Cameras",
-    "videos": [
-      {
-        "id": "BXIlwGtLPTc",
-        "title": "South Dakota Mines Quad Cam"
-      },
-      {
-        "id": "0so_l_Vhtb4",
-        "title": "South Dakota School of Mines and Technology (SDSM&T) Campus Overview Camera"
-      },
-      {
-        "id": "qKyyGjW0Duk",
-        "title": "South Dakota Mines Nucor Mineral Industries Building - North Side View"
-      },
-      {
-        "id": "6lYoPExcOwg",
-        "title": "South Dakota School of Mines and Technology's (SDSM&T) Dino Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCOmgpmAnXKSPVEWWK_5Cd-Q",
@@ -8087,7 +8035,12 @@
     "id": "UCQmlVF-VRx75AflM-9gJytg",
     "handle": "@HvarLive",
     "name": "Hvar Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "0wHWHAFnNh0",
+        "title": "Hvar, Croatia ☀ LIVE 24/7 WebCam"
+      }
+    ]
   },
   {
     "id": "UCQpBNfc0tMfCAMz15fFV9bw",
@@ -8385,10 +8338,6 @@
       {
         "id": "8iTvvFxYgxg",
         "title": "Paşakonağı Yaylası Canlı Yayın Kamera 1"
-      },
-      {
-        "id": "Q7oOR9HpjKI",
-        "title": "Kızıltaş Köyü Canlı Yayın Camera 2"
       },
       {
         "id": "VZYiycLsicU",
@@ -8698,7 +8647,12 @@
     "id": "UCSn-iTElOxGzTbyPvog45oA",
     "handle": "@neptunecamlivefeed",
     "name": "NeptuneCam1 Neptune",
-    "videos": []
+    "videos": [
+      {
+        "id": "q0h0nwsJ6EY",
+        "title": "Neptune Luxury Resort  Webcamera"
+      }
+    ]
   },
   {
     "id": "UCSsQ9sUrJxJTZgsBVevamJQ",
@@ -8989,7 +8943,28 @@
     "id": "UCUaLy1_4rsLo4HyCLCPlD4g",
     "handle": "@LanzaroteWebcam",
     "name": "LanzaroteWebcam",
-    "videos": []
+    "videos": [
+      {
+        "id": "AfD16cDYBbE",
+        "title": "LIVE 🔴 WEBCAM from PUERTO del CARMEN BEACH - (Lanzarote, Canary Islands, Spain)"
+      },
+      {
+        "id": "BRXBUNi2J78",
+        "title": "LIVE 🔴 WEBCAM from FUERTEVENTURA AIRPORT - (Canary Islands, Spain)"
+      },
+      {
+        "id": "yrx0fvj-4QI",
+        "title": "LIVE 🔴 WEBCAM from TENERIFE AIRPORT - (Canary Islands, Spain)"
+      },
+      {
+        "id": "JMFFi4Ma5M4",
+        "title": "LIVE 🔴 WEBCAM from FUERTEVENTURA AIRPORT (Canary Islands, Spain)"
+      },
+      {
+        "id": "AAlo3eCPVbk",
+        "title": "LIVE 🔴 WEBCAM from LANZAROTE AIRPORT - (Canary Islands, Spain)"
+      }
+    ]
   },
   {
     "id": "UCUmvxPTUfflU3v_mcRNGAeg",
@@ -9018,6 +8993,10 @@
     "handle": "@VacationMB",
     "name": "Vacation Myrtle Beach",
     "videos": [
+      {
+        "id": "NteJBT0LZj8",
+        "title": "Ocean Creek Resort Myrtle Beach Sunset 03/30/2026"
+      },
       {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
@@ -9352,7 +9331,12 @@
     "id": "UCWsoep0hJKhGbYosMeQIyXA",
     "handle": "@Now4Rent",
     "name": "Now4Rent",
-    "videos": []
+    "videos": [
+      {
+        "id": "Gd9d4q6WvUY",
+        "title": "Now4Rent.NL | Amsterdam De Dam | Pan Tilt Zoom Camera | Ultra HD (4K)"
+      }
+    ]
   },
   {
     "id": "UCWtwhsqQXogkkQEFBrFwwRA",
@@ -10953,7 +10937,12 @@
     "id": "UCdV_1HeYSkwgNM-L4eIQ7AA",
     "handle": "@bredbandikristianstad",
     "name": "Bredband i Kristianstad AB",
-    "videos": []
+    "videos": [
+      {
+        "id": "v7wWIO7brSM",
+        "title": "Stora torg, Kristianstad"
+      }
+    ]
   },
   {
     "id": "UCdfw60990QmqjbMWDvfddLg",
@@ -15605,12 +15594,7 @@
     "id": "UCrr1vVhuKmB5pUV6eCilRMQ",
     "handle": "@portalbernihq",
     "name": "Port Alberni Live Webcam",
-    "videos": [
-      {
-        "id": "K1uuRIEsvAk",
-        "title": "Port Alberni Harbour Quay, BC"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCrrkptlW7UtbiUHFjdsfKPg",
@@ -16846,6 +16830,10 @@
     "name": "Mad River Valley TV",
     "videos": [
       {
+        "id": "MaSphEF37Ac",
+        "title": "Waitsfield Selectboard 3-30-26"
+      },
+      {
         "id": "IB55Ni_wJcQ",
         "title": "Vermont Covered Bridge Webcam in HD from the Mad River Valley 🌨️⛷️"
       }
@@ -17461,7 +17449,16 @@
     "id": "UCy9ww22FuUlXd0c6B8INJVQ",
     "handle": "@inc8774",
     "name": "チャンネルINC長野 【公式】",
-    "videos": []
+    "videos": [
+      {
+        "id": "-LxeC1RhMrU",
+        "title": "JR長野駅LIVEカメラ（Nagano Station Live Cam）INC長野ケーブルテレビ"
+      },
+      {
+        "id": "HvJdPF46kak",
+        "title": "善光寺LIVEカメラ（Zenkoji Temple Live Cam)　INC長野ケーブルテレビ"
+      }
+    ]
   },
   {
     "id": "UCyC-ZovqS5MD-A9Iz0f8RAw",
@@ -17888,20 +17885,7 @@
     "id": "UCzq2rnoZ4iC-30wYZkqRrGw",
     "handle": "@Illinois1867",
     "name": "University of Illinois Urbana-Champaign",
-    "videos": [
-      {
-        "id": "4PMMSI_p7BE",
-        "title": "Morrow Plots Cam"
-      },
-      {
-        "id": "WyrkXojtRXk",
-        "title": "Quad Cam"
-      },
-      {
-        "id": "0mEf4MbHKDo",
-        "title": "Alma Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCzu3l_vz2bu2xn4bOo3eF_g",
