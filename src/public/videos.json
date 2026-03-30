@@ -407,8 +407,8 @@
     "name": "AVIATION TV",
     "videos": [
       {
-        "id": "vZuQqBhFhl8",
-        "title": "🔴 LIVE 24/7 Lisbon Airport 30.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
+        "id": "k9js8R8MvZ8",
+        "title": "🔴 LIVE 24/7 Lisbon Airport 31.03.2026 • Livestream Plane Spotting • Direto Aeroporto Lisboa"
       }
     ]
   },
@@ -964,20 +964,7 @@
     "id": "UC2Sk0aXLq3ADkH_USGPKT_Q",
     "handle": "@explorebears",
     "name": "Explore Bears &amp; Bison",
-    "videos": [
-      {
-        "id": "2360fnKZcIQ",
-        "title": "Anan Wildlife Observatory Lower Falls and Caves Tongass National Forest powered by EXPLORE.org"
-      },
-      {
-        "id": "T-iBupPtIFw",
-        "title": "Bison Calving - Grasslands National Park powered by EXPLORE.org"
-      },
-      {
-        "id": "tJ0fHAHihPA",
-        "title": "Bison Water Hole - Grasslands National Park powered by EXPLORE.org"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC2TVrVzOCC2xxphLm_03U2A",
@@ -1361,7 +1348,24 @@
     "id": "UC3yyv3A3atZf0d0ybFMrhbw",
     "handle": "@airplane_live",
     "name": "Airplane Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "97RfczNmY7s",
+        "title": "✈️ RE-Live Planespotting at Frankfurt Airport – B747 Paradise Takeoffs & Landings - FRA - EDDF"
+      },
+      {
+        "id": "1CRXoZI-Wdo",
+        "title": "✈️ RE-LIVE Planespotting Munich Airport MUC | Heavy Landings & Takeoffs | A380, A350, B777 Close-Ups"
+      },
+      {
+        "id": "11INCtK6uiA",
+        "title": "✈️ RE-Live New York Planespotting with Highlights  (JFK) Airport!  #planespotting #twahotel"
+      },
+      {
+        "id": "C7gwOwqHpWo",
+        "title": "RE-Live Planespotting at Mallorca (PMI) & Tenerife TFS  SPAIN Landings & Takeoffs | #tfs  #avgeek"
+      }
+    ]
   },
   {
     "id": "UC42NA-aQL2aSFs-9cI9KQjA",
@@ -1541,7 +1545,16 @@
     "id": "UC52X5wxOL_s5yw0dQk7NtgA",
     "handle": "@AssociatedPress",
     "name": "Associated Press",
-    "videos": []
+    "videos": [
+      {
+        "id": "MiKMFyhSQSc",
+        "title": "LIVE: Tel Aviv skyline as Iran war continues"
+      },
+      {
+        "id": "TboCZbNEJ2E",
+        "title": "LIVE: Beirut skyline view as Israel invades southern Lebanon"
+      }
+    ]
   },
   {
     "id": "UC5Dy3WsfZw5AQxnamT0d0ow",
@@ -3342,24 +3355,7 @@
     "id": "UC9UE5PYgoWAgDvIvTkD6dAg",
     "handle": "@poriwebcam",
     "name": "Pori webcam",
-    "videos": [
-      {
-        "id": "n8i3AnhnPXc",
-        "title": "Yyteri, Pori, Finland"
-      },
-      {
-        "id": "3aZNOTRB6lU",
-        "title": "Reposaari, Pori, Finland"
-      },
-      {
-        "id": "KhyuIt7t5pY",
-        "title": "Kirjurinluoto, Pori, Finland"
-      },
-      {
-        "id": "e0tSa2z92mM",
-        "title": "Eteläranta, Pori, Finland"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC9Vpdl7WbXchXZRt5tXPjkg",
@@ -3428,12 +3424,7 @@
     "id": "UC9uLh_yOzgtsoOEUUeYmzcA",
     "handle": "@champlainmarina6590",
     "name": "Champlain Marina",
-    "videos": [
-      {
-        "id": "WYgjhPHIw1k",
-        "title": "Champlain Marina LIVE WEBCam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC9vjLpH4MYgIUTyQT6SnSQQ",
@@ -4728,27 +4719,13 @@
     "id": "UCDPUOq2ADKZwRleMUImX-Ww",
     "handle": "@WeatherEvents",
     "name": "WeatherEvents",
-    "videos": [
-      {
-        "id": "9eKzgA3Af7k",
-        "title": "Aberdour Live Streaming WeatherCam - FifeWeather.co.uk"
-      },
-      {
-        "id": "T09aQp1CqBI",
-        "title": "Lochgelly Live Streaming WeatherCam - FifeWeather.co.uk"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDQ9-OMttGoiRHzLrg-xKRA",
     "handle": "@KhaoLakLandDiscovery",
     "name": "Khao Lak Land Discovery",
-    "videos": [
-      {
-        "id": "o1hQXktUMZc",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 31-Mar-2026 05:02"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDUMVSw1K-ejDIoMe1fvF2Q",
@@ -7077,7 +7054,24 @@
     "id": "UCLflkLoWswRotf_6RpK1chw",
     "handle": "@wagenborgpassagiersdienste5155",
     "name": "Wagenborg Passagiersdiensten",
-    "videos": []
+    "videos": [
+      {
+        "id": "uHPZ17qA85w",
+        "title": "Live: Terminal Schiermonnikoog"
+      },
+      {
+        "id": "p-yHGFFwxq8",
+        "title": "Live: Terminal Holwert"
+      },
+      {
+        "id": "E4pdAYOGBXA",
+        "title": "Live: Terminal Lauwersoog"
+      },
+      {
+        "id": "PbmJE6jGgJ0",
+        "title": "Live: Terminal Nes - Ameland"
+      }
+    ]
   },
   {
     "id": "UCLm4NMiRgEwOAwY-tapTQag",
@@ -7172,7 +7166,12 @@
     "id": "UCMBWDPHTwn0NTN-a4imOrIA",
     "handle": "@HalePauHanaBeachResortKihei",
     "name": "The Hale Pau Hana",
-    "videos": []
+    "videos": [
+      {
+        "id": "hPvl6IACa2k",
+        "title": "The Hale Pau Hana Surf Cam"
+      }
+    ]
   },
   {
     "id": "UCMFelGB_bqxw2VGv08MQOrg",
@@ -7549,7 +7548,12 @@
     "id": "UCOjscjEL-lGZVP-2uooEuCA",
     "handle": "@libraryvideos",
     "name": "East Hampton Library",
-    "videos": []
+    "videos": [
+      {
+        "id": "35JTPpPeL3A",
+        "title": "East Hampton Library Main Street Webcam"
+      }
+    ]
   },
   {
     "id": "UCOkHmC8gMrifs24PrPmTumg",
@@ -7566,7 +7570,24 @@
     "id": "UCOlB4c8jh9f2T6u3A08T9mA",
     "handle": "@southdakotaminescameras",
     "name": "South Dakota Mines Cameras",
-    "videos": []
+    "videos": [
+      {
+        "id": "BXIlwGtLPTc",
+        "title": "South Dakota Mines Quad Cam"
+      },
+      {
+        "id": "0so_l_Vhtb4",
+        "title": "South Dakota School of Mines and Technology (SDSM&T) Campus Overview Camera"
+      },
+      {
+        "id": "qKyyGjW0Duk",
+        "title": "South Dakota Mines Nucor Mineral Industries Building - North Side View"
+      },
+      {
+        "id": "6lYoPExcOwg",
+        "title": "South Dakota School of Mines and Technology's (SDSM&T) Dino Cam"
+      }
+    ]
   },
   {
     "id": "UCOmgpmAnXKSPVEWWK_5Cd-Q",
@@ -8994,10 +9015,6 @@
     "name": "Vacation Myrtle Beach",
     "videos": [
       {
-        "id": "NteJBT0LZj8",
-        "title": "Ocean Creek Resort Myrtle Beach Sunset 03/30/2026"
-      },
-      {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
       },
@@ -9194,7 +9211,7 @@
     "name": "Wickaninnish Inn",
     "videos": [
       {
-        "id": "1OL9VCmOJOg",
+        "id": "0lFZ_odJFJc",
         "title": "Wickaninnish Inn Live Stream [With Audio]"
       }
     ]
@@ -11221,12 +11238,7 @@
     "id": "UCfHv7aRXqCYcNsqKGrQJUIQ",
     "handle": "@firstprescle",
     "name": "The First Presbyterian Church in Cleveland",
-    "videos": [
-      {
-        "id": "9L7EhGU_YY4",
-        "title": "LIVE: #TowerofPower Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCfNWUHvOsckqB-h6OMZBUMg",
@@ -12186,6 +12198,10 @@
     "handle": "@climabcbrazil",
     "name": "CLIMA BC Brazil",
     "videos": [
+      {
+        "id": "yRb6drgg324",
+        "title": "Balneário Camboriú ao vivo - Avenida Atlântica"
+      },
       {
         "id": "cJ1fFGERMwc",
         "title": "Balneário Camboriú ao vivo - Central"
@@ -15594,7 +15610,12 @@
     "id": "UCrr1vVhuKmB5pUV6eCilRMQ",
     "handle": "@portalbernihq",
     "name": "Port Alberni Live Webcam",
-    "videos": []
+    "videos": [
+      {
+        "id": "K1uuRIEsvAk",
+        "title": "Port Alberni Harbour Quay, BC"
+      }
+    ]
   },
   {
     "id": "UCrrkptlW7UtbiUHFjdsfKPg",
@@ -16181,84 +16202,7 @@
     "id": "UCtrwK-DOZGcQo9p1VwIkDZw",
     "handle": "@maaxcamaovivo",
     "name": "Maaxcam Ao Vivo",
-    "videos": [
-      {
-        "id": "6cTL38YvCbg",
-        "title": "Câmera ao vivo Porto de Galinhas - Maracaipe- Pousada La Bella Luna"
-      },
-      {
-        "id": "G-Xx6HlQ9K0",
-        "title": "Praia da Lagoinha do Norte- Florianópolis - Restaurante Canto da Lagoinha"
-      },
-      {
-        "id": "nqZ4s5dK0G0",
-        "title": "Praia Mole  Ao VIVO - Florianópolis - Bar do Boni"
-      },
-      {
-        "id": "CXKCXWiKgew",
-        "title": "Câmera ao Vivo Florianópolis - Praia dos Ingleses - Beach House Bistro&Lounge"
-      },
-      {
-        "id": "iVD75867Tko",
-        "title": "Câmera ao Vivo Florianópolis - Barra da lagoa"
-      },
-      {
-        "id": "v2pgkg12QIo",
-        "title": "Praia de Garopaba Ao Vivo - Kioque Côco Verde"
-      },
-      {
-        "id": "86FPHZLHYIA",
-        "title": "Câmera Ao Vivo Florianópolis - Santo Antônio de Lisboa"
-      },
-      {
-        "id": "vv4LDjPYHtY",
-        "title": "Câmera ao vivo em Florianópolis - Mirante Ilhalguma Lagoa da Conceição"
-      },
-      {
-        "id": "zPf2lh-ZChU",
-        "title": "Câmera ao vivo Praia do Santinho- Florianópolis - Restaurante Mar do Santinho"
-      },
-      {
-        "id": "6MteUqaYuVw",
-        "title": "Câmera ao vivo Florianópolis - Morro das pedras - Graffi Hostel & Bar"
-      },
-      {
-        "id": "TBJzToxEvmk",
-        "title": "Câmera AO VIVO Ponte Hercilio Luz - Florianópolis - Porto 1922 Cafés Especiais"
-      },
-      {
-        "id": "Dh7wdQWEZ_w",
-        "title": "Câmera ao vivo Praia de Palmas - Governador Celso Ramos SC - Pirata Pousada"
-      },
-      {
-        "id": "Ddq6uOSA5ug",
-        "title": "Porto de Galinhas ao vivo - Restaurante La Proa"
-      },
-      {
-        "id": "m32NqSfqjQM",
-        "title": "Câmera ao vivo São José - SC - Beira mar Gol"
-      },
-      {
-        "id": "I2Z8CE0o4F0",
-        "title": "SBFL Live ATC - Aeroporto Internacional de Florianópolis Ao vivo - Com Fonia - CTMEBOX Academia"
-      },
-      {
-        "id": "k9dpUbaMxVc",
-        "title": "Transito Ao Vivo São José/Palhoça -SC - Martelinho de Ouro Farah"
-      },
-      {
-        "id": "h47ThevafH4",
-        "title": "Paraty - Rio de Janeiro - Ao VIVO - BalacoBacco Beach Bar"
-      },
-      {
-        "id": "GFAEq2j3csQ",
-        "title": "Câmera ao Vivo Florianópolis  - Cachoeira do Bom Jesus"
-      },
-      {
-        "id": "EKIDgJrXOLQ",
-        "title": "Câmera ao vivo Jurerê Internacional - Restaurante Caravela"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtyNVinZ7tfjgWoeApTmlkQ",
@@ -16792,10 +16736,6 @@
     "name": "City of Coldwater MI",
     "videos": [
       {
-        "id": "Ka8yGyhZy6g",
-        "title": "City Council"
-      },
-      {
         "id": "yJefbf6d2Vk",
         "title": "Rotary Park"
       },
@@ -16835,7 +16775,7 @@
       },
       {
         "id": "IB55Ni_wJcQ",
-        "title": "Vermont Covered Bridge Webcam in HD from the Mad River Valley 🌨️⛷️"
+        "title": "Vermont Covered Bridge Webcam in HD from the Mad River Valley 🌱"
       }
     ]
   },
@@ -17885,7 +17825,20 @@
     "id": "UCzq2rnoZ4iC-30wYZkqRrGw",
     "handle": "@Illinois1867",
     "name": "University of Illinois Urbana-Champaign",
-    "videos": []
+    "videos": [
+      {
+        "id": "4PMMSI_p7BE",
+        "title": "Morrow Plots Cam"
+      },
+      {
+        "id": "WyrkXojtRXk",
+        "title": "Quad Cam"
+      },
+      {
+        "id": "0mEf4MbHKDo",
+        "title": "Alma Cam"
+      }
+    ]
   },
   {
     "id": "UCzu3l_vz2bu2xn4bOo3eF_g",
