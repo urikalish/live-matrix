@@ -275,7 +275,12 @@
     "id": "UC-YwGCdQF-0AdCXhrDF0d2Q",
     "handle": "@canneswebcamquailaubeuf6467",
     "name": "Cannes webcam : Quai Laubeuf",
-    "videos": []
+    "videos": [
+      {
+        "id": "asO_10T0k2k",
+        "title": "🔴 LIVE WEBCAM CANNES - Quai Laubeuf"
+      }
+    ]
   },
   {
     "id": "UC-bEmTUibiby67vliNPscBA",
@@ -1267,12 +1272,7 @@
     "id": "UC3W9fTgytTiODxqCS0N_J4w",
     "handle": "@gemeente_elburg",
     "name": "Gemeente Elburg",
-    "videos": [
-      {
-        "id": "vB5GFU9Wfnk",
-        "title": "Livestream Gemeente Elburg"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC3c-pudL55WWFxl89wTH1NA",
@@ -1555,16 +1555,12 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "rhz4UBUhBXs",
-        "title": "LIVE: US senators visit Taiwan"
+        "id": "MiKMFyhSQSc",
+        "title": "LIVE: Tel Aviv skyline as Iran war continues"
       },
       {
-        "id": "8sGbwTDN2Ac",
-        "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
-      },
-      {
-        "id": "yNT6ChfPmis",
-        "title": "LIVE: Beirut skyline as Israel strikes Lebanon"
+        "id": "TboCZbNEJ2E",
+        "title": "LIVE: Beirut skyline view as Israel invades southern Lebanon"
       }
     ]
   },
@@ -2066,12 +2062,8 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "Ns_3L5yevps",
-        "title": "【国会中継・リプレイ】参議院予算委員会～本会議　暫定予算案の審議（2026年3月30日午後1 時～LIVE配信）｜TBS NEWS DIG"
-      },
-      {
-        "id": "hCOqZ56Ao5E",
-        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月30日）｜TBS NEWS DIG"
+        "id": "qJKjcAWSPcI",
+        "title": "【LIVE】夜のニュース（Japan News Digest Live）最新情報など（3月30日）｜TBS NEWS DIG"
       },
       {
         "id": "xG56OVbybio",
@@ -4491,7 +4483,16 @@
     "id": "UCBekjy3cWsLpEjibeFYecLQ",
     "handle": "@紅樹林有線電視-h7k",
     "name": "紅樹林有線電視",
-    "videos": []
+    "videos": [
+      {
+        "id": "9rcEL_yWMk4",
+        "title": "新北市淡水區景點(即時影像) 淡水渡船頭 直播 #淡水河 #夕陽 #觀音山 #台北港 #淡水老街河岸 #淡水渡し船乗り場  Du Chuan Tou, Tamsui"
+      },
+      {
+        "id": "yn_8QwCWsyI",
+        "title": "新北市淡水區 #即時路況 車流直播---#淡水竹圍雙向 #紅樹林往台北 #水源街二段與淡金路口"
+      }
+    ]
   },
   {
     "id": "UCBjzM0ZW12Z8bggEORo8oBQ",
@@ -4530,20 +4531,7 @@
     "id": "UCC04nMAlJcTwsNUP4F3h2gw",
     "handle": "@SantaRosaIslandAuthority",
     "name": "Santa Rosa Island Authority",
-    "videos": [
-      {
-        "id": "890WmHX7h6U",
-        "title": "SRIA - East Cam"
-      },
-      {
-        "id": "HKIc6CYlMzI",
-        "title": "SRIA - West Cam"
-      },
-      {
-        "id": "2X0GdFzfv3A",
-        "title": "SRIA - South Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCCEo1hxcfQe7p-odS5pEZxg",
@@ -4573,8 +4561,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "VjNFLSVMfXs",
-        "title": "【 Archive】 2026-03-30『15:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "PSeUUh2o5eU",
+        "title": "【Archive】 2026-03-30『18:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -4783,12 +4771,7 @@
     "id": "UCDL2IVxAgPI7wybiUlQKrWg",
     "handle": "@romafivesuites",
     "name": "Roma Five Suites",
-    "videos": [
-      {
-        "id": "3PVNKVXo6To",
-        "title": "Roma Five Suites - Piazza Venezia - Live Webcam from Rome"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDOREphwc9P-ul7YEHiBWqw",
@@ -4822,8 +4805,8 @@
     "name": "Khao Lak Land Discovery",
     "videos": [
       {
-        "id": "kbY064PGnts",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 30-Mar-2026 04:34"
+        "id": "reR5iezqkRU",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 30-Mar-2026 16:34"
       }
     ]
   },
@@ -5598,7 +5581,12 @@
     "id": "UCGWcQnqDci9aHo7-YQ_-big",
     "handle": "@rajyoginidadigulzar",
     "name": "Rajyogini Dadi Gulzar",
-    "videos": []
+    "videos": [
+      {
+        "id": "JWo4Tte6A4c",
+        "title": "मधुबन से शांतिस्तम्भ LIVE 24X7 (Tower Of Peace)"
+      }
+    ]
   },
   {
     "id": "UCGb_c0j3vHX1cJNYhhiAKYA",
@@ -6608,13 +6596,23 @@
     "id": "UCJXClwfIZPEf-FC_NVMKQCQ",
     "handle": "@ChampaignAviationMuseum",
     "name": "Champaign Aviation Museum",
-    "videos": []
+    "videos": [
+      {
+        "id": "8UhtHs7HyT4",
+        "title": "B-17 Flying Fortress restoration Live Stream"
+      }
+    ]
   },
   {
     "id": "UCJizf5PzUJ88hro1m-cUcSA",
     "handle": "@concecam",
     "name": "ConceCam",
-    "videos": []
+    "videos": [
+      {
+        "id": "RhdmP5017VM",
+        "title": "CONCECAM - Concepción Centro, Chile - Cámara Ultra HD en vivo y en directo, live cam"
+      }
+    ]
   },
   {
     "id": "UCJk1ArOmeKdyMyvONIWPMfw",
@@ -6646,12 +6644,7 @@
     "id": "UCK7jUXn_Od2JaML2geUj65A",
     "handle": "@tv2mogilev",
     "name": "TV2 Mogilev",
-    "videos": [
-      {
-        "id": "AFnkSgS2pAE",
-        "title": "Mogilev Online"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCK8OfE2evBrElahkHxLJE5g",
@@ -7157,7 +7150,12 @@
     "id": "UCLm4NMiRgEwOAwY-tapTQag",
     "handle": "@kozylemorne6102",
     "name": "Kozy Le Morne",
-    "videos": []
+    "videos": [
+      {
+        "id": "DgO2fiUXWf8",
+        "title": "🔴 Île Maurice / Mauritius - At Kozy Le Morne"
+      }
+    ]
   },
   {
     "id": "UCLmvtLuqca56l68QCETk1QQ",
@@ -7231,7 +7229,16 @@
     "id": "UCM54h2kw7FsKMNPGDWPLy7w",
     "handle": "@kaparkonaoriginal",
     "name": "Kap Arkona",
-    "videos": []
+    "videos": [
+      {
+        "id": "s5OyWNOuDQE",
+        "title": "Livecam 2 | Kap Arkona | Insel Rügen"
+      },
+      {
+        "id": "6G4_xtIDgy8",
+        "title": "Livecam 1 | Kap Arkona | Insel Rügen"
+      }
+    ]
   },
   {
     "id": "UCMBWDPHTwn0NTN-a4imOrIA",
@@ -7636,24 +7643,7 @@
     "id": "UCOlB4c8jh9f2T6u3A08T9mA",
     "handle": "@southdakotaminescameras",
     "name": "South Dakota Mines Cameras",
-    "videos": [
-      {
-        "id": "BXIlwGtLPTc",
-        "title": "South Dakota Mines Quad Cam"
-      },
-      {
-        "id": "0so_l_Vhtb4",
-        "title": "South Dakota School of Mines and Technology (SDSM&T) Campus Overview Camera"
-      },
-      {
-        "id": "qKyyGjW0Duk",
-        "title": "South Dakota Mines Nucor Mineral Industries Building - North Side View"
-      },
-      {
-        "id": "6lYoPExcOwg",
-        "title": "South Dakota School of Mines and Technology's (SDSM&T) Dino Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCOmgpmAnXKSPVEWWK_5Cd-Q",
@@ -9126,6 +9116,10 @@
     "name": "WildEarth",
     "videos": [
       {
+        "id": "Gy2mb0Nh8Kk",
+        "title": "LIVE at the waterhole - 30 March 2026"
+      },
+      {
         "id": "MnY2sJydrVM",
         "title": "Jaci's Dam Cam - AD FREE"
       },
@@ -9335,7 +9329,16 @@
     "id": "UCWFlnyosSViIAqUq-TytgJA",
     "handle": "@NikCCTV",
     "name": "Nik CCTV",
-    "videos": []
+    "videos": [
+      {
+        "id": "9ZyKdBaRQrs",
+        "title": "Камера Соликамск (Боровск), Россия, Пермский край / Сamera Solikamsk, Russia, feeder and AI Chatbot"
+      },
+      {
+        "id": "ad1366ZihfU",
+        "title": "Управляемая камера, Пермь, \"Пермская ярмарка\" | Live camera at Perm Expo with AI Chatbot"
+      }
+    ]
   },
   {
     "id": "UCWOITAxCnS0V8h7lNJkHpdQ",
@@ -9939,7 +9942,28 @@
     "id": "UCZvXaNYIcapCEcaJe_2cP7A",
     "handle": "@calacademy",
     "name": "California Academy of Sciences",
-    "videos": []
+    "videos": [
+      {
+        "id": "ai3mi7HQcms",
+        "title": "Live Penguin Cam (Biologist View) | California Academy of Sciences"
+      },
+      {
+        "id": "99aULx3GORo",
+        "title": "Live Coral Reef Cam | California Academy of Sciences"
+      },
+      {
+        "id": "3-V-rIItj3o",
+        "title": "Live Penguin Cam (Colony View) | California Academy of Sciences"
+      },
+      {
+        "id": "oP6V5VrOrWc",
+        "title": "Live Penguin Cam (Underwater View) | California Academy of Sciences"
+      },
+      {
+        "id": "fHb0eB9RUgA",
+        "title": "Farallon Islands Live Webcam | California Academy of Sciences"
+      }
+    ]
   },
   {
     "id": "UCZvxw99l3xDC6BIHb8nJKGg",
@@ -10002,7 +10026,68 @@
     "id": "UC_FuR9GFVJE2A8H02sQmHWw",
     "handle": "@UmbriaWebcam",
     "name": "Umbria Webcam",
-    "videos": []
+    "videos": [
+      {
+        "id": "Nrbz5ZkFL6U",
+        "title": "🔴Todi Live Webcam"
+      },
+      {
+        "id": "Bc_bgHNApZ8",
+        "title": "🔴Gualdo Tadino Live Webcam"
+      },
+      {
+        "id": "qxdMeCFIW6c",
+        "title": "🔴Bastia Umbra Live Webcam"
+      },
+      {
+        "id": "tVAcccd0vVo",
+        "title": "🔴Lago Trasimeno Live Webcam"
+      },
+      {
+        "id": "mBs2lOPdkMo",
+        "title": "🔴Montefalco Live Webcam"
+      },
+      {
+        "id": "1Ho6SNEiOlk",
+        "title": "🔴Assisi Live Webcam Città"
+      },
+      {
+        "id": "4cqPDoX6uws",
+        "title": "🔴Assisi Live Webcam Piazza San Rufino"
+      },
+      {
+        "id": "8TZ8YRt9nYc",
+        "title": "🔴Perugia Live Webcam"
+      },
+      {
+        "id": "70IILKHbPQI",
+        "title": "🔴Spello Live Webcam"
+      },
+      {
+        "id": "FeAZyuvghVY",
+        "title": "🔴Lago di Piediluco Live Webcam"
+      },
+      {
+        "id": "CkNeltsc5ps",
+        "title": "🔴Assisi Live Webcam Piazza del Comune"
+      },
+      {
+        "id": "tUPmbZqrC6I",
+        "title": "🔴Gubbio Live Webcam"
+      },
+      {
+        "id": "5ka3YhVZgME",
+        "title": "🔴Assisi Live Webcam Basilica di San Francesco"
+      },
+      {
+        "id": "PfBPe5Jfzxo",
+        "title": "🔴Bevagna Live Webcam"
+      },
+      {
+        "id": "y7QcpQwxHrA",
+        "title": "🔴Orvieto Live Webcam"
+      }
+    ]
   },
   {
     "id": "UC_JkC_sNaRfTrbRw9_b2QoA",
@@ -10873,10 +10958,6 @@
       {
         "id": "p49CeURYHUM",
         "title": "MEDview: Kåsa Strand, Varberg"
-      },
-      {
-        "id": "HTcH1hCvCb4",
-        "title": "MEDview: Göteborgs Golfklubb"
       },
       {
         "id": "fp39XWPMqag",
@@ -12017,12 +12098,12 @@
     "name": "CGTN",
     "videos": [
       {
-        "id": "TJRnJYEeY7A",
-        "title": "Live ship tracking map showing the Strait of Hormuz"
+        "id": "_PDlW2SebV4",
+        "title": "A view of Haifa skyline"
       },
       {
-        "id": "11sotcR1-a0",
-        "title": "Live views of NASA's Artemis II from Kennedy Space Center"
+        "id": "iigDUhf9xCU",
+        "title": "Live: US, Israel strike Iranian nuclear sites amid ceasefire talks"
       },
       {
         "id": "SDg_xaF8sSI",
@@ -12241,7 +12322,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "rakDjcPa8P4",
+        "id": "SP1v4IYSBoc",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -12357,7 +12438,16 @@
     "id": "UCiVxzgxfn4OhuDygv5o5-mg",
     "handle": "@Kariyushi.Hotels",
     "name": "Kariyushi Hotels",
-    "videos": []
+    "videos": [
+      {
+        "id": "QuS6sJXQyVE",
+        "title": "かりゆしビーチ ライブカメラ"
+      },
+      {
+        "id": "AhQErfreEOE",
+        "title": "沖縄かりゆしビーチリゾート・オーシャンスパ ライブカメラ"
+      }
+    ]
   },
   {
     "id": "UCidgJyUlJHtDx9i-E1ym60g",
@@ -12518,12 +12608,12 @@
     "name": "CGTN Europe",
     "videos": [
       {
-        "id": "MG6N17mCh3w",
-        "title": "Live ship tracking map showing the Strait of Hormuz"
+        "id": "25DXZtzXHMw",
+        "title": "A view of Haifa skyline"
       },
       {
-        "id": "Ey_IibV-YrI",
-        "title": "Live views of NASA's Artemis II from Kennedy Space Center"
+        "id": "2zan3CoSlRo",
+        "title": "LIVE: Live views of NASA's Artemis II from Kennedy Space Center"
       },
       {
         "id": "PYBTbjGEZ3g",
@@ -12800,7 +12890,12 @@
     "id": "UCjvtkjWwpnhgGv2nutFFr-A",
     "handle": "@IloveLx",
     "name": "I love Lx",
-    "videos": []
+    "videos": [
+      {
+        "id": "VbDwJxGlZ5k",
+        "title": "I love Lx Live Stream"
+      }
+    ]
   },
   {
     "id": "UCjzJrnsM3Ar0DMmJhpNMiaw",
@@ -13512,76 +13607,7 @@
     "id": "UCmGJrhK3VM4BSOGF6g5pmZw",
     "handle": "@Weercamera",
     "name": "Weathercam",
-    "videos": [
-      {
-        "id": "7KXim_pTDD4",
-        "title": "🔴 Webcam @ Zeedijk Nieuwpoort - Hotel Sandeshoved"
-      },
-      {
-        "id": "GUyebtSui5A",
-        "title": "🔴 Webcam @ Knokke-Heist Belgium - Lakeside Paradise"
-      },
-      {
-        "id": "NebcksVE-Tk",
-        "title": "🔴Live Webcam @ Virginie Lovelinggebouw Ghent - Inside Nest"
-      },
-      {
-        "id": "agmAdlmdEpc",
-        "title": "🔴Live Webcam @ Virginie Lovelinggebouw Ghent - Outside Nest"
-      },
-      {
-        "id": "ELUtEnMBS6k",
-        "title": "🔴 Live Webcam @ Het Zwin - Knokke-Heist"
-      },
-      {
-        "id": "a6v5zNvcIzQ",
-        "title": "🔴 Webcam @ Middelkerke Zeedijk - Hotel Excelsior"
-      },
-      {
-        "id": "fPc6v5QFTcE",
-        "title": "🔴 Live Webcam @ Zeedijk - Knokke-Heist"
-      },
-      {
-        "id": "AZeifyx8GaA",
-        "title": "🔴 Live Webcam @ Hotel Helios C-Hotels - Blankenberge Belgium"
-      },
-      {
-        "id": "HQpfmh27VMs",
-        "title": "🔴 Live Webcam @ Beach Zeebrugge - Surfclub Icarus"
-      },
-      {
-        "id": "aZGlZaZK1m4",
-        "title": "🔴 Live Webcam @ Hotel Les Mouettes - Wenduine Belgium"
-      },
-      {
-        "id": "wEeJfBE8ecM",
-        "title": "🔴 Live Webcam @ Brasserie Leopold I - De Panne Belgium"
-      },
-      {
-        "id": "I09L5RCJkjo",
-        "title": "🔴 Live Webcam @ Hotel Andromeda C-Hotels - Oostende Belgium"
-      },
-      {
-        "id": "__akfUoCbxw",
-        "title": "🔴 Live Webcam @ River Woods Beach Club - Knokke"
-      },
-      {
-        "id": "YExjEi4p118",
-        "title": "🔴 Live Webcam @ Domein Aan De Plas - Brugge, Belgium"
-      },
-      {
-        "id": "ThVtj7egCKY",
-        "title": "🔴 Live Webcam @ Anemos Heist - Belgium"
-      },
-      {
-        "id": "mU08nJaIlIg",
-        "title": "🔴 Live Webcam @ Nieuwpoort Belgian Coast - Brasserie Casino"
-      },
-      {
-        "id": "Sx-oMVmNoPA",
-        "title": "🔴 Live Webcam @ Surfers Paradise Knokke Belgium"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCmM8fJ5uDl8pqu8nnd8Ixlg",
@@ -15481,12 +15507,7 @@
     "id": "UCqXHHT3ybdTRXMEWuDmtamQ",
     "handle": "@TownofApexGov",
     "name": "Town of Apex",
-    "videos": [
-      {
-        "id": "-MWn7E2O-_o",
-        "title": "Town of Apex Downtown Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
@@ -15567,7 +15588,12 @@
     "id": "UCrBd0lVRjlyT-uu0fcFihUw",
     "handle": "@LiveCamTrento-Opinione",
     "name": "Live Trento H24 - Piazza Duomo",
-    "videos": []
+    "videos": [
+      {
+        "id": "Yf4LKZvGSok",
+        "title": "Trento live cam - centro città (Piazza Duomo)"
+      }
+    ]
   },
   {
     "id": "UCrGS8VyrgCqYwaogH5bQpxQ",
@@ -17140,7 +17166,12 @@
     "id": "UCxJauSv5BZA7N4dIqPHpy0w",
     "handle": "@Brian-Siu",
     "name": "Hong Kong Taxi Driver - Brian",
-    "videos": []
+    "videos": [
+      {
+        "id": "Ob6Ss1MhERc",
+        "title": "🔴 香港的士直播 | Hong Kong Taxi Live | 30/3/2026 🔴"
+      }
+    ]
   },
   {
     "id": "UCxXKtAvUNQw5rv9lIU0V4UQ",
@@ -17344,13 +17375,23 @@
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
     "handle": "@flamingf.1562",
     "name": "Flaming Fire",
-    "videos": []
+    "videos": [
+      {
+        "id": "XmHHGun7l9U",
+        "title": "Stockholm city live cam 20260330"
+      }
+    ]
   },
   {
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
     "handle": "@wightwildlifecam",
     "name": "Wight Wildlife Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "iF8GmfHmeJg",
+        "title": "BIRD FEEDERS ISLE OF WIGHT *LIVE 24/7*"
+      }
+    ]
   },
   {
     "id": "UCxovy5qTcwjsyl3ETKAOgdg",
@@ -17701,7 +17742,12 @@
     "id": "UCzjR7slpURQjzqxPP5FVowQ",
     "handle": "@sightsailinglive6405",
     "name": "Sightsailing Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "HlK9G6PdIUo",
+        "title": "Sightsailing - Newport, Rhode Island USA"
+      }
+    ]
   },
   {
     "id": "UCzkaQrI9-nSv373EvK5p0SQ",
