@@ -87,7 +87,20 @@
     "id": "UC-8U3VCeOEqdPJd2D77RqKw",
     "handle": "@HauloverDaily",
     "name": "Cruise Ships Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "3cRtC4nexE0",
+        "title": "Miami River Live Cam | Miami Live"
+      },
+      {
+        "id": "AHckZ9rF01U",
+        "title": "🔴 LIVE Miami Rail Cam | Metrorail Transfer Station | Trains 24/7"
+      },
+      {
+        "id": "PeYZZinH1wI",
+        "title": "🔴 LIVE Port Miami Cruise Ship Departures and Arrivals | ICON of the Seas"
+      }
+    ]
   },
   {
     "id": "UC-ADcKoyBn-44UJwmatMSQQ",
@@ -716,7 +729,12 @@
     "id": "UC1LK8PM_k4Fak8v4PBtcQIQ",
     "handle": "@渋谷公園通り-n5l",
     "name": "渋谷公園通り",
-    "videos": []
+    "videos": [
+      {
+        "id": "DPtIH3unwDY",
+        "title": "渋谷公園通り商店街大外ビル"
+      }
+    ]
   },
   {
     "id": "UC1OSbPhj52oW6VM6Odq4uzA",
@@ -796,12 +814,7 @@
     "id": "UC1YsvhwhmQV5kfVMRpTVx-A",
     "handle": "@神戸ウォーターフロント開発機",
     "name": "神戸ウォーターフロント開発機構",
-    "videos": [
-      {
-        "id": "AU_2zfM4m68",
-        "title": "【LIVE】神戸ウォーターフロント  ＃メリケンパーク＃神戸ポートタワー"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC1dvZq_0NLxBTrYp4bWKeCQ",
@@ -1528,7 +1541,12 @@
     "id": "UC4zOPk0IWo_GshPKEBqTALQ",
     "handle": "@webcamceeskatwijk6587",
     "name": "webcamcees katwijk",
-    "videos": []
+    "videos": [
+      {
+        "id": "iMYgYh4hCko",
+        "title": "WebCam.NL | webcamceeskatwijk.nl ultraHD Pan Tilt Zoom camera. (4K)"
+      }
+    ]
   },
   {
     "id": "UC52X5wxOL_s5yw0dQk7NtgA",
@@ -1607,12 +1625,7 @@
     "id": "UC5PNUCvYkt6PxAmgvAV8x8g",
     "handle": "@CaliPlanes",
     "name": "Cali Planes",
-    "videos": [
-      {
-        "id": "fCB6u4myyzY",
-        "title": "KSFO LIVE | MAR 29 , 2026 | SAN FRANCISCO INT AIRPORT  LIVE STREAM WEBCAM IRL"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC5UwWocd9b4F-GdEyJ4SKxA",
@@ -2048,12 +2061,12 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "_MpRcNx-OOo",
-        "title": "【国会中継ライブ】衆議院予算委員会～本会議　暫定予算案の審議（2026年3月30日午前9時～LIVE配信）｜TBS NEWS DIG"
+        "id": "hCOqZ56Ao5E",
+        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月30日）｜TBS NEWS DIG"
       },
       {
-        "id": "3tzzkbhRCGI",
-        "title": "【LIVE】朝のニュース（Japan News Digest Live）最新情報など｜TBS NEWS DIG（3月30日）"
+        "id": "_MpRcNx-OOo",
+        "title": "【国会中継ライブ】衆議院予算委員会～本会議　暫定予算案の審議（2026年3月30日午前9時～LIVE配信）｜TBS NEWS DIG"
       },
       {
         "id": "xG56OVbybio",
@@ -2650,7 +2663,60 @@
     "id": "UC8IKKTJkgZP9vdmnQDV-DZA",
     "handle": "@fhy00",
     "name": "水利署水利防災組",
-    "videos": []
+    "videos": [
+      {
+        "id": "-nyTOqcRDIQ",
+        "title": "烏來吊橋、烏來老街與覽勝橋，新北市烏來區"
+      },
+      {
+        "id": "aWIeVanMFD0",
+        "title": "花蓮海岸_忘憂亭, 花蓮縣花蓮市(HD)"
+      },
+      {
+        "id": "JkGKqXOt9Ls",
+        "title": "員山子分洪，新北市瑞芳區"
+      },
+      {
+        "id": "QBgn5a3k_T0",
+        "title": "美濃溪 美濃橋 , 高雄市美濃區(HD)"
+      },
+      {
+        "id": "uCXgNUJO9e8",
+        "title": "黃金海岸，台南市南區(4K UHD)"
+      },
+      {
+        "id": "Tb6bay3UB18",
+        "title": "二仁溪_田寮崇德橋，高雄市田寮區(HD)"
+      },
+      {
+        "id": "qg-aHp2mvS8",
+        "title": "七星潭_北埔安檢所，花蓮縣新城鄉 (4K UHD)"
+      },
+      {
+        "id": "BDs9UIRw4zc",
+        "title": "花蓮溪_壽豐花蓮大橋 , 花蓮縣壽豐鄉 (HD)"
+      },
+      {
+        "id": "OQnwVN5lzsk",
+        "title": "花蓮海岸_南濱守望哨，花蓮縣吉安鄉"
+      },
+      {
+        "id": "j3l32VFi5M8",
+        "title": "七星潭_七星潭安檢所，花蓮縣新城鄉(HD)"
+      },
+      {
+        "id": "1vVCtk5OXVk",
+        "title": "典寶溪_楠梓聖興橋，高雄市楠梓區"
+      },
+      {
+        "id": "sKrqs-5Auqo",
+        "title": "高雄海岸_蚵寮國小, 高雄市梓官區"
+      },
+      {
+        "id": "13C8jdbqQcI",
+        "title": "林邊溪_羌園排水(羌光橋)，屏東縣佳冬鄉"
+      }
+    ]
   },
   {
     "id": "UC8IidebYzkRnNWdw33fEvWg",
@@ -2701,126 +2767,6 @@
     "handle": "@ExploreBirds",
     "name": "Explore Birds Bats Bees",
     "videos": [
-      {
-        "id": "PCarPD6ha9g",
-        "title": "Live Hummingbird Nest | Joy Hummingbird powered by EXPLORE.org"
-      },
-      {
-        "id": "PbMU7UbONbU",
-        "title": "Live Hummingbird Nest | Beatrix Hummingbird powered by EXPLORE.org"
-      },
-      {
-        "id": "2FdvAk95PSk",
-        "title": "Great Green Macaw Nest - Sarapiquí Rainforest Reserve powered by  EXPLORE.org"
-      },
-      {
-        "id": "vjpj_DXODdA",
-        "title": "Ash Canyon Bird Sanctuary Viewing Area powered by EXPLORE.org"
-      },
-      {
-        "id": "AwlpXN2QyjM",
-        "title": "Ash Canyon Bird Sanctuary, Back Porch powered by EXPLORE.org"
-      },
-      {
-        "id": "lxgZvK6vrC4",
-        "title": "Ventana Wildlife Society Condor Pen cam powered by EXPLORE.org"
-      },
-      {
-        "id": "ietpaFoB_Nc",
-        "title": "Macaw Feeder High Camera powered by EXPLORE.org"
-      },
-      {
-        "id": "vLscZvIFiLg",
-        "title": "Macaw Feeder Low Camera"
-      },
-      {
-        "id": "X5Kubf-twKw",
-        "title": "Panama Hummingbird Feeder at Canopy Tower powered by EXPLORE.org"
-      },
-      {
-        "id": "wfuqjSNXZ14",
-        "title": "West End Bald Eagle Nest Low Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "cbF00ol0glc",
-        "title": "Big Sur Condor Nest powered by EXPLORE.org"
-      },
-      {
-        "id": "QoKy-rn66og",
-        "title": "Philippine Eagles Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "OY4V_AppZ6s",
-        "title": "Fraser Point Bald Eagle Nest 2 powered by EXPLORE.org"
-      },
-      {
-        "id": "xWygD7kHTbY",
-        "title": "Long-Eared Owl powered by EXPLORE.org"
-      },
-      {
-        "id": "T1qVUbMVuU4",
-        "title": "Big Sur Condor Roost powered by EXPLORE.org"
-      },
-      {
-        "id": "ZXqeAhQDIfQ",
-        "title": "Owl Research Institute Farm Roost Camera powered by EXPLORE.org"
-      },
-      {
-        "id": "VfFfS64rtZE",
-        "title": "Panama Fruit Feeder Cam at Canopy Lodge powered by EXPLORE.org"
-      },
-      {
-        "id": "mZMEkuxAskU",
-        "title": "Toucan TV powered by EXPLORE.org"
-      },
-      {
-        "id": "wDYrRVUPWRo",
-        "title": "Audubon's Rowe Sanctuary's Crane Camera powered by EXPLORE.org"
-      },
-      {
-        "id": "IVmL3diwJuw",
-        "title": "Decorah Eagles powered by EXPLORE.org"
-      },
-      {
-        "id": "rnTsOesC6hE",
-        "title": "Sauces Bald Eagle - Channel Islands National Park Cams powered by EXPLORE.org"
-      },
-      {
-        "id": "E5T2eHM8tcI",
-        "title": "Two Harbors Bald Eagle Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "ojBaem3bwsE",
-        "title": "The Giant Flying Fox Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "zH0IM95ia5w",
-        "title": "The Mixed Species Flying Fox cam  powered by EXPLORE.org"
-      },
-      {
-        "id": "o49SYbWxWE0",
-        "title": "Honey Bee Landing Zone powered by Explore.org"
-      },
-      {
-        "id": "zpkN0ycubDs",
-        "title": "Honey Bee Hive powered by Explore.org"
-      },
-      {
-        "id": "Hkj9L-HKXJU",
-        "title": "Mississippi River Flyway Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "2yx7RKxpyzQ",
-        "title": "Two Harbors Overlook powered by EXPLORE.org"
-      },
-      {
-        "id": "DB4LDyWHawY",
-        "title": "Friends of Sacramento National Wildlife Refuge powered by EXPLORE.org"
-      },
-      {
-        "id": "1a1z4M80BXg",
-        "title": "Condor Sanctuary in San Simeon powered by EXPLORE.org"
-      },
       {
         "id": "VOFTpk2O-8U",
         "title": "Big Sur Condors powered by EXPLORE.org"
@@ -3731,28 +3677,7 @@
     "id": "UCArs3YQib0gUuv5SVrjjtCQ",
     "handle": "@NamibiaLifeStream",
     "name": "Namibia LifeStream",
-    "videos": [
-      {
-        "id": "U5EsLXtxSSw",
-        "title": "Namibia live stream at idyllic Zambezi Mubala Camp"
-      },
-      {
-        "id": "C6kb6vH14xY",
-        "title": "Namibia: Live Swakopmund Lighthouse stream"
-      },
-      {
-        "id": "tIkzqrljpB4",
-        "title": "Namibia: Live feed from the Zambezi River"
-      },
-      {
-        "id": "MiqjRqyla70",
-        "title": "LIVE 24/7: Swakopmund Jetty 1905 | Atlantic Ocean Views from Namibia"
-      },
-      {
-        "id": "h7yL-ltAb_M",
-        "title": "Windhoek: 24/7 Live stream in Windhoek, Namibia"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCAupQASEG4kt6oXHe0Xwd9Q",
@@ -4506,8 +4431,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "-QYBN6oZ5OM",
-        "title": "【 Archive】 2026-03-30『06:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "0OVSFafGQaQ",
+        "title": "【 Archive】 2026-03-30『12:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -4690,16 +4615,7 @@
     "id": "UCDDsYIl-_S2mtI1wlVU1VFw",
     "handle": "@CityofBettendorfIowa",
     "name": "City of Bettendorf, Iowa",
-    "videos": [
-      {
-        "id": "8Rp5JRSQOvk",
-        "title": "Bettendorf View of the I-74 Mississippi River Bridge"
-      },
-      {
-        "id": "OcJm3FjEeMY",
-        "title": "Bettendorf Duck Creek Web Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDKFXJj-c-CL7dLBbLBs4ew",
@@ -6594,12 +6510,7 @@
     "id": "UCK7jUXn_Od2JaML2geUj65A",
     "handle": "@tv2mogilev",
     "name": "TV2 Mogilev",
-    "videos": [
-      {
-        "id": "AFnkSgS2pAE",
-        "title": "Mogilev Online"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCK8OfE2evBrElahkHxLJE5g",
@@ -6676,6 +6587,10 @@
     "handle": "@kdrx106.9fm",
     "name": "Live Cam Del Rio-Acuña",
     "videos": [
+      {
+        "id": "hWLgK2bSH7A",
+        "title": "🔴 Puente Internacional 1 Live Cam / Live Music ♫ Acuña Coah. / Del Rio Tx."
+      },
       {
         "id": "h_fd0SiTZlM",
         "title": "🔴Macroplaza Live Cam / Live Music  ♫ Cd. Acuña, México"
@@ -7108,7 +7023,7 @@
     "name": "Kozy Le Morne",
     "videos": [
       {
-        "id": "E8D2ikcSfak",
+        "id": "WNKT-4lc1P8",
         "title": "🔴 Île Maurice / Mauritius - At Kozy Le Morne"
       }
     ]
@@ -7379,7 +7294,7 @@
     "name": "SBGR LIVE",
     "videos": [
       {
-        "id": "zsZJQBUmtYM",
+        "id": "t85thj3d6Vg",
         "title": "SBGR LIVE 4K - Aeroporto Internacional de Guarulhos AO VIVO - GRU Airport"
       }
     ]
@@ -7593,7 +7508,12 @@
     "id": "UCOkHmC8gMrifs24PrPmTumg",
     "handle": "@townofsurfsidebeach7463",
     "name": "Town of Surfside Beach",
-    "videos": []
+    "videos": [
+      {
+        "id": "hXqjUfQJf9U",
+        "title": "Pier Camera"
+      }
+    ]
   },
   {
     "id": "UCOlB4c8jh9f2T6u3A08T9mA",
@@ -7979,7 +7899,7 @@
     "name": "石垣島ライブカメラ -ishigaki island-",
     "videos": [
       {
-        "id": "xTmYZre42Xg",
+        "id": "DSiw2Ft8DzM",
         "title": "石垣島７３０交差点ＬＩＶＥカメラ"
       }
     ]
@@ -8370,10 +8290,6 @@
         "title": "Kümbet Çifteoluk Canlı Yayın"
       },
       {
-        "id": "GybfP2xs1Hc",
-        "title": "Kovanlık Canlı Yayın Kamera 3"
-      },
-      {
         "id": "U7UYcPO47Xg",
         "title": "Kulakkaya Yaylası Canlı Yayın Kamera 1"
       },
@@ -8498,10 +8414,6 @@
     "handle": "@SHOWMECaribbean",
     "name": "SHOWME Caribbean",
     "videos": [
-      {
-        "id": "64p4XwbC8r8",
-        "title": "LIVE SXM Airport March 29 ✈️ -  Maho Beach Sint Maarten"
-      },
       {
         "id": "DrgieJlsiMY",
         "title": "🌴Best Caribbean Beach Resorts LIVE | Curaçao • Sint Maarten • Aruba • Bonaire | March 29, 2026"
@@ -8925,12 +8837,7 @@
     "id": "UCTlY00NCf0nKyldwBys3mrA",
     "handle": "@SerradoRiodoRastroaoVivo",
     "name": "Serra do Rio do Rastro ao Vivo",
-    "videos": [
-      {
-        "id": "G43o620T45g",
-        "title": "Serra do Rio do Rastro em Lauro Müller ao vivo!"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCToP9T8yl8FzL-G9J3ONJ0g",
@@ -9105,6 +9012,10 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
+      {
+        "id": "O1xIz002He4",
+        "title": "SafariLIVE Sunrise - Repeat - 30 March 2026"
+      },
       {
         "id": "MnY2sJydrVM",
         "title": "Jaci's Dam Cam - AD FREE"
@@ -9416,7 +9327,12 @@
     "id": "UCWtwhsqQXogkkQEFBrFwwRA",
     "handle": "@coveleland",
     "name": "The Cove",
-    "videos": []
+    "videos": [
+      {
+        "id": "s7sY1waeOf4",
+        "title": "The Cove Leland Fishtown Live"
+      }
+    ]
   },
   {
     "id": "UCWy8xdFQ0O0U3kQiotfMwGA",
@@ -9551,7 +9467,12 @@
     "id": "UCXj6ROnZkzqgq6eYeoflO6A",
     "handle": "@ultravisionconsult1433",
     "name": "ULTRAVISION CONSULT",
-    "videos": []
+    "videos": [
+      {
+        "id": "rs2be3mqryo",
+        "title": "www.ultravisionconsult.com"
+      }
+    ]
   },
   {
     "id": "UCXtGlMSjKYfGoPggHcAZYbQ",
@@ -10492,12 +10413,7 @@
     "id": "UCayE6-RHoYoIcnqp36o4Rjg",
     "handle": "@sebinkarahisarbelediyesi9536",
     "name": "Sebinkarahisar Belediyesi",
-    "videos": [
-      {
-        "id": "uN2iuxAgZ-o",
-        "title": "Şebinkarahisar Belediyesi-  Meydan Canlı Yayın"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCb7muRFDUn2QtNMbBVpdKRw",
@@ -10540,7 +10456,12 @@
     "id": "UCbP6xNZKA-xcVCP50wxPeiQ",
     "handle": "@Janur",
     "name": "Janur Merapi",
-    "videos": []
+    "videos": [
+      {
+        "id": "3ch230ajKno",
+        "title": "Live Merapi - Indonesia's Mount Merapi - Volcano Eruption"
+      }
+    ]
   },
   {
     "id": "UCbW9vyNwPSOG-FEV_xkAt1w",
@@ -11315,6 +11236,10 @@
     "handle": "@SeeJamaica",
     "name": "See Jamaica ",
     "videos": [
+      {
+        "id": "yxobbaRDzvc",
+        "title": "🟢 Morant Bay Market LIVE 24/7 | St Thomas, Jamaica | Street Life, Buses, Taxis, Vendors"
+      },
       {
         "id": "JJpIxHmP6jo",
         "title": "🟢 Little London Westmoreland Live Camera 24/7 | Jamaica LIVE"
@@ -13373,36 +13298,7 @@
     "id": "UCkZ-Wllch8bWLe-6dSNRsfQ",
     "handle": "@ixyzih",
     "name": "Ixtapa y Zihuatanejo",
-    "videos": [
-      {
-        "id": "Hc32IA80v_Q",
-        "title": "🔴  Zihuatanejo - En vivo Playa La Madera II"
-      },
-      {
-        "id": "lpFFvGBC41s",
-        "title": "🔴  Zihuatanejo - En vivo Bahía de Zihuatanejo"
-      },
-      {
-        "id": "xtDn22DB7wY",
-        "title": "🔴  Ixtapa - En vivo Playa Linda"
-      },
-      {
-        "id": "e756N1tufY8",
-        "title": "🔴  Zihuatanejo - En vivo Playa La Ropa"
-      },
-      {
-        "id": "zmT7fuaKSws",
-        "title": "🔴  Zihuatanejo - En vivo Playa Principal"
-      },
-      {
-        "id": "lknG7R3fDas",
-        "title": "🔴  Zihuatanejo  -  En vivo Estación Meteorológica ☀️🌴"
-      },
-      {
-        "id": "WXi5sp4hZ0k",
-        "title": "🔴   Zihuatanejo - En vivo Muelle Principal"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCkiqDO1CTcCyxlsGXnC8WvA",
@@ -16411,7 +16307,12 @@
     "id": "UCuR9Gx3rZA_eaJV9tF8l8HQ",
     "handle": "@ArielOrtizYT",
     "name": "Ariel Ortiz - Ushuaia",
-    "videos": []
+    "videos": [
+      {
+        "id": "-RiZQ9eqwx0",
+        "title": "Ushuaia en vivo - Canal Beagle"
+      }
+    ]
   },
   {
     "id": "UCuSeVCzI21lPeKnIzZehFPQ",
@@ -16904,12 +16805,7 @@
     "id": "UCvYKFUIGJ3pdnt-Berq7Thg",
     "handle": "@Visitkythera",
     "name": "Visit Kythera",
-    "videos": [
-      {
-        "id": "tqICY0w4Ndw",
-        "title": "Kythera Live Streaming from Kapsali"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCvb1J8D2T6ZlOnbLbAZ0YOA",
@@ -17939,12 +17835,7 @@
     "id": "UCzofN-7yLDKoPmh37yqMpiA",
     "handle": "@geovision3356",
     "name": "GeoVision Demonstration",
-    "videos": [
-      {
-        "id": "SfPJLSMuCQE",
-        "title": "[ Taiwan ] Live view demonstration : GV-BX2802"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCzq2rnoZ4iC-30wYZkqRrGw",
