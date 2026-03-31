@@ -730,12 +730,7 @@
     "id": "UC1LK8PM_k4Fak8v4PBtcQIQ",
     "handle": "@渋谷公園通り-n5l",
     "name": "渋谷公園通り",
-    "videos": [
-      {
-        "id": "DPtIH3unwDY",
-        "title": "渋谷公園通り商店街大外ビル"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC1OSbPhj52oW6VM6Odq4uzA",
@@ -1444,12 +1439,7 @@
     "id": "UC4Wd3aS1XKA39dCveZExSkg",
     "handle": "@oneandmoreaviation",
     "name": "One and More Aviation ",
-    "videos": [
-      {
-        "id": "GvdkOdVBsFE",
-        "title": "🔴LIVE Planespotting Frankfurt Airport LH716 D-ABYN fly to HND🛫"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC4WyazHccYZmCf-rLpAYXtg",
@@ -1560,10 +1550,6 @@
     "handle": "@AssociatedPress",
     "name": "Associated Press",
     "videos": [
-      {
-        "id": "xWFhqX-0_sU",
-        "title": "LIVE: NASA gives weather update on Artemis II moon launch"
-      },
       {
         "id": "_J4ntX6Td9k",
         "title": "LIVE: Beirut skyline view as Israel invades southern Lebanon"
@@ -1965,16 +1951,7 @@
     "id": "UC5oMexvQVrM4qNNVFK7M7Yw",
     "handle": "@Sondelaterre",
     "name": "Le Son de la terre",
-    "videos": [
-      {
-        "id": "RPo0835X0S4",
-        "title": "Ma diffusion"
-      },
-      {
-        "id": "k3DZKHJ4Aqg",
-        "title": "🔴 Live Webcam Paris - La Seine et Notre Dame Ambiance en direct du bateau \"Le Son de la Terre\""
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC5sls141Xdq9tQdxCv4In7A",
@@ -2209,7 +2186,28 @@
     "id": "UC6RIkXobtXWJElbwEHIC-sg",
     "handle": "@TehachapiLiveTrainCam",
     "name": "Tehachapi Live Train Cams",
-    "videos": []
+    "videos": [
+      {
+        "id": "TlgQSJEkERs",
+        "title": "Tehachapi Live Train Cams at Giumarra Vineyards 🍇 in Edison CA."
+      },
+      {
+        "id": "pCpkspPc-n0",
+        "title": "Tehachapi Live Train Cams at the Tehachapi Loop 🚂"
+      },
+      {
+        "id": "nApxyxIei78",
+        "title": "Tehachapi Live Train Cams at West Cable"
+      },
+      {
+        "id": "ITrG1UTPlOI",
+        "title": "Tehachapi Live Train Cams at the Tehachapi Depot Railroad Museum 🚉"
+      },
+      {
+        "id": "TdugPEnluFo",
+        "title": "Tehachapi Live Train Cams at Gardner Realty in Mojave CA 🚂"
+      }
+    ]
   },
   {
     "id": "UC6RbL0ZAyA_rc__Acbqh2mw",
@@ -2588,7 +2586,16 @@
     "id": "UC7mSp_Js3JwjwsYTZ_iEWGQ",
     "handle": "@GKUllared",
     "name": "Gekås Ullared",
-    "videos": []
+    "videos": [
+      {
+        "id": "HngtbIsM3VI",
+        "title": "Gekås Varuhusentré"
+      },
+      {
+        "id": "rmhwCwnCF9E",
+        "title": "Gekås Köstatus"
+      }
+    ]
   },
   {
     "id": "UC7zlbnNCnuAPiC3goKcFgUg",
@@ -3242,12 +3249,7 @@
     "id": "UC8mM8VHZGjdVMldeowGb2Bw",
     "handle": "@AmHimmel-heaveninvienna",
     "name": "Am Himmel",
-    "videos": [
-      {
-        "id": "omcPYHHDNyQ",
-        "title": "Livestream Am Himmel"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC8p1N6NQkCnUukz3fkwb9Rw",
@@ -3286,12 +3288,7 @@
     "id": "UC8t7FI3O7_NV9ucGWKz2D4Q",
     "handle": "@finescape9925",
     "name": "FineScape",
-    "videos": [
-      {
-        "id": "n3B8fp-Henc",
-        "title": "Tokyo Odaiba Live Camera 東京 お台場 ライブカメラ 配信"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC99NqD52qM484Bsu40UuBgQ",
@@ -3342,12 +3339,7 @@
     "id": "UC9SBZ5xzzCRj5HOTcP4z1iA",
     "handle": "@HotelHecht",
     "name": "Christian Hüttenmoser",
-    "videos": [
-      {
-        "id": "jtLh8BdmHUU",
-        "title": "Hotel East West Basel"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC9UE5PYgoWAgDvIvTkD6dAg",
@@ -3764,10 +3756,6 @@
     "handle": "@SolentShips",
     "name": "Solent Ships",
     "videos": [
-      {
-        "id": "Yz1ZhmhWZGQ",
-        "title": "SHIPS TV - P&O Aurora Cruise Ship Departing Port of Southampton (LIVE)"
-      },
       {
         "id": "RDAWqtROdZk",
         "title": "VTS Radio Southampton - (Marine VHF Channel 12)"
@@ -7592,12 +7580,7 @@
     "id": "UCOkHmC8gMrifs24PrPmTumg",
     "handle": "@townofsurfsidebeach7463",
     "name": "Town of Surfside Beach",
-    "videos": [
-      {
-        "id": "hXqjUfQJf9U",
-        "title": "Pier Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCOlB4c8jh9f2T6u3A08T9mA",
@@ -8358,10 +8341,6 @@
         "title": "Kümbet Yaylası Canlı Yayın Kamera 2"
       },
       {
-        "id": "5J1I5DHNzIM",
-        "title": "Erikliman Köyü Canlı Yayın Kamera 1"
-      },
-      {
         "id": "v9Etg4N0GmM",
         "title": "Kümbet Çifteoluk Canlı Yayın"
       },
@@ -8400,10 +8379,6 @@
       {
         "id": "DliC661K3Dg",
         "title": "Giresun Gazi Caddesi Canlı Yayın Kamera 1"
-      },
-      {
-        "id": "AlgMHeLWB5U",
-        "title": "İnece Köyü Canlı Yayın Kamera 2"
       },
       {
         "id": "-mh_TorxmF4",
@@ -8895,7 +8870,7 @@
     "name": "Serra do Rio do Rastro ao Vivo",
     "videos": [
       {
-        "id": "QuZlKh_MXvw",
+        "id": "q6_c1Y0PsJQ",
         "title": "Serra do Rio do Rastro em Lauro Müller ao vivo!"
       }
     ]
@@ -11298,12 +11273,7 @@
     "id": "UCfQciJ8PpgWDOocrMPxLkTw",
     "handle": "@ThreeRiversCommunityofMaine",
     "name": "Three Rivers Community of Maine",
-    "videos": [
-      {
-        "id": "3DpJgV-y46M",
-        "title": "Trafton Falls,  Milo Me"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCfS5_X4LiZJV5vq6z7itypA",
@@ -11687,7 +11657,12 @@
     "id": "UCgB_8lC4ZwaYxMKhfDatXyw",
     "handle": "@trelleborgskommun3034",
     "name": "Trelleborgs Kommun",
-    "videos": []
+    "videos": [
+      {
+        "id": "85OM8_W_mag",
+        "title": "Live Camera"
+      }
+    ]
   },
   {
     "id": "UCgBwodddPsSwg5nfUqH4-jA",
@@ -11704,64 +11679,7 @@
     "id": "UCgDKPUQWlxzaqPm6tOFrInw",
     "handle": "@Strandweernu",
     "name": "Strandweer.nu",
-    "videos": [
-      {
-        "id": "_pGIJmXxAHk",
-        "title": "Live Camera Nieuwe Waterweg"
-      },
-      {
-        "id": "KjK02QIm4ZI",
-        "title": "Live Camera PiXLife Brouwersdam"
-      },
-      {
-        "id": "jDF264Bg1_c",
-        "title": "Hoek van Holland Boulevard live 2K"
-      },
-      {
-        "id": "mI1Os7TFdGc",
-        "title": "Live Egmond aan Zee Boulevard en Beach Camera"
-      },
-      {
-        "id": "mnxV4iit7S4",
-        "title": "Live Kijkduin Boulevard Camera"
-      },
-      {
-        "id": "csMnwbjV5vg",
-        "title": "Live Rockanje Strand en Beach Camera"
-      },
-      {
-        "id": "Ud7I4jprFN0",
-        "title": "Live Maasvlakte Boulevard en Beach Camera"
-      },
-      {
-        "id": "fXL2w_ZBQp8",
-        "title": "Live Ter Heijde Beach Camera"
-      },
-      {
-        "id": "t3qbzZHOTyg",
-        "title": "Live Wassenaarse Slag  Beach Camera"
-      },
-      {
-        "id": "L76VKII_Z7k",
-        "title": "Noordwijk Live Boulevard en Vuurtoren Camera"
-      },
-      {
-        "id": "A5kXiKzbBFs",
-        "title": "Live Scheveningen Boulevard en Beach Camera"
-      },
-      {
-        "id": "dtFG_mcfWjQ",
-        "title": "Live Noordwijk aan Zee Boulevard en Beach Camera"
-      },
-      {
-        "id": "q0-DDh1zdY4",
-        "title": "Live Zandvoort Boulevard and Beach Camera"
-      },
-      {
-        "id": "DaG5JReOYEw",
-        "title": "Live Scheveningen Noord Boulevard en Beach Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCgDSg8kDhdOO3xwAJ_svtaA",
@@ -12158,12 +12076,7 @@
     "id": "UChL5PWTYzB3CNEm4FpgaAMQ",
     "handle": "@Harbourvillagebonaire",
     "name": "Harbour Village Bonaire",
-    "videos": [
-      {
-        "id": "W8mRMe2CDDc",
-        "title": "Harbour Village Bonaire Coral Reef"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UChP_bnv9cDFZWfVKw3iBwRQ",
@@ -12294,12 +12207,7 @@
     "id": "UCi9wnYP7UBrl7Tnfi3LLkpw",
     "handle": "@yiannisakkos",
     "name": "Yianni&#39;s Channel",
-    "videos": [
-      {
-        "id": "t9Lr1Qt9KKA",
-        "title": "Corfu / Kerkyra, Greece LIVE"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCiGOIXjFqy5_mUNxQNOMfHw",
@@ -12364,7 +12272,12 @@
     "id": "UCiIA2H7KnbK7Wsyhpw1_glw",
     "handle": "@fujinetkawaguchiko",
     "name": "fuji-net",
-    "videos": []
+    "videos": [
+      {
+        "id": "kYK9J6KNz0M",
+        "title": "富士山ライブカメラ/河口湖駅前   Live camera of Mt,Fuji"
+      }
+    ]
   },
   {
     "id": "UCiN7OwV8g8dMm_E0xphBVig",
@@ -12606,12 +12519,7 @@
     "id": "UCjBTdlFa28vCjI6m9kIM7gA",
     "handle": "@ResortsCasino",
     "name": "Resorts Casino Hotel",
-    "videos": [
-      {
-        "id": "vVyBOU9Huvo",
-        "title": "Resorts Casino Hotel Beach Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCjTllvb0Hsbcqax875Fw0VQ",
@@ -13466,12 +13374,7 @@
     "id": "UClSdxxEoPbpZHrujhfQcdow",
     "handle": "@castrostreetcam2549",
     "name": "Castro Street Cam 2",
-    "videos": [
-      {
-        "id": "Atuf_PzTBoU",
-        "title": "Castro Street Cam 2 Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UClcicFOBsxXQxaQnT1RshJg",
@@ -13500,10 +13403,6 @@
     "handle": "@GramadoTV",
     "name": "Gramado TV",
     "videos": [
-      {
-        "id": "rfbNopFDmjA",
-        "title": "Domingo de Ramos - Gramado, 29/03/2026"
-      },
       {
         "id": "_qpQWf-NpZk",
         "title": "Conheça melhor a cidade de Gramado"
@@ -14006,12 +13905,7 @@
     "id": "UCnKCrCu5RLG0Xr_Rxidho0g",
     "handle": "@TTT-gy9ox",
     "name": "TTT臺東航空站",
-    "videos": [
-      {
-        "id": "7jLL1MBcwcg",
-        "title": "臺東航空站"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCnM5iMGiKsZg-iOlIO2ZkdQ",
@@ -15562,7 +15456,7 @@
     "name": "Hawick TV",
     "videos": [
       {
-        "id": "Z2jV_-5QjuQ",
+        "id": "g09g4mzG9dI",
         "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
       }
     ]
@@ -17450,7 +17344,36 @@
     "id": "UCxvYxKbb_9mUNxuLpJQgu5A",
     "handle": "@ClearwaterBeachLiveCams",
     "name": "Clearwater Beach Live Cams",
-    "videos": []
+    "videos": [
+      {
+        "id": "6YNbfQllAKk",
+        "title": "Jimmy's Crows Nest - Sunrise"
+      },
+      {
+        "id": "9c1oLjB3wIs",
+        "title": "Jimmy's Fish House - Deck"
+      },
+      {
+        "id": "emDyfhDmfUk",
+        "title": "Jimmy's Fish House - Sunset"
+      },
+      {
+        "id": "V7sUbjD_e3I",
+        "title": "The Edge Hotel Clearwater Beach"
+      },
+      {
+        "id": "8pvXU1aEQZ0",
+        "title": "Jimmy's on the Edge - Sunset"
+      },
+      {
+        "id": "EZrWkx8PBrE",
+        "title": "Jimmy's on the Edge - Sunrise"
+      },
+      {
+        "id": "-73LpcdSuSw",
+        "title": "Jimmy's Crows Nest Sunset View"
+      }
+    ]
   },
   {
     "id": "UCy0okReXHfEcszSDHGyPcFg",
