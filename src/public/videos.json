@@ -301,6 +301,10 @@
     "name": "琉球新報",
     "videos": [
       {
+        "id": "UMgNHvLTCzw",
+        "title": "きょうの沖縄@沖縄県庁前交差点"
+      },
+      {
         "id": "nU41kpfKLJM",
         "title": "【LIVE】きょうの沖縄・那覇市役所前交差点ライブカメラ【琉球新報社から】"
       }
@@ -964,7 +968,20 @@
     "id": "UC2Sk0aXLq3ADkH_USGPKT_Q",
     "handle": "@explorebears",
     "name": "Explore Bears &amp; Bison",
-    "videos": []
+    "videos": [
+      {
+        "id": "2360fnKZcIQ",
+        "title": "Anan Wildlife Observatory Lower Falls and Caves Tongass National Forest powered by EXPLORE.org"
+      },
+      {
+        "id": "T-iBupPtIFw",
+        "title": "Bison Calving - Grasslands National Park powered by EXPLORE.org"
+      },
+      {
+        "id": "tJ0fHAHihPA",
+        "title": "Bison Water Hole - Grasslands National Park powered by EXPLORE.org"
+      }
+    ]
   },
   {
     "id": "UC2TVrVzOCC2xxphLm_03U2A",
@@ -1547,12 +1564,12 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "MiKMFyhSQSc",
-        "title": "LIVE: Tel Aviv skyline as Iran war continues"
+        "id": "1nrtWVFT340",
+        "title": "LIVE: Beirut skyline view as Israel invades southern Lebanon"
       },
       {
-        "id": "TboCZbNEJ2E",
-        "title": "LIVE: Beirut skyline view as Israel invades southern Lebanon"
+        "id": "wU0q1HwZKZg",
+        "title": "LIVE: Tel Aviv and Jerusalem skyline as Iran war continues"
       }
     ]
   },
@@ -2054,8 +2071,12 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "Kf5QcylYApY",
-        "title": "【LIVE】朝のニュース（Japan News Digest Live）最新情報など｜TBS NEWS DIG（3月31日）"
+        "id": "DQxCNvcBBEY",
+        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月31日）｜TBS NEWS DIG"
+      },
+      {
+        "id": "6cdzaSAT-IQ",
+        "title": "【国会中継・リプレイ】参議院・文教科学委員会（2026年3月31日午前10時～LIVE配信）｜TBS NEWS DIG"
       },
       {
         "id": "nA5u4OO7QDE",
@@ -3355,7 +3376,24 @@
     "id": "UC9UE5PYgoWAgDvIvTkD6dAg",
     "handle": "@poriwebcam",
     "name": "Pori webcam",
-    "videos": []
+    "videos": [
+      {
+        "id": "n8i3AnhnPXc",
+        "title": "Yyteri, Pori, Finland"
+      },
+      {
+        "id": "3aZNOTRB6lU",
+        "title": "Reposaari, Pori, Finland"
+      },
+      {
+        "id": "KhyuIt7t5pY",
+        "title": "Kirjurinluoto, Pori, Finland"
+      },
+      {
+        "id": "e0tSa2z92mM",
+        "title": "Eteläranta, Pori, Finland"
+      }
+    ]
   },
   {
     "id": "UC9Vpdl7WbXchXZRt5tXPjkg",
@@ -3424,7 +3462,12 @@
     "id": "UC9uLh_yOzgtsoOEUUeYmzcA",
     "handle": "@champlainmarina6590",
     "name": "Champlain Marina",
-    "videos": []
+    "videos": [
+      {
+        "id": "WYgjhPHIw1k",
+        "title": "Champlain Marina LIVE WEBCam"
+      }
+    ]
   },
   {
     "id": "UC9vjLpH4MYgIUTyQT6SnSQQ",
@@ -4487,8 +4530,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "HzqlaH2ABHU",
-        "title": "【 Archive】 2026-03-31『06:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "zRtz7sP8yP8",
+        "title": "【 Archive】 2026-03-31『12:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -4719,13 +4762,27 @@
     "id": "UCDPUOq2ADKZwRleMUImX-Ww",
     "handle": "@WeatherEvents",
     "name": "WeatherEvents",
-    "videos": []
+    "videos": [
+      {
+        "id": "9eKzgA3Af7k",
+        "title": "Aberdour Live Streaming WeatherCam - FifeWeather.co.uk"
+      },
+      {
+        "id": "T09aQp1CqBI",
+        "title": "Lochgelly Live Streaming WeatherCam - FifeWeather.co.uk"
+      }
+    ]
   },
   {
     "id": "UCDQ9-OMttGoiRHzLrg-xKRA",
     "handle": "@KhaoLakLandDiscovery",
     "name": "Khao Lak Land Discovery",
-    "videos": []
+    "videos": [
+      {
+        "id": "dsbQJmrpaLI",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 31-Mar-2026 06:51"
+      }
+    ]
   },
   {
     "id": "UCDUMVSw1K-ejDIoMe1fvF2Q",
@@ -5726,24 +5783,7 @@
     "id": "UCHZoP1Jy-g_h3sqzScrOEwQ",
     "handle": "@UWVideo",
     "name": "UW Video",
-    "videos": [
-      {
-        "id": "JfQTgK0k8XE",
-        "title": "UW Cherry Blossom Cam (facing west from Miller Hall)"
-      },
-      {
-        "id": "0QtzpaZzOmg",
-        "title": "UW Lake Washington Cam"
-      },
-      {
-        "id": "blcKdwh1mqY",
-        "title": "UW Red Square Cam"
-      },
-      {
-        "id": "4cgSE12k9Sc",
-        "title": "UW Continuum College Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCH_lKz2VXlfLPgYOE3biySg",
@@ -7079,7 +7119,7 @@
     "name": "Kozy Le Morne",
     "videos": [
       {
-        "id": "DgO2fiUXWf8",
+        "id": "z3JFWR1L7ic",
         "title": "🔴 Île Maurice / Mauritius - At Kozy Le Morne"
       }
     ]
@@ -7345,7 +7385,7 @@
     "name": "SBGR LIVE",
     "videos": [
       {
-        "id": "IYs8oIRQlzo",
+        "id": "Big4kt-gAes",
         "title": "SBGR LIVE 4K - Aeroporto Internacional de Guarulhos AO VIVO - GRU Airport"
       }
     ]
@@ -8438,10 +8478,6 @@
     "name": "SHOWME Caribbean",
     "videos": [
       {
-        "id": "JtRWE-HW9LQ",
-        "title": "LIVE SXM Airport March 30 ✈️ -  Maho Beach Sint Maarten"
-      },
-      {
         "id": "XkNiuI2mjlk",
         "title": "🌴Best Caribbean Beach Resorts LIVE | Curaçao • Sint Maarten • Aruba • Bonaire | March 30, 2026"
       },
@@ -8864,12 +8900,7 @@
     "id": "UCTlY00NCf0nKyldwBys3mrA",
     "handle": "@SerradoRiodoRastroaoVivo",
     "name": "Serra do Rio do Rastro ao Vivo",
-    "videos": [
-      {
-        "id": "cR4-2d4Q4vQ",
-        "title": "Serra do Rio do Rastro em Lauro Müller ao vivo!"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCToP9T8yl8FzL-G9J3ONJ0g",
@@ -8991,12 +9022,7 @@
     "id": "UCUmvxPTUfflU3v_mcRNGAeg",
     "handle": "@Sv.Uspenska-Pochaevska-Lavra",
     "name": "† Свято-Успенская Почаевская Лавра",
-    "videos": [
-      {
-        "id": "HSNkPKorrPk",
-        "title": "Пряма трансляція богослужіння † Свято-Успенська Почаївська Лавра"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCUpFHGasL2cNAo2w70vwrSQ",
@@ -9048,6 +9074,10 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
+      {
+        "id": "Ge8uJhmMims",
+        "title": "SafariLIVE Sunrise - 31 March 2026 - Members Only"
+      },
       {
         "id": "MnY2sJydrVM",
         "title": "Jaci's Dam Cam - AD FREE"
@@ -10067,7 +10097,7 @@
     "name": "Canal SSC",
     "videos": [
       {
-        "id": "zIXNxSBb04k",
+        "id": "O89187wajzw",
         "title": "Foz do Iguaçu Ao Vivo - Câmeras no Centro da cidade"
       }
     ]
@@ -10106,10 +10136,6 @@
       {
         "id": "Wi9dZmunD2o",
         "title": "Munchies Pizza & Kebab 🔴 Chaweng beach | Koh Samui | Thailand"
-      },
-      {
-        "id": "Sm9y8G0TLXI",
-        "title": "No Stress Restaurant | Lamai | Koh Samui | Thailand | Livecam on the beach"
       },
       {
         "id": "gmTFQjI_yyo",
@@ -11021,6 +11047,10 @@
     "name": "TinyKittens HQ",
     "videos": [
       {
+        "id": "jboDmXTd7Wk",
+        "title": "LIVE: Four cats about to give birth for the last time! 🐾🥰"
+      },
+      {
         "id": "L64D5vZVUl4",
         "title": "Cloverly is BACK! Plus, Hellga TNR has begun!"
       }
@@ -11238,7 +11268,12 @@
     "id": "UCfHv7aRXqCYcNsqKGrQJUIQ",
     "handle": "@firstprescle",
     "name": "The First Presbyterian Church in Cleveland",
-    "videos": []
+    "videos": [
+      {
+        "id": "9L7EhGU_YY4",
+        "title": "LIVE: #TowerofPower Cam"
+      }
+    ]
   },
   {
     "id": "UCfNWUHvOsckqB-h6OMZBUMg",
@@ -11282,6 +11317,10 @@
       {
         "id": "hKcBA8XS5ZA",
         "title": "🟢 Downtown May Pen LIVE – Watch Jamaica in Motion 24/7"
+      },
+      {
+        "id": "x396CVeU74Q",
+        "title": "🟢 Half Way Tree LIVE – Jamaica’s Busiest Transport Centre 24/7"
       },
       {
         "id": "pwlA66hgV3M",
@@ -12022,6 +12061,10 @@
     "name": "CGTN",
     "videos": [
       {
+        "id": "3To3NJm8Iqo",
+        "title": "Live ship tracking map showing the Strait of Hormuz"
+      },
+      {
         "id": "WTrVdjqdYq8",
         "title": "Live views of NASA's Artemis II from Kennedy Space Center"
       },
@@ -12175,12 +12218,7 @@
     "id": "UChoL_UbFagRA6Fhf7K0qk5w",
     "handle": "@TimLiaoLive",
     "name": "Tim哥",
-    "videos": [
-      {
-        "id": "HmSkpmhzrPU",
-        "title": "🔴【 LIVE 】 ♡台灣新北板橋區即時影像 (颱風/台風/天氣/氣象動態) Live Streaming in Banqiao District, New Taipei, Taiwan 1"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UChyEBRozX9qMh5uusGzQfAQ",
@@ -12526,6 +12564,10 @@
     "handle": "@CGTNEurope",
     "name": "CGTN Europe",
     "videos": [
+      {
+        "id": "wjgi7A9Ykps",
+        "title": "Live ship tracking map showing the Strait of Hormuz"
+      },
       {
         "id": "2zan3CoSlRo",
         "title": "LIVE: Live views of NASA's Artemis II from Kennedy Space Center"
@@ -13449,20 +13491,7 @@
     "id": "UClkczhHdkCogS9eXg2E5s0w",
     "handle": "@GramadoTV",
     "name": "Gramado TV",
-    "videos": [
-      {
-        "id": "rfbNopFDmjA",
-        "title": "Domingo de Ramos - Gramado, 29/03/2026"
-      },
-      {
-        "id": "_qpQWf-NpZk",
-        "title": "Conheça melhor a cidade de Gramado"
-      },
-      {
-        "id": "Busyb4PoLoo",
-        "title": "Gramado ao vivo"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UClqd_NklmF4AnW4MYiCeSEg",
@@ -15920,36 +15949,7 @@
     "id": "UCsuKV3IwmGEHJTvi9GAJ1tA",
     "handle": "@starcatofficial",
     "name": "[公式]スターキャット",
-    "videos": [
-      {
-        "id": "gtJywT5srns",
-        "title": "【ライブカメラ】名古屋高速 新洲崎JCT/Shinsuzaki JCT　Nagoya Expressway"
-      },
-      {
-        "id": "48VRHoWyUes",
-        "title": "【ライブカメラ】岩倉市夢さくら公園　桜開花状況ライブ配信"
-      },
-      {
-        "id": "822Uf8VdxsA",
-        "title": "【ライブカメラ】ささしまライブ/Sasashima Live"
-      },
-      {
-        "id": "X304dz1zrfU",
-        "title": "【ライブカメラ】名古屋駅/Nagoya Station"
-      },
-      {
-        "id": "LRgGBlcL4KU",
-        "title": "【ライブカメラ】県営名古屋空港/Nagoya Airport"
-      },
-      {
-        "id": "cJd9IIu2vio",
-        "title": "【ライブカメラ】名古屋駅西口(太閤通口)/名古屋駅西改札"
-      },
-      {
-        "id": "1Cpl6fHD8Fc",
-        "title": "【ライブカメラ】名古屋市中川区役所駐⾞場"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCswyCUg2EN1MIz0vDTzLqug",
@@ -16202,7 +16202,84 @@
     "id": "UCtrwK-DOZGcQo9p1VwIkDZw",
     "handle": "@maaxcamaovivo",
     "name": "Maaxcam Ao Vivo",
-    "videos": []
+    "videos": [
+      {
+        "id": "6cTL38YvCbg",
+        "title": "Câmera ao vivo Porto de Galinhas - Maracaipe- Pousada La Bella Luna"
+      },
+      {
+        "id": "G-Xx6HlQ9K0",
+        "title": "Praia da Lagoinha do Norte- Florianópolis - Restaurante Canto da Lagoinha"
+      },
+      {
+        "id": "nqZ4s5dK0G0",
+        "title": "Praia Mole  Ao VIVO - Florianópolis - Bar do Boni"
+      },
+      {
+        "id": "CXKCXWiKgew",
+        "title": "Câmera ao Vivo Florianópolis - Praia dos Ingleses - Beach House Bistro&Lounge"
+      },
+      {
+        "id": "iVD75867Tko",
+        "title": "Câmera ao Vivo Florianópolis - Barra da lagoa"
+      },
+      {
+        "id": "v2pgkg12QIo",
+        "title": "Praia de Garopaba Ao Vivo - Kioque Côco Verde"
+      },
+      {
+        "id": "86FPHZLHYIA",
+        "title": "Câmera Ao Vivo Florianópolis - Santo Antônio de Lisboa"
+      },
+      {
+        "id": "vv4LDjPYHtY",
+        "title": "Câmera ao vivo em Florianópolis - Mirante Ilhalguma Lagoa da Conceição"
+      },
+      {
+        "id": "zPf2lh-ZChU",
+        "title": "Câmera ao vivo Praia do Santinho- Florianópolis - Restaurante Mar do Santinho"
+      },
+      {
+        "id": "6MteUqaYuVw",
+        "title": "Câmera ao vivo Florianópolis - Morro das pedras - Graffi Hostel & Bar"
+      },
+      {
+        "id": "TBJzToxEvmk",
+        "title": "Câmera AO VIVO Ponte Hercilio Luz - Florianópolis - Porto 1922 Cafés Especiais"
+      },
+      {
+        "id": "Dh7wdQWEZ_w",
+        "title": "Câmera ao vivo Praia de Palmas - Governador Celso Ramos SC - Pirata Pousada"
+      },
+      {
+        "id": "Ddq6uOSA5ug",
+        "title": "Porto de Galinhas ao vivo - Restaurante La Proa"
+      },
+      {
+        "id": "m32NqSfqjQM",
+        "title": "Câmera ao vivo São José - SC - Beira mar Gol"
+      },
+      {
+        "id": "I2Z8CE0o4F0",
+        "title": "SBFL Live ATC - Aeroporto Internacional de Florianópolis Ao vivo - Com Fonia - CTMEBOX Academia"
+      },
+      {
+        "id": "k9dpUbaMxVc",
+        "title": "Transito Ao Vivo São José/Palhoça -SC - Martelinho de Ouro Farah"
+      },
+      {
+        "id": "h47ThevafH4",
+        "title": "Paraty - Rio de Janeiro - Ao VIVO - BalacoBacco Beach Bar"
+      },
+      {
+        "id": "GFAEq2j3csQ",
+        "title": "Câmera ao Vivo Florianópolis  - Cachoeira do Bom Jesus"
+      },
+      {
+        "id": "EKIDgJrXOLQ",
+        "title": "Câmera ao vivo Jurerê Internacional - Restaurante Caravela"
+      }
+    ]
   },
   {
     "id": "UCtyNVinZ7tfjgWoeApTmlkQ",
@@ -16769,10 +16846,6 @@
     "handle": "@MadRiverValleyTV",
     "name": "Mad River Valley TV",
     "videos": [
-      {
-        "id": "MaSphEF37Ac",
-        "title": "Waitsfield Selectboard 3-30-26"
-      },
       {
         "id": "IB55Ni_wJcQ",
         "title": "Vermont Covered Bridge Webcam in HD from the Mad River Valley 🌱"
