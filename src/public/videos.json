@@ -306,10 +306,6 @@
     "name": "琉球新報",
     "videos": [
       {
-        "id": "UMgNHvLTCzw",
-        "title": "きょうの沖縄@沖縄県庁前交差点"
-      },
-      {
         "id": "nU41kpfKLJM",
         "title": "【LIVE】きょうの沖縄・那覇市役所前交差点ライブカメラ【琉球新報社から】"
       }
@@ -739,7 +735,12 @@
     "id": "UC1LK8PM_k4Fak8v4PBtcQIQ",
     "handle": "@渋谷公園通り-n5l",
     "name": "渋谷公園通り",
-    "videos": []
+    "videos": [
+      {
+        "id": "DPtIH3unwDY",
+        "title": "渋谷公園通り商店街大外ビル"
+      }
+    ]
   },
   {
     "id": "UC1OSbPhj52oW6VM6Odq4uzA",
@@ -1272,12 +1273,7 @@
     "id": "UC3W9fTgytTiODxqCS0N_J4w",
     "handle": "@gemeente_elburg",
     "name": "Gemeente Elburg",
-    "videos": [
-      {
-        "id": "67y2XOu5PFg",
-        "title": "Livestream Gemeente Elburg"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC3c-pudL55WWFxl89wTH1NA",
@@ -1656,7 +1652,12 @@
     "id": "UC5_UEwpA9D5p5TjbfI5Ys6w",
     "handle": "@TriangelSecurityAS",
     "name": "Triangel Security AS",
-    "videos": []
+    "videos": [
+      {
+        "id": "m0dTtGEcPEg",
+        "title": "Molde Live"
+      }
+    ]
   },
   {
     "id": "UC5fEp9PlxQP9llmRAWto_XQ",
@@ -2070,16 +2071,16 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
+        "id": "He8yIOtf6P0",
+        "title": "【LIVE】夜のニュース（Japan News Digest Live）最新情報など（3月31日）｜TBS NEWS DIG"
+      },
+      {
+        "id": "lfpRFC59Hto",
+        "title": "【国会中継・リプレイ】参議院・本会議（2026年3月31日午後5時ごろ～LIVE配信）｜TBS NEWS DIG"
+      },
+      {
         "id": "lVcG2JHQWVA",
         "title": "【イラン情勢 最新まとめ】イランへの軍事作戦｢4～6週間｣想定変わらず/イラン外務省｢裏切られたことを決して忘れない｣/ロシアタンカーがキューバに到着/米軍「地上作戦」検討報道も　など"
-      },
-      {
-        "id": "DQxCNvcBBEY",
-        "title": "【LIVE】昼のニュース（Japan News Digest Live）最新情報など（3月31日）｜TBS NEWS DIG"
-      },
-      {
-        "id": "6cdzaSAT-IQ",
-        "title": "【国会中継・リプレイ】参議院・文教科学委員会（2026年3月31日午前10時～LIVE配信）｜TBS NEWS DIG"
       },
       {
         "id": "1BBpH3Uih2c",
@@ -2627,6 +2628,10 @@
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
       {
+        "id": "8B_BNVmvtpY",
+        "title": "Messe depuis la Grotte de Lourdes - 31/03/2026"
+      },
+      {
         "id": "gieBvrgREDA",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
       },
@@ -2964,10 +2969,6 @@
     "name": "Boston and Maine Live",
     "videos": [
       {
-        "id": "Harxe0h0VTA",
-        "title": "Ski Resort Webcams - LIVE from New England"
-      },
-      {
         "id": "bys52kM3Nzc",
         "title": "Live from Portsmouth, New Hampshire - Strawbery Banke Museum"
       },
@@ -3276,7 +3277,12 @@
     "id": "UC8p1N6NQkCnUukz3fkwb9Rw",
     "handle": "@Taimaz.B",
     "name": "Taimaz",
-    "videos": []
+    "videos": [
+      {
+        "id": "1jIuUY9qTkI",
+        "title": "Calgary Live Webcam |  Downtown | Canada"
+      }
+    ]
   },
   {
     "id": "UC8qCc7sF9hSjP-U0TiaO5Tw",
@@ -3880,6 +3886,10 @@
     "handle": "@RigaZOO",
     "name": "RigaZOO",
     "videos": [
+      {
+        "id": "8DutUbIzlPs",
+        "title": "Rīga ZOO sliņķi"
+      },
       {
         "id": "DVigfPsPEXs",
         "title": "Rīgas Zoodārza lauvas"
@@ -4525,8 +4535,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "k-Z4zzSJZh0",
-        "title": "【 Archive】 2026-03-31『15:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "mE1PRZmlrBg",
+        "title": "【Archive】 2026-03-31『18:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -5773,24 +5783,7 @@
     "id": "UCHZoP1Jy-g_h3sqzScrOEwQ",
     "handle": "@UWVideo",
     "name": "UW Video",
-    "videos": [
-      {
-        "id": "JfQTgK0k8XE",
-        "title": "UW Cherry Blossom Cam (facing west from Miller Hall)"
-      },
-      {
-        "id": "0QtzpaZzOmg",
-        "title": "UW Lake Washington Cam"
-      },
-      {
-        "id": "blcKdwh1mqY",
-        "title": "UW Red Square Cam"
-      },
-      {
-        "id": "4cgSE12k9Sc",
-        "title": "UW Continuum College Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCH_lKz2VXlfLPgYOE3biySg",
@@ -5917,7 +5910,12 @@
     "id": "UCI-kn_qBWAwygzm5P5DCxNA",
     "handle": "@LagunaBeachChristianRetreat",
     "name": "Laguna Beach Christian Retreat",
-    "videos": []
+    "videos": [
+      {
+        "id": "nT8aBQx8OS4",
+        "title": "Live - Beach Camera I Laguna Beach Christian Retreat in Panama City Beach, Florida"
+      }
+    ]
   },
   {
     "id": "UCI4huqcitDTCjPrDSelgk5g",
@@ -7534,12 +7532,7 @@
     "id": "UCOC5E1x-2E_o_ob5IsEhhqQ",
     "handle": "@eugenmatei375",
     "name": "eugen m",
-    "videos": [
-      {
-        "id": "bBri-zCbWxY",
-        "title": "WeatherTech Laguna Seca Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCODo53NEfcGzaUkCJ_spvuA",
@@ -8643,12 +8636,7 @@
     "id": "UCSFrrg7k1zpt5JvQ96KjRqg",
     "handle": "@SnooksBaysideKeyLargo",
     "name": "Snook&#39;s Bayside Restaurant &amp; Grand Tiki",
-    "videos": [
-      {
-        "id": "tIYUOWF1N4s",
-        "title": "🔴 LIVE Snook's Bayside Key Largo Florida"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCSGpRUfc4CaBpZlaXA6tr0w",
@@ -8805,12 +8793,7 @@
     "id": "UCTGhjtFloAPlbLy4_yrkoWg",
     "handle": "@portofnewcastle",
     "name": "Port of Newcastle",
-    "videos": [
-      {
-        "id": "tbQPUvUifEc",
-        "title": "Port of Newcastle Live Harbour Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCTHlXiRiln7-lSXPh2xFbOw",
@@ -9082,6 +9065,10 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
+      {
+        "id": "6c6wVK0JFmc",
+        "title": "LIVE at the waterhole - 31 March 2026"
+      },
       {
         "id": "MnY2sJydrVM",
         "title": "Jaci's Dam Cam - AD FREE"
@@ -11303,12 +11290,7 @@
     "id": "UCfQciJ8PpgWDOocrMPxLkTw",
     "handle": "@ThreeRiversCommunityofMaine",
     "name": "Three Rivers Community of Maine",
-    "videos": [
-      {
-        "id": "bcLEn_32BUY",
-        "title": "Trafton Falls,  Milo Me"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCfS5_X4LiZJV5vq6z7itypA",
@@ -11368,16 +11350,7 @@
     "id": "UCfpv2BakpGfg3ChqRy7xQIQ",
     "handle": "@moevenpickamsterdam",
     "name": "Mövenpick Hotel Amsterdam City Centre",
-    "videos": [
-      {
-        "id": "rFhE3WLVVTc",
-        "title": "Mövenpick Hotel Amsterdam Livestream | Panoramic Rooftop View – IJ-Haven Javakade"
-      },
-      {
-        "id": "9Pm6Ji6tm7s",
-        "title": "Movenpick Hotel Amsterdam Livestream | Panoramic Rooftop View - Amsterdam Central Station"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCfulDPjKRU81YWWdtFpivEg",
@@ -13239,10 +13212,6 @@
       {
         "id": "CL76rU9FDN4",
         "title": "LIVE PEMANTAUAN CCTV LALULINTAS SIMPANG EMPAT TEGALSARI TIMUR"
-      },
-      {
-        "id": "2sHfPNj0wI8",
-        "title": "LIVE PEMANTAUAN CCTV LALULINTAS SIMPANG EMPAT GADING UTARA"
       },
       {
         "id": "IxRo8V4YRGs",
@@ -17107,6 +17076,10 @@
         "title": "富士山二合目のテーマパーク「ぐりんぱ」（静岡県）ライブカメラ/ \"Live Camera of 'Grinpa' Theme Park at the 2nd Station of Mt. Fuji"
       },
       {
+        "id": "YnMIx_NJhIY",
+        "title": "「岳南電車」（静岡県）ライブカメラ / Live camera\"Gakunan Railway \" in Shizuoka"
+      },
+      {
         "id": "y0OFr7jMx9A",
         "title": "ピーターラビット™イングリッシュガーデン（富士芝桜まつり）ライブカメラ / Live Camera English Garden（Fuji Shibazakura Festival）"
       },
@@ -17163,12 +17136,7 @@
     "id": "UCx8ILP7mQxM0nBv9bwTmTRQ",
     "handle": "@paradisevibes7610",
     "name": "PARADISE VIBES",
-    "videos": [
-      {
-        "id": "xLzSkAAYsxw",
-        "title": "🌴 LIVE Ocean View 🌅 | Paradise Vibes from Grand Horizon Resort | Gran Canaria, Puerto Rico"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxChxl1rvyMMMRTr9gC_N2w",
@@ -17411,7 +17379,12 @@
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
     "handle": "@flamingf.1562",
     "name": "Flaming Fire",
-    "videos": []
+    "videos": [
+      {
+        "id": "qvOFXHCHFO0",
+        "title": "Stockholm city live cam 20260331"
+      }
+    ]
   },
   {
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
