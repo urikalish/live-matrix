@@ -266,7 +266,12 @@
     "id": "UC-YwGCdQF-0AdCXhrDF0d2Q",
     "handle": "@canneswebcamquailaubeuf6467",
     "name": "Cannes webcam : Quai Laubeuf",
-    "videos": []
+    "videos": [
+      {
+        "id": "asO_10T0k2k",
+        "title": "🔴 LIVE WEBCAM CANNES - Quai Laubeuf"
+      }
+    ]
   },
   {
     "id": "UC-bEmTUibiby67vliNPscBA",
@@ -783,7 +788,28 @@
     "id": "UC1Rp_0bp86QEUt9TlMN5tlQ",
     "handle": "@AESignage",
     "name": "AE Signage",
-    "videos": []
+    "videos": [
+      {
+        "id": "nVsDt8AvfCU",
+        "title": "Times Square: 1540 Broadway View Live"
+      },
+      {
+        "id": "a9J1OP_x5Rg",
+        "title": "Times Square: Express View Live"
+      },
+      {
+        "id": "iiBTWU2FyFo",
+        "title": "Times Square: Duffy Square 4K View Live"
+      },
+      {
+        "id": "VSSHILnbfyw",
+        "title": "Times Square: 1515 Broadway View Live"
+      },
+      {
+        "id": "4qyZLflp-sI",
+        "title": "Times Square: 1560 Broadway View Live"
+      }
+    ]
   },
   {
     "id": "UC1YsvhwhmQV5kfVMRpTVx-A",
@@ -994,12 +1020,7 @@
     "id": "UC2kR-aq56MirelLRPM7Sbnw",
     "handle": "@bernyreplotbridgereplotbro321",
     "name": "Berny Replot bridge Replotbron Raippaluodon silta",
-    "videos": [
-      {
-        "id": "x1_RsJOZUq8",
-        "title": "Replot Bridge Live Stream – Finland’s Longest Bridge in Real Time"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC2lamMZjjT-Qcq-zIx6NrCw",
@@ -1531,11 +1552,7 @@
     "videos": [
       {
         "id": "JwXM7qhG-3c",
-        "title": "LIVE: Trump signs an executive order"
-      },
-      {
-        "id": "jwmzRDJ5PBg",
-        "title": "Bosnia-Herzegovina vs. Italy LIVE: Watch party in Zenica"
+        "title": "LIVE: Trump signs order directing creation of a national voter list"
       },
       {
         "id": "_J4ntX6Td9k",
@@ -2046,12 +2063,12 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "t4Vredsur4w",
-        "title": "【イラン情勢 最新まとめ】ホルムズ海峡「中国の船舶3隻が通過」/価格高騰“ロシアはよろこばしい”/イランへの軍事作戦｢4～6週間｣想定変わらず など"
+        "id": "FSkMyzwdsic",
+        "title": "【LIVE】朝のニュース（Japan News Digest Live）最新情報など｜TBS NEWS DIG（4月1日）"
       },
       {
-        "id": "SdU930G3PVw",
-        "title": "【LIVE】最新ニュースまとめ（Japan News Digest）（3月31日）｜TBS NEWS DIG"
+        "id": "t4Vredsur4w",
+        "title": "【イラン情勢 最新まとめ】ホルムズ海峡「中国の船舶3隻が通過」/価格高騰“ロシアはよろこばしい”/イランへの軍事作戦｢4～6週間｣想定変わらず など"
       },
       {
         "id": "1BBpH3Uih2c",
@@ -3721,6 +3738,10 @@
     "name": "City of Ellsworth, Maine",
     "videos": [
       {
+        "id": "zzDAAuHup8Q",
+        "title": "Planning Board Meeting - March 31st, 2026"
+      },
+      {
         "id": "Tm5YO9g8_nQ",
         "title": "City of Ellsworth, Maine - City Hall Cupola Cam"
       },
@@ -4294,50 +4315,6 @@
       {
         "id": "R5hM2OxYJx8",
         "title": "🔴 Floresta live webcam -  Panoramica nord-est"
-      },
-      {
-        "id": "8HDCHNa629A",
-        "title": "🔴 Carini live webcam -  Panoramica nord"
-      },
-      {
-        "id": "Ho5zY2E-nl4",
-        "title": "🔴 Barcellona Pozzo di Gotto live webcam - Panoramica Isole Eolie"
-      },
-      {
-        "id": "Doe9FRPlCC4",
-        "title": "🔴 Isnello live webcam - Panoramica Osservatorio Astronomico Gal Hassin puntamento N-NE"
-      },
-      {
-        "id": "9b0_8qtcNas",
-        "title": "🔴 Capaci live webcam - Panoramica Torretta (Sud/Sud-ovest)"
-      },
-      {
-        "id": "zM2WfnI-RlM",
-        "title": "🔴 Palermo live webcam -  Panoramica sud-ovest"
-      },
-      {
-        "id": "5DwHIulNcSY",
-        "title": "🔴 Termini imerese live webcam - Panoramica Madonie"
-      },
-      {
-        "id": "fp9Y6shE7vQ",
-        "title": "🔴 Termini imerese live webcam - Panoramica Monte San Calogero"
-      },
-      {
-        "id": "pO2zFFeqiMo",
-        "title": "🔴 Nunziata di Mascali live webcam - Panoramica Etna est"
-      },
-      {
-        "id": "vMFRk8l7q5E",
-        "title": "🔴 Oasi della Speranza live webcam - Panoramica Nord"
-      },
-      {
-        "id": "bN8r8sk7d4s",
-        "title": "🔴 Floresta live webcam - Panoramica Etna nord"
-      },
-      {
-        "id": "Ia2EBSG6aXQ",
-        "title": "🔴 Santo Stefano Quisquina live webcam - Panoramica Monti Sicani"
       }
     ]
   },
@@ -4519,8 +4496,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "2XrAvy180Cw",
-        "title": "【 Archive】 2026-04-01『03:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "CsTxFRO0g_8",
+        "title": "【 Archive】 2026-04-01『06:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -4768,8 +4745,8 @@
     "name": "Khao Lak Land Discovery",
     "videos": [
       {
-        "id": "qHicp8FXll4",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 01-Apr-2026 00:02"
+        "id": "9BD_vxeQnas",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 01-Apr-2026 04:34"
       }
     ]
   },
@@ -5245,7 +5222,12 @@
     "id": "UCFHiC0LXThenL-CEHmf5Q2A",
     "handle": "@bioberghotelifenblick",
     "name": "Bio-Berghotel Ifenblick",
-    "videos": []
+    "videos": [
+      {
+        "id": "EF0IxO7ZHK4",
+        "title": "Bio-Berghotel Ifenblick WebCam"
+      }
+    ]
   },
   {
     "id": "UCFZO10OCD0gGxRGa1N0ePYQ",
@@ -6593,7 +6575,12 @@
     "id": "UCK7jUXn_Od2JaML2geUj65A",
     "handle": "@tv2mogilev",
     "name": "TV2 Mogilev",
-    "videos": []
+    "videos": [
+      {
+        "id": "AFnkSgS2pAE",
+        "title": "Mogilev Online"
+      }
+    ]
   },
   {
     "id": "UCK8OfE2evBrElahkHxLJE5g",
@@ -6866,20 +6853,7 @@
     "id": "UCLA_DiR1FfKNvjuUpBHmylQ",
     "handle": "@NASA",
     "name": "NASA",
-    "videos": [
-      {
-        "id": "NaJklsJonD4",
-        "title": "NASA's Artemis II Live Views from Kennedy Space Center"
-      },
-      {
-        "id": "sWasdbDVNvc",
-        "title": "Live Video from the International Space Station (Official NASA Stream)"
-      },
-      {
-        "id": "zPH5KtjJFaQ",
-        "title": "Live High-Definition Views from the International Space Station (Official NASA Stream)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCLMkrtuGU0QL1k7ne9BTWNg",
@@ -7010,7 +6984,12 @@
     "id": "UCLTYXg2LkraaBZyd431pF7g",
     "handle": "@bonnyhillsbeachhouse",
     "name": "Bonny Hills Beach House",
-    "videos": []
+    "videos": [
+      {
+        "id": "HKhhCGZcKyc",
+        "title": "Bonny Hills Beach House BEACHCAM Live Stream"
+      }
+    ]
   },
   {
     "id": "UCL_Pe20HICTxJsTB5O5g8Yg",
@@ -7199,12 +7178,7 @@
     "id": "UCMFelGB_bqxw2VGv08MQOrg",
     "handle": "@watersedgeresort",
     "name": "Water&#39;s Edge Resort &amp; Spa",
-    "videos": [
-      {
-        "id": "OCD38R8KlTo",
-        "title": "Water's Edge Resort and Spa Livestream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCMMBk7t5_yJ03OWwHdGTWOw",
@@ -7678,12 +7652,7 @@
     "id": "UCOxE9CwlZj-BdLVgxr4eDyA",
     "handle": "@gcrbeachcam",
     "name": "Garden City Realty&#39;s Live Cam at River City Café",
-    "videos": [
-      {
-        "id": "PdudbIiVIKQ",
-        "title": "Garden City Realty's Live Cam at River City Café"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCP9iUsMyLRKbxhGAEDChbCA",
@@ -8176,7 +8145,32 @@
     "id": "UCRFKY6zRG17tBT1tktsFiVg",
     "handle": "@Suburban-Security",
     "name": "斯爾本科技有限公司",
-    "videos": []
+    "videos": [
+      {
+        "id": "JIEuK_Wf70o",
+        "title": "KP【4K】#南方澳、#內埤仔海邊、#情人灣。即時影像【4K】#Nanfang'ao, Neipi Beach, Lover's Bay  #WeCafe #coffeeShop  TO  #烏岩角"
+      },
+      {
+        "id": "WtPbAgNVgiY",
+        "title": "KP【4K】#南方澳、#進安宮天上聖母、#寶石珊瑚媽祖、 #大殿 媽祖文化、  #遠端參拜 。Nanfang'ao,  Main Hall Mazu Culture, Remote Worship."
+      },
+      {
+        "id": "9uRumsWvvfE",
+        "title": "KP【4K】#南方澳 第二漁港 即時影像 #漁村生活 = 【4K】Nanfangao Second Fishing Port Live Cam - fisherman life"
+      },
+      {
+        "id": "sqWrdNNAlrA",
+        "title": "KP【4K】#南方澳 第三漁港 #即時影像 漁村生活 - [4K] #nanfang'ao Third Fishing Port Live Fishing Village Life"
+      },
+      {
+        "id": "nFd4550YnEQ",
+        "title": "KP【4K】南方澳、進安宮天上聖母、#寶石珊瑚媽祖、 大門  媽祖文化、江夏路、第三漁港、跨海大橋、遊覽車、香客紀錄、自動巡航 Tour Bus, Pilgrim Records, Automatic"
+      },
+      {
+        "id": "_u7baK7ct2M",
+        "title": "KP【4K】南方澳、南天宮、第一漁港。媽祖文化 ,[4K] Nanfang'ao, Nantian Temple, and the First Fishing Port. Mazu culture,"
+      }
+    ]
   },
   {
     "id": "UCROKYPep-UuODNwyipe6JMw",
@@ -10765,12 +10759,7 @@
     "id": "UCcoQfizLr4MYgiAkkYnQobA",
     "handle": "@rossbaybc",
     "name": "Ross Bay Live Webcam",
-    "videos": [
-      {
-        "id": "sLixr8cThJo",
-        "title": "Ross Bay, Victoria BC"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCcrSw7gTYq6ZQ1MdIo23Q1w",
@@ -11242,18 +11231,17 @@
     "id": "UCfQciJ8PpgWDOocrMPxLkTw",
     "handle": "@ThreeRiversCommunityofMaine",
     "name": "Three Rivers Community of Maine",
-    "videos": [
-      {
-        "id": "3DpJgV-y46M",
-        "title": "Trafton Falls,  Milo Me"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCfS5_X4LiZJV5vq6z7itypA",
     "handle": "@SeeJamaica",
     "name": "See Jamaica ",
     "videos": [
+      {
+        "id": "AzztA5XTU9I",
+        "title": "🟢 Santa Cruz, St Elizabeth, Jamaica LIVE 24/7 | See Jamaica"
+      },
       {
         "id": "yxobbaRDzvc",
         "title": "🟢 Morant Bay Market LIVE 24/7 | St Thomas, Jamaica | Street Life, Buses, Taxis, Vendors"
@@ -12007,10 +11995,6 @@
       {
         "id": "m94IiDyF8sY",
         "title": "Live from Matanzas, east of Havana, as the Russian oil tanker Anatoly Kolodkin is expected to arrive"
-      },
-      {
-        "id": "WTrVdjqdYq8",
-        "title": "Live views of NASA's Artemis II from Kennedy Space Center"
       },
       {
         "id": "SDg_xaF8sSI",
@@ -13340,10 +13324,6 @@
       {
         "id": "lpFFvGBC41s",
         "title": "🔴  Zihuatanejo - En vivo Bahía de Zihuatanejo"
-      },
-      {
-        "id": "xtDn22DB7wY",
-        "title": "🔴  Ixtapa - En vivo Playa Linda"
       },
       {
         "id": "e756N1tufY8",
@@ -14890,7 +14870,24 @@
     "id": "UCpWU25qIleNLmUEF9VwBdMA",
     "handle": "@ZAIHOCH",
     "name": "財宝公式チャンネル",
-    "videos": []
+    "videos": [
+      {
+        "id": "uCbr0YLxsac",
+        "title": "【LIVE】 桜島 ライブカメラ D 【鹿児島市】/ Sakurajima, an active volcano live cam (Kagoshima City) JAPAN"
+      },
+      {
+        "id": "PeElJClXtzE",
+        "title": "【2K LIVE】桜島 ライブカメラB【近景】鹿児島県 垂水市 / Sakurajima, an active volcano live cam (Close-up view) JAPAN'"
+      },
+      {
+        "id": "Mfq8V8uE0SU",
+        "title": "【LIVE】桜島 ライブカメラＣ【火口】鹿児島県 垂水市 / Live Streaming Sakurajima Crater Kagoshima, JAPAN'"
+      },
+      {
+        "id": "eF9PohrRP_o",
+        "title": "【LIVE】桜島 ライブカメラA【遠景】鹿児島県 垂水市 フェリー/ Sakurajima, an active volcano live cam JAPAN\""
+      }
+    ]
   },
   {
     "id": "UCpYWKDFTaOdn70cF_uJf2XQ",
@@ -15855,7 +15852,36 @@
     "id": "UCsghjvIsGFKH2cAjbRt7g6w",
     "handle": "@novascotiawebcams",
     "name": "Nova Scotia Webcams",
-    "videos": []
+    "videos": [
+      {
+        "id": "pPJKse_k50s",
+        "title": "Armdale Roundabout LIVE"
+      },
+      {
+        "id": "SFoS6nBL138",
+        "title": "Peggy's Cove Lighthouse, Nova Scotia"
+      },
+      {
+        "id": "LDcLOaAzu7U",
+        "title": "Tangier, Nova Scotia"
+      },
+      {
+        "id": "RdQ-e-iCkVI",
+        "title": "Burntcoat Head, Nova Scotia"
+      },
+      {
+        "id": "5mYXkctDMsA",
+        "title": "Baccaro Point Lighthouse, Nova Scotia"
+      },
+      {
+        "id": "Pwt0tZlt9eE",
+        "title": "Lockeport Crescent Beach Centre, Nova Scotia"
+      },
+      {
+        "id": "dQzt2xtk7kY",
+        "title": "Tidal Bore LIVE at Fundy Discovery Site in Truro, Nova Scotia"
+      }
+    ]
   },
   {
     "id": "UCssgkk6dhVpL-v6K5yPjIzw",
@@ -16001,7 +16027,12 @@
     "id": "UCsyyRhCqrvBInUQYTNxL6lw",
     "handle": "@poroslivegr4994",
     "name": "POROSLIVE GR",
-    "videos": []
+    "videos": [
+      {
+        "id": "4kUPCnqPoDM",
+        "title": "Poros island Live Cam"
+      }
+    ]
   },
   {
     "id": "UCt01tczohsGmH6X6csUS6iQ",
@@ -16259,12 +16290,7 @@
     "id": "UCuC2O77qFl3UtcUN4KmKaeg",
     "handle": "@suvrettahouse",
     "name": "Suvretta House",
-    "videos": [
-      {
-        "id": "ALZU0HGq-1c",
-        "title": "Live WebCam from Hotel Suvretta House - St. Moritz, Switzerland"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCuIw1kCz18I87PEqWlmnchg",
@@ -16371,7 +16397,20 @@
     "id": "UCuaFFNhZkcEg2JjEPvzjzzw",
     "handle": "@PortOfHelsinki",
     "name": "Port of Helsinki",
-    "videos": []
+    "videos": [
+      {
+        "id": "6hPWq2IG08M",
+        "title": "Port of Helsinki - West harbour - south cam"
+      },
+      {
+        "id": "JnJhFYhIjFs",
+        "title": "Port of Helsinki - West harbour - north cam"
+      },
+      {
+        "id": "CvOB-Is_yYU",
+        "title": "Port of Helsinki - South Harbour Live (Live Camera Axis Q6155-E)"
+      }
+    ]
   },
   {
     "id": "UCuarPSgSklrmX2z0iA-Ua4Q",
@@ -16800,12 +16839,7 @@
     "id": "UCvchmSxNOFCgrEECXeZx3rg",
     "handle": "@tracksidetrailcam3006",
     "name": "Trackside Trail Cam",
-    "videos": [
-      {
-        "id": "d1KPGm1aWWE",
-        "title": "Trackside Trail Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCvhiDnEBGGOHu2JuWiqQOhA",
