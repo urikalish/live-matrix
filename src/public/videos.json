@@ -1552,12 +1552,12 @@
     "name": "Associated Press",
     "videos": [
       {
-        "id": "v8tpjzHPDJc",
-        "title": "LIVE: Tel Aviv skyline as Iran war continues"
+        "id": "CXOScAb27mM",
+        "title": "Artemis II launch LIVE: NASA launches moon rocket with four astronauts"
       },
       {
-        "id": "l37Ufnb8PjE",
-        "title": "LIVE: Beirut skyline view as Israel invades southern Lebanon"
+        "id": "qntd3XZ3qQs",
+        "title": "LIVE: Supreme Court hears arguments on birthright citizenship"
       }
     ]
   },
@@ -1741,7 +1741,7 @@
       },
       {
         "id": "dDIfhPXn_-c",
-        "title": "USS Bald Eagle Nest Cam - USS 9 Has Arrived! (3/29)"
+        "title": "USS Bald Eagle Nest Cam - USS 9 & USS 10 have arrived! PIP #3 in Progress!"
       },
       {
         "id": "HwepkNOECB8",
@@ -2055,16 +2055,12 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
+        "id": "UtACMtCkwoA",
+        "title": "【LIVE】最新ニュースまとめ（Japan News Digest）（4月1日）｜TBS NEWS DIG"
+      },
+      {
         "id": "FOGNwuE3oNE",
         "title": "【イラン情勢 最新まとめ】トランプ氏 イラン関連で“重要情報”演説へ/軍事作戦の目的を改めて説明か/イラン外相「（米協議）何も決まっていない」 など"
-      },
-      {
-        "id": "7tjfCDVsA4c",
-        "title": "【LIVE】夜のニュース（Japan News Digest Live）最新情報など（4月1日）｜TBS NEWS DIG"
-      },
-      {
-        "id": "F0nUUj4lsnM",
-        "title": "【リプレイ】日仏首脳会談　会談前の「栄誉礼及び儀じょう」「会談の頭どり」会談後の「共同記者発表」　（2026年4月1日午後～LIVE配信）｜TBS NEWS DIG"
       },
       {
         "id": "1BBpH3Uih2c",
@@ -5253,12 +5249,7 @@
     "id": "UCFHiC0LXThenL-CEHmf5Q2A",
     "handle": "@bioberghotelifenblick",
     "name": "Bio-Berghotel Ifenblick",
-    "videos": [
-      {
-        "id": "EF0IxO7ZHK4",
-        "title": "Bio-Berghotel Ifenblick WebCam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCFZO10OCD0gGxRGa1N0ePYQ",
@@ -5281,7 +5272,12 @@
     "id": "UCFbd69s_b63mA7qvpnG6U8Q",
     "handle": "@news8nowcitycam282",
     "name": "News 8 Now City Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "iDfwwSSQEyo",
+        "title": "News 8 Now City Cam Live Stream"
+      }
+    ]
   },
   {
     "id": "UCFxb1RXdYBFqM7a_8GlfxMQ",
@@ -5977,6 +5973,10 @@
     "handle": "@leavenworthcountykansas9566",
     "name": "Leavenworth County Kansas",
     "videos": [
+      {
+        "id": "oZX0yBpoOcU",
+        "title": "LV COUNTY KS 2026-04-01"
+      },
       {
         "id": "wdl24JBMMis",
         "title": "Leavenworth County Kansas Live View"
@@ -6844,7 +6844,7 @@
     "name": "Live Cam Yokohama Japan",
     "videos": [
       {
-        "id": "bZ1sln1VoaA",
+        "id": "ZVobEJVbrwU",
         "title": "🔴Live Cam Yokohama Japan :横浜汽車道ライブカメラ"
       }
     ]
@@ -7280,7 +7280,12 @@
     "id": "UCMvAap1Jacyg-4bqYKDlmtw",
     "handle": "@onkormanyzateger4312",
     "name": "Önkormányzat EGER",
-    "videos": []
+    "videos": [
+      {
+        "id": "HKVZx5EdnIs",
+        "title": "Dobó téri webkamera"
+      }
+    ]
   },
   {
     "id": "UCMxqF9dbzpE1W6-rWXJibVA",
@@ -7390,7 +7395,7 @@
     "name": "SBGR LIVE",
     "videos": [
       {
-        "id": "yI-wKBQ71bw",
+        "id": "67BWTdq6a_k",
         "title": "SBGR LIVE 4K - Aeroporto Internacional de Guarulhos AO VIVO - GRU Airport"
       }
     ]
@@ -7552,18 +7557,18 @@
     "id": "UCODo53NEfcGzaUkCJ_spvuA",
     "handle": "@cityofsouthhaven",
     "name": "City of South Haven",
-    "videos": []
+    "videos": [
+      {
+        "id": "uxmsnPL750w",
+        "title": "Live South Beach Camera - City of South Haven on Lake Michigan"
+      }
+    ]
   },
   {
     "id": "UCOGzru-qFCrrpRUStnnCjfg",
     "handle": "@hollandheimau8978",
     "name": "Hollandheim Au",
-    "videos": [
-      {
-        "id": "JekBM4fw5N0",
-        "title": "Webcam Hollandheim AU"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCORHd1urdBsokSftmLlrRMg",
@@ -8357,10 +8362,6 @@
         "title": "Alınca Köyü Canlı Yayın"
       },
       {
-        "id": "v9Etg4N0GmM",
-        "title": "Kümbet Çifteoluk Canlı Yayın"
-      },
-      {
         "id": "U7UYcPO47Xg",
         "title": "Kulakkaya Yaylası Canlı Yayın Kamera 1"
       },
@@ -8417,6 +8418,14 @@
     "handle": "@SHOWMECaribbean",
     "name": "SHOWME Caribbean",
     "videos": [
+      {
+        "id": "LEGfjX9wttw",
+        "title": "LIVE SXM Airport April 1 ✈️ -  Maho Beach Sint Maarten"
+      },
+      {
+        "id": "XQT6-bmzGVQ",
+        "title": "🌴Best Caribbean Beach Resorts LIVE | Curaçao • Sint Maarten • Aruba • Bonaire | April 1, 2026"
+      },
       {
         "id": "4HIsSCUGKDc",
         "title": "🏖Best Caribbean Destinations LIVE | Curaçao • Aruba • Bonaire • Saint Martin | Live Cams"
@@ -8838,7 +8847,7 @@
     "name": "Serra do Rio do Rastro ao Vivo",
     "videos": [
       {
-        "id": "q6_c1Y0PsJQ",
+        "id": "sJdshtsdCSc",
         "title": "Serra do Rio do Rastro em Lauro Müller ao vivo!"
       }
     ]
@@ -8987,10 +8996,6 @@
     "name": "Vacation Myrtle Beach",
     "videos": [
       {
-        "id": "gCMYP5cxkFo",
-        "title": "Myrtle Beach Sunrise 04/01/2026"
-      },
-      {
         "id": "GKOyGoRE0Tg",
         "title": "Live Myrtle Beach View - Captain's Quarters Resort"
       },
@@ -9024,6 +9029,10 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
+      {
+        "id": "jwOgVGc-_4Q",
+        "title": "SafariLIVE Sunset - 01 April 2026"
+      },
       {
         "id": "MnY2sJydrVM",
         "title": "Jaci's Dam Cam - AD FREE"
@@ -9831,7 +9840,12 @@
     "id": "UCZqr-kHlRzGyCgh7BHksSAw",
     "handle": "@canneswebcamboulevarddumid3987",
     "name": "Cannes webcam : Boulevard du midi",
-    "videos": []
+    "videos": [
+      {
+        "id": "z6BNMoj9Pyo",
+        "title": "🔴 LIVE WEBCAM CANNES - Boulevard du Midi"
+      }
+    ]
   },
   {
     "id": "UCZvXaNYIcapCEcaJe_2cP7A",
@@ -10992,10 +11006,6 @@
     "name": "TinyKittens HQ",
     "videos": [
       {
-        "id": "jboDmXTd7Wk",
-        "title": "LIVE: Four cats about to give birth for the last time! 🐾🥰"
-      },
-      {
         "id": "L64D5vZVUl4",
         "title": "Cloverly is BACK! Plus, Hellga TNR has begun!"
       }
@@ -12002,10 +12012,6 @@
     "name": "CGTN",
     "videos": [
       {
-        "id": "5vN9bD-dclw",
-        "title": "Live: 33 days of conflict: Strikes hit Tehran and Isfahan as oil prices surge"
-      },
-      {
         "id": "CO6Sc6mD_rI",
         "title": "View of Tel Aviv skyline"
       },
@@ -12165,7 +12171,12 @@
     "id": "UCha0QKR45iw7FCUQ3-1PnhQ",
     "handle": "@cafedelmar",
     "name": "Café del Mar",
-    "videos": []
+    "videos": [
+      {
+        "id": "GnbWNJfnETM",
+        "title": "Café del Mar Ibiza Chillout Radio Live Stream & Sunset Webcam"
+      }
+    ]
   },
   {
     "id": "UChoL_UbFagRA6Fhf7K0qk5w",
@@ -12747,7 +12758,12 @@
     "id": "UCjeImUhRB1SLqN-svqDRJJw",
     "handle": "@radiopowertv",
     "name": "Power Pinamar",
-    "videos": []
+    "videos": [
+      {
+        "id": "q3aVOvYAfdg",
+        "title": "PINAMAR PLAYA EN VIVO: Cámaras Pinamar - Valeria del Mar - Carilo - BUENOS AIRES - ARGENTINA AHORA"
+      }
+    ]
   },
   {
     "id": "UCjgiKi29C--6aW3pgn0l5JA",
@@ -14182,12 +14198,7 @@
     "id": "UCo9e_ilRlTxHTCFAcaLR2-w",
     "handle": "@livecameralivedive6416",
     "name": "【Kitchen DIVE】Live camera in Tokyo Japan",
-    "videos": [
-      {
-        "id": "AxOERE3xIbw",
-        "title": "【Live camera in Tokyo Japan】デカ盛り弁当屋キッチンDIVE 中継ライブカメラ 【渋谷・秋葉原出店計画中】JR亀戸駅 カメイドクロック近隣 24時間営業"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCoA1QcioL4aGra1fPQ6wlGg",
@@ -14695,6 +14706,10 @@
     "handle": "@StGeorgeTower",
     "name": "St. George Tower",
     "videos": [
+      {
+        "id": "c20CGLpuxSk",
+        "title": "Live NYC Brooklyn Bridge & Manhattan cam"
+      },
       {
         "id": "ZM-JxBHy1QU",
         "title": "Live NYC Lower Manhattan & New York Harbor Cam"
@@ -16896,7 +16911,40 @@
     "id": "UCwNfkYp9gKIvQDN1kPhpCsQ",
     "handle": "@FSTNET-ro9cc",
     "name": "F.S.T. NET",
-    "videos": []
+    "videos": [
+      {
+        "id": "aVAO2wSUsPo",
+        "title": "大阪ライブカメラ　【LIVE】大阪・心斎橋　（長堀通り交差）新橋交差点　F.S.T.NET提供　高感度・高画質ライブカメラ"
+      },
+      {
+        "id": "-nQCcDvp7Xs",
+        "title": "大阪ライブカメラ 箕面市の乱開発【LIVE】粟生新家（南側）／粟生新家交差点（信号）"
+      },
+      {
+        "id": "lKZqryb7Nno",
+        "title": "大阪ライブカメラ　大阪・コリアタウン【LIVE】24時間ライブカメラ｜超高感度カラー｜街の様子・観光・防犯｜FST.NET"
+      },
+      {
+        "id": "YZMZSqz9fx8",
+        "title": "大阪ライブカメラ　【LIVE】大阪 心斎橋 ユニクロ前 24時間ライブカメラ｜高感度屋外IPカメラ配信｜FST.NET"
+      },
+      {
+        "id": "GuQ2MuyvKWY",
+        "title": "大阪ライブカメラ　【LIVE】Ｆ.Ｓ.Ｔ.ＮＥＴ提供  大阪　ライブカメラ　北新地本通　ダーリンビル"
+      },
+      {
+        "id": "9UYFGM8CGt0",
+        "title": "大阪ライブカメラ【LIVE】Ｆ.Ｓ.Ｔ.ＮＥＴ 提供✨ 超高感度ライブカメラ 　門真市コストコ　三井アウトレット前"
+      },
+      {
+        "id": "K2r6YQhLqCg",
+        "title": "大阪ライブカメラ【LIVE】 門真IC 北行 ライブカメラ映像配信中！🌙 夜間でも遠くまで鮮明に映せる “超高感度ネットワークカメラ” を設置。渋滞情報のチェックや、周辺の交通状況確認に"
+      },
+      {
+        "id": "8tDuhb9QnQ4",
+        "title": "【1万人達成】大阪ライブカメラ【LIVE】Ｆ.Ｓ.Ｔ.ＮＥＴ提供　JR三ノ宮駅　ライブカメラ　　JR三ノ宮駅　阪急電鉄　神戸三宮駅"
+      }
+    ]
   },
   {
     "id": "UCwTBv_iSPKJZ8jAeeDPJZnw",
@@ -17776,7 +17824,12 @@
     "id": "UCzki8JOvVr95qFXmY-pbOqw",
     "handle": "@chumbinho.aviacao.nasnuvens",
     "name": "chumbinho.aviacao.nasnuvens",
-    "videos": []
+    "videos": [
+      {
+        "id": "K0zbntKI3Tw",
+        "title": "Tela Radar e Fonia região Navegantes NVT / SBNF e Florianópolis FLN / SBFL"
+      }
+    ]
   },
   {
     "id": "UCzm6BepFi2q80--5Vk6-U5w",
