@@ -181,12 +181,7 @@
     "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
     "handle": "@alwarith-center",
     "name": "مركز الوارث للإنتاج الفني",
-    "videos": [
-      {
-        "id": "Ycg1PlojS8Y",
-        "title": "البث المباشر من العتبة الحسينية المقدسة  |  كربلاء المقدسة الان Karbala live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-KS6AGW3J43aFF-KOQ6VAw",
@@ -1103,7 +1098,52 @@
     "id": "UC30mmDZa-tMpIS-cIXoErsA",
     "handle": "@camarasdetraficodevigo8409",
     "name": "Cámaras de tráfico de Vigo",
-    "videos": []
+    "videos": [
+      {
+        "id": "2vDowXZy9cc",
+        "title": "Gran vía - Tarragona"
+      },
+      {
+        "id": "ii_PElrmCwE",
+        "title": "Gran vía - Tarragona"
+      },
+      {
+        "id": "f5gxcYb0XCg",
+        "title": "Plaza de España"
+      },
+      {
+        "id": "KmcLujr7PU0",
+        "title": "Gran vía - Lepanto"
+      },
+      {
+        "id": "eMbMc7VnI5Q",
+        "title": "Trav. de Vigo - Gregorio Espino - Jenaro de la Fuente"
+      },
+      {
+        "id": "qtFXKPN0xkQ",
+        "title": "Venezuela - Granada"
+      },
+      {
+        "id": "ZVgz2e-wMR4",
+        "title": "Av.Castrelos - Palacios"
+      },
+      {
+        "id": "XGzncIaJJ44",
+        "title": "Avenida de Madrid"
+      },
+      {
+        "id": "gfsJIcCZzlI",
+        "title": "Pizarro - Varela"
+      },
+      {
+        "id": "z1E5ciDe3a0",
+        "title": "Plaza América"
+      },
+      {
+        "id": "xrYXDI5uAoA",
+        "title": "Castelao - O Grove"
+      }
+    ]
   },
   {
     "id": "UC37R9R29MAwvrOBafYoBtow",
@@ -1284,10 +1324,6 @@
       {
         "id": "pEcU8ZwDuoM",
         "title": "Webcam Monte Fertazza Dolomiti - Ristoro Belvedere - Selva di Cadore - Italy"
-      },
-      {
-        "id": "0006zDOzcPM",
-        "title": "LiveCam Val Fiorentina - Ski Civetta - Selva di Cadore - Dolomiti Italy"
       }
     ]
   },
@@ -1340,12 +1376,7 @@
     "id": "UC42NA-aQL2aSFs-9cI9KQjA",
     "handle": "@mestovalasskeklobouky5444",
     "name": "Město Valašské Klobouky",
-    "videos": [
-      {
-        "id": "CNeIeDxV1fQ",
-        "title": "Město Valašské Klobouky – živé vysílání"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC4681k6C6kYK6daFF0n9Yxw",
@@ -1513,7 +1544,7 @@
     "videos": [
       {
         "id": "BcoD0iRjPmI",
-        "title": "LIVE: Skylines across the Middle East as Iran war continues"
+        "title": "LIVE: Beirut, Tel Aviv and Jerusalem skylines as Iran war continues"
       },
       {
         "id": "CXOScAb27mM",
@@ -3892,12 +3923,7 @@
     "id": "UCBWgewoUjqDBEW4kEnh78OA",
     "handle": "@CentarSarajevo",
     "name": "Općina Centar Sarajevo",
-    "videos": [
-      {
-        "id": "4N3TdmffIMk",
-        "title": "Općina Centar Sarajevo / Municipality Centar Sarajevo"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCBYdpmbZ8V1zVNXb8XFyQmg",
@@ -4488,8 +4514,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "B7w4stsCQWk",
-        "title": "【 Archive】 2026-04-02『00:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "Md7E0N18kkg",
+        "title": "【 Archive】 2026-04-02『03:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -4768,7 +4794,12 @@
     "id": "UCDkP5NWUhfHXZNhcGr2G2pQ",
     "handle": "@spadrevideo",
     "name": "South Padre Surf Company",
-    "videos": []
+    "videos": [
+      {
+        "id": "0FaRaPPTS8M",
+        "title": "South Padre Surf Cam 4K Isla Blanca Beach Park - Surf Lessons South Padre Surf Company 956-772-7272"
+      }
+    ]
   },
   {
     "id": "UCDmNmxF3ZVMeGyvWE9tOqPQ",
@@ -7351,12 +7382,7 @@
     "id": "UCNYdL7-9PEk0rhCHzquQP8Q",
     "handle": "@trinidadharborlivewebcam582",
     "name": "Trinidad Harbor Live Webcam",
-    "videos": [
-      {
-        "id": "FSbsz9DQqJ4",
-        "title": "Trinidad Harbor Webcam Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCNZCKDhAVtbh7sddChTxI7w",
@@ -8324,6 +8350,10 @@
     "name": "Hasan Yayında",
     "videos": [
       {
+        "id": "NOjfJeNNrxk",
+        "title": "Alucra Canlı Yayın Nurettin Canikli Meydanı"
+      },
+      {
         "id": "M77Ixfh7VDE",
         "title": "Bulancak Meydan Canlı Yayın"
       },
@@ -9093,12 +9123,7 @@
     "id": "UCVR1W8BAC5bUrsvi0IdqDPg",
     "handle": "@ptdcrvenivrh",
     "name": "PTD Crveni vrh",
-    "videos": [
-      {
-        "id": "8_oxQplx7Xg",
-        "title": "LIVE🔴 WebCam 24/7 🏝️Crveni vrh"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCVRs8dYm9OH-_g4V84BfbQw",
@@ -9433,12 +9458,7 @@
     "id": "UCXSI6Bg-nmmr6lXlnWTLGdw",
     "handle": "@krishudson8837",
     "name": "Kris Hudson",
-    "videos": [
-      {
-        "id": "HOR1M3Ahdbg",
-        "title": "Live Camera; Village of Adams, NY"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXaQjESu5cdF1CGH1aAA52Q",
@@ -9453,14 +9473,9 @@
   },
   {
     "id": "UCXhEeNbpyzOVa_bsAb0jQeA",
-    "handle": "@RiverCityBoatSales",
-    "name": "RiverCityBoatSales",
-    "videos": [
-      {
-        "id": "Y3cM4bK01JE",
-        "title": "Boones Ferry Marina Boat Ramp Webcam | River City Boat Sales"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCXj6ROnZkzqgq6eYeoflO6A",
@@ -9496,10 +9511,6 @@
       {
         "id": "SzLISutsDTs",
         "title": "Live Webcam Cabra Dublin Ireland (Facing Nth West)"
-      },
-      {
-        "id": "Im21t0JkJ1U",
-        "title": "The Paddocks Riding Centre Live Webcam Dublin Ireland."
       },
       {
         "id": "h5rt6oSZOak",
@@ -9741,7 +9752,12 @@
     "id": "UCZ63kVFT7hf1K-Mx82MxFnQ",
     "handle": "@HigginsBeach",
     "name": "Higgins Beach",
-    "videos": []
+    "videos": [
+      {
+        "id": "L0mgsMX9QdU",
+        "title": "SteveSeabury HigginsBeachProperties"
+      }
+    ]
   },
   {
     "id": "UCZ974tQkAeV7_l_opPHCcdg",
@@ -10019,12 +10035,7 @@
     "id": "UC_NSbO34zB7JreKBvlOeeHA",
     "handle": "@canalssc",
     "name": "Canal SSC",
-    "videos": [
-      {
-        "id": "O89187wajzw",
-        "title": "Foz do Iguaçu Ao Vivo - Câmeras no Centro da cidade"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC__vsLbIjiHwYy2-zODXipA",
@@ -11113,12 +11124,7 @@
     "id": "UCeunW_050lqjYtDwGatMFvw",
     "handle": "@waterstreetinn3792",
     "name": "Water Street Inn",
-    "videos": [
-      {
-        "id": "xC1ZyTinsOU",
-        "title": "Lift Bridge over the St. Croix River - Stillwater, Minnesota USA"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCey3hahtkbKG9VrXTSotZoQ",
@@ -11892,7 +11898,16 @@
     "id": "UCgWmWt_zIBk-X4sCk8fgANA",
     "handle": "@MKElivecam",
     "name": "MKElivecam",
-    "videos": []
+    "videos": [
+      {
+        "id": "7fZ2JLtv_c8",
+        "title": "MKE Live Cam - Milwaukee, Wisconsin from MKE.com"
+      },
+      {
+        "id": "JATo2lPJcaE",
+        "title": "MKE River Cam - Milwaukee, Wisconsin - by MKE.com"
+      }
+    ]
   },
   {
     "id": "UCgXjiaeMHuow2rbtZxI2oFg",
@@ -12041,7 +12056,12 @@
     "id": "UChFbxcSq9iCfdbu-twIfGuw",
     "handle": "@martijnrietveld",
     "name": "Martijn Rietveld",
-    "videos": []
+    "videos": [
+      {
+        "id": "9NRBCI8bkfo",
+        "title": "🤙 Live Hoek van Holland ~ Sterker door strand"
+      }
+    ]
   },
   {
     "id": "UChI_8BTUHgCBT4nI0Yqo6fA",
@@ -14810,7 +14830,12 @@
     "id": "UCpDwGh4oXSWjKJJl6-kyfHg",
     "handle": "@customshouse1897",
     "name": "Customs House 1897🇨🇦",
-    "videos": []
+    "videos": [
+      {
+        "id": "Cwp6RQFBOtI",
+        "title": "Tilley Cam -  24/7 Harbour Cam - Port aux Basques, Newfoundland - Live Stream"
+      }
+    ]
   },
   {
     "id": "UCpI9GLMAgiGTKyFnsmbptuQ",
@@ -15562,12 +15587,7 @@
     "id": "UCrNyeY4kGLL0-Hs8wC98peg",
     "handle": "@HanazonoYoutube",
     "name": "Hanazono Niseko Resort ニセコ HANAZONOリゾート",
-    "videos": [
-      {
-        "id": "1ksmiy6EsDo",
-        "title": "[4K] Live Camera - Niseko Hanazono Resort"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCrr1vVhuKmB5pUV6eCilRMQ",
@@ -16725,7 +16745,12 @@
     "id": "UCv0XigLGMsgxDmBVCephTlA",
     "handle": "@jicincz",
     "name": "Jičín - moje město",
-    "videos": []
+    "videos": [
+      {
+        "id": "6Zo1DczkNLU",
+        "title": "Webcam Jičín"
+      }
+    ]
   },
   {
     "id": "UCv3YkEJyYR5-RZ2BCugrodg",
@@ -17316,12 +17341,7 @@
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
     "handle": "@flamingf.1562",
     "name": "Flaming Fire",
-    "videos": [
-      {
-        "id": "CMpVxWi4nW0",
-        "title": "Stockholm city live cam 20260401-2"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
@@ -17447,10 +17467,6 @@
       {
         "id": "4oA7mVpvJXk",
         "title": "🦉 Tawny Owl Night Live | 3 Chicks to Feed! 🐥🐥 Will Dad Owl Hunt Enough Prey Tonight?"
-      },
-      {
-        "id": "wIBxsB2OQEE",
-        "title": "🦉 Tawny Owl Day Live | All 3 Chicks Here… Are They? 🐿️ Dad Owl’s Delivery HACKED? 🤔 (Check Feed!)"
       },
       {
         "id": "OhB2bgfJmZM",
@@ -17625,7 +17641,12 @@
     "id": "UCzQdo4UCx-oWrJ8Gsi9ZHvQ",
     "handle": "@rynekpszczyna233",
     "name": "Rynek Pszczyna",
-    "videos": []
+    "videos": [
+      {
+        "id": "GakUUW9Anpo",
+        "title": "Pszczyna - widok na rynek"
+      }
+    ]
   },
   {
     "id": "UCzY8h9TicgPEMOjIPr1G_GA",
