@@ -132,12 +132,6 @@
     "date": "2026-03-31"
   },
   {
-    "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
-    "handle": "@alwarith-center",
-    "name": "مركز الوارث للإنتاج الفني",
-    "date": "2026-04-01"
-  },
-  {
     "id": "UC-omrowFhBZ_gzNLhX8Hq4w",
     "handle": "@paulbunyanandbabetheblueox3329",
     "name": "Paul Bunyan and Babe the Blue Ox",
@@ -156,18 +150,6 @@
     "date": "2026-04-01"
   },
   {
-    "id": "UC882xzhvQ53Cva8vym_RCRA",
-    "handle": "@webcamhafenwestseite3594",
-    "name": "Webcam Hafenwestseite #3",
-    "date": "2026-04-01"
-  },
-  {
-    "id": "UC8t7FI3O7_NV9ucGWKz2D4Q",
-    "handle": "@finescape9925",
-    "name": "FineScape",
-    "date": "2026-04-01"
-  },
-  {
     "id": "UCD12HC-FqOwAEzEi0cKxYZQ",
     "handle": "@rutafiscalpnpuentesinterna6719",
     "name": "Ruta Fiscal PN Puentes internacionales I y II",
@@ -180,9 +162,15 @@
     "date": "2026-04-01"
   },
   {
-    "id": "UCi9wnYP7UBrl7Tnfi3LLkpw",
-    "handle": "@yiannisakkos",
-    "name": "Yianni&#39;s Channel",
+    "id": "UCha0QKR45iw7FCUQ3-1PnhQ",
+    "handle": "@cafedelmar",
+    "name": "Café del Mar",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "UCjeImUhRB1SLqN-svqDRJJw",
+    "handle": "@radiopowertv",
+    "name": "Power Pinamar",
     "date": "2026-04-01"
   },
   {
@@ -204,15 +192,27 @@
     "date": "2026-04-01"
   },
   {
-    "id": "UCYP2o52KVpbcd8Y23moa2KA",
-    "handle": "@CarolinaWebcamStreaming",
-    "name": "Carolina Webcam Streaming",
+    "id": "UCwNfkYp9gKIvQDN1kPhpCsQ",
+    "handle": "@FSTNET-ro9cc",
+    "name": "F.S.T. NET",
     "date": "2026-04-01"
   },
   {
     "id": "UCZ63kVFT7hf1K-Mx82MxFnQ",
     "handle": "@HigginsBeach",
     "name": "Higgins Beach",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "UCzki8JOvVr95qFXmY-pbOqw",
+    "handle": "@chumbinho.aviacao.nasnuvens",
+    "name": "chumbinho.aviacao.nasnuvens",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "UCZqr-kHlRzGyCgh7BHksSAw",
+    "handle": "@canneswebcamboulevarddumid3987",
+    "name": "Cannes webcam : Boulevard du midi",
     "date": "2026-04-01"
   }
 ]
