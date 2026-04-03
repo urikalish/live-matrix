@@ -87,7 +87,16 @@
     "id": "UC-8U3VCeOEqdPJd2D77RqKw",
     "handle": "@HauloverDaily",
     "name": "Cruise Ships Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "AHckZ9rF01U",
+        "title": "🔴 LIVE Miami Rail Cam | Metrorail Transfer Station | Trains 24/7"
+      },
+      {
+        "id": "PeYZZinH1wI",
+        "title": "🔴 LIVE Port Miami Cruise Ship Departures and Arrivals | ICON of the Seas"
+      }
+    ]
   },
   {
     "id": "UC-ADcKoyBn-44UJwmatMSQQ",
@@ -279,12 +288,7 @@
     "id": "UC-dGHuK8OcC_WIWvNzxysag",
     "handle": "@LiveCamNatal",
     "name": "WebcamNatal",
-    "videos": [
-      {
-        "id": "DTW7IgU2gdk",
-        "title": "PRAIA DE PONTA NEGRA AO VIVO! NATAL-RN / BRASIL - LIVE CAM NATAL"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-jBJkLN89AlQp6eeCNnnWg",
@@ -301,7 +305,12 @@
     "id": "UC-omrowFhBZ_gzNLhX8Hq4w",
     "handle": "@paulbunyanandbabetheblueox3329",
     "name": "Paul Bunyan and Babe the Blue Ox",
-    "videos": []
+    "videos": [
+      {
+        "id": "gz4rc2V6NXM",
+        "title": "Paul Bunyan and Babe the Blue Ox Live Stream"
+      }
+    ]
   },
   {
     "id": "UC029bcZGqxOsRkvWrZLhgKQ",
@@ -909,12 +918,7 @@
     "id": "UC2FGmqUsOm8pXc-w9GB_ntQ",
     "handle": "@dilloncolorado_",
     "name": "Dillon Colorado ",
-    "videos": [
-      {
-        "id": "NeKZVw6-EGg",
-        "title": "Dillon Colorado Webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC2RbTnQ9sr6r1FgbFKf-fOA",
@@ -931,7 +935,12 @@
     "id": "UC2RkL2eATR1V6H8g4eNfA5Q",
     "handle": "@SISEArgentina",
     "name": "SISE Argentina®",
-    "videos": []
+    "videos": [
+      {
+        "id": "NX9P00Git6A",
+        "title": "Camaras en Vivo Puente General Belgrano - SISE Argentina®"
+      }
+    ]
   },
   {
     "id": "UC2Sk0aXLq3ADkH_USGPKT_Q",
@@ -1122,48 +1131,7 @@
     "id": "UC37R9R29MAwvrOBafYoBtow",
     "handle": "@ConexaoDCTVoficial",
     "name": "ConexãoDCTV - Oficial",
-    "videos": [
-      {
-        "id": "3QkBnkwHVZE",
-        "title": "AO VIVO AGORA - RUA BIGUAÇU + PARTE INTERNA DO BIG LANCHES"
-      },
-      {
-        "id": "E530NVVkFCM",
-        "title": "GOV. CELSO RAMOS SC AO VIVO | PRAIA DE PALMAS – VISTA ARQUIPÉLAGO | CONEXÃODCTV"
-      },
-      {
-        "id": "PpTHQ3MsLZk",
-        "title": "GOV. CELSO RAMOS SC AO VIVO | PRAIA DE CALHEIROS – RESTAURANTE BELA VISTA | CONEXÃODCTV"
-      },
-      {
-        "id": "jMKlmxC_VWU",
-        "title": "AO VIVO ITAPEMA AGORA -  MEIA PRAIA LOTADA + MAR AO VIVO | IMAGENS INCRÍVEIS 24H | JET PIER"
-      },
-      {
-        "id": "03FkYqm-Y-o",
-        "title": "ITAPEMA AO VIVO / JET PIER / CONEXÃODCTV"
-      },
-      {
-        "id": "Vsm5qzRxj04",
-        "title": "BALNEÁRIO CAMBORIÚ SC AO VIVO | PRAIA DE LARANJEIRAS – CASA DO CAMARÃO | CONEXÃODCTV"
-      },
-      {
-        "id": "W50zoSXZBi4",
-        "title": "AO VIVO AGORA CABO FRIO 🇧🇷 | PRAIA DO FORTE E CENTRO EM TEMPO REAL 24H - NOVA COSTA TELECOM"
-      },
-      {
-        "id": "qobQ2iXQzlY",
-        "title": "ITAJAÍ SC AO VIVO | PRAIA BRAVA – QUIOSQUE ESTRELA DO MAR | CONEXÃODCTV"
-      },
-      {
-        "id": "3fPqRlwtSHM",
-        "title": "ITAJAÍ SC AO VIVO | PORTO DE ITAJAÍ – 2K – FASTSIGNAL | CONEXÃODCTV"
-      },
-      {
-        "id": "J3Ryjw2eawE",
-        "title": "ITAJAÍ SC AO VIVO | BR-101 – SENTIDO NORTE – BORRACHARIA 101 | CONEXÃODCTV"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC39cxeCVCkgczgG4zpiMPjA",
@@ -1323,12 +1291,7 @@
     "id": "UC3rYbSIKpTUuZJNl7GmFxqA",
     "handle": "@FairmontThePalm",
     "name": "Fairmont Palm",
-    "videos": [
-      {
-        "id": "7dE4IjDQJmE",
-        "title": "Fairmont The Palm"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC3yyv3A3atZf0d0ybFMrhbw",
@@ -1477,40 +1440,7 @@
     "id": "UC4nkl9OncDSVGZS9qdcRLxA",
     "handle": "@st-barthlivecam5889",
     "name": "St-Barth LiveCam",
-    "videos": [
-      {
-        "id": "nxIF1XzSQzU",
-        "title": "Live Webcam - SBH Saint-Jean"
-      },
-      {
-        "id": "IeeDy5VfSsg",
-        "title": "Live Webcam - SBH Baie de Lorient"
-      },
-      {
-        "id": "028GpBNaiJs",
-        "title": "Live Webcam - SBH Plaine de St-Jean"
-      },
-      {
-        "id": "DATTZ-F82Zk",
-        "title": "Live Webcam - SBH Anse de Flamands"
-      },
-      {
-        "id": "3PQNnVqrJEw",
-        "title": "Live Webcam - SBH Avions au décollage"
-      },
-      {
-        "id": "hb_nPVSnNqw",
-        "title": "Live Webcam - SBH Baie de St-Jean"
-      },
-      {
-        "id": "zaXzE6ZJAE8",
-        "title": "Live Webcam - SBH Port de Gustavia"
-      },
-      {
-        "id": "15pVqwQb7A0",
-        "title": "Live Webcam - SBH Col de la Tourmente"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC4zOPk0IWo_GshPKEBqTALQ",
@@ -1955,7 +1885,12 @@
     "id": "UC5uIaptUbZap8eF6BlpxohA",
     "handle": "@HulluPoroElvesVillage",
     "name": "Hullu Poro &amp; Elves Village",
-    "videos": []
+    "videos": [
+      {
+        "id": "EmoTKMm5sDI",
+        "title": "Live Camera - Elves Village - Levi  Resort - Lapland - Finland"
+      }
+    ]
   },
   {
     "id": "UC63DzolfFVwuHFrM_w2ULTw",
@@ -2233,12 +2168,7 @@
     "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
     "handle": "@pontalnetv",
     "name": "Pontal NeTv e Internet",
-    "videos": [
-      {
-        "id": "t64CXFVzG0I",
-        "title": "Ao Vivo - Arraial do Cabo - RJ"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC6kdM4uR54C72vtsR_mCKHg",
@@ -2267,6 +2197,126 @@
     "handle": "@earthcam",
     "name": "EarthCam",
     "videos": [
+      {
+        "id": "mjzA1Yxh7ZY",
+        "title": "EarthCam Live:  Flight 93 Memorial - Tower of Voices (Shanksville, PA)"
+      },
+      {
+        "id": "58Lx2eLT1ig",
+        "title": "EarthCam Live:  Wildwoods Cam (Wildwood, NJ)"
+      },
+      {
+        "id": "gT5x9GU_tbA",
+        "title": "EarthCam Live:  Seaside Heights, NJ - North View"
+      },
+      {
+        "id": "osDa1qD6PYA",
+        "title": "EarthCam Live:  Washington D.C. Cherry Blossoms"
+      },
+      {
+        "id": "AEtwttyRljo",
+        "title": "EarthCam Live:  Marco Island Marina"
+      },
+      {
+        "id": "rnNPl27Arpk",
+        "title": "EarthCam Live: New Orleans Balcony View"
+      },
+      {
+        "id": "kLoFxVhRWtQ",
+        "title": "EarthCam Live:  Roswell, New Mexico"
+      },
+      {
+        "id": "cWR8KGKftUw",
+        "title": "EarthCam Live:  Statue of Liberty"
+      },
+      {
+        "id": "XoANQufSSXY",
+        "title": "EarthCam Live:  Ruidoso, New Mexico"
+      },
+      {
+        "id": "MT5Og9gOKuM",
+        "title": "EarthCam Live:  Milwaukee, WI"
+      },
+      {
+        "id": "O0UGT7AT3aw",
+        "title": "EarthCam Live:  Chicago Skydeck Cam (Chicago, IL)"
+      },
+      {
+        "id": "ZNDtaQp1Gak",
+        "title": "EarthCam Live:  Animals and Nature Cam (Webster, NY)"
+      },
+      {
+        "id": "iHqqkh_Lths",
+        "title": "EarthCam Live:  Terminal Tower Cam (Cleveland, OH)"
+      },
+      {
+        "id": "0Vu5PYxdTpE",
+        "title": "EarthCam Live: Philadelphia, PA"
+      },
+      {
+        "id": "0ZzPWoeZzuI",
+        "title": "EarthCam Live:  Midway Airport (Chicago, IL)"
+      },
+      {
+        "id": "H67j7H-7QD0",
+        "title": "EarthCam Live:  Coney Island (New York City)"
+      },
+      {
+        "id": "YEAhxXd-TiY",
+        "title": "EarthCam Live:  Anglins Pier (Lauderdale-By-The-Sea, FL)"
+      },
+      {
+        "id": "qx7gry390YA",
+        "title": "EarthCam Live:  Niagara Falls"
+      },
+      {
+        "id": "sF5hFDGN20Y",
+        "title": "EarthCam Live:  Sitka, Alaska"
+      },
+      {
+        "id": "EnojhKoPR0c",
+        "title": "EarthCam Live:  Sint Maarten (Philipsburg, Sint Maarten)"
+      },
+      {
+        "id": "nFWB7S5-er4",
+        "title": "EarthCam Live:  Cayman Islands"
+      },
+      {
+        "id": "_rmUXOHSf0w",
+        "title": "EarthCam Live:  Allegiant Stadium (Las Vegas, NV)"
+      },
+      {
+        "id": "zrgRyD3R_Uw",
+        "title": "EarthCam Live:  City of Cavalier (Cavalier, ND)"
+      },
+      {
+        "id": "skM8DTCx3gM",
+        "title": "EarthCam Live:  Fort Myers, FL"
+      },
+      {
+        "id": "t55kv94nEzc",
+        "title": "EarthCam Live:  Scrub Island (British Virgin Islands)"
+      },
+      {
+        "id": "PMhVgTcDd1o",
+        "title": "EarthCam Live:  Tamariu, Spain"
+      },
+      {
+        "id": "KJuGU7v5oYw",
+        "title": "EarthCam Live: Bellagio Conservatory & Botanical Gardens (Las Vegas, NV)"
+      },
+      {
+        "id": "9fzUjSTK5F8",
+        "title": "EarthCam Live:  Kansas City Cam (Kansas City, MO)"
+      },
+      {
+        "id": "2_PDaUJbfuI",
+        "title": "EarthCam Live:  SUMMIT One Vanderbilt (New York City, NY)"
+      },
+      {
+        "id": "MsiHVaomJ04",
+        "title": "EarthCam Live:  Scottsville Main Street (Scottsville, Kentucky)"
+      },
       {
         "id": "1NoSs03ZrlY",
         "title": "EarthCam Live:  Giraffe Paddock  Cam - Greenville, SC"
@@ -2621,100 +2671,7 @@
     "id": "UC8NnosPOvXnm0O1u5YnLQiw",
     "handle": "@ExploreBirds",
     "name": "Explore Birds Bats Bees",
-    "videos": [
-      {
-        "id": "PCarPD6ha9g",
-        "title": "Live Hummingbird Nest | Joy Hummingbird powered by EXPLORE.org"
-      },
-      {
-        "id": "PbMU7UbONbU",
-        "title": "Live Hummingbird Nest | Beatrix Hummingbird powered by EXPLORE.org"
-      },
-      {
-        "id": "2FdvAk95PSk",
-        "title": "Great Green Macaw Nest - Sarapiquí Rainforest Reserve powered by  EXPLORE.org"
-      },
-      {
-        "id": "vjpj_DXODdA",
-        "title": "Ash Canyon Bird Sanctuary Viewing Area powered by EXPLORE.org"
-      },
-      {
-        "id": "AwlpXN2QyjM",
-        "title": "Ash Canyon Bird Sanctuary, Back Porch powered by EXPLORE.org"
-      },
-      {
-        "id": "ietpaFoB_Nc",
-        "title": "Macaw Feeder High Camera powered by EXPLORE.org"
-      },
-      {
-        "id": "vLscZvIFiLg",
-        "title": "Macaw Feeder Low Camera"
-      },
-      {
-        "id": "X5Kubf-twKw",
-        "title": "Panama Hummingbird Feeder at Canopy Tower powered by EXPLORE.org"
-      },
-      {
-        "id": "wfuqjSNXZ14",
-        "title": "West End Bald Eagle Nest Low Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "QoKy-rn66og",
-        "title": "Philippine Eagles Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "OY4V_AppZ6s",
-        "title": "Fraser Point Bald Eagle Nest 2 powered by EXPLORE.org"
-      },
-      {
-        "id": "VfFfS64rtZE",
-        "title": "Panama Fruit Feeder Cam at Canopy Lodge powered by EXPLORE.org"
-      },
-      {
-        "id": "mZMEkuxAskU",
-        "title": "Toucan TV powered by EXPLORE.org"
-      },
-      {
-        "id": "wDYrRVUPWRo",
-        "title": "Audubon's Rowe Sanctuary's Crane Camera powered by EXPLORE.org"
-      },
-      {
-        "id": "IVmL3diwJuw",
-        "title": "Decorah Eagles powered by EXPLORE.org"
-      },
-      {
-        "id": "rnTsOesC6hE",
-        "title": "Sauces Bald Eagle - Channel Islands National Park Cams powered by EXPLORE.org"
-      },
-      {
-        "id": "E5T2eHM8tcI",
-        "title": "Two Harbors Bald Eagle Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "o49SYbWxWE0",
-        "title": "Honey Bee Landing Zone powered by Explore.org"
-      },
-      {
-        "id": "zpkN0ycubDs",
-        "title": "Honey Bee Hive powered by Explore.org"
-      },
-      {
-        "id": "Hkj9L-HKXJU",
-        "title": "Mississippi River Flyway Cam powered by EXPLORE.org"
-      },
-      {
-        "id": "2yx7RKxpyzQ",
-        "title": "Two Harbors Overlook powered by EXPLORE.org"
-      },
-      {
-        "id": "DB4LDyWHawY",
-        "title": "Friends of Sacramento National Wildlife Refuge powered by EXPLORE.org"
-      },
-      {
-        "id": "O6Ir_sMsTtc",
-        "title": "Audubon Osprey Nest powered by EXPLORE.org"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC8QVKeVwpzWhfp9kgk_xk9Q",
@@ -2961,10 +2918,6 @@
         "title": "Effingham, New Hampshire  -  CAM 1"
       },
       {
-        "id": "oE2N7RjfRPY",
-        "title": "Big Moose Mountain Cam 2, Maine US - Chairlift Cam"
-      },
-      {
         "id": "b_juZ93jVkA",
         "title": "Conway Scenic Railroad- LIVE cam - North Conway, New Hampshire US"
       },
@@ -3146,12 +3099,7 @@
     "id": "UC8sXqdHFnwpVoOuOZmx1-kw",
     "handle": "@TICJezersko",
     "name": "TIC Jezersko",
-    "videos": [
-      {
-        "id": "z-zfvszDEvo",
-        "title": "Panoramska kamera Jezersko"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC8t7FI3O7_NV9ucGWKz2D4Q",
@@ -3277,12 +3225,7 @@
     "id": "UC9aSMiIi0FbS_rEX2j9Rw6w",
     "handle": "@GoatsLive",
     "name": "GoatsLive",
-    "videos": [
-      {
-        "id": "P7ap7iorTb0",
-        "title": "Live Goats 24/7"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC9diDJiKGl6K0TuugYZxNkQ",
@@ -3578,7 +3521,24 @@
     "id": "UCAoSufogSQbl5N5AtUIid4Q",
     "handle": "@CityofEllsworthMaine",
     "name": "City of Ellsworth, Maine",
-    "videos": []
+    "videos": [
+      {
+        "id": "Tm5YO9g8_nQ",
+        "title": "City of Ellsworth, Maine - City Hall Cupola Cam"
+      },
+      {
+        "id": "Ql11MDGN1Po",
+        "title": "City of Ellsworth, Maine - Harbor Park Live Cam"
+      },
+      {
+        "id": "ufw3aQzmDBw",
+        "title": "City of Ellsworth, Maine - Branch Lake Weather Cam"
+      },
+      {
+        "id": "ELSnCF_XOPI",
+        "title": "City of Ellsworth, Maine - North Ellsworth Tower Cam"
+      }
+    ]
   },
   {
     "id": "UCAphsmhYyvZDI7s67XM5l0A",
@@ -3618,10 +3578,6 @@
     "handle": "@SolentShips",
     "name": "Solent Ships",
     "videos": [
-      {
-        "id": "Z8yrCHzfLhI",
-        "title": "SHIPS TV - P&O Britannia,Ventura & Rotterdam Cruise Ship Departing Port of Southampton (LIVE)"
-      },
       {
         "id": "RDAWqtROdZk",
         "title": "VTS Radio Southampton - (Marine VHF Channel 12)"
@@ -4327,20 +4283,7 @@
     "id": "UCC04nMAlJcTwsNUP4F3h2gw",
     "handle": "@SantaRosaIslandAuthority",
     "name": "Santa Rosa Island Authority",
-    "videos": [
-      {
-        "id": "890WmHX7h6U",
-        "title": "SRIA - East Cam"
-      },
-      {
-        "id": "HKIc6CYlMzI",
-        "title": "SRIA - West Cam"
-      },
-      {
-        "id": "2X0GdFzfv3A",
-        "title": "SRIA - South Cam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCCEo1hxcfQe7p-odS5pEZxg",
@@ -4357,7 +4300,12 @@
     "id": "UCCKkM-k16FF8oRKx65fAngQ",
     "handle": "@reddingsbrigadepetten148",
     "name": "Reddingsbrigade Petten",
-    "videos": []
+    "videos": [
+      {
+        "id": "o9eoZM63DV4",
+        "title": "Webcam Petten - Reddingsbrigade Petten - www.rbpetten.nl"
+      }
+    ]
   },
   {
     "id": "UCCLnJzwda_Kcdkok3et7n0A",
@@ -4500,12 +4448,7 @@
     "id": "UCD3fPz7PdO06e8k75nIwifQ",
     "handle": "@geirangerfjordcruiseporthe535",
     "name": "Geirangerfjord cruise port, Hellesylt",
-    "videos": [
-      {
-        "id": "S4aJlRY39fo",
-        "title": "Geirangerfjord cruise port, Hellesylt"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDAHA3f1RMYenm_lFgqjDXQ",
@@ -4575,12 +4518,7 @@
     "id": "UCDL2IVxAgPI7wybiUlQKrWg",
     "handle": "@romafivesuites",
     "name": "Roma Five Suites",
-    "videos": [
-      {
-        "id": "3PVNKVXo6To",
-        "title": "Roma Five Suites - Piazza Venezia - Live Webcam from Rome"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDOREphwc9P-ul7YEHiBWqw",
@@ -4634,7 +4572,12 @@
     "id": "UCDfzWJUphLWin6P9D4cUv0A",
     "handle": "@stevenhoefel",
     "name": "Steven Hoefel",
-    "videos": []
+    "videos": [
+      {
+        "id": "7Lu9rWg7ngI",
+        "title": "South Yarra Station Webcam"
+      }
+    ]
   },
   {
     "id": "UCDkP5NWUhfHXZNhcGr2G2pQ",
@@ -5558,7 +5501,24 @@
     "id": "UCH9JbKmqTI6gwhA4ghl32FQ",
     "handle": "@AmzLive",
     "name": "AmzLive Cams",
-    "videos": []
+    "videos": [
+      {
+        "id": "uJb4u4WdLwY",
+        "title": "Encontro das Águas - Manaus, Amazonas"
+      },
+      {
+        "id": "-rPArMYXJm8",
+        "title": "Vieiralves Ao Vivo - Amzlive.com.br - LiveCam Manaus"
+      },
+      {
+        "id": "2HGGG7Dr03g",
+        "title": "Teatro Amazonas ao Vivo 24h - Manaus - Amz.Live Jazz & Lo-fi Radio"
+      },
+      {
+        "id": "ICAxjegbHnU",
+        "title": "Ponta Negra ao Vivo 24h - Manaus - AmzLive.com.br"
+      }
+    ]
   },
   {
     "id": "UCHK0N8yzh1DR1NWo7sXoxRg",
@@ -6421,12 +6381,7 @@
     "id": "UCK7jUXn_Od2JaML2geUj65A",
     "handle": "@tv2mogilev",
     "name": "TV2 Mogilev",
-    "videos": [
-      {
-        "id": "-6Gr73AWy_Q",
-        "title": "Mogilev Online"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCK8OfE2evBrElahkHxLJE5g",
@@ -6458,7 +6413,12 @@
     "id": "UCKGyGK964U4Yd71WqBkvImA",
     "handle": "@derbycomplex",
     "name": "World Championship Derby Complex",
-    "videos": []
+    "videos": [
+      {
+        "id": "cHGcqTdMf1c",
+        "title": "World Championship Derby Complex Live Stream"
+      }
+    ]
   },
   {
     "id": "UCKO7Og-r4lviwFcaXUNDNLA",
@@ -6486,12 +6446,7 @@
     "id": "UCKcvqfa1-sVpyyxT6lzn7Fg",
     "handle": "@lillyputtminigolfbroadstai4278",
     "name": "Lillyputt Minigolf Broadstairs",
-    "videos": [
-      {
-        "id": "-1gqqF8qQfU",
-        "title": "Lillyputt Minigolf Broadstairs Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCKggdk4rcwVhzSdhEEhmaNw",
@@ -6679,7 +6634,12 @@
     "id": "UCLA3Uc4amh-v5eIS6M_r2ow",
     "handle": "@Platinum-apartmentsAu",
     "name": "Melbourne Luxury Accommodation",
-    "videos": []
+    "videos": [
+      {
+        "id": "l_8DrACHpwY",
+        "title": "MELBOURNE Live from Platinum Apartments"
+      }
+    ]
   },
   {
     "id": "UCLA_DiR1FfKNvjuUpBHmylQ",
@@ -6927,12 +6887,7 @@
     "id": "UCLm4NMiRgEwOAwY-tapTQag",
     "handle": "@kozylemorne6102",
     "name": "Kozy Le Morne",
-    "videos": [
-      {
-        "id": "iQ65zxlyq4A",
-        "title": "🔴 Île Maurice / Mauritius - At Kozy Le Morne"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCLmvtLuqca56l68QCETk1QQ",
@@ -7090,18 +7045,18 @@
     "id": "UCMvAap1Jacyg-4bqYKDlmtw",
     "handle": "@onkormanyzateger4312",
     "name": "Önkormányzat EGER",
-    "videos": []
+    "videos": [
+      {
+        "id": "HKVZx5EdnIs",
+        "title": "Dobó téri webkamera"
+      }
+    ]
   },
   {
     "id": "UCMxqF9dbzpE1W6-rWXJibVA",
     "handle": "@PatsPeakPark",
     "name": "PatsPeakPark",
-    "videos": [
-      {
-        "id": "ZLsh8WsISr0",
-        "title": "Pats Peak Park"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCNNQSsm60OvzlbDu-duyS4A",
@@ -7269,7 +7224,12 @@
     "id": "UCNmyncaMP2S_BqeW-FuDL2w",
     "handle": "@villageofgreendalewi",
     "name": "Village of Greendale, Wisconsin",
-    "videos": []
+    "videos": [
+      {
+        "id": "ADsY4BQWZOU",
+        "title": "Broad Street Live Stream"
+      }
+    ]
   },
   {
     "id": "UCNtk27lhMLvrwXc2n-rRgUg",
@@ -7298,12 +7258,7 @@
     "id": "UCNvu82ypHUZ9zyWpRUQtxLw",
     "handle": "@IpnotikNet",
     "name": "Luca Volpone",
-    "videos": [
-      {
-        "id": "NjslOayX11o",
-        "title": "Webcam Live Rieti in Diretta 4K dal Centro Storico | Meteo, Notizie e Panorama in Tempo Reale"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCO2GE8hSiTUd96q5ER17bMA",
@@ -7546,47 +7501,13 @@
     "id": "UCPH1SsIWbdm59B0YVoqw8gQ",
     "handle": "@oudenaardestad",
     "name": "Stad Oudenaarde",
-    "videos": [
-      {
-        "id": "t8yfSxNO73o",
-        "title": "Live Camera Walburga"
-      },
-      {
-        "id": "TTrzSdVej30",
-        "title": "Webcam vLeeshuis Oudenaarde Markt"
-      },
-      {
-        "id": "nxf7jZWtAO8",
-        "title": "Slechtvalken Oudenaarde Walburga overzicht"
-      },
-      {
-        "id": "9vuGu8oZSGo",
-        "title": "Slechtvalken Oudenaarde Walburga"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCPPFGmTUyM4iDIgp2_zJi5g",
     "handle": "@itscomch",
     "name": "iTSCOM",
-    "videos": [
-      {
-        "id": "LzlrHXS-ebM",
-        "title": "《4K》【iTSCOMライブ配信】横浜青葉IC ライブカメラ LIVE Camera/ Tokyo Metropolitan Expressway Yokohama Aoba Interchange"
-      },
-      {
-        "id": "fndY3LREfdE",
-        "title": "【iTSCOMライブ配信】二子玉川 ライブカメラ LIVE Camera/ Tokyo Futako Tamagawa"
-      },
-      {
-        "id": "f50R4vDlCmA",
-        "title": "【iTSCOMライブ配信】渋谷 ライブカメラ LIVE Camera/ Tokyo Shibuya"
-      },
-      {
-        "id": "AADZvNj8db4",
-        "title": "【iTSCOMライブ配信】用賀 ライブカメラ LIVE Camera/ Tokyo Metropolitan Expressway Yoga Tollgate"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCPQH7Qez-TIVJv5cmquVFyg",
@@ -7845,7 +7766,12 @@
     "id": "UCQX5vohCVn-R4Jl1DFPItuA",
     "handle": "@nycferry",
     "name": "NYC Ferry",
-    "videos": []
+    "videos": [
+      {
+        "id": "2C4jSHk3gK4",
+        "title": "New York City East 34th Street Ferry East 34th Street Ferry Landing live webcam. East River. NYC."
+      }
+    ]
   },
   {
     "id": "UCQY024kp7zb5Ejogq2dhWUg",
@@ -7911,7 +7837,12 @@
     "id": "UCQpBNfc0tMfCAMz15fFV9bw",
     "handle": "@HolidayIsland",
     "name": "Holiday Island",
-    "videos": []
+    "videos": [
+      {
+        "id": "phI9Q_DWuus",
+        "title": "Relaxing views of the 1000 Islands Bridge Alexandria Bay, NY"
+      }
+    ]
   },
   {
     "id": "UCQsD9rKnDZ7Fik7D22bI0gw",
@@ -8184,7 +8115,20 @@
     "id": "UCRiY_FP2PZHeWWuIsMKyxGA",
     "handle": "@lesarcs",
     "name": "Les Arcs",
-    "videos": []
+    "videos": [
+      {
+        "id": "SXXHa5SoAHo",
+        "title": "Les Arcs - Livecam Vagère"
+      },
+      {
+        "id": "B0vZX9GnpxI",
+        "title": "Les Arcs - Livecam Arc 2000"
+      },
+      {
+        "id": "BuB981VNriE",
+        "title": "Les Arcs - Livecam Varet"
+      }
+    ]
   },
   {
     "id": "UCRjMuOBDCfSsCNIe2p0_tdg",
@@ -8514,7 +8458,12 @@
     "id": "UCT7oADZixDIEzbUtWFNA-QA",
     "handle": "@webcamvetruse2915",
     "name": "Webcam Větruše",
-    "videos": []
+    "videos": [
+      {
+        "id": "fx4WWhKRPDI",
+        "title": "Webcam Větruše – živé vysílání"
+      }
+    ]
   },
   {
     "id": "UCTGhjtFloAPlbLy4_yrkoWg",
@@ -8613,12 +8562,7 @@
     "id": "UCTlY00NCf0nKyldwBys3mrA",
     "handle": "@SerradoRiodoRastroaoVivo",
     "name": "Serra do Rio do Rastro ao Vivo",
-    "videos": [
-      {
-        "id": "FiM66erXSQg",
-        "title": "Serra do Rio do Rastro em Lauro Müller ao vivo!"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCToP9T8yl8FzL-G9J3ONJ0g",
@@ -8797,10 +8741,6 @@
     "handle": "@WildEarth",
     "name": "WildEarth",
     "videos": [
-      {
-        "id": "rKhotSWWtEk",
-        "title": "SafariLIVE Sunset - 03 April 2026"
-      },
       {
         "id": "MnY2sJydrVM",
         "title": "Jaci's Dam Cam - AD FREE"
@@ -9011,16 +8951,7 @@
     "id": "UCWFlnyosSViIAqUq-TytgJA",
     "handle": "@NikCCTV",
     "name": "Nik CCTV",
-    "videos": [
-      {
-        "id": "9ZyKdBaRQrs",
-        "title": "Камера Соликамск (Боровск), Россия, Пермский край / Сamera Solikamsk, Russia, feeder and AI Chatbot"
-      },
-      {
-        "id": "ad1366ZihfU",
-        "title": "Управляемая камера, Пермь, \"Пермская ярмарка\" | Live camera at Perm Expo with AI Chatbot"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCWOITAxCnS0V8h7lNJkHpdQ",
@@ -9082,20 +9013,7 @@
     "id": "UCWsRYU3f0gtQVcnWIds1Lxg",
     "handle": "@sr-varangerkommune5151",
     "name": "Sør-Varanger kommune",
-    "videos": [
-      {
-        "id": "acJRSLCe6G0",
-        "title": "Sør-Varanger Kirkenes - Himmelstigen"
-      },
-      {
-        "id": "5gqaJgq_cdA",
-        "title": "Sør-Varanger - Lyngbberget"
-      },
-      {
-        "id": "6rE0ua2lVaM",
-        "title": "Sør-Varanger Kirkenes - Utsikt fra kirketårnet sørover"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCWsoep0hJKhGbYosMeQIyXA",
@@ -9112,12 +9030,7 @@
     "id": "UCWtwhsqQXogkkQEFBrFwwRA",
     "handle": "@coveleland",
     "name": "The Cove",
-    "videos": [
-      {
-        "id": "s7sY1waeOf4",
-        "title": "The Cove Leland Fishtown Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCWy8xdFQ0O0U3kQiotfMwGA",
@@ -9169,7 +9082,12 @@
     "id": "UCXCRtOlf5p2fQnaWCrKigTA",
     "handle": "@viviendasvacacionalescante8718",
     "name": "Viviendas Vacacionales Canteras Vista Playa",
-    "videos": []
+    "videos": [
+      {
+        "id": "K5heSwx46q8",
+        "title": "Viviendas vacacionales Canteras Vista Playa"
+      }
+    ]
   },
   {
     "id": "UCXN7rPhZK6Rp8lMhvpSri_Q",
@@ -9222,12 +9140,7 @@
     "id": "UCXSI6Bg-nmmr6lXlnWTLGdw",
     "handle": "@krishudson8837",
     "name": "Kris Hudson",
-    "videos": [
-      {
-        "id": "HOR1M3Ahdbg",
-        "title": "Live Camera; Village of Adams, NY"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCXaQjESu5cdF1CGH1aAA52Q",
@@ -9519,7 +9432,12 @@
     "id": "UCYqyaXiOKAxUcgZ159wXG-A",
     "handle": "@municipalityofkos1518",
     "name": "Municipality of Kos 1",
-    "videos": []
+    "videos": [
+      {
+        "id": "09NGLixVinU",
+        "title": "Λεωφόρος φοινίκων"
+      }
+    ]
   },
   {
     "id": "UCZ63kVFT7hf1K-Mx82MxFnQ",
@@ -9900,7 +9818,12 @@
     "id": "UC_uoRuoMCFudYHHg9SlWbQw",
     "handle": "@ATCCommunications",
     "name": "ATCCommunications",
-    "videos": []
+    "videos": [
+      {
+        "id": "uM-oftYVFGA",
+        "title": "Pomerelle Mountain Ski Resort Webcam - Hosted by ATC Communications Fiber Internet"
+      }
+    ]
   },
   {
     "id": "UCa1XvGj-yhiLLC5fVFKfXJQ",
@@ -10047,7 +9970,12 @@
     "id": "UCaOzbC5fO6mLnc_3or3BMxg",
     "handle": "@pinemountainobservatory5775",
     "name": "Pine Mountain Observatory",
-    "videos": []
+    "videos": [
+      {
+        "id": "BR7Yppmd-aM",
+        "title": "PMO Live Camera"
+      }
+    ]
   },
   {
     "id": "UCafIgU9tzTcW7VNZkO4c5NA",
@@ -10690,12 +10618,7 @@
     "id": "UCdfw60990QmqjbMWDvfddLg",
     "handle": "@Nordkapp_Havfiske",
     "name": "NorthCape  Seafishing",
-    "videos": [
-      {
-        "id": "iXLaEkB3J0I",
-        "title": "Nordkapp Havfiske Live"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCdmPhiIJ-s7MJG2WtM7nbUw",
@@ -10808,7 +10731,12 @@
     "id": "UCef_Yfk6baScsTCcDxzXE5Q",
     "handle": "@Reef-SA",
     "name": "REEF SOUTH AFRICA",
-    "videos": []
+    "videos": [
+      {
+        "id": "5UqVSW_VASU",
+        "title": "Muizenberg Beach Live Webcam | REEF South Africa  @Reef-SA"
+      }
+    ]
   },
   {
     "id": "UCefcZWd7iNbBwydSPCOlOTw",
@@ -10848,7 +10776,16 @@
     "id": "UCeh-xpdolXxtC7ey15ccW-g",
     "handle": "@cburgdorfer",
     "name": "Christoph Burgdorfer",
-    "videos": []
+    "videos": [
+      {
+        "id": "bstZaMhuJbE",
+        "title": "Singapore CBD Live Stream 4K Webcam"
+      },
+      {
+        "id": "KUtH-ztAWcA",
+        "title": "Singapore Port 4K Livestream Disney Cruise (Tanjong Pagar live shipping webcam) with LoFi beats"
+      }
+    ]
   },
   {
     "id": "UCereGvaufa7JIbEPC1AMRQQ",
@@ -10955,6 +10892,10 @@
     "name": "The First Presbyterian Church in Cleveland",
     "videos": [
       {
+        "id": "wDZf5orgDsw",
+        "title": "The First Presbyterian Church in Cleveland Apr03 Good Friday"
+      },
+      {
         "id": "9L7EhGU_YY4",
         "title": "LIVE: #TowerofPower Cam"
       }
@@ -11033,7 +10974,12 @@
     "id": "UCfYlFRRwaw3aS230U7Zz5qA",
     "handle": "@cisartriestelivecam8203",
     "name": "CISAR Trieste Live Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "FqMuciLH_m0",
+        "title": "Livestream Webcam M. Grisa"
+      }
+    ]
   },
   {
     "id": "UCfpv2BakpGfg3ChqRy7xQIQ",
@@ -11639,7 +11585,16 @@
     "id": "UCgWmWt_zIBk-X4sCk8fgANA",
     "handle": "@MKElivecam",
     "name": "MKElivecam",
-    "videos": []
+    "videos": [
+      {
+        "id": "7fZ2JLtv_c8",
+        "title": "MKE Live Cam - Milwaukee, Wisconsin from MKE.com"
+      },
+      {
+        "id": "JATo2lPJcaE",
+        "title": "MKE River Cam - Milwaukee, Wisconsin - by MKE.com"
+      }
+    ]
   },
   {
     "id": "UCgXjiaeMHuow2rbtZxI2oFg",
@@ -11826,7 +11781,12 @@
     "id": "UChL5PWTYzB3CNEm4FpgaAMQ",
     "handle": "@Harbourvillagebonaire",
     "name": "Harbour Village Bonaire",
-    "videos": []
+    "videos": [
+      {
+        "id": "W8mRMe2CDDc",
+        "title": "Harbour Village Bonaire Coral Reef"
+      }
+    ]
   },
   {
     "id": "UChP_bnv9cDFZWfVKw3iBwRQ",
@@ -13030,7 +12990,16 @@
     "id": "UCkUdb6wh-TE9MK7Q2VTE5-A",
     "handle": "@静岡市さった峠ライブカメラ",
     "name": "静岡市さった峠 ライブカメラ",
-    "videos": []
+    "videos": [
+      {
+        "id": "GsD9QQEKSzQ",
+        "title": "【LIVE】静岡市さった峠　広重の富士山 / Mt. Fuji (World Heritage Site): Live Streaming in Shizuoka City"
+      },
+      {
+        "id": "6S4qvf97cbQ",
+        "title": "【LIVE】静岡市さった峠　交通の要衝"
+      }
+    ]
   },
   {
     "id": "UCkXtehPDl-J9bMNUnWdwxUA",
@@ -13048,6 +13017,10 @@
     "handle": "@ixyzih",
     "name": "Ixtapa y Zihuatanejo",
     "videos": [
+      {
+        "id": "rL4UWa060fw",
+        "title": "🔴  Ixtapa - En vivo Playa Linda"
+      },
       {
         "id": "lpFFvGBC41s",
         "title": "🔴  Zihuatanejo - En vivo Bahía de Zihuatanejo"
@@ -13573,18 +13546,54 @@
     "id": "UCn7285bO_vEziJ9brPtkFMA",
     "handle": "@wcax-tvchannel3news",
     "name": "WCAX-TV Channel 3 News",
-    "videos": []
+    "videos": [
+      {
+        "id": "JcjXzM_WAe4",
+        "title": "WCAX Sky Watch 3: Champlain Valley Fairgrounds"
+      },
+      {
+        "id": "55JpgptjSkw",
+        "title": "WCAX SkyWatch3: Mount Mansfield, VT"
+      },
+      {
+        "id": "0fJeJeIoaTM",
+        "title": "WCAX SkyWatch3: Rutland, VT"
+      },
+      {
+        "id": "GWMEipj_Rr0",
+        "title": "WCAX Skywatch 3: Lyndon Institute in Lyndon, VT"
+      },
+      {
+        "id": "3NZYi-BCCDY",
+        "title": "WCAX SkyWatch3: BTV Airport South"
+      },
+      {
+        "id": "c6N5C6Ifxys",
+        "title": "WCAX Skywatch 3: Goodrich Memorial Library, Newport, VT"
+      },
+      {
+        "id": "e7ff5Yvt5Jk",
+        "title": "WCAX SkyWatch3: WCAX Studio, South Burlington, VT"
+      },
+      {
+        "id": "JIE0vE51OKU",
+        "title": "WCAX Sky Watch 3 Camera: ECHO Center for Lake Champlain"
+      },
+      {
+        "id": "Jv2qVHojYqY",
+        "title": "WCAX SkyWatch3: G. Stone Motors, Middlebury, VT"
+      },
+      {
+        "id": "T8_7hmOsIJI",
+        "title": "WCAX SkyWatch3: Homeport, Church St., Burlington, VT"
+      }
+    ]
   },
   {
     "id": "UCnB-Fhp5FQfCZNfdAvm27Qw",
     "handle": "@BeogradCom",
     "name": "Beograd Com",
-    "videos": [
-      {
-        "id": "gpFqI8DD9IA",
-        "title": "Beograd Com Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCnJz20oDnvQJJaWfaJGqKTw",
@@ -13686,100 +13695,7 @@
     "id": "UCne6b1whLLhDRJ-IXWNWZbQ",
     "handle": "@Texelinformatie",
     "name": "TexelInformatie",
-    "videos": [
-      {
-        "id": "Bp01So_C8TE",
-        "title": "Live Webcam Texel: Strand De Koog (Paal 20) Dikke Zeehond | Zeezicht (Livecam Strand & Nordsee)"
-      },
-      {
-        "id": "iUc0FZApBzA",
-        "title": "Live Webcam Texel: Schapenboerderij | Lammetjes in de Stal (Livecam Schafe & Lämmer)"
-      },
-      {
-        "id": "POvSWQ36AH0",
-        "title": "LIVE: Webcam Texel Waal en Burg - Natuur & Rust | Natur pur Texel"
-      },
-      {
-        "id": "A_0dx3oGtuw",
-        "title": "Live Webcam Texel: Vliegveld | Parachutespringen & Rondvluchten (Livecam Flugplatz & Skydive)"
-      },
-      {
-        "id": "EeV7pCAMoww",
-        "title": "Wegens werkzaamheden geen live onderwater beelden. Webcam Texel: Ecomare | Zeehonden."
-      },
-      {
-        "id": "sg-J_5KC8ZU",
-        "title": "【4K水中ライブ】オランダ・エコマーレ | 水の中のかわいいアザラシ | 癒やしの定点カメラ"
-      },
-      {
-        "id": "doXqLXG86vg",
-        "title": "【ライブカメラ】オランダ・テクセル島の保護猫たち | 癒やしの定点カメラ 🐱"
-      },
-      {
-        "id": "Hq2Qbcuph4w",
-        "title": "Live Webcam Texel: Paal 17 De Koog | Strand & Zeezicht (Livecam Strand & Nordsee)"
-      },
-      {
-        "id": "iglXbEMJ2W0",
-        "title": "Live Webcam Texel: Haven Oudeschild | Boten & Waddenzee (Livecam Hafen & Wattenmeer)"
-      },
-      {
-        "id": "JHSeVkq5ikE",
-        "title": "Live Webcam Texel: Club 17 (Paal 17) | Strand & Beachclub (Livecam Strand & Lounge)"
-      },
-      {
-        "id": "uAFVMFWHAZU",
-        "title": "Live Webcam Texel: Hogeberg | Landschap & Schapen (Livecam Landschaft & Schafe)"
-      },
-      {
-        "id": "sYP8V96bCRU",
-        "title": "Live Webcam Texel: Kattenopvang Binnen | Woody's Veilige Haven (Katzen Livecam)"
-      },
-      {
-        "id": "-1_b4-kMLWk",
-        "title": "Live Webcam Texel: Kattenopvang Buiten | Woody's Veilige Haven (Katzen Livecam)"
-      },
-      {
-        "id": "6nQgzl3jXY4",
-        "title": "【4Kライブ】オランダ・エコマーレのかわいいアザラシ | 癒やしの定点カメラ"
-      },
-      {
-        "id": "Di4WiSTX1oY",
-        "title": "Live Webcam Texel: Panorama De Koog | Strand, Duinen & Zee (Livecam Strand, Dünen & Meer)"
-      },
-      {
-        "id": "IhYANQdJKoM",
-        "title": "Live Webcam Texel: Golfbaan De Texelse | Uitzicht Golf Course (Livecam Golfplatz & Dünen)"
-      },
-      {
-        "id": "zAM07AC3vk0",
-        "title": "Live Webcam Texel: Ecomare | Zeehonden (Livecam Seehunde & Fütterung)"
-      },
-      {
-        "id": "U8m7Fr6xMqM",
-        "title": "Live Webcam Den Helder: TESO Boot Texel | Haven & Veerboot (Livecam Texel Fähre)"
-      },
-      {
-        "id": "YIefLlsHUVQ",
-        "title": "Live Webcam Texel: Paal 9 | Strand, Golven & Surfen (Livecam Strand, Wellen & Surfen)"
-      },
-      {
-        "id": "DpjUDR32_AY",
-        "title": "Live Webcam Texel: Vuurtoren | Uitzicht op de Rode Toren (Livecam Leuchtturm & Dünen)"
-      },
-      {
-        "id": "Gq8dWezdEX8",
-        "title": "Live Webcam Texel: Kaap Noord (Paal 33) | Strand & Uitzicht Vlieland (Livecam & Blick auf Vlieland)"
-      },
-      {
-        "id": "W8EUPeueZjw",
-        "title": "Live Webcam Texel: Vogels & Voederplaats | Vogelinformatiecentrum (Livecam Vögel & Futterplatz)"
-      },
-      {
-        "id": "NYGtSbvt6d0",
-        "title": "Live Webcam Texel: Haven Oudeschild | Vissershaven & Kotters (Livecam Fischerhafen & Kutter)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCnsR6NZFdu_kOljI3SWiGJw",
@@ -13800,7 +13716,12 @@
     "id": "UCnuF5fiEc6DdbhDHCQoCAfA",
     "handle": "@DevilsWorkshopNZ",
     "name": "Devil&#39;s Workshop",
-    "videos": []
+    "videos": [
+      {
+        "id": "BQR800Gu28g",
+        "title": "Auckland Live Camera | Skyline, Harbour, &  Weather | 4K 24/7"
+      }
+    ]
   },
   {
     "id": "UCo-qXsM5O9OUI3mNlfIr0PA",
@@ -13941,7 +13862,32 @@
     "id": "UCoaT_geZ6GwRscQgOlchh_w",
     "handle": "@SevernValleyRailwayOfficial",
     "name": "Severn Valley Railway",
-    "videos": []
+    "videos": [
+      {
+        "id": "ELBMc80pNAo",
+        "title": "LIVE CAM - Kidderminster Platform on the Severn Valley Railway"
+      },
+      {
+        "id": "CEQBHYoqBI0",
+        "title": "LIVE CAM - Kidderminster Station Concourse Camera on the Severn Valley Railway"
+      },
+      {
+        "id": "IqvDk75pvfE",
+        "title": "LIVE CAM Bewdley North on the Severn Valley Railway"
+      },
+      {
+        "id": "L60Zg6dY0fU",
+        "title": "LIVE CAM - Highley Station on the Severn Valley Railway"
+      },
+      {
+        "id": "33cJCHpH9eU",
+        "title": "LIVE CAM Bewdley South on the Severn Valley Railway"
+      },
+      {
+        "id": "Hk7KWsPI_XI",
+        "title": "LIVE CAM Bridgnorth Station on the Severn Valley Railway"
+      }
+    ]
   },
   {
     "id": "UColBcWm6ybTbQnNuQS8JaKg",
@@ -14304,12 +14250,7 @@
     "id": "UCp0JDrW-paEyE_pTehxDZKg",
     "handle": "@mysteinbach",
     "name": "mySteinbach",
-    "videos": [
-      {
-        "id": "qZuWTIo-nak",
-        "title": "Steinbach Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCp1ojgNJ8mNWdMDsdcMRA2Q",
@@ -14635,24 +14576,7 @@
     "id": "UCpzi8BbsXCUoSlfbTBDMRKA",
     "handle": "@MedjugorjeTodayLive",
     "name": "Medjugorje Today Live",
-    "videos": [
-      {
-        "id": "58xgbwgamIA",
-        "title": "Medjugorje LIVE  24/7 - St. James Church - Crkva sv. Jakova"
-      },
-      {
-        "id": "IZ9jRNdiUBk",
-        "title": "Medjugorje LIVE Stream  24/7 CAM - Apparition Hill FullHD"
-      },
-      {
-        "id": "o_cmqQPIROE",
-        "title": "Medjugorje LIVE Stream  24/7 CAM - Blue cross"
-      },
-      {
-        "id": "T2ZbQy5QYDg",
-        "title": "Medjugorje LIVE Stream  24/7 CAM - Apparition hill Main entrance"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCq0nFboeoaOeRMoMLW6I_ew",
@@ -15138,12 +15062,7 @@
     "id": "UCqZfgk_okjEE3bDlJl90dGQ",
     "handle": "@HawickTV",
     "name": "Hawick TV",
-    "videos": [
-      {
-        "id": "mUDLUHhwJ0E",
-        "title": "Hawick TV LiveCam - The High Street - Lo-fi beats and chillout"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCqaZDUY_3goAaCsMLqVyJPw",
@@ -15488,7 +15407,12 @@
     "id": "UCsQ4KElhQsKe4ckYuC66Aog",
     "handle": "@bowling.warnemuende",
     "name": "Ostseebowling Warnemünde Rostock",
-    "videos": []
+    "videos": [
+      {
+        "id": "dAHJivjQHlU",
+        "title": "Ostseebowling Warnemünde (Livestream Kreuzfahrtterminal Warnemünde: Pier 7 & Pier 8)"
+      }
+    ]
   },
   {
     "id": "UCsXoS2vcQqyBwcPaua6Asfw",
@@ -15686,12 +15610,7 @@
     "id": "UCt01tczohsGmH6X6csUS6iQ",
     "handle": "@aguasdecadiz5312",
     "name": "Aguas de Cádiz",
-    "videos": [
-      {
-        "id": "0dKNLFFcHFU",
-        "title": "Aguas de Cádiz - Fuente de la plaza de Sevilla"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCt6LB-BvEmDm-oWbe_TO7mw",
@@ -15758,16 +15677,7 @@
     "id": "UCtUyw9nTFtCCg-RPA4c8cDg",
     "handle": "@GoWhistler",
     "name": "GoWhistler",
-    "videos": [
-      {
-        "id": "THHtVN4PTDc",
-        "title": "Whistler Golf Club - Hole 1"
-      },
-      {
-        "id": "IEhDUXECe_k",
-        "title": "Whistler Olympic Plaza"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCtZEp-JUvGtQbOG6PDKDuHQ",
@@ -15940,24 +15850,7 @@
     "id": "UCuIw1kCz18I87PEqWlmnchg",
     "handle": "@BorderBuddySurrey",
     "name": "BorderBuddy Customs Brokers",
-    "videos": [
-      {
-        "id": "IRIAXc0iT9A",
-        "title": "Live from White Rock, B.C. - Memorial Park Camera - BorderBuddy & Charlie Don't Surf"
-      },
-      {
-        "id": "BnkxqF6Y0bs",
-        "title": "Live from White Rock, B.C. - White Rock Pier Camera - BorderBuddy & Charlie Don't Surf"
-      },
-      {
-        "id": "LENLyDDEtUM",
-        "title": "Live from White Rock, B.C. - White Rock Museum looking West - BorderBuddy & Charlie Don't Surf"
-      },
-      {
-        "id": "OSX_2z1C_Cw",
-        "title": "Live from White Rock, B.C. - (Low Resolution) White Rock Beach - BorderBuddy & Charlie Don't Surf"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCuR9Gx3rZA_eaJV9tF8l8HQ",
@@ -16093,7 +15986,12 @@
     "id": "UCuhsRQCfzo3UUiPTwDmRDrQ",
     "handle": "@PortlandDowntown",
     "name": "Portland Downtown",
-    "videos": []
+    "videos": [
+      {
+        "id": "NxuzhLeRuyQ",
+        "title": "Monument Square Tree Cam Presented By Hood® Eggnog"
+      }
+    ]
   },
   {
     "id": "UCuiHrLHm5n38Rzl_2y8mYOw",
@@ -16149,12 +16047,7 @@
     "id": "UCuoENUqNd-EXgac6EmKr-Gg",
     "handle": "@vukislunj7814",
     "name": "Vuki Slunj",
-    "videos": [
-      {
-        "id": "W-oNfiNvuDU",
-        "title": "Slunj Vuki LiveCam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCuoNAKa3P0QR1Lw9QdpmoVg",
@@ -16342,28 +16235,7 @@
     "id": "UCuv7xqb-jo3HEFMIVLTY_CA",
     "handle": "@Teikei_Official",
     "name": "テイケイ公式チャンネル",
-    "videos": [
-      {
-        "id": "4T-ARSiV53g",
-        "title": "【24Ｈ：LIVE】24時間 東京 有明 お天気カメラ 24h Teikei Live Weather Camera Tokyo Ariake【テイケイ臨海基地カメラ】"
-      },
-      {
-        "id": "gTO_FJzv70k",
-        "title": "【24Ｈ：LIVE】４K配信 東京 新宿 五丁目 交差点 ライブカメラ  Tokyo Shinjuku Kabukicho  Live Camera【テイケイ屋上カメラ】#靖国通り#明治通り#歌舞伎町"
-      },
-      {
-        "id": "vuP9iwdyyFM",
-        "title": "【24Ｈ：LIVE】東京 新宿 歌舞伎町 第２（区役所交差点）ライブカメラ  / Tokyo  Shinjuku Kabukicho Live Camera【テイケイ屋上カメラ】　 #４K #歌舞伎町"
-      },
-      {
-        "id": "3bCMZOjsGic",
-        "title": "【24H：LIVE】24時間 東京 新宿 歌舞伎町 上空  お天気ライブカメラ 24h Tokyo Shinjuku Kabukicho   Weather Camera（テイケイライブカメラ）"
-      },
-      {
-        "id": "ErHJBXTmm2Q",
-        "title": "【24Ｈ：LIVE】東京 新宿 歌舞伎町 交差点 ライブカメラ  / Tokyo  Shinjuku Kabukicho Live Camera【テイケイ屋上カメラ】　#靖国通り #４K #歌舞伎町"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCv0XigLGMsgxDmBVCephTlA",
@@ -16700,12 +16572,7 @@
     "id": "UCx6ra-kP4Z2kZQfu5zTX1vA",
     "handle": "@VillaRenaissanceTCI",
     "name": "Strata Plan No 43 | Villa Renaissance",
-    "videos": [
-      {
-        "id": "shNgEojhTK4",
-        "title": "Villa Renaissance | Turks & Caicos Is | LiveCam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCx8ILP7mQxM0nBv9bwTmTRQ",
@@ -17308,7 +17175,12 @@
     "id": "UCzaHnTdYgOqf4MA_OaOAJ8g",
     "handle": "@destinwaterusers7092",
     "name": "Destin Water Users",
-    "videos": []
+    "videos": [
+      {
+        "id": "51d8Rdt7U7I",
+        "title": "Destin Water Users, Tower 3 webcam"
+      }
+    ]
   },
   {
     "id": "UCzc4Ysia7rrHYyuuw5Q6xCQ",
@@ -17336,12 +17208,7 @@
     "id": "UCzjR7slpURQjzqxPP5FVowQ",
     "handle": "@sightsailinglive6405",
     "name": "Sightsailing Live",
-    "videos": [
-      {
-        "id": "HlK9G6PdIUo",
-        "title": "Sightsailing - Newport, Rhode Island USA"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCzkaQrI9-nSv373EvK5p0SQ",
