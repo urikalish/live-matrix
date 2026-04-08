@@ -1,8 +1,5 @@
+.env
 .history/
 .idea/
 dist/
 node_modules/
-.env
-
-
-
