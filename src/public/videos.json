@@ -42,8 +42,8 @@
   },
   {
     "id": "UC-CrxJnHPaM4tm2haTibUZA",
-    "handle": "",
-    "name": "",
+    "handle": "@SoggyDollar",
+    "name": "Soggy Dollar",
     "videos": []
   },
   {
@@ -122,6 +122,12 @@
     "id": "UC0BaUi4Ob9uA1qKsF6N8D6Q",
     "handle": "@seaislecitybeachpatrol2994",
     "name": "Sea Isle City Beach Patrol",
+    "videos": []
+  },
+  {
+    "id": "UC0LHWubgXFqLvpf_5UPVYIA",
+    "handle": "@gothamweststudios",
+    "name": "Gotham West Studios",
     "videos": []
   },
   {
@@ -388,6 +394,12 @@
     "id": "UC2qwiv3R_Dqrp15vh7cpH9Q",
     "handle": "@MarioRailcamNL",
     "name": "RailCam Netherlands",
+    "videos": []
+  },
+  {
+    "id": "UC2rLp3oabfy2jyCQEzm-rlA",
+    "handle": "@canaldoaviao7789",
+    "name": "CANAL DO AVIÃO",
     "videos": []
   },
   {
@@ -837,8 +849,8 @@
   },
   {
     "id": "UC8L4JthSgl9UzC2niY2ZfIA",
-    "handle": "@imagineafricaluxurytentedcamp",
-    "name": "Imagine Africa Luxury Tented Camp - Greater Kruger",
+    "handle": "",
+    "name": "",
     "videos": []
   },
   {
@@ -882,6 +894,10 @@
     "handle": "@BostonAndMaineLive",
     "name": "Boston and Maine Live",
     "videos": [
+      {
+        "id": "x_ruIH2UmjQ",
+        "title": "New England Springtime is LIVE - Webcams, Weather, Music, Timelapse"
+      },
       {
         "id": "hZJLS6Fu1JE",
         "title": "McAdam Railway Station, NB Canada - Live Cam"
@@ -1659,6 +1675,12 @@
     "videos": []
   },
   {
+    "id": "UCCcIYuDlia7Xsug2SlgVFrA",
+    "handle": "@LiguriaLiveRail",
+    "name": "LiguriaLiveRail",
+    "videos": []
+  },
+  {
     "id": "UCCm-nbbUP0Tx3JzEzeEVFTA",
     "handle": "@surveillancemapfoundation",
     "name": "SurveillanceMap Foundation",
@@ -1776,6 +1798,12 @@
     "id": "UCE3igNKv2q7dBeAbb90TePQ",
     "handle": "@triplecrowncasinos4578",
     "name": "TripleCrownCasinos",
+    "videos": []
+  },
+  {
+    "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
+    "handle": "@RailwayLiveCamera",
+    "name": "Tokyo Akabane Live Camera",
     "videos": []
   },
   {
@@ -2143,6 +2171,12 @@
     "id": "UCJA-llhMSoLAV9tH8JOZ_LQ",
     "handle": "@crystalcovetofino",
     "name": "Crystal Cove Beach Resort - Cabins &amp; RV Camping",
+    "videos": []
+  },
+  {
+    "id": "UCJFCG6MSocqzU0dIVuZ4YJQ",
+    "handle": "@FemernAS",
+    "name": "FemernAS",
     "videos": []
   },
   {
