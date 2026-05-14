@@ -431,6 +431,45 @@ async function processChannel(channelId, index, total) {
 
 /* ------------------------------------------------------------------------------------------------------------------ */
 
+async function getChannelIdFromWCTCamPage(url) {
+  try {
+    const htmlString = await fetchPage(url);
+    const $ = cheerio.load(htmlString);
+    const camSrc = $('#contentBox #insideCam > iframe').attr('src') || '';
+    const prefix = `https://www.youtube.com/embed/live_stream?channel=`;
+    if (!camSrc.startsWith(prefix)) {
+      return '';
+    }
+    const afterPrefix = camSrc.slice(prefix.length);
+    const channelId = afterPrefix.split('&')[0];
+    return channelId || '';
+  } catch (err) {
+    console.error(err);
+    return '';
+  }
+}
+
+async function getLatestWCTChannelIds() {
+  const channelIds = [];
+  try {
+    const html = await fetchPage('https://www.webcamtaxi.com/en/latest-webcams.html');
+    const $ = cheerio.load(html);
+    const camElms = $('#contentBox .nspArtPage > .nspArt > a').toArray();
+    for (let i = 0; i < camElms.length; i++) {
+      const url = $(camElms[i]).attr('href');
+      const channelId = await getChannelIdFromWCTCamPage(`https://www.webcamtaxi.com/${url}`);
+      if (channelId) {
+        channelIds.push(channelId);
+      }
+    }
+  } catch (err) {
+    console.error(err);
+  }
+  return channelIds;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+
 async function go() {
   const startedAt = Date.now();
   try {
@@ -443,7 +482,11 @@ async function go() {
       ),
     ];
 
-    const allChannelIds = [...channelIdsFromFile].sort();
+    const wctChannelIds = await getLatestWCTChannelIds();
+    const newWctChannelIds = wctChannelIds.filter(id => !channelIdsFromFile.includes(id));
+    console.log(`Added ${newWctChannelIds.length} new channel ids from WCT`);
+
+    const allChannelIds = [...channelIdsFromFile, ...newWctChannelIds].sort();
     writeDataObjectToFile(allChannelIds, '.', 'channel-ids.json');
 
     const CONCURRENCY = 10;
