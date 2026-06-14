@@ -213,7 +213,7 @@ async function extractLiveVideosInfo(html) {
   console.log(`Extracting live videos info...`);
   const videosInfo = [];
 
-  function isEmbeddableVideo(videoRenderer) {
+  function isEmbeddableVideoRenderer(videoRenderer) {
     const playabilityStatus = videoRenderer?.playabilityStatus;
     if (playabilityStatus?.playableInEmbed === false) {
       return false;
@@ -228,6 +228,21 @@ async function extractLiveVideosInfo(html) {
     }
 
     return true;
+  }
+
+  function isLiveLockupViewModel(lvm) {
+    const overlays = lvm?.contentImage?.thumbnailViewModel?.overlays ?? [];
+    return overlays.some(o => {
+      const badges = o?.thumbnailBottomOverlayViewModel?.badges ?? [];
+      return badges.some(
+        b => b?.thumbnailBadgeViewModel?.badgeStyle === 'THUMBNAIL_OVERLAY_BADGE_STYLE_LIVE',
+      );
+    });
+  }
+
+  function isLiveVideoRenderer(videoRenderer) {
+    const overlays = videoRenderer?.thumbnailOverlays ?? [];
+    return overlays.some(o => o.thumbnailOverlayTimeStatusRenderer?.style === 'LIVE');
   }
 
   try {
@@ -330,27 +345,41 @@ async function extractLiveVideosInfo(html) {
         .find(Boolean);
     }
 
-    const liveCandidates = allItems
-      .map(item => item.richItemRenderer?.content?.videoRenderer)
-      .filter(videoRenderer => {
-        const overlays = videoRenderer?.thumbnailOverlays ?? [];
-        return overlays.some(o => o.thumbnailOverlayTimeStatusRenderer?.style === 'LIVE');
-      });
+    // Normalise items to { videoId, title, embeddable } regardless of old/new YouTube structure.
+    const liveCandidates = allItems.flatMap(item => {
+      // New structure: lockupViewModel (YouTube ~2025+)
+      const lvm = item?.richItemRenderer?.content?.lockupViewModel;
+      if (lvm) {
+        if (!isLiveLockupViewModel(lvm)) return [];
+        const videoId = lvm.contentId;
+        if (!videoId) return [];
+        const rawTitle = lvm.metadata?.lockupMetadataViewModel?.title?.content ?? '';
+        return [{ videoId, rawTitle, embeddable: true }]; // no playabilityStatus in lockupViewModel; rely on oEmbed
+      }
 
-    const checkedVideos = await Promise.all(
-      liveCandidates.map(async videoRenderer => {
+      // Old structure: videoRenderer
+      const videoRenderer = item?.richItemRenderer?.content?.videoRenderer;
+      if (videoRenderer) {
+        if (!isLiveVideoRenderer(videoRenderer)) return [];
         const videoId = videoRenderer?.videoId;
-        if (!videoId) return null;
-        if (!isEmbeddableVideo(videoRenderer)) return null;
-
-        // Renderer signals are sometimes stale/inaccurate for active streams; validate all candidates.
-        const isEmbeddable = await isVideoEmbeddableByOEmbed(videoId);
-        if (!isEmbeddable) return null;
-
+        if (!videoId) return [];
+        if (!isEmbeddableVideoRenderer(videoRenderer)) return [];
         const rawTitle =
           videoRenderer?.title?.runs?.map(r => r.text).join('') ??
           videoRenderer?.title?.simpleText ??
           '';
+        return [{ videoId, rawTitle, embeddable: true }];
+      }
+
+      return [];
+    });
+
+    const checkedVideos = await Promise.all(
+      liveCandidates.map(async ({ videoId, rawTitle }) => {
+        // Renderer signals are sometimes stale/inaccurate for active streams; validate all candidates.
+        const isEmbeddable = await isVideoEmbeddableByOEmbed(videoId);
+        if (!isEmbeddable) return null;
+
         const title = rawTitle
           .replace(/\u00A0/gu, ' ')
           .replace(/\u200B/gu, '')
