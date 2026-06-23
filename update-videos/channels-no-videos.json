@@ -246,12 +246,6 @@
     "date": "2026-06-21"
   },
   {
-    "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
-    "handle": "@RailwayLiveCamera",
-    "name": "Tokyo Akabane Live Camera",
-    "date": "2026-06-21"
-  },
-  {
     "id": "UCNi03mB7Nme5qbCQVt8XMHQ",
     "handle": "@HoteLaborie",
     "name": "Le Relais La Borie",
@@ -270,18 +264,6 @@
     "date": "2026-06-21"
   },
   {
-    "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
-    "handle": "@alwarith-center",
-    "name": "مركز الوارث للإنتاج الفني",
-    "date": "2026-06-22"
-  },
-  {
-    "id": "UCayE6-RHoYoIcnqp36o4Rjg",
-    "handle": "@sebinkarahisarbelediyesi",
-    "name": "Sebinkarahisar Belediyesi",
-    "date": "2026-06-22"
-  },
-  {
     "id": "UCJk1ArOmeKdyMyvONIWPMfw",
     "handle": "@DeltaYacht",
     "name": "Delta Yacht",
@@ -291,18 +273,6 @@
     "id": "UCKiObhTepfujcMJaqZ9qzsQ",
     "handle": "@oldbridgeairport618",
     "name": "Old Bridge Airport",
-    "date": "2026-06-22"
-  },
-  {
-    "id": "UClSdxxEoPbpZHrujhfQcdow",
-    "handle": "@castrostreetcam2549",
-    "name": "Castro Street Cam 2",
-    "date": "2026-06-22"
-  },
-  {
-    "id": "UCLTYXg2LkraaBZyd431pF7g",
-    "handle": "@bonnyhillsbeachhouse",
-    "name": "Bonny Hills Beach House",
     "date": "2026-06-22"
   },
   {
@@ -330,9 +300,63 @@
     "date": "2026-06-22"
   },
   {
-    "id": "UCwyuvrVtIg0xjH2qPufk3RQ",
-    "handle": "@BrisbaneLivestream",
-    "name": "Brisbane Live",
-    "date": "2026-06-22"
+    "id": "UC_cmEauzsnJ4trDXLiIug1Q",
+    "handle": "@SOT",
+    "name": "STREETS OF THAILAND",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "UC_dQTOYTn6r5Kij3z0_SP6Q",
+    "handle": "@CAROSELLO3000",
+    "name": "Carosello 3000 - Livigno",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "UC0MrPkKoR10dziKUa6JUwIg",
+    "handle": "@panov.d.daniel",
+    "name": "Даниел Панов",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "UC0rJhAKP1lwheT7-1ScnFOg",
+    "handle": "@seatowsouthshore",
+    "name": "Sea Tow South Shore",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "UCa1XvGj-yhiLLC5fVFKfXJQ",
+    "handle": "@BeachcomberStAugustine",
+    "name": "The Beachcomber Restaurant St. Augustine",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "UCB-zCeE3hpdWcnVaZePAwFQ",
+    "handle": "@RigaZOO",
+    "name": "RigaZOO",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "UCg2SeSF9iIsLdc84jXl_bTg",
+    "handle": "@cubapolak",
+    "name": "CubaLibre",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "UCjvtkjWwpnhgGv2nutFFr-A",
+    "handle": "@IloveLx",
+    "name": "I love Lx",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "UCP9iUsMyLRKbxhGAEDChbCA",
+    "handle": "@meteomontedarena",
+    "name": "Meteo Montedarena",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "UCxJauSv5BZA7N4dIqPHpy0w",
+    "handle": "@Brian-Siu",
+    "name": "Brian Siu",
+    "date": "2026-06-23"
   }
 ]
