@@ -168,12 +168,6 @@
     "date": "2026-05-08"
   },
   {
-    "id": "UCgSfKSkVb9izyct6Ima8P3A",
-    "handle": "@deanmitchell9010",
-    "name": "Dean Mitchell",
-    "date": "2026-06-16"
-  },
-  {
     "id": "UCrxFWEsUjk4f5YPfmahOs8Q",
     "handle": "@packerysurfcam",
     "name": "packerysurfcam",
@@ -196,12 +190,6 @@
     "handle": "@ArielOrtizYT",
     "name": "Ariel Ortiz - Ushuaia",
     "date": "2026-06-21"
-  },
-  {
-    "id": "UCM0qV6ZHBkjxBokQepECyFg",
-    "handle": "@portoffridayharborairport8285",
-    "name": "Port of Friday Harbor Airport",
-    "date": "2026-06-22"
   },
   {
     "id": "UCmrOquaVw3sGeDvhcyjT9_g",
@@ -243,12 +231,6 @@
     "id": "UChoL_UbFagRA6Fhf7K0qk5w",
     "handle": "@TimLiaoLive",
     "name": "Tim哥",
-    "date": "2026-06-25"
-  },
-  {
-    "id": "UCKGyGK964U4Yd71WqBkvImA",
-    "handle": "@derbycomplex",
-    "name": "World Championship Derby Complex",
     "date": "2026-06-25"
   },
   {
@@ -294,12 +276,6 @@
     "date": "2026-06-29"
   },
   {
-    "id": "UCLmvtLuqca56l68QCETk1QQ",
-    "handle": "@frederictonwebcams",
-    "name": "Fredericton Caméra Web Cameras",
-    "date": "2026-06-30"
-  },
-  {
     "id": "UCx8ILP7mQxM0nBv9bwTmTRQ",
     "handle": "@paradisevibes7610",
     "name": "PARADISE VIBES",
@@ -336,12 +312,6 @@
     "date": "2026-07-01"
   },
   {
-    "id": "UCROKYPep-UuODNwyipe6JMw",
-    "handle": "@SaudiSunnahTv",
-    "name": "قناة السنة النبوية",
-    "date": "2026-07-01"
-  },
-  {
     "id": "UCtrwK-DOZGcQo9p1VwIkDZw",
     "handle": "@maaxcamaovivo",
     "name": "Maaxcam Ao Vivo",
@@ -372,33 +342,51 @@
     "date": "2026-07-02"
   },
   {
-    "id": "UC0rJhAKP1lwheT7-1ScnFOg",
-    "handle": "@seatowsouthshore",
-    "name": "Sea Tow South Shore",
-    "date": "2026-07-02"
-  },
-  {
     "id": "UCEloGRn_GCcr-I_6f5MYJPw",
     "handle": "@サンシャイン60通りライブカメラ",
     "name": "サンシャイン60通りライブカメラ",
     "date": "2026-07-02"
   },
   {
-    "id": "UCkM6bT22N_Rgl5Y6Sv2JPUg",
-    "handle": "@belemaovivo",
-    "name": "Belém-PA ao vivo em 4K",
-    "date": "2026-07-02"
+    "id": "UC7WAqB7dyv1t8jKunD-8krA",
+    "handle": "@L.A.FLIGHTS",
+    "name": "L.A FLIGHTS",
+    "date": "2026-07-03"
   },
   {
-    "id": "UClSdxxEoPbpZHrujhfQcdow",
-    "handle": "@castrostreetcam2549",
-    "name": "Castro Street Cam 2",
-    "date": "2026-07-02"
+    "id": "UCaEdUtLbgjtDdfZfDYCllXQ",
+    "handle": "@Orçamentos_OSF",
+    "name": "Orçamentos Fácil_OSF",
+    "date": "2026-07-03"
   },
   {
-    "id": "UCy7ycbTd1HFIFtM66u4A0lA",
-    "handle": "@sharxdemo8085",
-    "name": "Sharx Demo",
-    "date": "2026-07-02"
+    "id": "UCaOzbC5fO6mLnc_3or3BMxg",
+    "handle": "@pinemountainobservatory5775",
+    "name": "Pine Mountain Observatory",
+    "date": "2026-07-03"
+  },
+  {
+    "id": "UCCZ0dSF4mdNfJTnUq5cIISQ",
+    "handle": "@WebcamMonheim",
+    "name": "Webcam Monheim",
+    "date": "2026-07-03"
+  },
+  {
+    "id": "UCha0QKR45iw7FCUQ3-1PnhQ",
+    "handle": "@cafedelmar",
+    "name": "Café del Mar",
+    "date": "2026-07-03"
+  },
+  {
+    "id": "UCm9zLeJlfz7jRT_6vff70_w",
+    "handle": "@AirportAction",
+    "name": "Airport Action",
+    "date": "2026-07-03"
+  },
+  {
+    "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
+    "handle": "@wightwildlifecam",
+    "name": "Wight Wildlife Cam",
+    "date": "2026-07-03"
   }
 ]
