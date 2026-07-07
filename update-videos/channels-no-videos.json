@@ -174,12 +174,6 @@
     "date": "2026-06-17"
   },
   {
-    "id": "UC9diDJiKGl6K0TuugYZxNkQ",
-    "handle": "@MountWashingtonCogRailway",
-    "name": "Mount Washington Cog Railway",
-    "date": "2026-06-18"
-  },
-  {
     "id": "UCNi03mB7Nme5qbCQVt8XMHQ",
     "handle": "@HoteLaborie",
     "name": "Le Relais La Borie",
@@ -324,12 +318,6 @@
     "date": "2026-07-05"
   },
   {
-    "id": "UCHhtdcqzwyPYY0qBlEPh0QQ",
-    "handle": "@olhar013",
-    "name": "Olhar 013",
-    "date": "2026-07-05"
-  },
-  {
     "id": "UCOjscjEL-lGZVP-2uooEuCA",
     "handle": "@libraryvideos",
     "name": "East Hampton Library",
@@ -342,45 +330,15 @@
     "date": "2026-07-05"
   },
   {
-    "id": "UCqMKJRBR8K3tfxY1a0IUm4g",
-    "handle": "@mountsouthingtonskiarea9062",
-    "name": "Mount Southington Ski Area",
-    "date": "2026-07-05"
-  },
-  {
-    "id": "UCUpFHGasL2cNAo2w70vwrSQ",
-    "handle": "@SiestaCam",
-    "name": "Siesta Cam",
-    "date": "2026-07-05"
-  },
-  {
     "id": "UC7WAqB7dyv1t8jKunD-8krA",
     "handle": "@L.A.FLIGHTS",
     "name": "L.A FLIGHTS",
     "date": "2026-07-06"
   },
   {
-    "id": "UCef_Yfk6baScsTCcDxzXE5Q",
-    "handle": "@Reef-SA",
-    "name": "REEF SOUTH AFRICA",
-    "date": "2026-07-06"
-  },
-  {
-    "id": "UCeunW_050lqjYtDwGatMFvw",
-    "handle": "@waterstreetinn3792",
-    "name": "Water Street Inn",
-    "date": "2026-07-06"
-  },
-  {
     "id": "UCiIA2H7KnbK7Wsyhpw1_glw",
     "handle": "@fujinetkawaguchiko",
     "name": "fuji-net",
-    "date": "2026-07-06"
-  },
-  {
-    "id": "UCJk1ArOmeKdyMyvONIWPMfw",
-    "handle": "@DeltaYacht",
-    "name": "Delta Yacht",
     "date": "2026-07-06"
   },
   {
@@ -402,9 +360,69 @@
     "date": "2026-07-06"
   },
   {
-    "id": "UCznYV93b1V_PGy4yOPnR0mw",
-    "handle": "@tarquinburrows2649",
-    "name": "Tarquin Burrows",
-    "date": "2026-07-06"
+    "id": "UC__vsLbIjiHwYy2-zODXipA",
+    "handle": "@Saquaremar",
+    "name": "Saquaremar",
+    "date": "2026-07-07"
+  },
+  {
+    "id": "UC0aRRZkVrO_0nqfuXYaL_Cg",
+    "handle": "@municipiulresita3730",
+    "name": "Municipiul Reșița",
+    "date": "2026-07-07"
+  },
+  {
+    "id": "UC2ne-RCxu_3zf0DrW4uWP9w",
+    "handle": "@milhouse23",
+    "name": "mil_house23 (mil_house23)",
+    "date": "2026-07-07"
+  },
+  {
+    "id": "UC3j2hR5zFDLw5He4n4J-BbA",
+    "handle": "@valfiorentinalive",
+    "name": "Val Fiorentina Dolomites Italy",
+    "date": "2026-07-07"
+  },
+  {
+    "id": "UCEloGRn_GCcr-I_6f5MYJPw",
+    "handle": "@サンシャイン60通りライブカメラ",
+    "name": "サンシャイン60通りライブカメラ",
+    "date": "2026-07-07"
+  },
+  {
+    "id": "UCG0GyXcLzbTCvOtX9nwof1A",
+    "handle": "@AgencijaStariGradMostar",
+    "name": "Agencija Stari Grad Mostar",
+    "date": "2026-07-07"
+  },
+  {
+    "id": "UClSdxxEoPbpZHrujhfQcdow",
+    "handle": "@castrostreetcam2549",
+    "name": "Castro Street Cam 2",
+    "date": "2026-07-07"
+  },
+  {
+    "id": "UCwTBv_iSPKJZ8jAeeDPJZnw",
+    "handle": "@madeiraairportlive",
+    "name": "Madeira Airport Live",
+    "date": "2026-07-07"
+  },
+  {
+    "id": "UCXCRtOlf5p2fQnaWCrKigTA",
+    "handle": "@viviendasvacacionalescante8718",
+    "name": "Viviendas Vacacionales Canteras Vista Playa",
+    "date": "2026-07-07"
+  },
+  {
+    "id": "UCxJauSv5BZA7N4dIqPHpy0w",
+    "handle": "@Brian-Siu",
+    "name": "Brian Siu",
+    "date": "2026-07-07"
+  },
+  {
+    "id": "UCZ63kVFT7hf1K-Mx82MxFnQ",
+    "handle": "@HigginsBeach",
+    "name": "Higgins Beach",
+    "date": "2026-07-07"
   }
 ]
