@@ -1,77 +1,5 @@
 [
   {
-    "id": "UC5PNUCvYkt6PxAmgvAV8x8g",
-    "handle": "@CaliPlanes",
-    "name": "Cali Planes",
-    "date": "2026-04-04"
-  },
-  {
-    "id": "UC3rYbSIKpTUuZJNl7GmFxqA",
-    "handle": "@FairmontThePalm",
-    "name": "Fairmont Palm",
-    "date": "2026-04-08"
-  },
-  {
-    "id": "UCQpBNfc0tMfCAMz15fFV9bw",
-    "handle": "@TheOpenRoadReview",
-    "name": "The Open Road Review",
-    "date": "2026-04-11"
-  },
-  {
-    "id": "UC18wIshJBimh3cAVbsxnkqg",
-    "handle": "@haurakigulfweatherlivewebcam",
-    "name": "Hauraki Gulf Weather Live Webcam",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "UC-ADcKoyBn-44UJwmatMSQQ",
-    "handle": "@ProducciónLyR",
-    "name": "Producción LyR",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "UCoHyPD0NIDl6aO60-T7qpnA",
-    "handle": "",
-    "name": "",
-    "date": "2026-04-19"
-  },
-  {
-    "id": "UChDKyKQ59fYz3JO2fl0Z6sg",
-    "handle": "@TODAY",
-    "name": "TODAY",
-    "date": "2026-04-25"
-  },
-  {
-    "id": "UCKcvqfa1-sVpyyxT6lzn7Fg",
-    "handle": "@lillyputtminigolfbroadstai4278",
-    "name": "Lillyputt Minigolf Broadstairs",
-    "date": "2026-04-28"
-  },
-  {
-    "id": "UCLwUcA69lv5tns6ct-ipiHA",
-    "handle": "@BoathouseatNorthLanding",
-    "name": "Boathouse at North Landing ",
-    "date": "2026-04-28"
-  },
-  {
-    "id": "UC1dvZq_0NLxBTrYp4bWKeCQ",
-    "handle": "@elkslodge616camlive8",
-    "name": "ElksLodge616cam live",
-    "date": "2026-04-29"
-  },
-  {
-    "id": "UCiV1SWx0DV0y9Id-Vjd4JEA",
-    "handle": "@meteoestrela",
-    "name": "Meteoestrela Serra da Estrela",
-    "date": "2026-04-29"
-  },
-  {
-    "id": "UCTlY00NCf0nKyldwBys3mrA",
-    "handle": "@SerradoRiodoRastroaoVivo",
-    "name": "Serra do Rio do Rastro ao Vivo",
-    "date": "2026-04-30"
-  },
-  {
     "id": "UC0lTglWJB9LWTudoRN8MEGA",
     "handle": "@가톨릭인터넷굿뉴스",
     "name": "가톨릭굿뉴스",
@@ -342,12 +270,6 @@
     "date": "2026-07-06"
   },
   {
-    "id": "UCm9zLeJlfz7jRT_6vff70_w",
-    "handle": "@AirportAction",
-    "name": "Airport Action",
-    "date": "2026-07-06"
-  },
-  {
     "id": "UCsy6UOjk8q7Ajq9yQ7iDAbA",
     "handle": "@GiGAeyesLiveTV",
     "name": "GiGAeyes Live TV",
@@ -366,21 +288,9 @@
     "date": "2026-07-07"
   },
   {
-    "id": "UC0aRRZkVrO_0nqfuXYaL_Cg",
-    "handle": "@municipiulresita3730",
-    "name": "Municipiul Reșița",
-    "date": "2026-07-07"
-  },
-  {
     "id": "UC2ne-RCxu_3zf0DrW4uWP9w",
     "handle": "@milhouse23",
     "name": "mil_house23 (mil_house23)",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "UC3j2hR5zFDLw5He4n4J-BbA",
-    "handle": "@valfiorentinalive",
-    "name": "Val Fiorentina Dolomites Italy",
     "date": "2026-07-07"
   },
   {
@@ -408,12 +318,6 @@
     "date": "2026-07-07"
   },
   {
-    "id": "UCXCRtOlf5p2fQnaWCrKigTA",
-    "handle": "@viviendasvacacionalescante8718",
-    "name": "Viviendas Vacacionales Canteras Vista Playa",
-    "date": "2026-07-07"
-  },
-  {
     "id": "UCxJauSv5BZA7N4dIqPHpy0w",
     "handle": "@Brian-Siu",
     "name": "Brian Siu",
@@ -424,5 +328,53 @@
     "handle": "@HigginsBeach",
     "name": "Higgins Beach",
     "date": "2026-07-07"
+  },
+  {
+    "id": "UC2rLp3oabfy2jyCQEzm-rlA",
+    "handle": "@canaldoaviao7789",
+    "name": "CANAL DO AVIÃO",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
+    "handle": "@castrostreetcam4755",
+    "name": "Castro Street Cam 4",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "UCCp1rWY4KFh0t3fKILlPiUQ",
+    "handle": "@ToyoComtecLiveChannel",
+    "name": "ToyoComtecLiveChannel",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "UCcrSw7gTYq6ZQ1MdIo23Q1w",
+    "handle": "@RoyalHarbourLive",
+    "name": "Royal Harbour Live",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "UCd0Aa89g9hbSQC-APdXWNNg",
+    "handle": "@ismannen",
+    "name": "ole petter løbak (ice_baby)",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "UCKO7Og-r4lviwFcaXUNDNLA",
+    "handle": "@Crelosavideos",
+    "name": "Crelosa",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "UClONWXOnZqm8lPKTNqvi2og",
+    "handle": "@LuftraAI",
+    "name": "Luftra Aviation",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "UCq0nFboeoaOeRMoMLW6I_ew",
+    "handle": "",
+    "name": "",
+    "date": "2026-07-08"
   }
 ]
