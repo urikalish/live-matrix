@@ -168,22 +168,10 @@
     "date": "2026-06-27"
   },
   {
-    "id": "UCUZZJpUgv-Pg6nlO_Zxbl6g",
-    "handle": "@nexsulconectividade",
-    "name": "Nexsul Conectividade",
-    "date": "2026-06-27"
-  },
-  {
     "id": "UCQg4VqFkFJPussMB2_9smyg",
     "handle": "@solentlive",
     "name": "Solent Live",
     "date": "2026-06-28"
-  },
-  {
-    "id": "UC3c-pudL55WWFxl89wTH1NA",
-    "handle": "@PanosBoats",
-    "name": "Panos Boats",
-    "date": "2026-06-29"
   },
   {
     "id": "UCIQVWkOilfxoQSFcban_d-A",
@@ -220,12 +208,6 @@
     "handle": "@pinemountainobservatory5775",
     "name": "Pine Mountain Observatory",
     "date": "2026-07-03"
-  },
-  {
-    "id": "UC-5CVLXN0tBhGsqv-DMcHuw",
-    "handle": "@santospilotsoficial",
-    "name": "Praticagem de São Paulo - Canal Oficial",
-    "date": "2026-07-04"
   },
   {
     "id": "UCg2SeSF9iIsLdc84jXl_bTg",
@@ -270,12 +252,6 @@
     "date": "2026-07-06"
   },
   {
-    "id": "UC__vsLbIjiHwYy2-zODXipA",
-    "handle": "@Saquaremar",
-    "name": "Saquaremar",
-    "date": "2026-07-07"
-  },
-  {
     "id": "UCEloGRn_GCcr-I_6f5MYJPw",
     "handle": "@サンシャイン60通りライブカメラ",
     "name": "サンシャイン60通りライブカメラ",
@@ -288,34 +264,10 @@
     "date": "2026-07-07"
   },
   {
-    "id": "UClSdxxEoPbpZHrujhfQcdow",
-    "handle": "@castrostreetcam2549",
-    "name": "Castro Street Cam 2",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "UCwTBv_iSPKJZ8jAeeDPJZnw",
-    "handle": "@madeiraairportlive",
-    "name": "Madeira Airport Live",
-    "date": "2026-07-07"
-  },
-  {
     "id": "UCZ63kVFT7hf1K-Mx82MxFnQ",
     "handle": "@HigginsBeach",
     "name": "Higgins Beach",
     "date": "2026-07-07"
-  },
-  {
-    "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
-    "handle": "@pontalnetv",
-    "name": "Pontal NeTv e Internet",
-    "date": "2026-07-08"
-  },
-  {
-    "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
-    "handle": "@castrostreetcam4755",
-    "name": "Castro Street Cam 4",
-    "date": "2026-07-08"
   },
   {
     "id": "UCCp1rWY4KFh0t3fKILlPiUQ",
@@ -334,5 +286,23 @@
     "handle": "@AirportAction",
     "name": "Airport Action",
     "date": "2026-07-08"
+  },
+  {
+    "id": "UC4Wd3aS1XKA39dCveZExSkg",
+    "handle": "@oneandmoreaviation",
+    "name": "One and More Aviation ",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "UCA6cQSBQbkxUO6gO_nXfibg",
+    "handle": "@lapalapapv",
+    "name": "La Palapa Restaurant",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "UCfx69ax61ifs_UZD3R-lJSw",
+    "handle": "@hanovermassachusetts",
+    "name": "Town of Hanover, Massachusetts",
+    "date": "2026-07-09"
   }
 ]
