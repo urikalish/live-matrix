@@ -6,12 +6,6 @@
     "date": "2026-05-03"
   },
   {
-    "id": "UC2YbNRWvvYUWgiy8aFx6ZCw",
-    "handle": "@skischoolstmoritz",
-    "name": "Skischule St. Moritz",
-    "date": "2026-05-03"
-  },
-  {
     "id": "UCncqAXYYeVTwM2KwynoGJmg",
     "handle": "@DurangoMe",
     "name": "Durango Dot Me",
@@ -69,12 +63,6 @@
     "id": "UC9wAEUW3AR8dnFHYso4hCsA",
     "handle": "@OceanFrontiersCayman",
     "name": "Ocean Frontiers",
-    "date": "2026-05-08"
-  },
-  {
-    "id": "UCBRQZw3k-rB1nd1_V6FjJeA",
-    "handle": "@WillClancy",
-    "name": "WillClancyWildlife",
     "date": "2026-05-08"
   },
   {
@@ -150,12 +138,6 @@
     "date": "2026-06-25"
   },
   {
-    "id": "UChoL_UbFagRA6Fhf7K0qk5w",
-    "handle": "@TimLiaoLive",
-    "name": "Tim哥",
-    "date": "2026-06-25"
-  },
-  {
     "id": "UC0LHWubgXFqLvpf_5UPVYIA",
     "handle": "@gothamweststudios",
     "name": "Gotham West Studios",
@@ -198,12 +180,6 @@
     "date": "2026-07-01"
   },
   {
-    "id": "UCaEdUtLbgjtDdfZfDYCllXQ",
-    "handle": "@Orçamentos_OSF",
-    "name": "Orçamentos Fácil_OSF",
-    "date": "2026-07-03"
-  },
-  {
     "id": "UCaOzbC5fO6mLnc_3or3BMxg",
     "handle": "@pinemountainobservatory5775",
     "name": "Pine Mountain Observatory",
@@ -226,12 +202,6 @@
     "handle": "@GavinBHeffernan",
     "name": "Gavin Heffernan Timelapse Travel ",
     "date": "2026-07-05"
-  },
-  {
-    "id": "UC7WAqB7dyv1t8jKunD-8krA",
-    "handle": "@L.A.FLIGHTS",
-    "name": "L.A FLIGHTS",
-    "date": "2026-07-06"
   },
   {
     "id": "UCiIA2H7KnbK7Wsyhpw1_glw",
@@ -276,12 +246,6 @@
     "date": "2026-07-08"
   },
   {
-    "id": "UClONWXOnZqm8lPKTNqvi2og",
-    "handle": "@LuftraAI",
-    "name": "Luftra Aviation",
-    "date": "2026-07-08"
-  },
-  {
     "id": "UCm9zLeJlfz7jRT_6vff70_w",
     "handle": "@AirportAction",
     "name": "Airport Action",
@@ -294,15 +258,51 @@
     "date": "2026-07-09"
   },
   {
-    "id": "UCA6cQSBQbkxUO6gO_nXfibg",
-    "handle": "@lapalapapv",
-    "name": "La Palapa Restaurant",
-    "date": "2026-07-09"
-  },
-  {
     "id": "UCfx69ax61ifs_UZD3R-lJSw",
     "handle": "@hanovermassachusetts",
     "name": "Town of Hanover, Massachusetts",
     "date": "2026-07-09"
+  },
+  {
+    "id": "UC4681k6C6kYK6daFF0n9Yxw",
+    "handle": "@puentesinternacionalespn",
+    "name": "La Casa del Senador",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "UC9diDJiKGl6K0TuugYZxNkQ",
+    "handle": "@MountWashingtonCogRailway",
+    "name": "Mount Washington Cog Railway",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
+    "handle": "@RailwayLiveCamera",
+    "name": "Tokyo Akabane Live Camera",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "UCFZO10OCD0gGxRGa1N0ePYQ",
+    "handle": "@ashehighcountryrealty",
+    "name": "Ashe High Country Realty",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "UCJk1ArOmeKdyMyvONIWPMfw",
+    "handle": "@DeltaYacht",
+    "name": "Delta Yacht",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "UCos52azQNBgW63_9uDJoPDA",
+    "handle": "@SaudiQuranTv",
+    "name": "The official channel of KSA Qur’an TV ",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "UCSilXhjCqvRMtVug1J51CiA",
+    "handle": "@santuariocovadongaasturias192",
+    "name": "Santuario Covadonga Asturias",
+    "date": "2026-07-10"
   }
 ]
