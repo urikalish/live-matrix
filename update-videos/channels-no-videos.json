@@ -192,12 +192,6 @@
     "date": "2026-07-06"
   },
   {
-    "id": "UCG0GyXcLzbTCvOtX9nwof1A",
-    "handle": "@AgencijaStariGradMostar",
-    "name": "Agencija Stari Grad Mostar",
-    "date": "2026-07-07"
-  },
-  {
     "id": "UCCp1rWY4KFh0t3fKILlPiUQ",
     "handle": "@ToyoComtecLiveChannel",
     "name": "ToyoComtecLiveChannel",
@@ -222,12 +216,6 @@
     "date": "2026-07-09"
   },
   {
-    "id": "UCFZO10OCD0gGxRGa1N0ePYQ",
-    "handle": "@ashehighcountryrealty",
-    "name": "Ashe High Country Realty",
-    "date": "2026-07-10"
-  },
-  {
     "id": "UCSilXhjCqvRMtVug1J51CiA",
     "handle": "@santuariocovadongaasturias192",
     "name": "Santuario Covadonga Asturias",
@@ -249,12 +237,6 @@
     "id": "UC6OFMtjlgAOAq5kJwmt-lpA",
     "handle": "@kipsterfarm",
     "name": "Kipster Farm",
-    "date": "2026-07-13"
-  },
-  {
-    "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
-    "handle": "@RailwayLiveCamera",
-    "name": "Tokyo Akabane Live Camera",
     "date": "2026-07-13"
   },
   {
@@ -288,51 +270,9 @@
     "date": "2026-07-14"
   },
   {
-    "id": "UCKGyGK964U4Yd71WqBkvImA",
-    "handle": "@derbycomplex",
-    "name": "World Championship Derby Complex",
-    "date": "2026-07-14"
-  },
-  {
-    "id": "UCLTYXg2LkraaBZyd431pF7g",
-    "handle": "@bonnyhillsbeachhouse",
-    "name": "Bonny Hills Beach House",
-    "date": "2026-07-14"
-  },
-  {
-    "id": "UCM0qV6ZHBkjxBokQepECyFg",
-    "handle": "@portoffridayharborairport8285",
-    "name": "Port of Friday Harbor Airport",
-    "date": "2026-07-14"
-  },
-  {
-    "id": "UCOC5E1x-2E_o_ob5IsEhhqQ",
-    "handle": "@eugenmatei375",
-    "name": "eugen m",
-    "date": "2026-07-14"
-  },
-  {
     "id": "UCoJmJjKcSaol6dUhhzTNlcw",
     "handle": "@UA-CompSci-Webcams",
     "name": "UArizona Computer Science Webcams",
-    "date": "2026-07-14"
-  },
-  {
-    "id": "UCPbYdZrhDgIvIU72BNZUAxQ",
-    "handle": "@vilakalangojeri",
-    "name": "Vila Kalango",
-    "date": "2026-07-14"
-  },
-  {
-    "id": "UCxChxl1rvyMMMRTr9gC_N2w",
-    "handle": "",
-    "name": "",
-    "date": "2026-07-14"
-  },
-  {
-    "id": "UCxJauSv5BZA7N4dIqPHpy0w",
-    "handle": "@Brian-Siu",
-    "name": "Brian Siu",
     "date": "2026-07-14"
   },
   {
@@ -340,5 +280,59 @@
     "handle": "@ajuntamentcalongeisantanto4188",
     "name": "ajcalonge",
     "date": "2026-07-14"
+  },
+  {
+    "id": "UC__vsLbIjiHwYy2-zODXipA",
+    "handle": "@Saquaremar",
+    "name": "Saquaremar",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "UC3c-pudL55WWFxl89wTH1NA",
+    "handle": "@PanosBoats",
+    "name": "Panos Boats",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
+    "handle": "@castrostreetcam4755",
+    "name": "Castro Street Cam 4",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "UC7UzAjbjzvekhio8uEJXCpw",
+    "handle": "@akt5868",
+    "name": "AKT秋田テレビ（公式）",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "UCBRQZw3k-rB1nd1_V6FjJeA",
+    "handle": "@WillClancy",
+    "name": "WillClancyWildlife",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "UCcrSw7gTYq6ZQ1MdIo23Q1w",
+    "handle": "@RoyalHarbourLive",
+    "name": "Royal Harbour Live",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "UCLaxio5CTbT1gl5i8FB2-yw",
+    "handle": "@TableMountainLiveStream",
+    "name": "Table Mountain Live Stream",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "UClSdxxEoPbpZHrujhfQcdow",
+    "handle": "@castrostreetcam2549",
+    "name": "Castro Street Cam 2",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "UCm8DGdhRoGe-GPCXfCT65og",
+    "handle": "@YokohamaLive",
+    "name": "横浜港ライブカメラ",
+    "date": "2026-07-15"
   }
 ]
