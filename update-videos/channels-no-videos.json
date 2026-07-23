@@ -162,12 +162,6 @@
     "date": "2026-07-03"
   },
   {
-    "id": "UCg2SeSF9iIsLdc84jXl_bTg",
-    "handle": "@cubapolak",
-    "name": "CubaLibre",
-    "date": "2026-07-04"
-  },
-  {
     "id": "UC19vhjk8B1TfPQylbrCQnQg",
     "handle": "@MintoCommunitiesUSA",
     "name": "Minto Communities USA",
@@ -190,12 +184,6 @@
     "handle": "@hanovermassachusetts",
     "name": "Town of Hanover, Massachusetts",
     "date": "2026-07-09"
-  },
-  {
-    "id": "UC7WAqB7dyv1t8jKunD-8krA",
-    "handle": "@L.A.FLIGHTS",
-    "name": "L.A FLIGHTS",
-    "date": "2026-07-12"
   },
   {
     "id": "UC6OFMtjlgAOAq5kJwmt-lpA",
@@ -258,12 +246,6 @@
     "date": "2026-07-20"
   },
   {
-    "id": "UCSilXhjCqvRMtVug1J51CiA",
-    "handle": "@santuariocovadongaasturias192",
-    "name": "Santuario Covadonga Asturias",
-    "date": "2026-07-20"
-  },
-  {
     "id": "UC_NSbO34zB7JreKBvlOeeHA",
     "handle": "",
     "name": "",
@@ -288,12 +270,6 @@
     "date": "2026-07-21"
   },
   {
-    "id": "UC__vsLbIjiHwYy2-zODXipA",
-    "handle": "@Saquaremar",
-    "name": "Saquaremar",
-    "date": "2026-07-22"
-  },
-  {
     "id": "UCayE6-RHoYoIcnqp36o4Rjg",
     "handle": "@sebinkarahisarbelediyesi",
     "name": "Sebinkarahisar Belediyesi",
@@ -303,18 +279,6 @@
     "id": "UCBRQZw3k-rB1nd1_V6FjJeA",
     "handle": "@WillClancy",
     "name": "WillClancyWildlife",
-    "date": "2026-07-22"
-  },
-  {
-    "id": "UCdLE2nyW8fg3hh9Pogq824g",
-    "handle": "@businesscontrol",
-    "name": "Business Control MONITORING",
-    "date": "2026-07-22"
-  },
-  {
-    "id": "UCQc7Ol2itgbnMXPjZmPdRRQ",
-    "handle": "@AaronPreslin",
-    "name": "Aaron Preslin",
     "date": "2026-07-22"
   },
   {
@@ -334,5 +298,23 @@
     "handle": "@mtlawleyhospita1241",
     "name": "Mt Lawley Hospital, WA",
     "date": "2026-07-22"
+  },
+  {
+    "id": "UC3c-pudL55WWFxl89wTH1NA",
+    "handle": "@PanosBoats",
+    "name": "Panos Boats",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "UCrrkptlW7UtbiUHFjdsfKPg",
+    "handle": "",
+    "name": "",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "UCu1Dd875bgWL61e6sJ7HMbg",
+    "handle": "@visitlaramiewy",
+    "name": "Visit Laramie",
+    "date": "2026-07-23"
   }
 ]
