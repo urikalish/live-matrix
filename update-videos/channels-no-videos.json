@@ -42,12 +42,6 @@
     "date": "2026-05-06"
   },
   {
-    "id": "UCjTllvb0Hsbcqax875Fw0VQ",
-    "handle": "@roger5807",
-    "name": "Roger Willis",
-    "date": "2026-05-07"
-  },
-  {
     "id": "UC99NqD52qM484Bsu40UuBgQ",
     "handle": "@KontiolahtiBiathlon",
     "name": "KontiolahtiBiathlon",
@@ -240,12 +234,6 @@
     "date": "2026-07-24"
   },
   {
-    "id": "UCg2SeSF9iIsLdc84jXl_bTg",
-    "handle": "@cubapolak",
-    "name": "CubaLibre",
-    "date": "2026-07-24"
-  },
-  {
     "id": "UC4Wd3aS1XKA39dCveZExSkg",
     "handle": "@oneandmoreaviation",
     "name": "One and More Aviation ",
@@ -330,12 +318,6 @@
     "date": "2026-07-31"
   },
   {
-    "id": "UC2RkL2eATR1V6H8g4eNfA5Q",
-    "handle": "@SISEArgentina",
-    "name": "SISE Argentina®",
-    "date": "2026-08-01"
-  },
-  {
     "id": "UC7WAqB7dyv1t8jKunD-8krA",
     "handle": "@L.A.FLIGHTS",
     "name": "L.A FLIGHTS",
@@ -348,21 +330,27 @@
     "date": "2026-08-01"
   },
   {
-    "id": "UCIY3JMAcniBR8ngBw6OYvTA",
-    "handle": "@Niagarafallslive",
-    "name": "Old Fort Niagara",
-    "date": "2026-08-01"
-  },
-  {
-    "id": "UCxJauSv5BZA7N4dIqPHpy0w",
-    "handle": "@Brian-Siu",
-    "name": "Brian Siu",
-    "date": "2026-08-01"
-  },
-  {
     "id": "UCzg0KOwc3ZgoHxirtFTHFpw",
     "handle": "@ajuntamentcalongeisantanto4188",
     "name": "ajcalonge",
     "date": "2026-08-01"
+  },
+  {
+    "id": "UCayE6-RHoYoIcnqp36o4Rjg",
+    "handle": "@sebinkarahisarbelediyesi",
+    "name": "Sebinkarahisar Belediyesi",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "UCUtI5pIKfGoRlKRxVeUwI5A",
+    "handle": "@PortGavrio",
+    "name": "Port Gavrio",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
+    "handle": "@wightwildlifecam",
+    "name": "Wight Wildlife Cam",
+    "date": "2026-08-02"
   }
 ]
