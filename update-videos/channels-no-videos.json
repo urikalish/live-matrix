@@ -198,12 +198,6 @@
     "date": "2026-07-17"
   },
   {
-    "id": "UC8p1N6NQkCnUukz3fkwb9Rw",
-    "handle": "@Taimaz.B",
-    "name": "Taimaz",
-    "date": "2026-07-20"
-  },
-  {
     "id": "UC_NSbO34zB7JreKBvlOeeHA",
     "handle": "",
     "name": "",
@@ -240,18 +234,6 @@
     "date": "2026-07-28"
   },
   {
-    "id": "UCjeImUhRB1SLqN-svqDRJJw",
-    "handle": "@radiopowertv",
-    "name": "Power Pinamar",
-    "date": "2026-07-29"
-  },
-  {
-    "id": "UCqM2TLKtIJlAPiWk46zyjNw",
-    "handle": "@xraymarklive",
-    "name": "xraymarklive",
-    "date": "2026-07-29"
-  },
-  {
     "id": "UCB1PUu8IJKnIsMSKMOgT8tw",
     "handle": "@marinaamarillacostasanmigu4994",
     "name": "Marina Amarilla Costa San Miguel",
@@ -262,24 +244,6 @@
     "handle": "@municipalityofkos1518",
     "name": "Municipality of Kos 1",
     "date": "2026-07-30"
-  },
-  {
-    "id": "UC1o2tqpMsQRmJeIR9QwHrFw",
-    "handle": "@Iisalmenkaupunki",
-    "name": "Iisalmen kaupunki - City of Iisalmi #byiisalmi",
-    "date": "2026-07-31"
-  },
-  {
-    "id": "UCIsPPwu9VefxZZ9tPYcQMmQ",
-    "handle": "@shipm8",
-    "name": "SHIPM8",
-    "date": "2026-07-31"
-  },
-  {
-    "id": "UCKGyGK964U4Yd71WqBkvImA",
-    "handle": "@derbycomplex",
-    "name": "World Championship Derby Complex",
-    "date": "2026-07-31"
   },
   {
     "id": "UCSilXhjCqvRMtVug1J51CiA",
@@ -318,45 +282,57 @@
     "date": "2026-08-04"
   },
   {
-    "id": "UCdr9cCd_WQPlLCAUjNaoACg",
-    "handle": "@LVsphere",
-    "name": "LV Strip Cam",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "UCef_Yfk6baScsTCcDxzXE5Q",
-    "handle": "@Reef-SA",
-    "name": "REEF SOUTH AFRICA",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "UCiijK6RLOIB3FqrLs-uBphg",
-    "handle": "@catinnhotel8295",
-    "name": "Cat Inn hotel",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "UCT7oADZixDIEzbUtWFNA-QA",
-    "handle": "@webcamvetruse2915",
-    "name": "Webcam Větruše",
-    "date": "2026-08-04"
-  },
-  {
     "id": "UCVARamJgetNC2PQkw7kDD0Q",
     "handle": "@johnvlissingenwebcam2437",
     "name": "John Vlissingenwebcam",
     "date": "2026-08-04"
   },
   {
-    "id": "UCwTBv_iSPKJZ8jAeeDPJZnw",
-    "handle": "@madeiraairportlive",
-    "name": "Madeira Airport Live",
-    "date": "2026-08-04"
+    "id": "UC2RkL2eATR1V6H8g4eNfA5Q",
+    "handle": "@SISEArgentina",
+    "name": "SISE Argentina®",
+    "date": "2026-08-05"
   },
   {
-    "id": "UCxJauSv5BZA7N4dIqPHpy0w",
-    "handle": "@Brian-Siu",
-    "name": "Brian Siu",
-    "date": "2026-08-04"
+    "id": "UC8ZnDZj0IUDw1tkECARmEkA",
+    "handle": "@saintpetersburglivecamera3457",
+    "name": "Saint Petersburg Live Camera",
+    "date": "2026-08-05"
+  },
+  {
+    "id": "UC9diDJiKGl6K0TuugYZxNkQ",
+    "handle": "@MountWashingtonCogRailway",
+    "name": "Mount Washington Cog Railway",
+    "date": "2026-08-05"
+  },
+  {
+    "id": "UCm8DGdhRoGe-GPCXfCT65og",
+    "handle": "@YokohamaLive",
+    "name": "横浜港ライブカメラ",
+    "date": "2026-08-05"
+  },
+  {
+    "id": "UCpcQw8euHeDXiI7yJAvNzpQ",
+    "handle": "@carronfarm",
+    "name": "Carron Farm",
+    "date": "2026-08-05"
+  },
+  {
+    "id": "UCqhDq_fKTSgc8LZCa2gGMEg",
+    "handle": "@GavinBHeffernan",
+    "name": "Gavin Heffernan Timelapse Travel ",
+    "date": "2026-08-05"
+  },
+  {
+    "id": "UCxChxl1rvyMMMRTr9gC_N2w",
+    "handle": "",
+    "name": "",
+    "date": "2026-08-05"
+  },
+  {
+    "id": "UCzMF3muEGLXPQxzqALn7Tqw",
+    "handle": "@magrismaniago",
+    "name": "Magris Maniago",
+    "date": "2026-08-05"
   }
 ]
