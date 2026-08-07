@@ -72,12 +72,6 @@
     "date": "2026-05-08"
   },
   {
-    "id": "UCrxFWEsUjk4f5YPfmahOs8Q",
-    "handle": "@packerysurfcam",
-    "name": "packerysurfcam",
-    "date": "2026-06-17"
-  },
-  {
     "id": "UCNi03mB7Nme5qbCQVt8XMHQ",
     "handle": "@HoteLaborie",
     "name": "Le Relais La Borie",
@@ -222,12 +216,6 @@
     "date": "2026-07-27"
   },
   {
-    "id": "UCm9zLeJlfz7jRT_6vff70_w",
-    "handle": "@AirportAction",
-    "name": "Airport Action",
-    "date": "2026-07-28"
-  },
-  {
     "id": "UCB1PUu8IJKnIsMSKMOgT8tw",
     "handle": "@marinaamarillacostasanmigu4994",
     "name": "Marina Amarilla Costa San Miguel",
@@ -246,27 +234,9 @@
     "date": "2026-07-31"
   },
   {
-    "id": "UC0aRRZkVrO_0nqfuXYaL_Cg",
-    "handle": "@municipiulresita3730",
-    "name": "Municipiul Reșița",
-    "date": "2026-08-03"
-  },
-  {
-    "id": "UCoJmJjKcSaol6dUhhzTNlcw",
-    "handle": "@UA-CompSci-Webcams",
-    "name": "UArizona Computer Science Webcams",
-    "date": "2026-08-03"
-  },
-  {
     "id": "UC3c-pudL55WWFxl89wTH1NA",
     "handle": "@PanosBoats",
     "name": "Panos Boats",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "UCaEdUtLbgjtDdfZfDYCllXQ",
-    "handle": "@Orçamentos.Fácil",
-    "name": "Orçamentos Fácil_OSF",
     "date": "2026-08-04"
   },
   {
@@ -276,51 +246,15 @@
     "date": "2026-08-04"
   },
   {
-    "id": "UCqhDq_fKTSgc8LZCa2gGMEg",
-    "handle": "@GavinBHeffernan",
-    "name": "Gavin Heffernan Timelapse Travel ",
-    "date": "2026-08-05"
-  },
-  {
     "id": "UC2YbNRWvvYUWgiy8aFx6ZCw",
     "handle": "@skischoolstmoritz",
     "name": "Skischule St. Moritz",
     "date": "2026-08-06"
   },
   {
-    "id": "UC5sls141Xdq9tQdxCv4In7A",
-    "handle": "",
-    "name": "",
-    "date": "2026-08-06"
-  },
-  {
     "id": "UCcrSw7gTYq6ZQ1MdIo23Q1w",
     "handle": "@RoyalHarbourLive",
     "name": "Royal Harbour Live",
-    "date": "2026-08-06"
-  },
-  {
-    "id": "UCeunW_050lqjYtDwGatMFvw",
-    "handle": "@waterstreetinn3792",
-    "name": "Water Street Inn",
-    "date": "2026-08-06"
-  },
-  {
-    "id": "UCIY3JMAcniBR8ngBw6OYvTA",
-    "handle": "@Niagarafallslive",
-    "name": "Old Fort Niagara",
-    "date": "2026-08-06"
-  },
-  {
-    "id": "UCkM6bT22N_Rgl5Y6Sv2JPUg",
-    "handle": "@belemaovivo",
-    "name": "Belém-PA ao vivo em 4K",
-    "date": "2026-08-06"
-  },
-  {
-    "id": "UCrGS8VyrgCqYwaogH5bQpxQ",
-    "handle": "@Cerevolivecamera",
-    "name": "Cerevo live camera",
     "date": "2026-08-06"
   },
   {
@@ -334,5 +268,41 @@
     "handle": "@madeiraairportlive",
     "name": "Madeira Airport Live",
     "date": "2026-08-06"
+  },
+  {
+    "id": "UC7WAqB7dyv1t8jKunD-8krA",
+    "handle": "@L.A.FLIGHTS",
+    "name": "L.A FLIGHTS",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "UC8qCc7sF9hSjP-U0TiaO5Tw",
+    "handle": "@CliffHouseLive",
+    "name": "Cliff House Live",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "UCCZ0dSF4mdNfJTnUq5cIISQ",
+    "handle": "@WebcamMonheim",
+    "name": "Webcam Monheim",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "UCUZZJpUgv-Pg6nlO_Zxbl6g",
+    "handle": "@nexsulconectividade",
+    "name": "Nexsul Conectividade",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "UCXCRtOlf5p2fQnaWCrKigTA",
+    "handle": "@viviendasvacacionalescante8718",
+    "name": "Viviendas Vacacionales Canteras Vista Playa",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "UCZ63kVFT7hf1K-Mx82MxFnQ",
+    "handle": "@HigginsBeach",
+    "name": "Higgins Beach",
+    "date": "2026-08-07"
   }
 ]
