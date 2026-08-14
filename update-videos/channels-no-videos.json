@@ -157,8 +157,8 @@
   },
   {
     "id": "UCfx69ax61ifs_UZD3R-lJSw",
-    "handle": "@hanovermassachusetts",
-    "name": "Town of Hanover, Massachusetts",
+    "handle": "",
+    "name": "",
     "date": "2026-07-09"
   },
   {
@@ -276,22 +276,10 @@
     "date": "2026-08-12"
   },
   {
-    "id": "UCKGyGK964U4Yd71WqBkvImA",
-    "handle": "@derbycomplex",
-    "name": "World Championship Derby Complex",
-    "date": "2026-08-12"
-  },
-  {
     "id": "UCos52azQNBgW63_9uDJoPDA",
     "handle": "@SaudiQuranTv",
     "name": "The official channel of KSA Qur’an TV ",
     "date": "2026-08-12"
-  },
-  {
-    "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
-    "handle": "@pontalnetv",
-    "name": "Pontal NeTv e Internet",
-    "date": "2026-08-13"
   },
   {
     "id": "UC9vjLpH4MYgIUTyQT6SnSQQ",
@@ -312,12 +300,6 @@
     "date": "2026-08-13"
   },
   {
-    "id": "UCo9e_ilRlTxHTCFAcaLR2-w",
-    "handle": "@livecameralivedive6416",
-    "name": "【Kitchen DIVE】Live camera in Tokyo Japan",
-    "date": "2026-08-13"
-  },
-  {
     "id": "UCrGS8VyrgCqYwaogH5bQpxQ",
     "handle": "@Cerevolivecamera",
     "name": "Cerevo live camera",
@@ -327,12 +309,6 @@
     "id": "UCVARamJgetNC2PQkw7kDD0Q",
     "handle": "@johnvlissingenwebcam2437",
     "name": "John Vlissingenwebcam",
-    "date": "2026-08-13"
-  },
-  {
-    "id": "UCVwWET2HAacXoiOyDUWaFNA",
-    "handle": "@eecoips2391",
-    "name": "EECO IPS",
     "date": "2026-08-13"
   },
   {
@@ -346,5 +322,41 @@
     "handle": "@wightwildlifecam",
     "name": "Wight Wildlife Cam",
     "date": "2026-08-13"
+  },
+  {
+    "id": "UC0MrPkKoR10dziKUa6JUwIg",
+    "handle": "@panov.d.daniel",
+    "name": "Даниел Панов",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "UC8ZnDZj0IUDw1tkECARmEkA",
+    "handle": "@saintpetersburglivecamera3457",
+    "name": "Saint Petersburg Live Camera",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "UCsGBhUD-AhuP4t1xoJ0F-vw",
+    "handle": "@apartmentanita4992",
+    "name": "Apartment Anita",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "UCuoENUqNd-EXgac6EmKr-Gg",
+    "handle": "@vukislunj7814",
+    "name": "Vuki Slunj",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "UCZ63kVFT7hf1K-Mx82MxFnQ",
+    "handle": "@HigginsBeach",
+    "name": "Higgins Beach",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "UCzu3l_vz2bu2xn4bOo3eF_g",
+    "handle": "@ScarboroughBeach",
+    "name": "Scarborough Beach",
+    "date": "2026-08-14"
   }
 ]
