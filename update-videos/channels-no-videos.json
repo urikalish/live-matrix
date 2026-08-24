@@ -252,12 +252,6 @@
     "date": "2026-08-17"
   },
   {
-    "id": "UCm9zLeJlfz7jRT_6vff70_w",
-    "handle": "@AirportAction",
-    "name": "Airport Action",
-    "date": "2026-08-18"
-  },
-  {
     "id": "UCW8Dk5-ahwqP1-4fk0pqHCw",
     "handle": "@serenaresort",
     "name": "Serena Waterpark &amp; Ski",
@@ -294,57 +288,15 @@
     "date": "2026-08-21"
   },
   {
-    "id": "UC52X5wxOL_s5yw0dQk7NtgA",
-    "handle": "@AssociatedPress",
-    "name": "Associated Press",
-    "date": "2026-08-22"
-  },
-  {
     "id": "UC8HLYEGSvHBroUqZMcGaSHg",
     "handle": "@三ノ輪駅前ライブカメラ",
     "name": "三ノ輪駅前ライブカメラ",
     "date": "2026-08-22"
   },
   {
-    "id": "UCayE6-RHoYoIcnqp36o4Rjg",
-    "handle": "@sebinkarahisarbelediyesi",
-    "name": "Sebinkarahisar Belediyesi",
-    "date": "2026-08-22"
-  },
-  {
-    "id": "UCKCzGw8r-dQWkxWTaLvj2qg",
-    "handle": "@portst-laurent-du-varyci3661",
-    "name": "PORT SAINT LAURENT DU VAR",
-    "date": "2026-08-22"
-  },
-  {
-    "id": "UCuoENUqNd-EXgac6EmKr-Gg",
-    "handle": "@vukislunj7814",
-    "name": "Vuki Slunj",
-    "date": "2026-08-22"
-  },
-  {
-    "id": "UC__vsLbIjiHwYy2-zODXipA",
-    "handle": "@Saquaremar",
-    "name": "Saquaremar",
-    "date": "2026-08-23"
-  },
-  {
     "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
     "handle": "@castrostreetcam4755",
     "name": "Castro Street Cam 4",
-    "date": "2026-08-23"
-  },
-  {
-    "id": "UCIY3JMAcniBR8ngBw6OYvTA",
-    "handle": "@Niagarafallslive",
-    "name": "Old Fort Niagara",
-    "date": "2026-08-23"
-  },
-  {
-    "id": "UCm8DGdhRoGe-GPCXfCT65og",
-    "handle": "@YokohamaLive",
-    "name": "横浜港ライブカメラ",
     "date": "2026-08-23"
   },
   {
@@ -360,9 +312,39 @@
     "date": "2026-08-23"
   },
   {
-    "id": "UCVKqVweZASGMJ1BpiATUCIw",
-    "handle": "@MapesofMillport",
-    "name": "Mapes of Millport",
-    "date": "2026-08-23"
+    "id": "UCA6cQSBQbkxUO6gO_nXfibg",
+    "handle": "@lapalapapv",
+    "name": "La Palapa Restaurant",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "UCFbCFCIy44FvzHecRZnzHww",
+    "handle": "@KohChangLiveCamera",
+    "name": "Koh Chang Live Camera",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "UCLm4NMiRgEwOAwY-tapTQag",
+    "handle": "@kozylemorne6102",
+    "name": "Kozy Le Morne",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "UCU_cCugjd0QvDSaQXX3ftKQ",
+    "handle": "@BigBearLiveStream",
+    "name": "Big Bear Live Stream",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "UCwTBv_iSPKJZ8jAeeDPJZnw",
+    "handle": "@madeiraairportlive",
+    "name": "Madeira Airport Live",
+    "date": "2026-08-24"
+  },
+  {
+    "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
+    "handle": "@wightwildlifecam",
+    "name": "Wight Wildlife Cam",
+    "date": "2026-08-24"
   }
 ]
