@@ -252,12 +252,6 @@
     "date": "2026-08-29"
   },
   {
-    "id": "UCPQH7Qez-TIVJv5cmquVFyg",
-    "handle": "@warsawlivestream",
-    "name": "Warsaw Livestream",
-    "date": "2026-08-29"
-  },
-  {
     "id": "UCJk1ArOmeKdyMyvONIWPMfw",
     "handle": "@DeltaYacht",
     "name": "Delta Yacht",
@@ -274,12 +268,6 @@
     "handle": "@chumbinho.aviacao.nasnuvens",
     "name": "chumbinho.aviacao.nasnuvens",
     "date": "2026-08-31"
-  },
-  {
-    "id": "UC_dQTOYTn6r5Kij3z0_SP6Q",
-    "handle": "@CAROSELLO3000",
-    "name": "Carosello 3000 - Livigno",
-    "date": "2026-09-01"
   },
   {
     "id": "UC4Wd3aS1XKA39dCveZExSkg",
@@ -312,22 +300,10 @@
     "date": "2026-09-01"
   },
   {
-    "id": "UCxd6_Ql2p4OoSXbKZGP0bmg",
-    "handle": "@grit805",
-    "name": "GRIT",
-    "date": "2026-09-01"
-  },
-  {
     "id": "UCxjUtr1FAYbl5H8QhPzf5_g",
     "handle": "@wightwildlifecam",
     "name": "Wight Wildlife Cam",
     "date": "2026-09-01"
-  },
-  {
-    "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
-    "handle": "@alwarith-center",
-    "name": "مركز الوارث للإنتاج الفني",
-    "date": "2026-09-02"
   },
   {
     "id": "UC3UpyHYs2n0i5Z1IPJGJfOQ",
@@ -339,24 +315,6 @@
     "id": "UCCp1rWY4KFh0t3fKILlPiUQ",
     "handle": "@ToyoComtecLiveChannel",
     "name": "ToyoComtecLiveChannel",
-    "date": "2026-09-02"
-  },
-  {
-    "id": "UCDKFXJj-c-CL7dLBbLBs4ew",
-    "handle": "@jupiterreefclub637",
-    "name": "Jupiter ReefClub",
-    "date": "2026-09-02"
-  },
-  {
-    "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
-    "handle": "@RailwayLiveCamera",
-    "name": "Tokyo Akabane Live Camera",
-    "date": "2026-09-02"
-  },
-  {
-    "id": "UCK8OfE2evBrElahkHxLJE5g",
-    "handle": "@pamicoczechs.r.o.3926",
-    "name": "PAMICO CZECH, s.r.o.",
     "date": "2026-09-02"
   },
   {
@@ -378,21 +336,99 @@
     "date": "2026-09-02"
   },
   {
-    "id": "UCqhDq_fKTSgc8LZCa2gGMEg",
-    "handle": "@GavinBHeffernan",
-    "name": "Gavin Heffernan Timelapse Travel ",
-    "date": "2026-09-02"
+    "id": "UC0rJhAKP1lwheT7-1ScnFOg",
+    "handle": "@seatowsouthshore",
+    "name": "Sea Tow South Shore",
+    "date": "2026-09-03"
   },
   {
-    "id": "UCrxFWEsUjk4f5YPfmahOs8Q",
-    "handle": "@packerysurfcam",
-    "name": "packerysurfcam",
-    "date": "2026-09-02"
+    "id": "UC683QcyNqiaLGAB3OidWtBw",
+    "handle": "@aspectsholidays",
+    "name": "Aspects Holidays",
+    "date": "2026-09-03"
   },
   {
-    "id": "UCT-PZ211r3_9mFdF0zC1HHg",
-    "handle": "@kachimai",
-    "name": "十勝毎日新聞",
-    "date": "2026-09-02"
+    "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
+    "handle": "@pontalnetv",
+    "name": "Pontal NeTv - Internet 100% Fibra",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
+    "handle": "@castrostreetcam4755",
+    "name": "Castro Street Cam 4",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "UC7WAqB7dyv1t8jKunD-8krA",
+    "handle": "@L.A.FLIGHTS",
+    "name": "L.A FLIGHTS",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "UCayE6-RHoYoIcnqp36o4Rjg",
+    "handle": "@sebinkarahisarbelediyesi",
+    "name": "Sebinkarahisar Belediyesi",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "UCBRQZw3k-rB1nd1_V6FjJeA",
+    "handle": "@WillClancy",
+    "name": "WillClancyWildlife",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "UCDQ9-OMttGoiRHzLrg-xKRA",
+    "handle": "@KhaoLakLandDiscovery",
+    "name": "Khao Lak Land Discovery",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "UCgB_8lC4ZwaYxMKhfDatXyw",
+    "handle": "@trelleborgskommun3034",
+    "name": "Trelleborgs Kommun",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "UCKGyGK964U4Yd71WqBkvImA",
+    "handle": "@derbycomplex",
+    "name": "World Championship Derby Complex",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "UCm9zLeJlfz7jRT_6vff70_w",
+    "handle": "@AirportAction",
+    "name": "Airport Action",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "UCrrkptlW7UtbiUHFjdsfKPg",
+    "handle": "@BooneCrockettClub",
+    "name": "Boone and Crockett Club",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "UCx8ILP7mQxM0nBv9bwTmTRQ",
+    "handle": "@paradisevibes7610",
+    "name": "PARADISE VIBES",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "UCxJauSv5BZA7N4dIqPHpy0w",
+    "handle": "@Brian-Siu",
+    "name": "Brian Siu",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "UCYIYTY6_2jB145WxIYdyR1A",
+    "handle": "@pozowindswebcam4221",
+    "name": "PozoWinds Official ",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "UCzc4Ysia7rrHYyuuw5Q6xCQ",
+    "handle": "@alpenhausamkitzbuhelerhorn1670",
+    "name": "Alpenhaus am Kitzbüheler Horn",
+    "date": "2026-09-03"
   }
 ]
