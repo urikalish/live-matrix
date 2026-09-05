@@ -312,12 +312,6 @@
     "date": "2026-09-02"
   },
   {
-    "id": "UCP9iUsMyLRKbxhGAEDChbCA",
-    "handle": "@meteomontedarena",
-    "name": "Meteo Montedarena",
-    "date": "2026-09-02"
-  },
-  {
     "id": "UC7WAqB7dyv1t8jKunD-8krA",
     "handle": "@L.A.FLIGHTS",
     "name": "L.A FLIGHTS",
@@ -327,12 +321,6 @@
     "id": "UCayE6-RHoYoIcnqp36o4Rjg",
     "handle": "@sebinkarahisarbelediyesi",
     "name": "Sebinkarahisar Belediyesi",
-    "date": "2026-09-03"
-  },
-  {
-    "id": "UCBRQZw3k-rB1nd1_V6FjJeA",
-    "handle": "@WillClancy",
-    "name": "WillClancyWildlife",
     "date": "2026-09-03"
   },
   {
@@ -354,45 +342,9 @@
     "date": "2026-09-03"
   },
   {
-    "id": "UCYIYTY6_2jB145WxIYdyR1A",
-    "handle": "@pozowindswebcam4221",
-    "name": "PozoWinds Official ",
-    "date": "2026-09-03"
-  },
-  {
-    "id": "UC659PRLT5K2h7QBLN2Q6Iaw",
-    "handle": "@WDTNTV",
-    "name": "WDTNTV",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "UC6RbL0ZAyA_rc__Acbqh2mw",
-    "handle": "@BLCStreams",
-    "name": "BLC Streams",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "UCdHxsCH18XWh4RMt9oDHMyg",
-    "handle": "@KevinLandsbergen",
-    "name": "Kevin • dotsofdata • appHoreca",
-    "date": "2026-09-04"
-  },
-  {
     "id": "UCeh-xpdolXxtC7ey15ccW-g",
     "handle": "@cburgdorfer",
     "name": "Christoph Burgdorfer",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "UCfS5_X4LiZJV5vq6z7itypA",
-    "handle": "@SeeJamaica",
-    "name": "See Jamaica ",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "UCiijK6RLOIB3FqrLs-uBphg",
-    "handle": "@catinnhotel8295",
-    "name": "Cat Inn hotel",
     "date": "2026-09-04"
   },
   {
@@ -408,39 +360,75 @@
     "date": "2026-09-04"
   },
   {
-    "id": "UColBcWm6ybTbQnNuQS8JaKg",
-    "handle": "@webcamsdemexico",
-    "name": "webcamsdemexico",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "UCpI9GLMAgiGTKyFnsmbptuQ",
-    "handle": "@BeakerHoneydew_MuppetLabs",
-    "name": "Beaker &amp; Honeydew",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "UCPQH7Qez-TIVJv5cmquVFyg",
-    "handle": "@warsawlivestream",
-    "name": "Warsaw Livestream",
-    "date": "2026-09-04"
-  },
-  {
-    "id": "UCqaZDUY_3goAaCsMLqVyJPw",
-    "handle": "@erwinsoolsma",
-    "name": "erwin soolsma",
-    "date": "2026-09-04"
-  },
-  {
     "id": "UCzg0KOwc3ZgoHxirtFTHFpw",
     "handle": "@ajuntamentcalongeisantanto4188",
     "name": "ajcalonge",
     "date": "2026-09-04"
   },
   {
-    "id": "UCznXKvxj3U1dEQDprXBmlQA",
-    "handle": "@seestaug",
-    "name": "See St. Augustine",
-    "date": "2026-09-04"
+    "id": "UC-8U3VCeOEqdPJd2D77RqKw",
+    "handle": "@HauloverDaily",
+    "name": "Cruise Ships Live",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "UC52X5wxOL_s5yw0dQk7NtgA",
+    "handle": "@AssociatedPress",
+    "name": "Associated Press",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "UC6RIkXobtXWJElbwEHIC-sg",
+    "handle": "@TehachapiLiveTrainCam",
+    "name": "Tehachapi Live Train Cams",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
+    "handle": "@castrostreetcam4755",
+    "name": "Castro Street Cam 4",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "UCD12HC-FqOwAEzEi0cKxYZQ",
+    "handle": "@rutafiscalpnpuentesinterna6719",
+    "name": "Ruta Fiscal PN Puentes internacionales I y II",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
+    "handle": "@RailwayLiveCamera",
+    "name": "Tokyo Akabane Live Camera",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "UCLm4NMiRgEwOAwY-tapTQag",
+    "handle": "@kozylemorne6102",
+    "name": "Kozy Le Morne",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "UCpzi8BbsXCUoSlfbTBDMRKA",
+    "handle": "@MedjugorjeTodayLive",
+    "name": "Medjugorje Today Live",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "UCv7_krlrre3GQi79d4guxHQ",
+    "handle": "@ytv_news",
+    "name": "YOMIURI TELECASTING CORPORATION NEWS CHANNEL",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "UCVUyX8T-vYwJYraM6957r9Q",
+    "handle": "@gosenjaku-hotel",
+    "name": "GOSENJAKU HOTEL KAMIKOCHI",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "UCxu_O8hfgSrtssrjTgwoETA",
+    "handle": "",
+    "name": "",
+    "date": "2026-09-05"
   }
 ]
