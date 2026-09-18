@@ -234,18 +234,6 @@
     "date": "2026-09-02"
   },
   {
-    "id": "UCm9zLeJlfz7jRT_6vff70_w",
-    "handle": "@AirportAction",
-    "name": "Airport Action",
-    "date": "2026-09-03"
-  },
-  {
-    "id": "UCx8ILP7mQxM0nBv9bwTmTRQ",
-    "handle": "@paradisevibes7610",
-    "name": "PARADISE VIBES",
-    "date": "2026-09-03"
-  },
-  {
     "id": "UCBRQZw3k-rB1nd1_V6FjJeA",
     "handle": "@WillClancy",
     "name": "WillClancyWildlife",
@@ -318,12 +306,6 @@
     "date": "2026-09-14"
   },
   {
-    "id": "UC8L4JthSgl9UzC2niY2ZfIA",
-    "handle": "@imagineafricaluxurytentedcamp",
-    "name": "Imagine Africa Luxury Tented Camp - Greater Kruger",
-    "date": "2026-09-15"
-  },
-  {
     "id": "UCliCEXR9eSmY9PDb2lXov7Q",
     "handle": "@kystverketWEB",
     "name": "kystverketWEB",
@@ -360,33 +342,9 @@
     "date": "2026-09-17"
   },
   {
-    "id": "UC67cHSkUieHq2AC8e3pbK0g",
-    "handle": "@geonet4692",
-    "name": "GEONET",
-    "date": "2026-09-17"
-  },
-  {
     "id": "UC7WAqB7dyv1t8jKunD-8krA",
     "handle": "@L.A.FLIGHTS",
     "name": "L.A FLIGHTS",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "UCBWgewoUjqDBEW4kEnh78OA",
-    "handle": "@CentarSarajevo",
-    "name": "Općina Centar Sarajevo",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "UCFbCFCIy44FvzHecRZnzHww",
-    "handle": "@KohChangLiveCamera",
-    "name": "Koh Chang Live Camera",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "UCgXjiaeMHuow2rbtZxI2oFg",
-    "handle": "@michaelfahrenkrug4549",
-    "name": "Michael Fahrenkrug",
     "date": "2026-09-17"
   },
   {
@@ -408,30 +366,6 @@
     "date": "2026-09-17"
   },
   {
-    "id": "UCs8QCDKYww0gFmZkJ3JHiBQ",
-    "handle": "@Camstreamer_com",
-    "name": "CamStreamer",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "UCsXoS2vcQqyBwcPaua6Asfw",
-    "handle": "@ricky6811",
-    "name": "飛訊安防科技",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "UCsyyRhCqrvBInUQYTNxL6lw",
-    "handle": "@poroslivegr4994",
-    "name": "POROSLIVE GR",
-    "date": "2026-09-17"
-  },
-  {
-    "id": "UCtOEBEqkaQJWdgox91Cdzcg",
-    "handle": "@WHITESANDSFLORIDA",
-    "name": "WHITESANDSFLORIDA",
-    "date": "2026-09-17"
-  },
-  {
     "id": "UCuoENUqNd-EXgac6EmKr-Gg",
     "handle": "@vukislunj7814",
     "name": "Vuki Slunj",
@@ -444,9 +378,105 @@
     "date": "2026-09-17"
   },
   {
-    "id": "UCznXKvxj3U1dEQDprXBmlQA",
-    "handle": "@seestaug",
-    "name": "See St. Augustine",
-    "date": "2026-09-17"
+    "id": "UC15QFO-cdISk-4Sn5CPd78g",
+    "handle": "@niagarafallslive1566",
+    "name": "Niagara Falls Live",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UC2TVrVzOCC2xxphLm_03U2A",
+    "handle": "@zoodecin5198",
+    "name": "Zoo Děčín",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCA6cQSBQbkxUO6gO_nXfibg",
+    "handle": "@lapalapapv",
+    "name": "La Palapa Restaurant",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCaEdUtLbgjtDdfZfDYCllXQ",
+    "handle": "@Orçamentos.Fácil",
+    "name": "Orçamentos Fácil_OSF",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCbXiHnFTVZmnp2IspH2OPTw",
+    "handle": "@RandomlyEntertained21",
+    "name": "Randomly Entertained",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCDQ9-OMttGoiRHzLrg-xKRA",
+    "handle": "@KhaoLakLandDiscovery",
+    "name": "Khao Lak Land Discovery",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCEv-PRGxCqlI71jTUrou9uw",
+    "handle": "@Martigny-Bourg.webcams",
+    "name": "Martigny-Bourg Live Streaming",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCGjGRtsWqkviebAvQlcC5Cg",
+    "handle": "@CastlepointLighthouse",
+    "name": "Castlepoint Lighthouse",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCIeAa1ORzuGMaaBNcuLgAvw",
+    "handle": "@solebadwerne8309",
+    "name": "Solebad Werne",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCijrngTzgjHdgeAQfJxNKqA",
+    "handle": "@isleofwightcom",
+    "name": "Isle of Wight",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCM54h2kw7FsKMNPGDWPLy7w",
+    "handle": "@kaparkonaoriginal",
+    "name": "Kap Arkona",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCNYdL7-9PEk0rhCHzquQP8Q",
+    "handle": "",
+    "name": "",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCPPFGmTUyM4iDIgp2_zJi5g",
+    "handle": "@itscomch",
+    "name": "iTSCOM",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCS8ZQejq2CL-nZcnRWZCA5Q",
+    "handle": "@KBCnewsCH",
+    "name": "KBC NEWS in JAPAN",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCT7oADZixDIEzbUtWFNA-QA",
+    "handle": "@webcamvetruse2915",
+    "name": "Webcam Větruše",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCyJ_WqTXFf1Wx6YiBR9CHxw",
+    "handle": "@rogerstokes3320",
+    "name": "Roger Stokes",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "UCZ63kVFT7hf1K-Mx82MxFnQ",
+    "handle": "@HigginsBeach",
+    "name": "Higgins Beach",
+    "date": "2026-09-18"
   }
 ]
