@@ -342,12 +342,6 @@
     "date": "2026-09-25"
   },
   {
-    "id": "UCxdkv0StDfmn1dXWStAt2tw",
-    "handle": "@flamingf.1562",
-    "name": "Flaming Fire",
-    "date": "2026-09-25"
-  },
-  {
     "id": "UCxJauSv5BZA7N4dIqPHpy0w",
     "handle": "@Brian-Siu",
     "name": "Brian Siu",
@@ -366,18 +360,6 @@
     "date": "2026-09-26"
   },
   {
-    "id": "UC52X5wxOL_s5yw0dQk7NtgA",
-    "handle": "@AssociatedPress",
-    "name": "Associated Press",
-    "date": "2026-09-26"
-  },
-  {
-    "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
-    "handle": "@RailwayLiveCamera",
-    "name": "Tokyo Akabane Live Camera",
-    "date": "2026-09-26"
-  },
-  {
     "id": "UCpDwGh4oXSWjKJJl6-kyfHg",
     "handle": "@customshouse1897",
     "name": "Customs House 1897🇨🇦",
@@ -390,63 +372,15 @@
     "date": "2026-09-26"
   },
   {
-    "id": "UCKCzGw8r-dQWkxWTaLvj2qg",
-    "handle": "@portst-laurent-du-varyci3661",
-    "name": "PORT SAINT LAURENT DU VAR",
-    "date": "2026-09-27"
-  },
-  {
-    "id": "UCKiObhTepfujcMJaqZ9qzsQ",
-    "handle": "@oldbridgeairport618",
-    "name": "Old Bridge Airport",
-    "date": "2026-09-27"
-  },
-  {
     "id": "UCOjscjEL-lGZVP-2uooEuCA",
     "handle": "@libraryvideos",
     "name": "East Hampton Library",
     "date": "2026-09-27"
   },
   {
-    "id": "UC2FGmqUsOm8pXc-w9GB_ntQ",
-    "handle": "",
-    "name": "",
-    "date": "2026-09-28"
-  },
-  {
-    "id": "UC37R9R29MAwvrOBafYoBtow",
-    "handle": "@ConexaoDCTVoficial",
-    "name": "ConexãoDCTV - Oficial",
-    "date": "2026-09-28"
-  },
-  {
-    "id": "UC4Wd3aS1XKA39dCveZExSkg",
-    "handle": "@oneandmoreaviation",
-    "name": "One and More Aviation ",
-    "date": "2026-09-28"
-  },
-  {
     "id": "UCbbfor2m620lTQd3jOk5ggQ",
-    "handle": "",
-    "name": "",
-    "date": "2026-09-28"
-  },
-  {
-    "id": "UCBYdpmbZ8V1zVNXb8XFyQmg",
-    "handle": "@WeatherItaly",
-    "name": "Weather Sicily",
-    "date": "2026-09-28"
-  },
-  {
-    "id": "UCLmvtLuqca56l68QCETk1QQ",
-    "handle": "@frederictonwebcams",
-    "name": "Fredericton Caméra Web Cameras",
-    "date": "2026-09-28"
-  },
-  {
-    "id": "UCNWKOK8eFOFDgs3sac6-76Q",
-    "handle": "@ScenariDigitali",
-    "name": "digital scenarios",
+    "handle": "@SedonaLiveStream",
+    "name": "Sedona Live Cam",
     "date": "2026-09-28"
   },
   {
@@ -462,24 +396,6 @@
     "date": "2026-09-28"
   },
   {
-    "id": "UCuSeVCzI21lPeKnIzZehFPQ",
-    "handle": "@SantuárioNacionaldeAparecida",
-    "name": "Santuário Nacional de Aparecida",
-    "date": "2026-09-28"
-  },
-  {
-    "id": "UCwNfkYp9gKIvQDN1kPhpCsQ",
-    "handle": "@FSTNET-ro9cc",
-    "name": "F.S.T. NET",
-    "date": "2026-09-28"
-  },
-  {
-    "id": "UCWzx-v_6kdTKi3oXhWOK1FA",
-    "handle": "@qab4524",
-    "name": "QAB琉球朝日放送",
-    "date": "2026-09-28"
-  },
-  {
     "id": "UCxd6_Ql2p4OoSXbKZGP0bmg",
     "handle": "@grit805",
     "name": "GRIT",
@@ -492,9 +408,111 @@
     "date": "2026-09-28"
   },
   {
-    "id": "UCzg0KOwc3ZgoHxirtFTHFpw",
-    "handle": "@ajuntamentcalongeisantanto4188",
-    "name": "ajcalonge",
-    "date": "2026-09-28"
+    "id": "UC0R-K3crhMX9jzswbmfIORw",
+    "handle": "@AVIAÇÃOTV",
+    "name": "AVIATION TV",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UC5oMexvQVrM4qNNVFK7M7Yw",
+    "handle": "@Sondelaterre",
+    "name": "Le Son de la terre",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
+    "handle": "@pontalnetv",
+    "name": "Pontal NeTv - Internet 100% Fibra",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCaLNBpVCnRQ129Ow2MaMtew",
+    "handle": "@como_cam",
+    "name": "Como Cam",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCdz7UmkCvw3GlZTxHRR6Pyw",
+    "handle": "",
+    "name": "",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCFZO10OCD0gGxRGa1N0ePYQ",
+    "handle": "@ashehighcountryrealty",
+    "name": "Ashe High Country Realty",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCgKZLRv6-2iPbILfeOwrxAw",
+    "handle": "@AbellonaInnMaine",
+    "name": "Abellona Inn Maine",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCI4huqcitDTCjPrDSelgk5g",
+    "handle": "@sheffield-weather-cam",
+    "name": "Sheffield weather cam uk",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCpcQw8euHeDXiI7yJAvNzpQ",
+    "handle": "@carronfarm",
+    "name": "Carron Farm",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCQc7Ol2itgbnMXPjZmPdRRQ",
+    "handle": "@AaronPreslin",
+    "name": "Aaron Preslin",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCRaLemo6M0haUrwGWTQoM1A",
+    "handle": "@Hasan-Yayında",
+    "name": "Hasan Yayında",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCrGS8VyrgCqYwaogH5bQpxQ",
+    "handle": "@Cerevolivecamera",
+    "name": "Cerevo live camera",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCtnqriRBvQH4Bzbr23Q_kZg",
+    "handle": "@KwaMaritaneLIVE",
+    "name": "Kwa Maritane",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCu1Dd875bgWL61e6sJ7HMbg",
+    "handle": "@visitlaramiewy",
+    "name": "Visit Laramie",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCUqP3f8JxvTVfAv-2L5NE6g",
+    "handle": "@VacationMB",
+    "name": "Vacation Myrtle Beach",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCvOKQ4lRwuE9rpq5kUwzhzg",
+    "handle": "@MadRiverValleyTV",
+    "name": "Mad River Valley TV",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCVUyX8T-vYwJYraM6957r9Q",
+    "handle": "@gosenjaku-hotel",
+    "name": "GOSENJAKU HOTEL KAMIKOCHI",
+    "date": "2026-09-29"
+  },
+  {
+    "id": "UCyJ_WqTXFf1Wx6YiBR9CHxw",
+    "handle": "@rogerstokes3320",
+    "name": "Roger Stokes",
+    "date": "2026-09-29"
   }
 ]
