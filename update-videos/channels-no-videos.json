@@ -168,12 +168,6 @@
     "date": "2026-07-30"
   },
   {
-    "id": "UC2YbNRWvvYUWgiy8aFx6ZCw",
-    "handle": "@skischoolstmoritz",
-    "name": "Skischule St. Moritz",
-    "date": "2026-08-06"
-  },
-  {
     "id": "UCusqc5EFvvYqXgBaeoIAyJw",
     "handle": "@lasraicesranch",
     "name": "Las Raices Ranch",
@@ -330,12 +324,6 @@
     "date": "2026-09-24"
   },
   {
-    "id": "UC2ne-RCxu_3zf0DrW4uWP9w",
-    "handle": "@milhouse23",
-    "name": "Nicolas Gringaus (mil_house23)",
-    "date": "2026-09-25"
-  },
-  {
     "id": "UC_dQTOYTn6r5Kij3z0_SP6Q",
     "handle": "@CAROSELLO3000",
     "name": "Carosello 3000 - Livigno",
@@ -348,51 +336,15 @@
     "date": "2026-09-28"
   },
   {
-    "id": "UCu1Dd875bgWL61e6sJ7HMbg",
-    "handle": "@visitlaramiewy",
-    "name": "Visit Laramie",
-    "date": "2026-09-29"
-  },
-  {
     "id": "UCyJ_WqTXFf1Wx6YiBR9CHxw",
     "handle": "@rogerstokes3320",
     "name": "Roger Stokes",
     "date": "2026-09-29"
   },
   {
-    "id": "UC4681k6C6kYK6daFF0n9Yxw",
-    "handle": "@puentesinternacionalespn",
-    "name": "La Casa del Senador",
-    "date": "2026-09-30"
-  },
-  {
-    "id": "UC8HLYEGSvHBroUqZMcGaSHg",
-    "handle": "@三ノ輪駅前ライブカメラ",
-    "name": "三ノ輪駅前ライブカメラ",
-    "date": "2026-09-30"
-  },
-  {
-    "id": "UC8qCc7sF9hSjP-U0TiaO5Tw",
-    "handle": "@CliffHouseLive",
-    "name": "Cliff House Live",
-    "date": "2026-09-30"
-  },
-  {
-    "id": "UCaEdUtLbgjtDdfZfDYCllXQ",
-    "handle": "@Orçamentos.Fácil",
-    "name": "Orçamentos Fácil_OSF",
-    "date": "2026-09-30"
-  },
-  {
     "id": "UCG0GyXcLzbTCvOtX9nwof1A",
     "handle": "@AgencijaStariGradMostar",
     "name": "Agencija Stari Grad Mostar",
-    "date": "2026-09-30"
-  },
-  {
-    "id": "UClSdxxEoPbpZHrujhfQcdow",
-    "handle": "@castrostreetcam2549",
-    "name": "Castro Street Cam 2",
     "date": "2026-09-30"
   },
   {
@@ -405,18 +357,6 @@
     "id": "UC52X5wxOL_s5yw0dQk7NtgA",
     "handle": "@AssociatedPress",
     "name": "Associated Press",
-    "date": "2026-10-01"
-  },
-  {
-    "id": "UC5lNakfSdpqXCW214H5sBgQ",
-    "handle": "@ozolio_live",
-    "name": "Ozolio Live",
-    "date": "2026-10-01"
-  },
-  {
-    "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
-    "handle": "@castrostreetcam4755",
-    "name": "Castro Street Cam 4",
     "date": "2026-10-01"
   },
   {
@@ -438,63 +378,75 @@
     "date": "2026-10-01"
   },
   {
-    "id": "UCFzY3MF-rYrexk1be3gnTRw",
-    "handle": "@AllenBirdcam",
-    "name": "Allen Birdcam",
-    "date": "2026-10-01"
+    "id": "UC_cmEauzsnJ4trDXLiIug1Q",
+    "handle": "",
+    "name": "",
+    "date": "2026-10-02"
   },
   {
-    "id": "UCgWmWt_zIBk-X4sCk8fgANA",
-    "handle": "@MKElivecam",
-    "name": "MKElivecam",
-    "date": "2026-10-01"
+    "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
+    "handle": "@pontalnetv",
+    "name": "Pontal NeTv - Internet 100% Fibra",
+    "date": "2026-10-02"
   },
   {
-    "id": "UCJk1ArOmeKdyMyvONIWPMfw",
-    "handle": "@DeltaYacht",
-    "name": "Delta Yacht",
-    "date": "2026-10-01"
+    "id": "UCCZ0dSF4mdNfJTnUq5cIISQ",
+    "handle": "@WebcamMonheim",
+    "name": "Webcam Monheim",
+    "date": "2026-10-02"
   },
   {
-    "id": "UCl5P2zJoH1gBdf38AiYALKA",
-    "handle": "@portal5900vm",
-    "name": "Portal 5900",
-    "date": "2026-10-01"
+    "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
+    "handle": "@RailwayLiveCamera",
+    "name": "Tokyo Akabane Live Camera",
+    "date": "2026-10-02"
   },
   {
-    "id": "UCLaxio5CTbT1gl5i8FB2-yw",
-    "handle": "@TableMountainLiveStream",
-    "name": "Table Mountain Live Stream",
-    "date": "2026-10-01"
+    "id": "UCef_Yfk6baScsTCcDxzXE5Q",
+    "handle": "@Reef-SA",
+    "name": "REEF SOUTH AFRICA",
+    "date": "2026-10-02"
   },
   {
-    "id": "UCpDwGh4oXSWjKJJl6-kyfHg",
-    "handle": "@customshouse1897",
-    "name": "Customs House 1897🇨🇦",
-    "date": "2026-10-01"
+    "id": "UCjeImUhRB1SLqN-svqDRJJw",
+    "handle": "@radiopowertv",
+    "name": "Power Pinamar",
+    "date": "2026-10-02"
   },
   {
-    "id": "UCPQHImqkYaf7h3PzfQI9OmA",
-    "handle": "@boesenlaw523",
-    "name": "Boesen Law",
-    "date": "2026-10-01"
+    "id": "UCqMKJRBR8K3tfxY1a0IUm4g",
+    "handle": "@mountsouthingtonskiarea9062",
+    "name": "Mount Southington Ski Area",
+    "date": "2026-10-02"
   },
   {
-    "id": "UCPvs-mrFpJ5MYV6FeAtvc-w",
-    "handle": "@wearetaiste",
-    "name": "Taiste",
-    "date": "2026-10-01"
+    "id": "UCrGS8VyrgCqYwaogH5bQpxQ",
+    "handle": "@Cerevolivecamera",
+    "name": "Cerevo live camera",
+    "date": "2026-10-02"
   },
   {
-    "id": "UCr7GtOadmMI2KMfei9yElxQ",
-    "handle": "@Billyforce",
-    "name": "Billyforce Entertainment",
-    "date": "2026-10-01"
+    "id": "UCsyyRhCqrvBInUQYTNxL6lw",
+    "handle": "@poroslivegr4994",
+    "name": "POROSLIVE GR",
+    "date": "2026-10-02"
   },
   {
-    "id": "UCSilXhjCqvRMtVug1J51CiA",
-    "handle": "@santuariocovadongaasturias192",
-    "name": "Santuario Covadonga Asturias",
-    "date": "2026-10-01"
+    "id": "UCVwWET2HAacXoiOyDUWaFNA",
+    "handle": "@eecoips2391",
+    "name": "EECO IPS",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "UCwgTQPAmGjWLoTVM8bg275A",
+    "handle": "@paddlersparadise",
+    "name": "Paddler&#39;s Paradise",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "UCxJauSv5BZA7N4dIqPHpy0w",
+    "handle": "@Brian-Siu",
+    "name": "Brian Siu",
+    "date": "2026-10-02"
   }
 ]
