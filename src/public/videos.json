@@ -68,12 +68,7 @@
     "id": "UC-5CVLXN0tBhGsqv-DMcHuw",
     "handle": "@santospilotsoficial",
     "name": "Praticagem de São Paulo - Canal Oficial",
-    "videos": [
-      {
-        "id": "5BxqzvR6TgM",
-        "title": "Porto ao Vivo - Entrada no Canal do Porto de Santos"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC-8U3VCeOEqdPJd2D77RqKw",
@@ -150,7 +145,12 @@
     "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
     "handle": "@alwarith-center",
     "name": "مركز الوارث للإنتاج الفني",
-    "videos": []
+    "videos": [
+      {
+        "id": "dnKuASLRRiA",
+        "title": "البث المباشر لقناة  العتبة الحسينية المقدسة  |   كربلاء المقدسة  الان  |   Karbala live"
+      }
+    ]
   },
   {
     "id": "UC-KS6AGW3J43aFF-KOQ6VAw",
@@ -366,8 +366,8 @@
     "name": "AVIATION TV",
     "videos": [
       {
-        "id": "_WieghbWwsg",
-        "title": "🔴 LIVE 24/7 Lisbon Airport Live Cam 16.10.2026 • Plane Spotting • Direto Aeroporto Lisboa Ao Vivo"
+        "id": "oio7IY9QNAU",
+        "title": "🔴 LIVE 24/7 Lisbon Airport Live Cam 17.10.2026 • Plane Spotting • Direto Aeroporto Lisboa Ao Vivo"
       }
     ]
   },
@@ -612,8 +612,8 @@
     "name": "Dunedin, New Zealand - Live Webcam",
     "videos": [
       {
-        "id": "626wrFwDE2w",
-        "title": "Dunedin, NZ - Live Webcam (4K): 17-10-2026 03:00 to 15:00"
+        "id": "HfHZtRqDIo8",
+        "title": "Dunedin, NZ - Live Webcam (4K): 18-10-2026 03:00 to 15:00"
       }
     ]
   },
@@ -896,7 +896,7 @@
     "name": "SISE Argentina®",
     "videos": [
       {
-        "id": "iPKv66eBOs4",
+        "id": "-EgHV6XosfE",
         "title": "Camaras en Vivo Puente General Belgrano - SISE Argentina®"
       }
     ]
@@ -1045,7 +1045,7 @@
     "name": "CANAL DO AVIÃO",
     "videos": [
       {
-        "id": "0syUNbkNsRk",
+        "id": "dIQ1BcGr6FI",
         "title": "✈️Ao Vivo Aeroporto Internacional de Sorocaba 🛩️ - Bertram Luiz Leupolz! ✈️"
       }
     ]
@@ -1340,12 +1340,12 @@
     "name": "La Casa del Senador",
     "videos": [
       {
-        "id": "FqAoWOpQKUk",
-        "title": "Puentes Internacionales de Piedras Negras, Coahuila y Eagle Pass, Texas."
+        "id": "luZM_RJj6dE",
+        "title": "Puente Internacional 2: Piedras Negras, Coahuila y Eagle Pass, Texas | VISTA ADICIONAL"
       },
       {
-        "id": "JAo4Fgwrdk4",
-        "title": "Puente Internacional 2: Piedras Negras, Coahuila y Eagle Pass, Texas | VISTA ADICIONAL"
+        "id": "iTBVXtwe6xM",
+        "title": "Puentes Internacionales de Piedras Negras, Coahuila y Eagle Pass, Texas."
       }
     ]
   },
@@ -1485,16 +1485,7 @@
     "id": "UC52X5wxOL_s5yw0dQk7NtgA",
     "handle": "@AssociatedPress",
     "name": "Associated Press",
-    "videos": [
-      {
-        "id": "zloKBSLV3mY",
-        "title": "LIVE: Fall foliage from across the US"
-      },
-      {
-        "id": "LCRHCc6Jz1o",
-        "title": "LIVE: Anti-government protests in Albania"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC5Dy3WsfZw5AQxnamT0d0ow",
@@ -1601,24 +1592,8 @@
     "name": "PixCams",
     "videos": [
       {
-        "id": "JQWvjG5arhQ",
-        "title": "PixCams.com Field Cam Live Stream"
-      },
-      {
         "id": "XfNhPa26fP8",
         "title": "PixCams.com Wildlife Cam 2 Live Stream"
-      },
-      {
-        "id": "i59UQijZ4-Y",
-        "title": "LujiiGarden Bird Feeder Cam"
-      },
-      {
-        "id": "6--SErd7u4o",
-        "title": "PixCams.com PA Bird Feeder 1 Live Stream"
-      },
-      {
-        "id": "pgMuZvyFw4k",
-        "title": "PixCams.com Wildlife Webcam 1 Live Stream - Natural Bird Bath!"
       },
       {
         "id": "nhffONcy8Eg",
@@ -1639,10 +1614,6 @@
       {
         "id": "a83Y5shllLg",
         "title": "USS Bald Eagle Cam 4 - River view"
-      },
-      {
-        "id": "JosQdXWDn6g",
-        "title": "PixCams PA Bird Feeder 2 Live Stream"
       },
       {
         "id": "yPq9aNukckQ",
@@ -1818,8 +1789,8 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "Lqrm8td-EHw",
-        "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月16日）｜TBS NEWS DIG"
+        "id": "ln9tkVIz2FQ",
+        "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月17日）｜TBS NEWS DIG"
       },
       {
         "id": "u7kCTaCX_J4",
@@ -1909,16 +1880,16 @@
     "name": "Tehachapi Live Train Cams",
     "videos": [
       {
+        "id": "Inq-RVJLb_o",
+        "title": "Tehachapi Live Train Cams at the Tehachapi Depot Railroad Museum 🚉"
+      },
+      {
         "id": "keqeiohUVnw",
         "title": "Tehachapi Live Train Cams at Giumarra Vineyards 🍇 in Edison CA."
       },
       {
         "id": "PH-jf0kdsf8",
         "title": "Tehachapi Live Train Cams at Gardner Realty in Mojave CA 🚂"
-      },
-      {
-        "id": "yVfFVNmE0LE",
-        "title": "Tehachapi Live Train Cams at the Tehachapi Depot Railroad Museum 🚉"
       }
     ]
   },
@@ -1928,8 +1899,12 @@
     "name": "BLC Streams",
     "videos": [
       {
-        "id": "eKzbmnE9uYU",
+        "id": "pR-HIAJsXCU",
         "title": "🔴 LIVE Port Miami Cruise Ship Terminals"
+      },
+      {
+        "id": "vdr7QQ_HAgQ",
+        "title": "🔴 LIVE Pensacola Beach Florida"
       },
       {
         "id": "vKZK_tYUDy8",
@@ -1982,18 +1957,17 @@
     "id": "UC6q_hfBThkGdmQ5Vb4kWjWA",
     "handle": "@FlightFocus365",
     "name": "Flight Focus 365",
-    "videos": [
-      {
-        "id": "s44UdEa6KL0",
-        "title": "Heathrow Airport Live -  CROSSWIND Friday 16th October 2026"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC6qrG3W8SMK0jior2olka3g",
     "handle": "@earthcam",
     "name": "EarthCam",
     "videos": [
+      {
+        "id": "9pInqwL0DEY",
+        "title": "EarthCam Live:  Aquarium Cam (Baltimore, Maryland)"
+      },
       {
         "id": "xqdukYhcGEU",
         "title": "EarthCam Live: New Orleans Street View"
@@ -2276,12 +2250,7 @@
     "id": "UC7WAqB7dyv1t8jKunD-8krA",
     "handle": "@L.A.FLIGHTS",
     "name": "L.A FLIGHTS",
-    "videos": [
-      {
-        "id": "aa7G3xLBrOQ",
-        "title": "🔴LIVE REVERSE OPS LAX! | October 16, 2026 | LAX PLANE SPOTTING"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC7Z6yfD0LKxSftKxOLrbPeQ",
@@ -2300,7 +2269,7 @@
     "name": "Castro Street Cam 4",
     "videos": [
       {
-        "id": "oSlny-AuCNI",
+        "id": "m4diAJPEqDY",
         "title": "Castro Street Cam 4 Live Stream"
       }
     ]
@@ -2373,6 +2342,10 @@
     "name": "Sanctuaire Notre-Dame de Lourdes",
     "videos": [
       {
+        "id": "4vUr-BTe0lg",
+        "title": "Rosario di Lourdes - 17/10/2026"
+      },
+      {
         "id": "2A60dv7PR7c",
         "title": "🔴Lourdes | Déposer et brûler un cierge à Lourdes | Place and light a candle"
       },
@@ -2388,7 +2361,7 @@
     "name": "Ship Spotter’s Paradise",
     "videos": [
       {
-        "id": "O9BdQMB9TXI",
+        "id": "mzRP4VRxi4A",
         "title": "LIVE 24/7 | Skiathos Bay & Port – Real-Time Ship Spotting from Greece"
       }
     ]
@@ -3018,8 +2991,8 @@
     "name": "Cliff House Live",
     "videos": [
       {
-        "id": "xLw35Q_xpu0",
-        "title": "Gran Canaria LIVE Webcam | Relaxing Waves 🌊 Background Music"
+        "id": "MnOUGzt83ZU",
+        "title": "Gran Canaria LIVE Webcam | EL FRONTON Wave 🌊 Soundscape"
       }
     ]
   },
@@ -3161,7 +3134,7 @@
     "name": "Mount Washington Cog Railway",
     "videos": [
       {
-        "id": "btfgZpmXg5w",
+        "id": "Hc_MVqTyLK4",
         "title": "Mount Washington Cog Railway Live Webcam"
       }
     ]
@@ -3280,7 +3253,12 @@
     "id": "UCALmdjIUxpKqyUTxg5QOSMQ",
     "handle": "@marginalwaypreservationfun2285",
     "name": "Marginal Way Preservation Fund",
-    "videos": []
+    "videos": [
+      {
+        "id": "RLIRtD89O7g",
+        "title": "Marginal Way Ogunquit Maine Live View"
+      }
+    ]
   },
   {
     "id": "UCARB8y6PuoOBjZXJKIG-LDw",
@@ -3750,8 +3728,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "6PjVVdZy_xo",
-        "title": "【 Archive】 2026-10-17『00:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "N7UPwuy242o",
+        "title": "【 Archive】 2026-10-18『00:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -3841,12 +3819,7 @@
     "id": "UCD12HC-FqOwAEzEi0cKxYZQ",
     "handle": "@rutafiscalpnpuentesinterna6719",
     "name": "Ruta Fiscal PN Puentes internacionales I y II",
-    "videos": [
-      {
-        "id": "T2xZtNipxmE",
-        "title": "Transmisión en vivo de ruta fiscal Piedras Negras Puente Internacional 2"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCD1MsyeoR0St_aWxydu9law",
@@ -3981,8 +3954,8 @@
     "name": "Khao Lak Land Discovery",
     "videos": [
       {
-        "id": "LtCYBZvE1Ec",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 17-Oct-2026 00:06"
+        "id": "MSyR5JVmRt0",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 17-Oct-2026 22:56"
       }
     ]
   },
@@ -4088,7 +4061,12 @@
     "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
     "handle": "@RailwayLiveCamera",
     "name": "Tokyo Akabane Live Camera",
-    "videos": []
+    "videos": [
+      {
+        "id": "Mbr6qdr2XPM",
+        "title": "🚅[LIVE]鉄道ライブカメラ(東京 赤羽駅周辺) Tokyo Japan Train Live Camera"
+      }
+    ]
   },
   {
     "id": "UCE7o7gjNuTgEZgZVZSUiuCw",
@@ -4551,16 +4529,16 @@
     "name": "Beach Life Cams",
     "videos": [
       {
+        "id": "mYKo4V8uYuY",
+        "title": "Weston-Super-Mare Beach Live @ Revo Kitchen"
+      },
+      {
         "id": "Ee4dRpBkMX4",
         "title": "Chesil Beach Live Webcam @ Quiddles Cafe"
       },
       {
         "id": "mNiI7CbnxyQ",
         "title": "Poole Quay Live Webcam @ Oriel on the Quay (4K)"
-      },
-      {
-        "id": "uUp0iVCMAso",
-        "title": "Weston-Super-Mare Beach Live @ Revo Kitchen"
       },
       {
         "id": "7j9zSIpdn8E",
@@ -5004,14 +4982,9 @@
   },
   {
     "id": "UCI-kn_qBWAwygzm5P5DCxNA",
-    "handle": "@LagunaBeachChristianRetreat",
-    "name": "Laguna Beach Christian Retreat",
-    "videos": [
-      {
-        "id": "nT8aBQx8OS4",
-        "title": "Live - Beach Camera I Laguna Beach Christian Retreat in Panama City Beach, Florida"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCI4huqcitDTCjPrDSelgk5g",
@@ -5723,7 +5696,7 @@
     "name": "TV2 Mogilev",
     "videos": [
       {
-        "id": "EGtK62KeHRA",
+        "id": "qJvWzCeLB_I",
         "title": "Mogilev Online"
       }
     ]
@@ -5842,6 +5815,10 @@
     "name": "DIRECTO NATURA",
     "videos": [
       {
+        "id": "QBXLbbLk1PY",
+        "title": "🦅 Cientos de buitres y alimoches en el muladar  (Cámara 82 | Guadalajara)"
+      },
+      {
         "id": "TUrx5laadiY",
         "title": "🔥 Incendio en el robledal | Un oasis entre las cenizas 🔴 DIRECTO (Cámara 84 | Guadalajara)"
       },
@@ -5881,7 +5858,7 @@
     "name": "Lakefront Live",
     "videos": [
       {
-        "id": "Ab9wQH884KU",
+        "id": "TBHol9qkAtU",
         "title": "4K Chicago Lakefront 24/7 LIVE | Navy Pier, Playpen, Lake Shore Drive, Boats, O'Hare & Skyline"
       }
     ]
@@ -6079,7 +6056,7 @@
     "name": "Kozy Le Morne",
     "videos": [
       {
-        "id": "HBi6vNgwCok",
+        "id": "IiK5zK8bGas",
         "title": "🔴 Île Maurice / Mauritius - At Kozy Le Morne"
       }
     ]
@@ -6166,14 +6143,9 @@
   },
   {
     "id": "UCMBWDPHTwn0NTN-a4imOrIA",
-    "handle": "@HalePauHanaBeachResortKihei",
-    "name": "The Hale Pau Hana",
-    "videos": [
-      {
-        "id": "hPvl6IACa2k",
-        "title": "The Hale Pau Hana Surf Cam"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCMFelGB_bqxw2VGv08MQOrg",
@@ -6373,8 +6345,8 @@
     "name": "Vancouver Port Live",
     "videos": [
       {
-        "id": "aywzTpjtfks",
-        "title": "Vancouver LIVE Today | Harbour, Skyline, and Canada Place Views | October 16, 2026"
+        "id": "T5Q0xPAtP_E",
+        "title": "Vancouver LIVE Today | Harbour, Skyline, and Canada Place Views | October 17, 2026"
       },
       {
         "id": "aq8s2lIbpCQ",
@@ -6453,7 +6425,7 @@
     "name": "SBGR LIVE",
     "videos": [
       {
-        "id": "I8GlOSNdnlY",
+        "id": "F_u7wNrNjH8",
         "title": "SBGR LIVE 4K - Aeroporto Internacional de Guarulhos AO VIVO - GRU Airport"
       }
     ]
@@ -6648,21 +6620,16 @@
     "name": "East Hampton Library",
     "videos": [
       {
-        "id": "oDINgj1llFk",
+        "id": "q4PN74oo6oQ",
         "title": "East Hampton Library Main Street Webcam"
       }
     ]
   },
   {
     "id": "UCOkHmC8gMrifs24PrPmTumg",
-    "handle": "@townofsurfsidebeach7463",
-    "name": "Town of Surfside Beach",
-    "videos": [
-      {
-        "id": "hXqjUfQJf9U",
-        "title": "Pier Camera"
-      }
-    ]
+    "handle": "",
+    "name": "",
+    "videos": []
   },
   {
     "id": "UCOlB4c8jh9f2T6u3A08T9mA",
@@ -6849,7 +6816,7 @@
     "name": "Warsaw Livestream",
     "videos": [
       {
-        "id": "AQTGCh1Xqh0",
+        "id": "gYEjzJvHj6M",
         "title": "Warszawa na żywo 🇵🇱 | Warsaw LIVE – panorama i Stadion Narodowy / City Skyline & National Stadium"
       }
     ]
@@ -7104,7 +7071,7 @@
     "name": "NYC Ferry",
     "videos": [
       {
-        "id": "5Cq1OlYYqRs",
+        "id": "-ToxU5idDK0",
         "title": "🔴 LIVE New York City Webcam | East River Ferry at East 34th St, Midtown Manhattan | NYC 24/7"
       }
     ]
@@ -7300,7 +7267,48 @@
     "id": "UCRSAJ1FuAoxltDBdNzUfnOg",
     "handle": "@tehnolinetelekom7049",
     "name": "Tehnoline Telekom",
-    "videos": []
+    "videos": [
+      {
+        "id": "eo6Pmbcn4mo",
+        "title": "JUK Kamenjak uvala Polje 2"
+      },
+      {
+        "id": "RQSuyIAyyxA",
+        "title": "TZ Rabac"
+      },
+      {
+        "id": "vwQyhU-5_7U",
+        "title": "TZ Rabac Ptz"
+      },
+      {
+        "id": "WaQnO6RTpxU",
+        "title": "medulin1"
+      },
+      {
+        "id": "C46r6wh0Av8",
+        "title": "Krnicki porat"
+      },
+      {
+        "id": "j4Ze7fxsOxo",
+        "title": "LIVE! Marina Veruda Tehnomont 2"
+      },
+      {
+        "id": "7dOPUMAQYJU",
+        "title": "LIVE! Marina Veruda Tehnomont 1"
+      },
+      {
+        "id": "1CYRZ1IBGkM",
+        "title": "Barban"
+      },
+      {
+        "id": "UEB4Id9nGIs",
+        "title": "LIVE! Marina Veruda Tehnomont 3"
+      },
+      {
+        "id": "vOsR8QQF3ak",
+        "title": "Fort1"
+      }
+    ]
   },
   {
     "id": "UCRSVYu3ANXrQuSnpw5bPUBw",
@@ -7418,11 +7426,11 @@
     "name": "SHOWME Caribbean",
     "videos": [
       {
-        "id": "9tNbJDUIQSw",
-        "title": "✈️ LIVE October 16 | Maho Beach | SXM Airport St. Maarten (with ATC & Jetblasts)"
+        "id": "LUCWrO4oPxA",
+        "title": "✈️ LIVE October 17 | Maho Beach | SXM Airport St. Maarten (with ATC & Jetblasts)"
       },
       {
-        "id": "YitkISNDI4c",
+        "id": "DEb-RcUMaZo",
         "title": "🌊 24/7 Caribbean Beach Cams: Aruba • St Maarten • Curacao • Bonaire"
       },
       {
@@ -7955,7 +7963,7 @@
     "name": "† Свято-Успенская Почаевская Лавра",
     "videos": [
       {
-        "id": "-6ayje73wqY",
+        "id": "m0cgC8Z3aa0",
         "title": "Пряма трансляція богослужіння † Свято-Успенська Почаївська Лавра"
       }
     ]
@@ -8011,6 +8019,10 @@
     "name": "WildEarth",
     "videos": [
       {
+        "id": "oEL9teHB3U0",
+        "title": "SafariLIVE Sunset - 17 October 2026"
+      },
+      {
         "id": "HRO9PwoduE8",
         "title": "WildEarth Channel - AD FREE"
       }
@@ -8020,7 +8032,12 @@
     "id": "UCVARamJgetNC2PQkw7kDD0Q",
     "handle": "@johnvlissingenwebcam2437",
     "name": "John Vlissingenwebcam",
-    "videos": []
+    "videos": [
+      {
+        "id": "05D9kA0Ya94",
+        "title": "Livestream Vlissingenwebcam 1"
+      }
+    ]
   },
   {
     "id": "UCVK-LGmxFkjQEe6eV1NvQ2w",
@@ -8197,16 +8214,7 @@
     "id": "UCWFlnyosSViIAqUq-TytgJA",
     "handle": "@NikCCTV",
     "name": "Nik CCTV",
-    "videos": [
-      {
-        "id": "N7Qr7B43jig",
-        "title": "Камера Соликамск (Боровск), Россия, Пермский край / Сamera Solikamsk, Russia with AI chatbot"
-      },
-      {
-        "id": "_6thFzLFy2E",
-        "title": "Управляемая камера, Пермь, \"Пермская ярмарка\" | Live camera at Perm Expo with AI Chatbot"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCWOITAxCnS0V8h7lNJkHpdQ",
@@ -8387,6 +8395,18 @@
     "name": "KOIN 6",
     "videos": [
       {
+        "id": "z4UbkGmyd78",
+        "title": "Port of Kalama, WA"
+      },
+      {
+        "id": "bHVabGMwIts",
+        "title": "Oregon Coast Aquarium"
+      },
+      {
+        "id": "MBD8rICeXKI",
+        "title": "Chinook Winds Casino Resort in Lincoln City, OR"
+      },
+      {
         "id": "laaefYYpU_c",
         "title": "Mt Hood Meadows"
       },
@@ -8457,7 +8477,7 @@
     "name": "Scottish Wildlife Trust",
     "videos": [
       {
-        "id": "mdahTGKHcCE",
+        "id": "Puq8NKPnNlo",
         "title": "Live osprey nest camera at Loch of the Lowes Wildlife Reserve"
       }
     ]
@@ -8467,6 +8487,10 @@
     "handle": "@livefromireland",
     "name": "LivefromIreland - Live Streaming Webcams",
     "videos": [
+      {
+        "id": "hIlYtjhRK_0",
+        "title": "Rathmines Dublin Live Webcam."
+      },
       {
         "id": "8bqXtRoleVw",
         "title": "Live Webcam Cabra Road Dublin Ireland  (Facing East)"
@@ -8936,7 +8960,7 @@
     "name": "STREETS OF THAILAND",
     "videos": [
       {
-        "id": "wy312cztE9o",
+        "id": "gr1LT6csPts",
         "title": "Zephyr Beach Club 🔴 Lamai Beach, Koh Samui, Thailand | Live Webcam"
       },
       {
@@ -9248,10 +9272,6 @@
         "title": "Punat Live - Vodosprema"
       },
       {
-        "id": "C9FsPTtJ-ck",
-        "title": "Punat Live - Turistička Zajednica"
-      },
-      {
         "id": "AqYQ9W4r8ZU",
         "title": "Šilo Live - Turistička Zajednica"
       },
@@ -9273,7 +9293,16 @@
     "id": "UCaw1OHjIhEgo2yaraJb4nWg",
     "handle": "@systemnorge",
     "name": "System Norge AS",
-    "videos": []
+    "videos": [
+      {
+        "id": "kEIRLz4DXng",
+        "title": "Koløys Hytteutleie - Live fra Halsnøy"
+      },
+      {
+        "id": "G84oDxGqoPQ",
+        "title": "Fjordferie - Live from Sæbøvik"
+      }
+    ]
   },
   {
     "id": "UCayE6-RHoYoIcnqp36o4Rjg",
@@ -9899,7 +9928,7 @@
     "name": "Margaritaville Beach Resort Fort Myers Beach",
     "videos": [
       {
-        "id": "_qnIRG7VTOY",
+        "id": "czbpEW1gIzg",
         "title": "JWB Grill Live Beach Cam | Margaritaville Beach Resort Fort Myers Beach"
       },
       {
@@ -9963,6 +9992,10 @@
     "name": "Christoph Burgdorfer",
     "videos": [
       {
+        "id": "BKgWP4nfwgk",
+        "title": "Singapore Haze CBD Live Stream 4K Webcam (Heavy Smog)"
+      },
+      {
         "id": "Z7hAgOjTlbo",
         "title": "Singapore Hazy Port 4K Livestream Disney Cruise (Tanjong Pagar live shipping webcam) with LoFi beats"
       }
@@ -9974,7 +10007,7 @@
     "name": "Littlehouse Live Three",
     "videos": [
       {
-        "id": "AD5hq4f8NgI",
+        "id": "17ztzDnCj58",
         "title": "Littlehouse Live Three (Live Stream)"
       }
     ]
@@ -10273,6 +10306,10 @@
     "handle": "@seobirdlife",
     "name": "SEOBirdLife",
     "videos": [
+      {
+        "id": "3BZ-rgidYyU",
+        "title": "🆕 NOVEDAD 🆕 Lechuza común · [Exterior] · Reserva Natural Riet Vell -🔴DIRECTO Delta del Ebro"
+      },
       {
         "id": "-cgrK4BlDAY",
         "title": "🔴 Aves en DIRECTO - Reserva Ornitológica Riet Vell, Delta del Ebro"
@@ -10857,7 +10894,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "sNnFCw03R5Q",
+        "id": "soFyHGuvcmE",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -10996,7 +11033,12 @@
     "id": "UCiijK6RLOIB3FqrLs-uBphg",
     "handle": "@catinnhotel8295",
     "name": "Cat Inn hotel",
-    "videos": []
+    "videos": [
+      {
+        "id": "1ubDrek-gq4",
+        "title": "Cat Inn hotel pro kočky"
+      }
+    ]
   },
   {
     "id": "UCiizs91Obdveqoce7kSmImA",
@@ -11084,16 +11126,20 @@
     "name": "CGTN Europe",
     "videos": [
       {
-        "id": "Q4cFZehgMg4",
-        "title": "WATCH LIVE: Scene after shooting at Oregon elementary school"
+        "id": "-72lH55M4jU",
+        "title": "WATCH LIVE: Albanian students gather in Tirana for anti-government protests"
       },
       {
-        "id": "Oj8k9wz-IXk",
-        "title": "LIVE: UK PM Burnham delivers a speech during Scotland visit"
+        "id": "vSuv1gPXnQQ",
+        "title": "WATCH LIVE: Police detain ‘Cockroach’ movement founder in Delhi"
       },
       {
-        "id": "AB0sjawfuvk",
-        "title": "WATCH LIVE: Albanian students protest over education costs"
+        "id": "x-pnaTGhPBg",
+        "title": "WATCH LIVE: French high schoolers and university students hold march in Paris"
+      },
+      {
+        "id": "AWcAZJjUnF8",
+        "title": "WATCH: Live from Deir al-Balah, Gaza"
       },
       {
         "id": "fZqr56lztHw",
@@ -11318,12 +11364,7 @@
     "id": "UCjvtkjWwpnhgGv2nutFFr-A",
     "handle": "@IloveLx",
     "name": "I love Lx",
-    "videos": [
-      {
-        "id": "tKIgNtEgLN0",
-        "title": "I love Lx Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCjzJrnsM3Ar0DMmJhpNMiaw",
@@ -11826,10 +11867,6 @@
     "name": "Gramado TV",
     "videos": [
       {
-        "id": "8-bKgJSwhI0",
-        "title": "Copa Gramado Laghetto Sub-16   Inter X Corinthians"
-      },
-      {
         "id": "18qXeKqoiYE",
         "title": "Conheça melhor a cidade de Gramado"
       },
@@ -12036,7 +12073,7 @@
     "name": "ZeroEight",
     "videos": [
       {
-        "id": "Pd7tV_87GCE",
+        "id": "KtADDcFVaqc",
         "title": "Miami Beach Live South Beach, Miami Beach LIVE 24/7 Street Cam on Collins Ave"
       }
     ]
@@ -12175,7 +12212,7 @@
     "name": "Dunrovin Cams",
     "videos": [
       {
-        "id": "PoJl1a22L60",
+        "id": "8jXK5b6LfHg",
         "title": "Dunrovin Ranch Cam"
       }
     ]
@@ -12459,7 +12496,12 @@
     "id": "UCnuF5fiEc6DdbhDHCQoCAfA",
     "handle": "@AucklandCityViews",
     "name": "Auckland City Views",
-    "videos": []
+    "videos": [
+      {
+        "id": "PaLDpyFxpXE",
+        "title": "🔴 LIVE Auckland NOW 🌤️ Harbour, Skyline & Cruise Ships | 4K 24/7 #livecam"
+      }
+    ]
   },
   {
     "id": "UCo-qXsM5O9OUI3mNlfIr0PA",
@@ -12629,28 +12671,8 @@
     "name": "webcamsdemexico",
     "videos": [
       {
-        "id": "Ak7EdRGuAKY",
-        "title": "⚠️⛈️ CDMX (AVISO) | Lluvias fuertes, rayos y posible granizo.Zócalo En Vivo"
-      },
-      {
-        "id": "6HAmYnM3hIo",
-        "title": "⚠️ CDMX | Lluvia y rayos. Feria Internacional del Libro. Zócalo En Vivo"
-      },
-      {
-        "id": "s-XlWIvJBnk",
-        "title": "Ciudad de México. Vista Monumento a la Revolución"
-      },
-      {
-        "id": "9HyGes7M-o0",
-        "title": "Paseo de la Reforma en CDMX desde Hotel B Urban Xaman Reforma"
-      },
-      {
         "id": "oOsoFwMPbOg",
         "title": "En vivo Panorámica del Zócalo de la Ciudad de México"
-      },
-      {
-        "id": "KmoZh0KYAyk",
-        "title": "En vivo Zócalo de la Ciudad de México"
       },
       {
         "id": "ZH3jB650mcI",
@@ -12755,7 +12777,7 @@
     "name": "Customs House 1897🇨🇦",
     "videos": [
       {
-        "id": "gvTWiOmnno4",
+        "id": "43bluvx6s6E",
         "title": "Tilley Cam -  24/7 Harbour Cam - Port aux Basques, Newfoundland - Live Stream"
       }
     ]
@@ -12859,20 +12881,20 @@
     "name": "sanantonioimagen",
     "videos": [
       {
+        "id": "TYW7WeLBRWw",
+        "title": "Caleta de pescadores  El Quisco En Vivo"
+      },
+      {
+        "id": "aKtIqdQznlU",
+        "title": "El Quisco  Playa En Vivo"
+      },
+      {
         "id": "e1lHlPMunbE",
         "title": "Avenida Centenario,  En Vivo"
       },
       {
         "id": "_OXaiNDb67w",
         "title": "Avenida Barros Luco En Vivo"
-      },
-      {
-        "id": "mjE3Zb3aBHE",
-        "title": "Caleta de pescadores  El Quisco En Vivo"
-      },
-      {
-        "id": "oDErMN0_ehw",
-        "title": "El Quisco  Playa En Vivo"
       },
       {
         "id": "U9YCYQe-VvE",
@@ -13111,7 +13133,7 @@
     "name": "Hawick TV",
     "videos": [
       {
-        "id": "ycyoUVF_7TM",
+        "id": "CPKsP3nHkF0",
         "title": "Hawick TV LiveCam - The High Street"
       }
     ]
@@ -13308,8 +13330,8 @@
     "name": "packerysurfcam",
     "videos": [
       {
-        "id": "J90kRbhIVg4",
-        "title": "Packery Surf Cam LIVE | Corpus Christi Surf Cam | North Padre Island 2026-10-16"
+        "id": "ueYz4g52R3U",
+        "title": "Packery Surf Cam LIVE | Corpus Christi Surf Cam | North Padre Island 2026-10-17"
       },
       {
         "id": "5s6X2045OTs",
@@ -13474,10 +13496,6 @@
       {
         "id": "yWM6Z9yb3Ug",
         "title": "24小時 LIVE 直播中-4K 2160P 台灣彰化 溪湖 即時影像 (天氣動態) ，Formosa Taiwan Changhua City Weather Livestream Video"
-      },
-      {
-        "id": "gqoSNyfd8-4",
-        "title": "24小時 LIVE 直播中-4K 2160P 台灣彰化 二林中科 即時影像 (天氣動態) ，Formosa Taiwan Changhua City Weather Livestream Video"
       }
     ]
   },
@@ -13587,7 +13605,12 @@
     "id": "UCsyyRhCqrvBInUQYTNxL6lw",
     "handle": "@poroslivegr4994",
     "name": "POROSLIVE GR",
-    "videos": []
+    "videos": [
+      {
+        "id": "OOqohsxW3lc",
+        "title": "Poros island Live Cam"
+      }
+    ]
   },
   {
     "id": "UCt01tczohsGmH6X6csUS6iQ",
@@ -13694,7 +13717,12 @@
     "id": "UCtZdd8-WlpOVxDaWbbeTmZQ",
     "handle": "@BatsiLiveStreaming",
     "name": "Batsi Live Streaming",
-    "videos": []
+    "videos": [
+      {
+        "id": "ncn8GIUbge4",
+        "title": "Port of Batsi Live Stream"
+      }
+    ]
   },
   {
     "id": "UCtllXAWa3EcfcsL5tvpqGSw",
@@ -13722,7 +13750,12 @@
     "id": "UCtnuAOh7DrspJt9K7bzXQOw",
     "handle": "@ti.skyglasscanela",
     "name": "TI - Skyglass Canela",
-    "videos": []
+    "videos": [
+      {
+        "id": "fiHoRddWa8I",
+        "title": "Skyglass Canela (AO VIVO)"
+      }
+    ]
   },
   {
     "id": "UCtrwK-DOZGcQo9p1VwIkDZw",
@@ -14472,7 +14505,12 @@
     "id": "UCwfkaPTACGouSdFvFdFf5Tg",
     "handle": "@camviewnz",
     "name": "Camview NZ",
-    "videos": []
+    "videos": [
+      {
+        "id": "v7xySvhug0Y",
+        "title": "Camview: Wellington Airport Webcam Live Stream (Secondary 1080p)"
+      }
+    ]
   },
   {
     "id": "UCwgTQPAmGjWLoTVM8bg275A",
@@ -14511,52 +14549,7 @@
     "id": "UCwzJctz6m-0wG_evkheecZA",
     "handle": "@fujiyamanavi",
     "name": "フジヤマNAVI",
-    "videos": [
-      {
-        "id": "YCtAXDnsyYY",
-        "title": "「箱根遊船 SORAKAZE」ライブカメラ  / Live camera ”SORAKAZE”(Hakone Cruise Ship)"
-      },
-      {
-        "id": "Joer2U0vki4",
-        "title": "富士山二合目のテーマパーク「ぐりんぱ」（静岡県）ライブカメラ/ \"Live Camera of 'Grinpa' Theme Park at the 2nd Station of Mt. Fuji"
-      },
-      {
-        "id": "4zTR72UGZ04",
-        "title": "河口湖遊覧船「天晴(あっぱれ)」ライブカメラ／Lake Kawaguchiko Sightseeing Boat \"Appare\""
-      },
-      {
-        "id": "nh0TUmU-Sko",
-        "title": "忍野しのびの里ライブカメラ／Live stream of Mt.Fuji from \"Oshino Ninja Village\""
-      },
-      {
-        "id": "0KMeH_vh0Bk",
-        "title": "FUJISAN ROOFTOP TERRACE 富士山駅屋上ライブカメラ／“FUJISAN ROOFTOP TERRACE”,Fujikyu Railway Mt.Fuji Station"
-      },
-      {
-        "id": "_6nLps25Kws",
-        "title": "FUJIYAMAタワーライブカメラ／Live stream of Mt.Fuji from \"FUJIYAMA TOWER\" , Fuji-Q Highland"
-      },
-      {
-        "id": "JGyGoXlKZmw",
-        "title": "富士本栖湖リゾート（富士芝桜まつり会場）ライブカメラ / Live Camera ”Fuji Motosuko Resort”"
-      },
-      {
-        "id": "jBPc3TGZin8",
-        "title": "十国峠ライブカメラ（駿河湾ビュー）Live from Hakone-Jukkoku Pass"
-      },
-      {
-        "id": "Gn2CJjzY068",
-        "title": "ホテルマウント富士ライブカメラ/Live Camera Hotel Mt.fuji"
-      },
-      {
-        "id": "4Hro9QIrsYA",
-        "title": "十国峠ライブカメラ（富士山ビュー） / Live Camera Jukkoku（view of Mt.Fuji）"
-      },
-      {
-        "id": "Sv9hcJ3k5h4",
-        "title": "【4K】富士山ライブカメラ / 4K Live Camera Mt.FUJI　～河口湖～富士山パノラマロープウェイ"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCx6ra-kP4Z2kZQfu5zTX1vA",
@@ -14849,8 +14842,8 @@
     "name": "Flaming Fire",
     "videos": [
       {
-        "id": "fYs8TqYqEnY",
-        "title": "Stockholm city live cam 20261016"
+        "id": "uRyZ7PAt9mk",
+        "title": "Stockholm city live cam 20261017"
       }
     ]
   },
@@ -15007,7 +15000,12 @@
     "id": "UCyJ_WqTXFf1Wx6YiBR9CHxw",
     "handle": "@rogerstokes3320",
     "name": "Roger Stokes",
-    "videos": []
+    "videos": [
+      {
+        "id": "Z9N1rE5BHsA",
+        "title": "Woodbury webcam live!"
+      }
+    ]
   },
   {
     "id": "UCycdLbuODd-iBKVR13zfPsg",
