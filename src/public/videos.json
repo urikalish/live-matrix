@@ -154,7 +154,12 @@
     "id": "UC-IYgdWMbKsZI5ZCzK1sk3Q",
     "handle": "@alwarith-center",
     "name": "مركز الوارث للإنتاج الفني",
-    "videos": []
+    "videos": [
+      {
+        "id": "vVPkKrRTAYY",
+        "title": "البث المباشر لقناة  العتبة الحسينية المقدسة  |   كربلاء المقدسة  الان  |   Karbala live"
+      }
+    ]
   },
   {
     "id": "UC-KS6AGW3J43aFF-KOQ6VAw",
@@ -366,8 +371,8 @@
     "name": "AVIATION TV",
     "videos": [
       {
-        "id": "XFw-e-uFpbo",
-        "title": "🔴 LIVE 24/7 Lisbon Airport Live Cam 23.10.2026 • Plane Spotting • Direto Aeroporto Lisboa Ao Vivo"
+        "id": "dJz8R-5bNDA",
+        "title": "🔴 LIVE 24/7 Lisbon Airport Live Cam 24.10.2026 • Plane Spotting • Direto Aeroporto Lisboa Ao Vivo"
       }
     ]
   },
@@ -608,8 +613,8 @@
     "name": "Dunedin, New Zealand - Live Webcam",
     "videos": [
       {
-        "id": "JQa_LeUX1l8",
-        "title": "Dunedin, NZ - Live Webcam (4K): 24-10-2026 03:00 to 15:00"
+        "id": "7U3nlBDIeNc",
+        "title": "Dunedin, NZ - Live Webcam (4K): 25-10-2026 03:00 to 15:00"
       }
     ]
   },
@@ -968,12 +973,7 @@
     "id": "UC2kR-aq56MirelLRPM7Sbnw",
     "handle": "@bernyreplotbridgereplotbro321",
     "name": "Berny Replot bridge Replotbron Raippaluodon silta",
-    "videos": [
-      {
-        "id": "x1_RsJOZUq8",
-        "title": "Replot Bridge Live Stream – Finland’s Longest Bridge in Real Time"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC2lamMZjjT-Qcq-zIx6NrCw",
@@ -1013,7 +1013,12 @@
     "id": "UC2oMNweAfeRUdh4iKV8ms2g",
     "handle": "@manitowocmarina",
     "name": "Manitowoc Marina",
-    "videos": []
+    "videos": [
+      {
+        "id": "lty-_xS_xWA",
+        "title": "Manitowoc Marina Harbor Cam"
+      }
+    ]
   },
   {
     "id": "UC2qwiv3R_Dqrp15vh7cpH9Q",
@@ -1032,7 +1037,7 @@
     "name": "CANAL DO AVIÃO",
     "videos": [
       {
-        "id": "H0ofQAf5tKM",
+        "id": "3zeicRnaYk8",
         "title": "✈️Ao Vivo Aeroporto Internacional de Sorocaba 🛩️ - Bertram Luiz Leupolz! ✈️"
       }
     ]
@@ -1378,12 +1383,7 @@
     "id": "UC4Wd3aS1XKA39dCveZExSkg",
     "handle": "@oneandmoreaviation",
     "name": "One and More Aviation ",
-    "videos": [
-      {
-        "id": "pgarq8ILGyM",
-        "title": "🔴 LIVE Planespotting Frankfurt Airport | Friday Aviation Action ✈️"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC4WyazHccYZmCf-rLpAYXtg",
@@ -1481,12 +1481,7 @@
     "id": "UC52X5wxOL_s5yw0dQk7NtgA",
     "handle": "@AssociatedPress",
     "name": "Associated Press",
-    "videos": [
-      {
-        "id": "DsdpiuzJTO8",
-        "title": "LIVE: Trump holds a rally in Florida ahead of the midterm elections"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC5Dy3WsfZw5AQxnamT0d0ow",
@@ -1795,8 +1790,8 @@
     "name": "TBS NEWS DIG Powered by JNN",
     "videos": [
       {
-        "id": "M7dNawj1UeU",
-        "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月23日）｜TBS NEWS DIG"
+        "id": "oT0ws4DS5Lo",
+        "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月24日）｜TBS NEWS DIG"
       },
       {
         "id": "u7kCTaCX_J4",
@@ -1952,8 +1947,8 @@
     "name": "Flight Focus 365",
     "videos": [
       {
-        "id": "GpQB4CAut8U",
-        "title": "Heathrow Airport Live -  WINDY Friday 23rd October 2026"
+        "id": "3-TLrqqe2Hw",
+        "title": "Heathrow Airport Live -  STORM BOELO Saturday 24th October 2026"
       }
     ]
   },
@@ -1962,6 +1957,14 @@
     "handle": "@earthcam",
     "name": "EarthCam",
     "videos": [
+      {
+        "id": "P3sGke9M59o",
+        "title": "EarthCam Live: Philadelphia, PA"
+      },
+      {
+        "id": "YeEMPcYCbgQ",
+        "title": "EarthCam Live:  Cayman Islands"
+      },
       {
         "id": "9pInqwL0DEY",
         "title": "EarthCam Live:  Aquarium Cam (Baltimore, Maryland)"
@@ -2232,7 +2235,12 @@
     "id": "UC7WAqB7dyv1t8jKunD-8krA",
     "handle": "@L.A.FLIGHTS",
     "name": "L.A FLIGHTS",
-    "videos": []
+    "videos": [
+      {
+        "id": "dIs6uGTkfr8",
+        "title": "🔴LIVE SFO FINAL LUFTY 747 OF THE YEAR! | October 24, 2026 | SFO PLANE SPOTTING"
+      }
+    ]
   },
   {
     "id": "UC7Z6yfD0LKxSftKxOLrbPeQ",
@@ -2249,12 +2257,7 @@
     "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
     "handle": "@castrostreetcam4755",
     "name": "Castro Street Cam 4",
-    "videos": [
-      {
-        "id": "qH-FeyBG5Og",
-        "title": "Castro Street Cam 4 Live Stream"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC7ekPkSzne_PsGbRJP0nkeg",
@@ -2339,7 +2342,7 @@
     "name": "Ship Spotter’s Paradise",
     "videos": [
       {
-        "id": "12-lSGs8BHw",
+        "id": "3guWirn8Rzo",
         "title": "LIVE 24/7 | Skiathos Bay & Port – Real-Time Ship Spotting from Greece"
       }
     ]
@@ -2381,60 +2384,7 @@
     "id": "UC8IKKTJkgZP9vdmnQDV-DZA",
     "handle": "@fhy00",
     "name": "水利署水利防災組",
-    "videos": [
-      {
-        "id": "-nyTOqcRDIQ",
-        "title": "烏來吊橋、烏來老街與覽勝橋，新北市烏來區"
-      },
-      {
-        "id": "aWIeVanMFD0",
-        "title": "花蓮海岸_忘憂亭, 花蓮縣花蓮市(HD)"
-      },
-      {
-        "id": "QBgn5a3k_T0",
-        "title": "美濃溪 美濃橋 , 高雄市美濃區(HD)"
-      },
-      {
-        "id": "uCXgNUJO9e8",
-        "title": "黃金海岸，台南市南區(4K UHD)"
-      },
-      {
-        "id": "Tb6bay3UB18",
-        "title": "二仁溪_田寮崇德橋，高雄市田寮區(HD)"
-      },
-      {
-        "id": "qg-aHp2mvS8",
-        "title": "七星潭_北埔安檢所，花蓮縣新城鄉"
-      },
-      {
-        "id": "BDs9UIRw4zc",
-        "title": "花蓮溪_壽豐花蓮大橋 , 花蓮縣壽豐鄉 (HD)"
-      },
-      {
-        "id": "OQnwVN5lzsk",
-        "title": "花蓮海岸_南濱守望哨，花蓮縣吉安鄉"
-      },
-      {
-        "id": "j3l32VFi5M8",
-        "title": "七星潭_七星潭安檢所，花蓮縣新城鄉(HD)"
-      },
-      {
-        "id": "1vVCtk5OXVk",
-        "title": "典寶溪_楠梓聖興橋，高雄市楠梓區"
-      },
-      {
-        "id": "sKrqs-5Auqo",
-        "title": "高雄海岸_蚵寮國小, 高雄市梓官區"
-      },
-      {
-        "id": "13C8jdbqQcI",
-        "title": "林邊溪_羌園排水(羌光橋)，屏東縣佳冬鄉"
-      },
-      {
-        "id": "yeoV-wBdoxQ",
-        "title": "林田山萬里溪，花蓮縣萬榮鄉"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UC8IidebYzkRnNWdw33fEvWg",
@@ -2862,10 +2812,6 @@
       {
         "id": "ejDld-hWwiU",
         "title": "Live - SEALS from North Lighthouse, Block Island, RI USA"
-      },
-      {
-        "id": "RH9wCBhxkxM",
-        "title": "Bar Harbor, Maine - North View - Bar Harbor Inn"
       },
       {
         "id": "LkZZTkRHLVQ",
@@ -3342,7 +3288,7 @@
     "videos": [
       {
         "id": "2occtpoOu_w",
-        "title": "🔴LIVE - Fort William Live Webcam - Scotland - Loch Linnhe & West End Car Park"
+        "title": "🔴LIVE - Fort William Live Webcam - Scotland - Loch Linnhe & West End Car Park - Storm Boelo"
       },
       {
         "id": "X7_o1eJmOLA",
@@ -3460,6 +3406,10 @@
     "name": "See Transylvania",
     "videos": [
       {
+        "id": "hz7kibvrQK0",
+        "title": "Ka-Ma Sport 🔴 Poiana Brasov Live Webcam - Partia Bradul"
+      },
+      {
         "id": "WC3CkcTYCYY",
         "title": "Cluj Napoca | Piata Unirii - Unirii Square | Planetarium Cafe 🔴 Live Webcam"
       },
@@ -3518,7 +3468,12 @@
     "id": "UCBHhwpHuJR4ZSH8gvxT0DdQ",
     "handle": "@Beaming",
     "name": "Beaming",
-    "videos": []
+    "videos": [
+      {
+        "id": "fcp_DNSpt4A",
+        "title": "Hastings Pier Webcam and English Channel LIVE HD"
+      }
+    ]
   },
   {
     "id": "UCBJJokElYEP8W1Q4O_8-o7Q",
@@ -3552,7 +3507,12 @@
     "id": "UCBWgewoUjqDBEW4kEnh78OA",
     "handle": "@CentarSarajevo",
     "name": "Općina Centar Sarajevo",
-    "videos": []
+    "videos": [
+      {
+        "id": "8F_Q634VyXY",
+        "title": "Općina Centar Sarajevo / Municipality Centar Sarajevo"
+      }
+    ]
   },
   {
     "id": "UCBYdpmbZ8V1zVNXb8XFyQmg",
@@ -3694,8 +3654,8 @@
     "name": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
     "videos": [
       {
-        "id": "c2zyiTHD7x0",
-        "title": "【 Archive】 2026-10-24『00:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
+        "id": "5lrOkECy6F0",
+        "title": "【 Archive】 2026-10-25『00:00～』東京都 新宿 歌舞伎町 ライブ カメラ_1"
       },
       {
         "id": "DjdUEyjx8GM",
@@ -3860,16 +3820,7 @@
     "id": "UCDDsYIl-_S2mtI1wlVU1VFw",
     "handle": "@CityofBettendorfIowa",
     "name": "City of Bettendorf, Iowa",
-    "videos": [
-      {
-        "id": "8Rp5JRSQOvk",
-        "title": "Bettendorf View of the I-74 Mississippi River Bridge"
-      },
-      {
-        "id": "OcJm3FjEeMY",
-        "title": "Bettendorf Duck Creek Web Camera"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCDKFXJj-c-CL7dLBbLBs4ew",
@@ -3910,7 +3861,7 @@
     "name": "WeatherEvents",
     "videos": [
       {
-        "id": "9eKzgA3Af7k",
+        "id": "PyZfwj-F1D4",
         "title": "Aberdour Live Streaming WeatherCam - FifeWeather.co.uk"
       },
       {
@@ -3925,8 +3876,8 @@
     "name": "Khao Lak Land Discovery",
     "videos": [
       {
-        "id": "m4hYJCfJQsM",
-        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 24-Oct-2026 00:00"
+        "id": "HAd7YE8bv0o",
+        "title": "🔴 Khao Lak Webcam - Phang Nga, Thailand 🇹🇭 24-Oct-2026 22:56"
       }
     ]
   },
@@ -4032,7 +3983,12 @@
     "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
     "handle": "@RailwayLiveCamera",
     "name": "Tokyo Akabane Live Camera",
-    "videos": []
+    "videos": [
+      {
+        "id": "2JtlmVDI-ig",
+        "title": "🚅[LIVE]鉄道ライブカメラ(東京 赤羽駅周辺) Tokyo Japan Train Live Camera"
+      }
+    ]
   },
   {
     "id": "UCE7o7gjNuTgEZgZVZSUiuCw",
@@ -4487,7 +4443,7 @@
     "name": "Beach Life Cams",
     "videos": [
       {
-        "id": "KWoB58niJ_Y",
+        "id": "YAm5TGGkOIA",
         "title": "Weston-Super-Mare Beach Live @ Revo Kitchen"
       },
       {
@@ -5057,6 +5013,14 @@
     "name": "Steel Highway Railcams",
     "videos": [
       {
+        "id": "m9A7gETwpRc",
+        "title": "Winlock, Washington Live Railcam - Winlock Liquidation Warehouse  #steelhighway"
+      },
+      {
+        "id": "GIGsJyf2UQE",
+        "title": "Mount Pleasant Coffee Depot Live Railcam (Downtown) - Mt Pleasant, IA #SteelHighway"
+      },
+      {
         "id": "-qOD2a_6WBQ",
         "title": "Muscatine Merrill Hotel Live Railcam - Muscatine, IA #SteelHighway"
       },
@@ -5103,10 +5067,6 @@
       {
         "id": "_ml6k80wSVc",
         "title": "Springfield CID Live Railcam (PTZ) - Springfield, MO #steelhighway"
-      },
-      {
-        "id": "2raya-ESaig",
-        "title": "Mount Pleasant Coffee Depot Live Railcam (Downtown) - Mt Pleasant, IA #SteelHighway"
       },
       {
         "id": "iPcZmrI0pBM",
@@ -5187,10 +5147,6 @@
       {
         "id": "NDeeYpmuGmI",
         "title": "Slinger Depot Museum Live Railcam - Slinger, WI #steelhighway"
-      },
-      {
-        "id": "S3YTiO4jQtI",
-        "title": "Winlock, Washington Live Railcam - Winlock Liquidation Warehouse  #steelhighway"
       },
       {
         "id": "L80yh_XM7bc",
@@ -5656,7 +5612,7 @@
     "name": "丹丹的飛機窩",
     "videos": [
       {
-        "id": "m6i7rbFMxWk",
+        "id": "3wutX0BUWDU",
         "title": "🔴【LIVE】台灣高雄小港機場直播 RCKH/KHH Live Camera ATC  24/7即時影像🔴"
       }
     ]
@@ -5786,6 +5742,10 @@
     "name": "DIRECTO NATURA",
     "videos": [
       {
+        "id": "V0_zlCpTwg4",
+        "title": "🔥 Incendio en el robledal | Un oasis entre las cenizas 🔴 DIRECTO (Cámara 84 | Guadalajara)"
+      },
+      {
         "id": "TcLONlcz_2c",
         "title": "🦅 Cientos de buitres y alimoches en el muladar  (Cámara 82 | Guadalajara)"
       },
@@ -5825,7 +5785,7 @@
     "name": "Lakefront Live",
     "videos": [
       {
-        "id": "tZAqYIZ5HxQ",
+        "id": "0oWptsc2EQw",
         "title": "4K Chicago Lakefront 24/7 LIVE | Navy Pier, Playpen, Lake Shore Drive, Boats, O'Hare & Skyline"
       }
     ]
@@ -5836,7 +5796,7 @@
     "name": "Live Cam Yokohama Japan",
     "videos": [
       {
-        "id": "6h4IGR61eUo",
+        "id": "BF_N3krqSMk",
         "title": "🔴Live Cam Yokohama Japan :横浜汽車道ライブカメラ"
       }
     ]
@@ -6023,7 +5983,7 @@
     "name": "Kozy Le Morne",
     "videos": [
       {
-        "id": "RTFna7DeHwc",
+        "id": "0-Q9-tN1jnc",
         "title": "🔴 Île Maurice / Mauritius - At Kozy Le Morne"
       }
     ]
@@ -6317,8 +6277,8 @@
     "name": "Vancouver Port Live",
     "videos": [
       {
-        "id": "OvWOhL8Q2Bk",
-        "title": "Vancouver LIVE Today | Harbour, Skyline, and Canada Place Views | October 23, 2026"
+        "id": "3dNZkhi2WAY",
+        "title": "Vancouver LIVE Today | Harbour, Skyline, and Canada Place Views | October 24, 2026"
       },
       {
         "id": "aq8s2lIbpCQ",
@@ -6397,7 +6357,7 @@
     "name": "SBGR LIVE",
     "videos": [
       {
-        "id": "-sO6sn19R1A",
+        "id": "RWcVG52vqV0",
         "title": "SBGR LIVE 4K - Aeroporto Internacional de Guarulhos AO VIVO - GRU Airport"
       }
     ]
@@ -6794,7 +6754,7 @@
     "name": "Warsaw Livestream",
     "videos": [
       {
-        "id": "aLe2i7JCnCY",
+        "id": "dhaPkpkuTkM",
         "title": "Warszawa na żywo 🇵🇱 | Warsaw LIVE – panorama i Stadion Narodowy / City Skyline & National Stadium"
       }
     ]
@@ -6997,7 +6957,7 @@
     "name": "石垣島ライブカメラ -ishigaki island-",
     "videos": [
       {
-        "id": "G5pOy9r_he0",
+        "id": "P5rWKx4beHQ",
         "title": "石垣島７３０交差点ＬＩＶＥカメラ"
       }
     ]
@@ -7036,7 +6996,12 @@
     "id": "UCQVre66peaZxhdvfIE1Ahxw",
     "handle": "@360panoEu",
     "name": "360PANO",
-    "videos": []
+    "videos": [
+      {
+        "id": "VhVgZi2lGv0",
+        "title": "24/7 Live Stream 4K - Digital.Tallinn CityCam"
+      }
+    ]
   },
   {
     "id": "UCQX5vohCVn-R4Jl1DFPItuA",
@@ -7044,7 +7009,7 @@
     "name": "NYC Ferry",
     "videos": [
       {
-        "id": "YGtew2icW1g",
+        "id": "1TS_xy9Ocrc",
         "title": "🔴 LIVE New York City Webcam | East River Ferry at East 34th St, Midtown Manhattan | NYC 24/7"
       }
     ]
@@ -7395,15 +7360,15 @@
     "name": "SHOWME Caribbean",
     "videos": [
       {
-        "id": "DWTVu0luISs",
+        "id": "aS-9DDlq7fE",
         "title": "🏝️ Curaçao Live Cams: Willemstad • Mambo Beach • Klein Curaçao • Seaquarium"
       },
       {
-        "id": "GuBDKrmnTSg",
-        "title": "✈️ LIVE October 23 | Maho Beach | SXM Airport St. Maarten (with ATC & Jetblasts)"
+        "id": "47gxGP-0BJA",
+        "title": "✈️ LIVE October 24 | Maho Beach | SXM Airport St. Maarten (with ATC & Jetblasts)"
       },
       {
-        "id": "B2ELxZgw6C4",
+        "id": "9Zx42Qogd_U",
         "title": "🌊 24/7 Caribbean Beach Cams: Aruba • St Maarten • Curacao • Bonaire"
       },
       {
@@ -7621,9 +7586,14 @@
   },
   {
     "id": "UCSilXhjCqvRMtVug1J51CiA",
-    "handle": "",
-    "name": "",
-    "videos": []
+    "handle": "@santuariocovadongaasturias192",
+    "name": "Santuario Covadonga Asturias",
+    "videos": [
+      {
+        "id": "SJ7IoTtjgfk",
+        "title": "Santa Cueva - Santuario de Covadonga - 24h"
+      }
+    ]
   },
   {
     "id": "UCSlFpHBSl-eWWJlbt1gKq4Q",
@@ -7887,12 +7857,7 @@
     "id": "UCUZZJpUgv-Pg6nlO_Zxbl6g",
     "handle": "@nexsulconectividade",
     "name": "Nexsul Conectividade",
-    "videos": [
-      {
-        "id": "ZphB41fedMs",
-        "title": "BR 386 - ESTRELA - LAJEADO ( Suprivale Intelbras - Nexsul )"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCU_cCugjd0QvDSaQXX3ftKQ",
@@ -7949,7 +7914,7 @@
     "name": "Siesta Cam",
     "videos": [
       {
-        "id": "RpgDKeVx7Cw",
+        "id": "PN2HeWUVrUM",
         "title": "Siesta Key Live - Relaxing Sounds of Calm Waves and Island Life"
       }
     ]
@@ -8079,6 +8044,14 @@
     "name": "ABS秋田放送",
     "videos": [
       {
+        "id": "UDBhQfvrWro",
+        "title": "ABS秋田放送　お天気カメラ　秋田空港 （ABS's Weather Live Camera in Akita Airport）"
+      },
+      {
+        "id": "9mAiUwns4-o",
+        "title": "ABS秋田放送　お天気カメラ　秋田港（ABS's Weather Live Camera in the Akita Port of Akita city）"
+      },
+      {
         "id": "V4sgelp4rZk",
         "title": "ABS秋田放送　お天気カメラ　秋田駅前（ABS's Weather Live Cameras in Akita station square ）"
       }
@@ -8135,7 +8108,7 @@
     "name": "Wickaninnish Inn",
     "videos": [
       {
-        "id": "Yx9WvQiTCLo",
+        "id": "D2UaQWgxpk4",
         "title": "Wickaninnish Inn - North Chesterman Beach Live Stream"
       }
     ]
@@ -8453,7 +8426,7 @@
     "name": "Scottish Wildlife Trust",
     "videos": [
       {
-        "id": "5Ty-scZzxlM",
+        "id": "NPyY23Cf9NY",
         "title": "Live osprey nest camera at Loch of the Lowes Wildlife Reserve"
       }
     ]
@@ -8564,12 +8537,7 @@
     "id": "UCYIYTY6_2jB145WxIYdyR1A",
     "handle": "@pozowindswebcam4221",
     "name": "PozoWinds Official ",
-    "videos": [
-      {
-        "id": "W9EXQ1Se6Ts",
-        "title": "PozoWinds webcam"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCYP2o52KVpbcd8Y23moa2KA",
@@ -8933,10 +8901,6 @@
     "name": "STREETS OF THAILAND",
     "videos": [
       {
-        "id": "8p8K9p7bcto",
-        "title": "Zephyr Beach Club 🔴 Lamai Beach, Koh Samui, Thailand | Live Webcam"
-      },
-      {
         "id": "QJCbznkbflA",
         "title": "Royal Muang Samui Villas 🔴 Choeng Mon beach in Koh Samui - Livestream on the beach"
       },
@@ -9113,7 +9077,7 @@
     "name": "Como Cam",
     "videos": [
       {
-        "id": "qaTsw8cJ2yw",
+        "id": "_jTXiggA8Ng",
         "title": "Rifugio Menaggio - PTZ"
       },
       {
@@ -9331,7 +9295,7 @@
     "name": "Janur Merapi",
     "videos": [
       {
-        "id": "vFLlcjxpiLY",
+        "id": "q63lbqCzliQ",
         "title": "Live Merapi - Indonesia's Mount Merapi - Volcano Eruption"
       }
     ]
@@ -9621,10 +9585,6 @@
       {
         "id": "xW0FyU5v5II",
         "title": "Ramsgate Harbour Live Webcam | East Pier - Light House - Beach - Sea - Kent UK"
-      },
-      {
-        "id": "lSA3pKWjmc4",
-        "title": "Ramsgate Royal Harbour LIVE Webcam 24/7 | Inner Marina, Boats & Weather, Kent UK"
       }
     ]
   },
@@ -9828,7 +9788,12 @@
     "id": "UCdr9cCd_WQPlLCAUjNaoACg",
     "handle": "@LVsphere",
     "name": "LV Strip Cam",
-    "videos": []
+    "videos": [
+      {
+        "id": "S5em31Mlm1c",
+        "title": "LIVE: Las Vegas Strip Stream | Real-Time View"
+      }
+    ]
   },
   {
     "id": "UCdz7UmkCvw3GlZTxHRR6Pyw",
@@ -9860,7 +9825,20 @@
     "id": "UCeLJJTWDzN1dYjtJVO0lNfA",
     "handle": "@grancanarialive",
     "name": "Gran Canaria Live",
-    "videos": []
+    "videos": [
+      {
+        "id": "SpE5lieibJk",
+        "title": "GranCanaria.live | MiniGolf.com | Yumbo Center - Playa de Inglés - Gran Canaria - NEW - LIVE webcam"
+      },
+      {
+        "id": "Ea48y09PuNc",
+        "title": "GranCanaria.live | MiniGolf.com | Yumbo Center - Playa del Inglés - Gran Canaria. (4K)"
+      },
+      {
+        "id": "o09siXxJw9A",
+        "title": "GranCanaria.live | MiniGolf.com | Atlantico - Irish Center - Playa de Inglés - Gran Canaria. (4K)"
+      }
+    ]
   },
   {
     "id": "UCeNktV2RfYebcfLWKe1FgYg",
@@ -10245,12 +10223,7 @@
     "id": "UCg2SeSF9iIsLdc84jXl_bTg",
     "handle": "@cubapolak",
     "name": "CubaLibre",
-    "videos": [
-      {
-        "id": "ZWpfPjIHb30",
-        "title": "#Wrocław #Strzegomska #Live #street #traffic"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCg6OElsAGYmkuSySkZpaNGw",
@@ -10866,7 +10839,7 @@
     "name": "Yianni&#39;s Channel",
     "videos": [
       {
-        "id": "Hbp8Nyy4O8k",
+        "id": "MnF2TtTqqgo",
         "title": "Corfu / Kerkyra, Greece LIVE"
       }
     ]
@@ -11097,8 +11070,20 @@
     "name": "CGTN Europe",
     "videos": [
       {
-        "id": "BuBq9ldsEFE",
-        "title": "LIVE: Two suspected attackers killed after shooting attack near checkpoint in West Bank"
+        "id": "VPrKxDS7BxM",
+        "title": "WATCH: Live coverage of a housing protest in Lisbon"
+      },
+      {
+        "id": "2gKSwZ9m91g",
+        "title": "LIVE: Anti-Government Protests Continue in Tirana"
+      },
+      {
+        "id": "3lzDrMJuimo",
+        "title": "WATCH LIVE: People gather in Rome for cost of living protest"
+      },
+      {
+        "id": "Mw8djc_Ussg",
+        "title": "WATCH LIVE: France Sees Continued Protests Over the Weekend"
       },
       {
         "id": "fZqr56lztHw",
@@ -11825,26 +11810,18 @@
     "id": "UClkczhHdkCogS9eXg2E5s0w",
     "handle": "@GramadoTV",
     "name": "Gramado TV",
-    "videos": [
-      {
-        "id": "18qXeKqoiYE",
-        "title": "Conheça melhor a cidade de Gramado"
-      },
-      {
-        "id": "0tMTEejJwhc",
-        "title": "Gramado ao Vivo"
-      },
-      {
-        "id": "rmrw7giE2kg",
-        "title": "Cascata do Caracol - Ao vivo"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UClqd_NklmF4AnW4MYiCeSEg",
     "handle": "@HotelUnionGeiranger",
     "name": "Hotel Union Geiranger",
-    "videos": []
+    "videos": [
+      {
+        "id": "wAdTV6Uc5eA",
+        "title": "Geiranger Live"
+      }
+    ]
   },
   {
     "id": "UClxEfXEOUlQ9kIcuKW3sw2Q",
@@ -11867,7 +11844,7 @@
     "name": "横浜港ライブカメラ",
     "videos": [
       {
-        "id": "kfvj8k5ugvE",
+        "id": "WY0XO57zaEw",
         "title": "ライブカメラ　みなとみらい、ベイブリッジ、横浜港：Yokohama Port Live Camera"
       }
     ]
@@ -12622,16 +12599,16 @@
     "name": "webcamsdemexico",
     "videos": [
       {
+        "id": "4V4iqGhdLq8",
+        "title": "💀🚴🏼‍♀️ PASEO NOCTURNO | Día de Muertos en bici. Paseo de la Reforma En Vivo"
+      },
+      {
+        "id": "kIKzkZZYSmc",
+        "title": "🏮Ángel de la Independencia EN VIVO | Exposición lumínica \"El Camino\" 💀🌼"
+      },
+      {
         "id": "DN7bXtWof9w",
         "title": "💀🌼 ZOCALO En Vivo | Catrina Monumental, inician trabajos para romper Record Guinness, CDMX"
-      },
-      {
-        "id": "iH8Q85m5-9Q",
-        "title": "⚠️ ALERTA AMARILLA CDMX | FRÍO 🥶 desde la MADRUGADA. Zócalo En Vivo"
-      },
-      {
-        "id": "al39ylpoF-E",
-        "title": "⛈️ CDMX (PRONÓSTICO) | Se esperan lluvias para la tarde-noche. Zócalo En Vivo"
       },
       {
         "id": "Bvbll8YMKAY",
@@ -12756,7 +12733,7 @@
     "name": "Customs House 1897🇨🇦",
     "videos": [
       {
-        "id": "91-5h2JFFR4",
+        "id": "bWmtzABSPDI",
         "title": "Tilley Cam -  24/7 Harbour Cam - Port aux Basques, Newfoundland - Live Stream"
       }
     ]
@@ -12875,6 +12852,10 @@
     "handle": "@sanantonioimagen",
     "name": "sanantonioimagen",
     "videos": [
+      {
+        "id": "obYSVVM7RB0",
+        "title": "Playa Chica Cartagena En Vivo"
+      },
       {
         "id": "tuWK78rNoII",
         "title": "Avenida Barros Luco En Vivo"
@@ -13132,7 +13113,7 @@
     "name": "Hawick TV",
     "videos": [
       {
-        "id": "JCfUFDoHMHE",
+        "id": "CbMHXnayrNg",
         "title": "Hawick TV LiveCam - The High Street"
       }
     ]
@@ -13254,7 +13235,7 @@
     "videos": [
       {
         "id": "QHclJVKPLqM",
-        "title": "Marine City HomeTown"
+        "title": "Marine City HomeTown   |  Marine City, Michigan  USA  |  StreamTime Live"
       },
       {
         "id": "PDKGik7Np88",
@@ -13320,8 +13301,8 @@
     "name": "packerysurfcam",
     "videos": [
       {
-        "id": "eFFAVSo32D0",
-        "title": "Packery Surf Cam LIVE | Corpus Christi Surf Cam | North Padre Island 2026-10-23"
+        "id": "fXWWKjO3ZwQ",
+        "title": "Packery Surf Cam LIVE | Corpus Christi Surf Cam | North Padre Island 2026-10-24"
       },
       {
         "id": "5s6X2045OTs",
@@ -13737,7 +13718,7 @@
     "name": "TI - Skyglass Canela",
     "videos": [
       {
-        "id": "R255kMQmJfI",
+        "id": "OHjD2B9rqpw",
         "title": "Skyglass Canela (AO VIVO)"
       }
     ]
@@ -14490,12 +14471,7 @@
     "id": "UCwfkaPTACGouSdFvFdFf5Tg",
     "handle": "@camviewnz",
     "name": "Camview NZ",
-    "videos": [
-      {
-        "id": "v7xySvhug0Y",
-        "title": "Camview: Wellington Airport Webcam Live Stream (Secondary 1080p)"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCwgTQPAmGjWLoTVM8bg275A",
@@ -14876,8 +14852,8 @@
     "name": "Flaming Fire",
     "videos": [
       {
-        "id": "M_hKGT202sI",
-        "title": "Stockholm city live cam 20261023"
+        "id": "edxIVORRFjE",
+        "title": "Stockholm city live cam 20261024"
       }
     ]
   },
@@ -14998,6 +14974,10 @@
     "name": "HANS NATURE CHANNEL",
     "videos": [
       {
+        "id": "gf2w9H3urlw",
+        "title": "Live Bird Feeder 🐦 Forest Wildlife 🦉 Owls & Night Visitors 🎶 Relaxing Real Nature Sounds 24/7"
+      },
+      {
         "id": "8RbT1qYAXkY",
         "title": "🦉 Tawny Owl Live | In Autumn the Owls will return for nightly visits"
       },
@@ -15012,10 +14992,6 @@
       {
         "id": "7YzEdt-920I",
         "title": "🦉LIVE Barn Owl Geesteren (Kerkuil) Theo Lohuis, Vogelwerkgroep Geesteren"
-      },
-      {
-        "id": "D1VM6V6wmU0",
-        "title": "Live Bird Feeder🐦 Forest Wildlife 🦉 Owls & Night Visitors 🎶 Relaxing Real Nature Sounds 24/7"
       }
     ]
   },
@@ -15071,36 +15047,7 @@
     "id": "UCyll26UKJ7JHZ9txipeUW2w",
     "handle": "@VisitStCroixcom",
     "name": "VisitStCroix.com",
-    "videos": [
-      {
-        "id": "-fn1VcQMLuI",
-        "title": "Tamarind Reef Resort, Spa & Marina"
-      },
-      {
-        "id": "ytNWnGt0kB4",
-        "title": "West End Water Sports on Rainbow Beach in Frederiksted, St. Croix in the USVI"
-      },
-      {
-        "id": "lm1f6_4XB9g",
-        "title": "Cottages By The Sea in Frederiksted, St. Croix"
-      },
-      {
-        "id": "LcjRMvb-yOg",
-        "title": "Schooner Bay Condominium, Christiansted, St, Croix US Virgin Islands"
-      },
-      {
-        "id": "II9_tyn1HDI",
-        "title": "Caravelle Hotel & Casino’s view toward Christiansted Harbor in St. Croix"
-      },
-      {
-        "id": "9nmchjRTEtY",
-        "title": "Palms at Pelican Cove Beach Resort, St. Croix, USVI"
-      },
-      {
-        "id": "07jdFF_jvC0",
-        "title": "The Buccaneer Beach and Golf Resort, St. Croix"
-      }
-    ]
+    "videos": []
   },
   {
     "id": "UCytuti58w93kG92WngmvrUw",
@@ -15164,7 +15111,7 @@
     "name": "Magris Maniago",
     "videos": [
       {
-        "id": "JFhEs9xqn8I",
+        "id": "nI1ZW10g5kw",
         "title": "Maniago Live Webcam by Magris Maniago"
       }
     ]
@@ -15381,13 +15328,23 @@
     "id": "UCznYV93b1V_PGy4yOPnR0mw",
     "handle": "@tarquinburrows2649",
     "name": "Tarquin Burrows",
-    "videos": []
+    "videos": [
+      {
+        "id": "QBvtu6_LWNk",
+        "title": "Nahoon Beach Live Streaming"
+      }
+    ]
   },
   {
     "id": "UCzofN-7yLDKoPmh37yqMpiA",
     "handle": "@geovision3356",
     "name": "GeoVision Demonstration",
-    "videos": []
+    "videos": [
+      {
+        "id": "aOAjsZoqpN8",
+        "title": "[ Taiwan ] Live view demonstration : GV-BX2802"
+      }
+    ]
   },
   {
     "id": "UCzq2rnoZ4iC-30wYZkqRrGw",
