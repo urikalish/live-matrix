@@ -354,12 +354,6 @@
     "date": "2026-10-23"
   },
   {
-    "id": "UCqhDq_fKTSgc8LZCa2gGMEg",
-    "handle": "@GavinBHeffernan",
-    "name": "Gavin Heffernan Timelapse Travel ",
-    "date": "2026-10-23"
-  },
-  {
     "id": "UCg2SeSF9iIsLdc84jXl_bTg",
     "handle": "@cubapolak",
     "name": "CubaLibre",
@@ -375,12 +369,6 @@
     "id": "UCdNQcGHJL0q73W2Ph4X1K4Q",
     "handle": "@hovenloen6279",
     "name": "Hoven Loen",
-    "date": "2026-10-25"
-  },
-  {
-    "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
-    "handle": "@RailwayLiveCamera",
-    "name": "Tokyo Akabane Live Camera",
     "date": "2026-10-25"
   },
   {
@@ -420,12 +408,6 @@
     "date": "2026-10-27"
   },
   {
-    "id": "UCeh-xpdolXxtC7ey15ccW-g",
-    "handle": "@cburgdorfer",
-    "name": "Christoph Burgdorfer",
-    "date": "2026-10-27"
-  },
-  {
     "id": "UChRn7rTISPmDpgXdnMFBCzw",
     "handle": "@koninklijkeyachtclubnieuwp7311",
     "name": "Koninklijke Yacht Club Nieuwpoort",
@@ -444,39 +426,9 @@
     "date": "2026-10-27"
   },
   {
-    "id": "UC8IKKTJkgZP9vdmnQDV-DZA",
-    "handle": "@fhy00",
-    "name": "水利署水利防災組",
-    "date": "2026-10-28"
-  },
-  {
-    "id": "UCayE6-RHoYoIcnqp36o4Rjg",
-    "handle": "@sebinkarahisarbelediyesi",
-    "name": "Sebinkarahisar Belediyesi",
-    "date": "2026-10-28"
-  },
-  {
-    "id": "UCbP6xNZKA-xcVCP50wxPeiQ",
-    "handle": "@Janur",
-    "name": "Janur Merapi",
-    "date": "2026-10-28"
-  },
-  {
     "id": "UCdmrMySXycO_2dIiZnQ1k-g",
     "handle": "@kjdbum7967",
     "name": "KJD BUM",
-    "date": "2026-10-28"
-  },
-  {
-    "id": "UCef_Yfk6baScsTCcDxzXE5Q",
-    "handle": "@Reef-SA",
-    "name": "REEF SOUTH AFRICA",
-    "date": "2026-10-28"
-  },
-  {
-    "id": "UCFbCFCIy44FvzHecRZnzHww",
-    "handle": "@KohChangLiveCamera",
-    "name": "Koh Chang Live Camera",
     "date": "2026-10-28"
   },
   {
@@ -486,33 +438,105 @@
     "date": "2026-10-28"
   },
   {
-    "id": "UCl5P2zJoH1gBdf38AiYALKA",
-    "handle": "@portal5900vm",
-    "name": "Portal 5900",
-    "date": "2026-10-28"
-  },
-  {
-    "id": "UCmM8fJ5uDl8pqu8nnd8Ixlg",
-    "handle": "@mooreequipmentltd.3428",
-    "name": "Moore Equipment Ltd.",
-    "date": "2026-10-28"
-  },
-  {
-    "id": "UCsXoS2vcQqyBwcPaua6Asfw",
-    "handle": "@ricky6811",
-    "name": "飛訊安防科技",
-    "date": "2026-10-28"
-  },
-  {
-    "id": "UCVwWET2HAacXoiOyDUWaFNA",
-    "handle": "@eecoips2391",
-    "name": "EECO IPS",
-    "date": "2026-10-28"
-  },
-  {
     "id": "UCx8ILP7mQxM0nBv9bwTmTRQ",
     "handle": "@paradisevibes7610",
     "name": "PARADISE VIBES",
     "date": "2026-10-28"
+  },
+  {
+    "id": "UC4Wd3aS1XKA39dCveZExSkg",
+    "handle": "@oneandmoreaviation",
+    "name": "One and More Aviation ",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UC52X5wxOL_s5yw0dQk7NtgA",
+    "handle": "@AssociatedPress",
+    "name": "Associated Press",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UC6kdM4uR54C72vtsR_mCKHg",
+    "handle": "@herligedale2996",
+    "name": "Herlige Dale",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UC7WAqB7dyv1t8jKunD-8krA",
+    "handle": "@L.A.FLIGHTS",
+    "name": "L.A FLIGHTS",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UC8-BXn_sXlaJmGSE9SkRTYg",
+    "handle": "@ShipSpottersParadise",
+    "name": "Ship Spotter’s Paradise",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UC8HLYEGSvHBroUqZMcGaSHg",
+    "handle": "@三ノ輪駅前ライブカメラ",
+    "name": "三ノ輪駅前ライブカメラ",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UCbMSl7-RvWs4szJNHwdXCpg",
+    "handle": "@HubbardsMarina",
+    "name": "Hubbard&#39;s Marina",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UCDOREphwc9P-ul7YEHiBWqw",
+    "handle": "@WebcamPort-Valais-hm4fb",
+    "name": "Webcam Port-Valais",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UCEZ7PO6RObVv2kTT1D6zibQ",
+    "handle": "@FitchburgTV",
+    "name": "Fitchburg Access TV - FATV",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UCFyohCp_Vx6WC82DiJ0l88w",
+    "handle": "@DMOKYOTO",
+    "name": "京都市観光協会Kyoto City Tourism Association",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UChyEBRozX9qMh5uusGzQfAQ",
+    "handle": "@deserthandcarwash",
+    "name": "Desert Hand Car Wash",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UCIsPPwu9VefxZZ9tPYcQMmQ",
+    "handle": "@shipm8",
+    "name": "SHIPM8",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UCKiObhTepfujcMJaqZ9qzsQ",
+    "handle": "@oldbridgeairport618",
+    "name": "Old Bridge Airport",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UCM54h2kw7FsKMNPGDWPLy7w",
+    "handle": "@kaparkonaoriginal",
+    "name": "Kap Arkona",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UCNOXlPIEg4nNvCqlInpKcXw",
+    "handle": "@vancouverportlive",
+    "name": "Vancouver Port Live",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "UCRSVYu3ANXrQuSnpw5bPUBw",
+    "handle": "@SundialHotelWhistler",
+    "name": "Sundial Hotel",
+    "date": "2026-10-29"
   }
 ]
