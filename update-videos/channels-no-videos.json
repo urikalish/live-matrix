@@ -420,12 +420,6 @@
     "date": "2026-11-03"
   },
   {
-    "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
-    "handle": "@RailwayLiveCamera",
-    "name": "Tokyo Akabane Live Camera",
-    "date": "2026-11-03"
-  },
-  {
     "id": "UCqMKJRBR8K3tfxY1a0IUm4g",
     "handle": "@mountsouthingtonskiarea9062",
     "name": "Mount Southington Ski Area",
@@ -450,12 +444,6 @@
     "date": "2026-11-05"
   },
   {
-    "id": "UC9diDJiKGl6K0TuugYZxNkQ",
-    "handle": "@MountWashingtonCogRailway",
-    "name": "Mount Washington Cog Railway",
-    "date": "2026-11-05"
-  },
-  {
     "id": "UCIY3JMAcniBR8ngBw6OYvTA",
     "handle": "@Niagarafallslive",
     "name": "Old Fort Niagara",
@@ -474,39 +462,9 @@
     "date": "2026-11-06"
   },
   {
-    "id": "UC0djAWwMXP22wzocdJR9dWw",
-    "handle": "@JazBazPhilippines",
-    "name": "JazBaz Philippines",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "UC28IT4ghbKO988OzkIfRCbw",
-    "handle": "@TorontoLive4k",
-    "name": "TorontoLive4k",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "UC3yyv3A3atZf0d0ybFMrhbw",
-    "handle": "@airplane_live",
-    "name": "Airplane Live",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
-    "handle": "@pontalnetv",
-    "name": "Pontal NeTv - Internet 100% Fibra",
-    "date": "2026-11-06"
-  },
-  {
     "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
     "handle": "@castrostreetcam4755",
     "name": "Castro Street Cam 4",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "UCaLNBpVCnRQ129Ow2MaMtew",
-    "handle": "@como_cam",
-    "name": "Como Cam",
     "date": "2026-11-06"
   },
   {
@@ -534,39 +492,9 @@
     "date": "2026-11-06"
   },
   {
-    "id": "UCOjscjEL-lGZVP-2uooEuCA",
-    "handle": "@libraryvideos",
-    "name": "East Hampton Library",
-    "date": "2026-11-06"
-  },
-  {
     "id": "UCrr1vVhuKmB5pUV6eCilRMQ",
     "handle": "@portalbernihq",
     "name": "Port Alberni Live Webcam",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "UCRZplV8vE67bgCI6_3sm3mQ",
-    "handle": "@TANUKIYA",
-    "name": "たぬきやLIVE",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "UCsFgbVuhRrPV5FqyN7kOD8g",
-    "handle": "@FOBBVCAM",
-    "name": "FOBBV CAM",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "UCtnuAOh7DrspJt9K7bzXQOw",
-    "handle": "@ti.skyglasscanela",
-    "name": "TI - Skyglass Canela",
-    "date": "2026-11-06"
-  },
-  {
-    "id": "UCy9ww22FuUlXd0c6B8INJVQ",
-    "handle": "@inc8774",
-    "name": "INC長野ケーブルテレビ 【公式】",
     "date": "2026-11-06"
   },
   {
@@ -576,15 +504,135 @@
     "date": "2026-11-06"
   },
   {
-    "id": "UCyJ_WqTXFf1Wx6YiBR9CHxw",
-    "handle": "@rogerstokes3320",
-    "name": "Roger Stokes",
-    "date": "2026-11-06"
+    "id": "UC0BaUi4Ob9uA1qKsF6N8D6Q",
+    "handle": "@seaislecitybeachpatrol2994",
+    "name": "Sea Isle City Beach Patrol",
+    "date": "2026-11-07"
   },
   {
-    "id": "UCznXKvxj3U1dEQDprXBmlQA",
-    "handle": "@seestaug",
-    "name": "See St. Augustine",
-    "date": "2026-11-06"
+    "id": "UC52X5wxOL_s5yw0dQk7NtgA",
+    "handle": "@AssociatedPress",
+    "name": "Associated Press",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UC5Dy3WsfZw5AQxnamT0d0ow",
+    "handle": "@BungalowsChryssa",
+    "name": "Bungalows Chryssa",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UC5oMexvQVrM4qNNVFK7M7Yw",
+    "handle": "@Sondelaterre",
+    "name": "Le Son de la terre",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UC9X6gGKDv2yhMoofoeS7-Gg",
+    "handle": "@NamibiaCam",
+    "name": "NamibiaCam",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCbbfor2m620lTQd3jOk5ggQ",
+    "handle": "@SedonaLiveStream",
+    "name": "Sedona Live Cam",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCCZ0dSF4mdNfJTnUq5cIISQ",
+    "handle": "@WebcamMonheim",
+    "name": "Webcam Monheim",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UChL5PWTYzB3CNEm4FpgaAMQ",
+    "handle": "@Harbourvillagebonaire",
+    "name": "Harbour Village Bonaire",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCmSsdXm7F8CWlOODXSzANsg",
+    "handle": "@ZeroEight",
+    "name": "ZeroEight",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCnuF5fiEc6DdbhDHCQoCAfA",
+    "handle": "@AucklandCityViews",
+    "name": "Auckland City Views",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCo-qXsM5O9OUI3mNlfIr0PA",
+    "handle": "@SnapcatsOrg",
+    "name": "SNAP Cats",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCPbYdZrhDgIvIU72BNZUAxQ",
+    "handle": "@vilakalangojeri",
+    "name": "Vila Kalango",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCQ67X9KtVFMo2h1a1AMGZZQ",
+    "handle": "@EinbeckerMorgenpostDe1810",
+    "name": "Einbecker Morgenpost",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCr7GtOadmMI2KMfei9yElxQ",
+    "handle": "@Billyforce",
+    "name": "Billyforce Entertainment",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCsyyRhCqrvBInUQYTNxL6lw",
+    "handle": "@poroslivegr4994",
+    "name": "POROSLIVE GR",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCTLF36lXVM7uiR-VolWHv0Q",
+    "handle": "@MEGALabCam",
+    "name": "MEGA Lab",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCUZZJpUgv-Pg6nlO_Zxbl6g",
+    "handle": "@nexsulconectividade",
+    "name": "Nexsul Conectividade",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCVwWET2HAacXoiOyDUWaFNA",
+    "handle": "@eecoips2391",
+    "name": "EECO IPS",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCXCRtOlf5p2fQnaWCrKigTA",
+    "handle": "@viviendasvacacionalescante8718",
+    "name": "Viviendas Vacacionales Canteras Vista Playa",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCxd6_Ql2p4OoSXbKZGP0bmg",
+    "handle": "@grit805",
+    "name": "GRIT",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCYIDC8uaWwWoYTgrSWP-_GA",
+    "handle": "@SatelliteBeachLive",
+    "name": "SatelliteBeachLive",
+    "date": "2026-11-07"
+  },
+  {
+    "id": "UCzaHnTdYgOqf4MA_OaOAJ8g",
+    "handle": "@destinwaterusers7092",
+    "name": "Destin Water Users",
+    "date": "2026-11-07"
   }
 ]
