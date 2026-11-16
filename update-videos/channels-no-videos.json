@@ -414,12 +414,6 @@
     "date": "2026-11-05"
   },
   {
-    "id": "UCJk1ArOmeKdyMyvONIWPMfw",
-    "handle": "@DeltaYacht",
-    "name": "Delta Yacht",
-    "date": "2026-11-06"
-  },
-  {
     "id": "UCnuF5fiEc6DdbhDHCQoCAfA",
     "handle": "@AucklandCityViews",
     "name": "Auckland City Views",
@@ -450,34 +444,10 @@
     "date": "2026-11-10"
   },
   {
-    "id": "UCuoENUqNd-EXgac6EmKr-Gg",
-    "handle": "@vukislunj7814",
-    "name": "Vuki Slunj",
-    "date": "2026-11-10"
-  },
-  {
     "id": "UC9vjLpH4MYgIUTyQT6SnSQQ",
     "handle": "@WestYellowstoneVIC",
     "name": "DestinationYellowstone",
     "date": "2026-11-11"
-  },
-  {
-    "id": "UCKiObhTepfujcMJaqZ9qzsQ",
-    "handle": "@oldbridgeairport618",
-    "name": "Old Bridge Airport",
-    "date": "2026-11-11"
-  },
-  {
-    "id": "UC52X5wxOL_s5yw0dQk7NtgA",
-    "handle": "@AssociatedPress",
-    "name": "Associated Press",
-    "date": "2026-11-12"
-  },
-  {
-    "id": "UCuAa7DaemcOS_q6Ql9Qo5Yg",
-    "handle": "@DesMoinesGov",
-    "name": "City of Des Moines – DMTV",
-    "date": "2026-11-12"
   },
   {
     "id": "UC2TVrVzOCC2xxphLm_03U2A",
@@ -490,18 +460,6 @@
     "handle": "@ashehighcountryrealty",
     "name": "Ashe High Country Realty",
     "date": "2026-11-13"
-  },
-  {
-    "id": "UCayE6-RHoYoIcnqp36o4Rjg",
-    "handle": "@sebinkarahisarbelediyesi",
-    "name": "Sebinkarahisar Belediyesi",
-    "date": "2026-11-14"
-  },
-  {
-    "id": "UCeunW_050lqjYtDwGatMFvw",
-    "handle": "@waterstreetinn3792",
-    "name": "Water Street Inn",
-    "date": "2026-11-14"
   },
   {
     "id": "UCUZZJpUgv-Pg6nlO_Zxbl6g",
@@ -522,69 +480,111 @@
     "date": "2026-11-15"
   },
   {
-    "id": "UC6hcr5RRZvTtSfsNJ2MLj2Q",
-    "handle": "@pontalnetv",
-    "name": "Pontal NeTv - Internet 100% Fibra",
-    "date": "2026-11-15"
-  },
-  {
-    "id": "UC7WAqB7dyv1t8jKunD-8krA",
-    "handle": "@L.A.FLIGHTS",
-    "name": "L.A FLIGHTS",
-    "date": "2026-11-15"
-  },
-  {
-    "id": "UC9UE5PYgoWAgDvIvTkD6dAg",
-    "handle": "@poriwebcam",
-    "name": "Pori webcam",
-    "date": "2026-11-15"
-  },
-  {
     "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
     "handle": "@RailwayLiveCamera",
     "name": "Tokyo Akabane Live Camera",
     "date": "2026-11-15"
   },
   {
-    "id": "UChFbxcSq9iCfdbu-twIfGuw",
-    "handle": "@martijnrietveld",
-    "name": "Martijn Rietveld",
-    "date": "2026-11-15"
+    "id": "UC6RIkXobtXWJElbwEHIC-sg",
+    "handle": "@TehachapiLiveTrainCam",
+    "name": "Tehachapi Live Train Cams",
+    "date": "2026-11-16"
   },
   {
-    "id": "UCjvtkjWwpnhgGv2nutFFr-A",
-    "handle": "@IloveLx",
-    "name": "I love Lx",
-    "date": "2026-11-15"
+    "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
+    "handle": "@castrostreetcam4755",
+    "name": "Castro Street Cam 4",
+    "date": "2026-11-16"
   },
   {
-    "id": "UCJXClwfIZPEf-FC_NVMKQCQ",
-    "handle": "@ChampaignAviationMuseum",
-    "name": "Champaign Aviation Museum",
-    "date": "2026-11-15"
+    "id": "UC882xzhvQ53Cva8vym_RCRA",
+    "handle": "@webcamhafenwestseite3594",
+    "name": "Webcam Hafenwestseite #3",
+    "date": "2026-11-16"
   },
   {
-    "id": "UCPSR2Sz1xSlh3vVeCUWeUDg",
-    "handle": "@evanstonbeach1885",
-    "name": "Evanston Beach",
-    "date": "2026-11-15"
+    "id": "UC8p1N6NQkCnUukz3fkwb9Rw",
+    "handle": "@Taimaz.B",
+    "name": "Taimaz",
+    "date": "2026-11-16"
   },
   {
-    "id": "UCsQ4KElhQsKe4ckYuC66Aog",
-    "handle": "@bowling.warnemuende",
-    "name": "Ostseebowling Warnemünde Rostock",
-    "date": "2026-11-15"
+    "id": "UC8qCc7sF9hSjP-U0TiaO5Tw",
+    "handle": "@CliffHouseLive",
+    "name": "Cliff House Live",
+    "date": "2026-11-16"
   },
   {
-    "id": "UCVwWET2HAacXoiOyDUWaFNA",
-    "handle": "@eecoips2391",
-    "name": "EECO IPS",
-    "date": "2026-11-15"
+    "id": "UC9pUcnlz3ggW1YSQWh4C6Eg",
+    "handle": "@panoramamorska",
+    "name": "Panorama Morska • Więcej niż HOTEL nad morzem",
+    "date": "2026-11-16"
   },
   {
-    "id": "UCzQdo4UCx-oWrJ8Gsi9ZHvQ",
-    "handle": "@rynekpszczyna233",
-    "name": "Rynek Pszczyna",
-    "date": "2026-11-15"
+    "id": "UCa6JQgXH9u3ce7UNMv9d-ig",
+    "handle": "@miycwebcamstreaming1083",
+    "name": "MIYC Webcam Streaming",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "UCef_Yfk6baScsTCcDxzXE5Q",
+    "handle": "@Reef-SA",
+    "name": "REEF SOUTH AFRICA",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "UCI4huqcitDTCjPrDSelgk5g",
+    "handle": "@sheffield-weather-cam",
+    "name": "Sheffield weather cam uk",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "UCj0TppyxzQWm9JbMg3CP8Rg",
+    "handle": "@CGTNEurope",
+    "name": "CGTN Europe",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "UCo9e_ilRlTxHTCFAcaLR2-w",
+    "handle": "@livecameralivedive6416",
+    "name": "【Kitchen DIVE】Live camera in Tokyo Japan",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "UCOjscjEL-lGZVP-2uooEuCA",
+    "handle": "@libraryvideos",
+    "name": "East Hampton Library",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "UCP9iUsMyLRKbxhGAEDChbCA",
+    "handle": "@meteomontedarena",
+    "name": "Meteo Montedarena",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "UCq19Y98jvY_Tjgm6QMk6vWA",
+    "handle": "@WolkamIT",
+    "name": "Wolkam IT",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "UCqZfgk_okjEE3bDlJl90dGQ",
+    "handle": "@HawickTV",
+    "name": "Hawick TV",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "UCRiY_FP2PZHeWWuIsMKyxGA",
+    "handle": "@lesarcs",
+    "name": "Les Arcs",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "UCxdkv0StDfmn1dXWStAt2tw",
+    "handle": "@flamingf.1562",
+    "name": "Flaming Fire",
+    "date": "2026-11-16"
   }
 ]
