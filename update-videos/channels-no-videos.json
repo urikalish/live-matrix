@@ -366,18 +366,6 @@
     "date": "2026-10-27"
   },
   {
-    "id": "UChyEBRozX9qMh5uusGzQfAQ",
-    "handle": "@deserthandcarwash",
-    "name": "Desert Hand Car Wash",
-    "date": "2026-10-29"
-  },
-  {
-    "id": "UC0aRUMUvwJ-7xx0mfNwhVZA",
-    "handle": "@Akureyri_official",
-    "name": "Akureyrarbær",
-    "date": "2026-10-31"
-  },
-  {
     "id": "UC39cxeCVCkgczgG4zpiMPjA",
     "handle": "@clevedonmarinelakewebcam4369",
     "name": "Clevedon Marine Lake Web Cam",
@@ -444,21 +432,9 @@
     "date": "2026-11-10"
   },
   {
-    "id": "UC9vjLpH4MYgIUTyQT6SnSQQ",
-    "handle": "@WestYellowstoneVIC",
-    "name": "DestinationYellowstone",
-    "date": "2026-11-11"
-  },
-  {
     "id": "UC2TVrVzOCC2xxphLm_03U2A",
     "handle": "@zoodecin5198",
     "name": "Zoo Děčín",
-    "date": "2026-11-13"
-  },
-  {
-    "id": "UCFZO10OCD0gGxRGa1N0ePYQ",
-    "handle": "@ashehighcountryrealty",
-    "name": "Ashe High Country Realty",
     "date": "2026-11-13"
   },
   {
@@ -474,81 +450,15 @@
     "date": "2026-11-14"
   },
   {
-    "id": "UC0aRRZkVrO_0nqfuXYaL_Cg",
-    "handle": "@municipiulresita3730",
-    "name": "Municipiul Reșița",
-    "date": "2026-11-15"
-  },
-  {
     "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
     "handle": "@RailwayLiveCamera",
     "name": "Tokyo Akabane Live Camera",
     "date": "2026-11-15"
   },
   {
-    "id": "UC6RIkXobtXWJElbwEHIC-sg",
-    "handle": "@TehachapiLiveTrainCam",
-    "name": "Tehachapi Live Train Cams",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
-    "handle": "@castrostreetcam4755",
-    "name": "Castro Street Cam 4",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "UC882xzhvQ53Cva8vym_RCRA",
-    "handle": "@webcamhafenwestseite3594",
-    "name": "Webcam Hafenwestseite #3",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "UC8p1N6NQkCnUukz3fkwb9Rw",
-    "handle": "@Taimaz.B",
-    "name": "Taimaz",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "UC8qCc7sF9hSjP-U0TiaO5Tw",
-    "handle": "@CliffHouseLive",
-    "name": "Cliff House Live",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "UC9pUcnlz3ggW1YSQWh4C6Eg",
-    "handle": "@panoramamorska",
-    "name": "Panorama Morska • Więcej niż HOTEL nad morzem",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "UCa6JQgXH9u3ce7UNMv9d-ig",
-    "handle": "@miycwebcamstreaming1083",
-    "name": "MIYC Webcam Streaming",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "UCef_Yfk6baScsTCcDxzXE5Q",
-    "handle": "@Reef-SA",
-    "name": "REEF SOUTH AFRICA",
-    "date": "2026-11-16"
-  },
-  {
     "id": "UCI4huqcitDTCjPrDSelgk5g",
     "handle": "@sheffield-weather-cam",
     "name": "Sheffield weather cam uk",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "UCj0TppyxzQWm9JbMg3CP8Rg",
-    "handle": "@CGTNEurope",
-    "name": "CGTN Europe",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "UCo9e_ilRlTxHTCFAcaLR2-w",
-    "handle": "@livecameralivedive6416",
-    "name": "【Kitchen DIVE】Live camera in Tokyo Japan",
     "date": "2026-11-16"
   },
   {
@@ -558,33 +468,99 @@
     "date": "2026-11-16"
   },
   {
-    "id": "UCP9iUsMyLRKbxhGAEDChbCA",
-    "handle": "@meteomontedarena",
-    "name": "Meteo Montedarena",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "UCq19Y98jvY_Tjgm6QMk6vWA",
-    "handle": "@WolkamIT",
-    "name": "Wolkam IT",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "UCqZfgk_okjEE3bDlJl90dGQ",
-    "handle": "@HawickTV",
-    "name": "Hawick TV",
-    "date": "2026-11-16"
-  },
-  {
-    "id": "UCRiY_FP2PZHeWWuIsMKyxGA",
-    "handle": "@lesarcs",
-    "name": "Les Arcs",
-    "date": "2026-11-16"
-  },
-  {
     "id": "UCxdkv0StDfmn1dXWStAt2tw",
     "handle": "@flamingf.1562",
     "name": "Flaming Fire",
     "date": "2026-11-16"
+  },
+  {
+    "id": "UC_dQTOYTn6r5Kij3z0_SP6Q",
+    "handle": "@CAROSELLO3000",
+    "name": "Carosello 3000 - Livigno",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "UC52X5wxOL_s5yw0dQk7NtgA",
+    "handle": "@AssociatedPress",
+    "name": "Associated Press",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "UC5oMexvQVrM4qNNVFK7M7Yw",
+    "handle": "@Sondelaterre",
+    "name": "Le Son de la terre",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "UC7WAqB7dyv1t8jKunD-8krA",
+    "handle": "@L.A.FLIGHTS",
+    "name": "L.A FLIGHTS",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "UCd0Aa89g9hbSQC-APdXWNNg",
+    "handle": "@ismannen",
+    "name": "ole petter løbak (ice_baby)",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "UCDmNmxF3ZVMeGyvWE9tOqPQ",
+    "handle": "@ABC13Houston",
+    "name": "ABC13 Houston",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "UCIsPPwu9VefxZZ9tPYcQMmQ",
+    "handle": "@shipm8",
+    "name": "SHIPM8",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "UCn4oQ60oxfvq7aesEPYqpKw",
+    "handle": "@prorail",
+    "name": "ProRail",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "UCoGAnM2Ek-KVDEQiyuN_XGg",
+    "handle": "@Bouwwebcam",
+    "name": "Bouwwebcam.nl - WebcamPro BV",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "UCQG4-bLpeMuiZT_j3AMYftw",
+    "handle": "@bruno_roselli",
+    "name": "Bruno Roselli",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "UCR2CLso5tZOHwkFDXPuuKHw",
+    "handle": "@Haustechnik-Corbusierhaus",
+    "name": "Turmfalken im Corbusierhaus",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "UCr7GtOadmMI2KMfei9yElxQ",
+    "handle": "@Billyforce",
+    "name": "Billyforce Entertainment",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "UCXaQjESu5cdF1CGH1aAA52Q",
+    "handle": "@Manupuntocl",
+    "name": "Manupuntocl",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "UCzK4mZybYjXr6kiPcSNwWJg",
+    "handle": "@AquaTerraZoo",
+    "name": "Haus des Meeres Aqua Terra Zoo",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "UCZqr-kHlRzGyCgh7BHksSAw",
+    "handle": "@canneswebcamboulevarddumid3987",
+    "name": "Cannes webcams : Boulevard du midi",
+    "date": "2026-11-17"
   }
 ]
