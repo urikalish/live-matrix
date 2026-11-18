@@ -6,12 +6,6 @@
     "date": "2026-05-03"
   },
   {
-    "id": "UCuhsRQCfzo3UUiPTwDmRDrQ",
-    "handle": "@PortlandDowntown",
-    "name": "Portland Downtown",
-    "date": "2026-05-03"
-  },
-  {
     "id": "UCVR1W8BAC5bUrsvi0IdqDPg",
     "handle": "@ptdcrvenivrh",
     "name": "PTD Crveni vrh",
@@ -444,24 +438,6 @@
     "date": "2026-11-14"
   },
   {
-    "id": "UCVKqVweZASGMJ1BpiATUCIw",
-    "handle": "@MapesofMillport",
-    "name": "Mapes of Millport",
-    "date": "2026-11-14"
-  },
-  {
-    "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
-    "handle": "@RailwayLiveCamera",
-    "name": "Tokyo Akabane Live Camera",
-    "date": "2026-11-15"
-  },
-  {
-    "id": "UCI4huqcitDTCjPrDSelgk5g",
-    "handle": "@sheffield-weather-cam",
-    "name": "Sheffield weather cam uk",
-    "date": "2026-11-16"
-  },
-  {
     "id": "UCOjscjEL-lGZVP-2uooEuCA",
     "handle": "@libraryvideos",
     "name": "East Hampton Library",
@@ -492,51 +468,9 @@
     "date": "2026-11-17"
   },
   {
-    "id": "UC7WAqB7dyv1t8jKunD-8krA",
-    "handle": "@L.A.FLIGHTS",
-    "name": "L.A FLIGHTS",
-    "date": "2026-11-17"
-  },
-  {
-    "id": "UCd0Aa89g9hbSQC-APdXWNNg",
-    "handle": "@ismannen",
-    "name": "ole petter løbak (ice_baby)",
-    "date": "2026-11-17"
-  },
-  {
-    "id": "UCDmNmxF3ZVMeGyvWE9tOqPQ",
-    "handle": "@ABC13Houston",
-    "name": "ABC13 Houston",
-    "date": "2026-11-17"
-  },
-  {
-    "id": "UCIsPPwu9VefxZZ9tPYcQMmQ",
-    "handle": "@shipm8",
-    "name": "SHIPM8",
-    "date": "2026-11-17"
-  },
-  {
-    "id": "UCn4oQ60oxfvq7aesEPYqpKw",
-    "handle": "@prorail",
-    "name": "ProRail",
-    "date": "2026-11-17"
-  },
-  {
-    "id": "UCoGAnM2Ek-KVDEQiyuN_XGg",
-    "handle": "@Bouwwebcam",
-    "name": "Bouwwebcam.nl - WebcamPro BV",
-    "date": "2026-11-17"
-  },
-  {
     "id": "UCQG4-bLpeMuiZT_j3AMYftw",
     "handle": "@bruno_roselli",
     "name": "Bruno Roselli",
-    "date": "2026-11-17"
-  },
-  {
-    "id": "UCR2CLso5tZOHwkFDXPuuKHw",
-    "handle": "@Haustechnik-Corbusierhaus",
-    "name": "Turmfalken im Corbusierhaus",
     "date": "2026-11-17"
   },
   {
@@ -546,21 +480,99 @@
     "date": "2026-11-17"
   },
   {
-    "id": "UCXaQjESu5cdF1CGH1aAA52Q",
-    "handle": "@Manupuntocl",
-    "name": "Manupuntocl",
-    "date": "2026-11-17"
+    "id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
+    "handle": "@castrostreetcam4755",
+    "name": "Castro Street Cam 4",
+    "date": "2026-11-18"
   },
   {
-    "id": "UCzK4mZybYjXr6kiPcSNwWJg",
-    "handle": "@AquaTerraZoo",
-    "name": "Haus des Meeres Aqua Terra Zoo",
-    "date": "2026-11-17"
+    "id": "UC7ekPkSzne_PsGbRJP0nkeg",
+    "handle": "@WebcamsOnline",
+    "name": "WEBCAMS ONLINE",
+    "date": "2026-11-18"
   },
   {
-    "id": "UCZqr-kHlRzGyCgh7BHksSAw",
-    "handle": "@canneswebcamboulevarddumid3987",
-    "name": "Cannes webcams : Boulevard du midi",
-    "date": "2026-11-17"
+    "id": "UC7UzAjbjzvekhio8uEJXCpw",
+    "handle": "@akt5868",
+    "name": "AKT秋田テレビ（公式）",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "UC9vjLpH4MYgIUTyQT6SnSQQ",
+    "handle": "@WestYellowstoneVIC",
+    "name": "DestinationYellowstone",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "UCArs3YQib0gUuv5SVrjjtCQ",
+    "handle": "@NamibiaWild",
+    "name": "Namibia LiveStream | Discover Namibia",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "UCCEo1hxcfQe7p-odS5pEZxg",
+    "handle": "@wlgwetaworker",
+    "name": "John Young",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "UCDPUOq2ADKZwRleMUImX-Ww",
+    "handle": "@WeatherEvents",
+    "name": "WeatherEvents",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "UCef_Yfk6baScsTCcDxzXE5Q",
+    "handle": "@Reef-SA",
+    "name": "REEF SOUTH AFRICA",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "UCiN7OwV8g8dMm_E0xphBVig",
+    "handle": "@astroasahi",
+    "name": "Asahi Astro LIVE　朝日新聞宇宙部",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "UCjzJrnsM3Ar0DMmJhpNMiaw",
+    "handle": "@shantikunjvideo",
+    "name": "Shantikunjvideo Gayatri Pariwar",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "UClqd_NklmF4AnW4MYiCeSEg",
+    "handle": "@HotelUnionGeiranger",
+    "name": "Hotel Union Geiranger",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "UCP9iUsMyLRKbxhGAEDChbCA",
+    "handle": "@meteomontedarena",
+    "name": "Meteo Montedarena",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "UCQ67X9KtVFMo2h1a1AMGZZQ",
+    "handle": "@EinbeckerMorgenpostDe1810",
+    "name": "Einbecker Morgenpost",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "UCxH53rESkUj4g4A5P6sVkPg",
+    "handle": "@mestonovybor",
+    "name": "Město Nový Bor",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "UCyCEeUC3SHdsMP_3bLaYv4w",
+    "handle": "@surfsidebeachoceanfronthot4707",
+    "name": "Surfside Beach Oceanfront Hotel",
+    "date": "2026-11-18"
+  },
+  {
+    "id": "UCYIDC8uaWwWoYTgrSWP-_GA",
+    "handle": "@SatelliteBeachLive",
+    "name": "SatelliteBeachLive",
+    "date": "2026-11-18"
   }
 ]
