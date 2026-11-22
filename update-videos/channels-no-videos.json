@@ -120,12 +120,6 @@
     "date": "2026-07-09"
   },
   {
-    "id": "UCEuJE0FEa-cTwGdyTwL7gEA",
-    "handle": "@jordanriverbaptismyardenit2223",
-    "name": "Jordan River Baptism | Yardenit | Jardenit",
-    "date": "2026-07-13"
-  },
-  {
     "id": "UCgSfKSkVb9izyct6Ima8P3A",
     "handle": "@deanmitchell9010",
     "name": "Dean Mitchell",
@@ -396,12 +390,6 @@
     "date": "2026-11-09"
   },
   {
-    "id": "UCg2SeSF9iIsLdc84jXl_bTg",
-    "handle": "@cubapolak",
-    "name": "CubaLibre",
-    "date": "2026-11-10"
-  },
-  {
     "id": "UC2TVrVzOCC2xxphLm_03U2A",
     "handle": "@zoodecin5198",
     "name": "Zoo Děčín",
@@ -415,8 +403,8 @@
   },
   {
     "id": "UCOjscjEL-lGZVP-2uooEuCA",
-    "handle": "@libraryvideos",
-    "name": "East Hampton Library",
+    "handle": "",
+    "name": "",
     "date": "2026-11-16"
   },
   {
@@ -444,18 +432,6 @@
     "date": "2026-11-18"
   },
   {
-    "id": "UC7WAqB7dyv1t8jKunD-8krA",
-    "handle": "@L.A.FLIGHTS",
-    "name": "L.A FLIGHTS",
-    "date": "2026-11-19"
-  },
-  {
-    "id": "UCLTYXg2LkraaBZyd431pF7g",
-    "handle": "@bonnyhillsbeachhouse",
-    "name": "Bonny Hills Beach House",
-    "date": "2026-11-19"
-  },
-  {
     "id": "UCPSR2Sz1xSlh3vVeCUWeUDg",
     "handle": "@evanstonbeach1885",
     "name": "Evanston Beach",
@@ -474,22 +450,10 @@
     "date": "2026-11-20"
   },
   {
-    "id": "UCJLjpq7pTJRbP3vtx0LxB9Q",
-    "handle": "@taipeitravelofficial",
-    "name": "LIVE Taipei | Taipei City Official Live Camera",
-    "date": "2026-11-20"
-  },
-  {
     "id": "UClSdxxEoPbpZHrujhfQcdow",
     "handle": "@castrostreetcam2549",
     "name": "Castro Street Cam 2",
     "date": "2026-11-20"
-  },
-  {
-    "id": "UC_h7GXlackTPlIaxMASI2_g",
-    "handle": "@SpiritOfPella",
-    "name": "Spirit Of Pella",
-    "date": "2026-11-21"
   },
   {
     "id": "UC4Wd3aS1XKA39dCveZExSkg",
@@ -516,57 +480,69 @@
     "date": "2026-11-21"
   },
   {
-    "id": "UCjpE7UdNq6oK5mOBKGjpjgA",
-    "handle": "@woodlandscam",
-    "name": "Woodlands Cam",
-    "date": "2026-11-21"
+    "id": "UC-jBJkLN89AlQp6eeCNnnWg",
+    "handle": "@RyukyushimpoJp",
+    "name": "琉球新報",
+    "date": "2026-11-22"
   },
   {
-    "id": "UCn7285bO_vEziJ9brPtkFMA",
-    "handle": "@wcax-tvchannel3news",
-    "name": "WCAX Channel 3 News",
-    "date": "2026-11-21"
+    "id": "UC8qCc7sF9hSjP-U0TiaO5Tw",
+    "handle": "@CliffHouseLive",
+    "name": "Cliff House Live",
+    "date": "2026-11-22"
   },
   {
-    "id": "UCNtk27lhMLvrwXc2n-rRgUg",
-    "handle": "@SPRTrafficCameras",
-    "name": "City of Springboro Live Traffic",
-    "date": "2026-11-21"
+    "id": "UCD12HC-FqOwAEzEi0cKxYZQ",
+    "handle": "@rutafiscalpnpuentesinterna6719",
+    "name": "Ruta Fiscal PN Puentes internacionales I y II",
+    "date": "2026-11-22"
   },
   {
-    "id": "UCRiY_FP2PZHeWWuIsMKyxGA",
-    "handle": "@lesarcs",
-    "name": "Les Arcs",
-    "date": "2026-11-21"
+    "id": "UCdr9cCd_WQPlLCAUjNaoACg",
+    "handle": "@LVsphere",
+    "name": "LV Strip Cam",
+    "date": "2026-11-22"
   },
   {
-    "id": "UCS1L1W8fD5AhyVsBFbELCfA",
-    "handle": "@Pier7Vlissingen",
-    "name": "Pier 7",
-    "date": "2026-11-21"
+    "id": "UCE5uxiZBrhwFPwzlSfmdWQA",
+    "handle": "@RailwayLiveCamera",
+    "name": "Tokyo Akabane Live Camera",
+    "date": "2026-11-22"
   },
   {
-    "id": "UCsDU8TKp0yzyVggxWlLQlDQ",
-    "handle": "@cityofreno-greaternevadafi8847",
-    "name": "City of Reno - Greater Nevada Field Camera",
-    "date": "2026-11-21"
+    "id": "UCgHSWWpejV6K7hz6Q08fJpQ",
+    "handle": "@stream-mestokromeriz3593",
+    "name": "WEB_Stream - Město Kroměříž",
+    "date": "2026-11-22"
   },
   {
-    "id": "UCT-PZ211r3_9mFdF0zC1HHg",
-    "handle": "@kachimai",
-    "name": "十勝毎日新聞",
-    "date": "2026-11-21"
+    "id": "UCgWmWt_zIBk-X4sCk8fgANA",
+    "handle": "@MKElivecam",
+    "name": "MKElivecam",
+    "date": "2026-11-22"
   },
   {
-    "id": "UCtUyw9nTFtCCg-RPA4c8cDg",
-    "handle": "@GoWhistler",
-    "name": "GoWhistler",
-    "date": "2026-11-21"
+    "id": "UCkEiJMkX7n3rZpZ2PDVc3Ow",
+    "handle": "@KominfoGunungkidul",
+    "name": "Kominfo Gunungkidul",
+    "date": "2026-11-22"
   },
   {
-    "id": "UCUpFHGasL2cNAo2w70vwrSQ",
-    "handle": "@SiestaCam",
-    "name": "Siesta Cam",
-    "date": "2026-11-21"
+    "id": "UCo9Ppp8AjdfXqocqcNI_krA",
+    "handle": "@livearvidsjaur4981",
+    "name": "Live Arvidsjaur",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "UCoA1QcioL4aGra1fPQ6wlGg",
+    "handle": "@CityofBiloxi",
+    "name": "City of Biloxi",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "UCu1Dd875bgWL61e6sJ7HMbg",
+    "handle": "@visitlaramiewy",
+    "name": "Visit Laramie",
+    "date": "2026-11-22"
   }
 ]
